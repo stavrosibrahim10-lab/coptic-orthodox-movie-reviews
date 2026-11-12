@@ -1,0 +1,2008 @@
+[
+  {
+    "id": "batch1-1998-the-prince-of-egypt",
+    "title": "The Prince of Egypt",
+    "year": 1998,
+    "genre": "Animation · Biblical",
+    "runtime": "",
+    "officialRating": "PG",
+    "synopsis": "An animated retelling of Moses’ life, from his upbringing in Pharaoh’s household to the Exodus.",
+    "verdict": "edifying",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: The story foregrounds God’s call, solidarity with oppressed people, costly obedience, and deliverance. It is edifying, although a dramatized biblical adaptation should be checked against Exodus rather than treated as Scripture itself.",
+    "age": "10+",
+    "ageRationale": "Portrayals of slavery, abuse, the deaths of children, and frightening plagues call for mature discussion.",
+    "themes": [
+      {
+        "name": "Faith and trust in God",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "Moses responds to a divine summons to confront Pharaoh."
+      },
+      {
+        "name": "Courage and hope",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "Moses risks his privileged position to seek freedom for his people."
+      },
+      {
+        "name": "Compassion and service",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "The enslavement of the Hebrews is depicted as a grave injustice."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": 3,
+        "portrayal": "condemned",
+        "evidence": "Hebrew slaves are beaten and infant killings are represented."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Slavery and brutality",
+        "severity": "Moderate",
+        "details": "Enslaved people are whipped, struck, and mistreated."
+      },
+      {
+        "name": "Infant deaths and plagues",
+        "severity": "Strong",
+        "details": "The story includes the killing of children and frightening biblical plagues."
+      }
+    ],
+    "reflection": "Moses’ concern for those who suffer offers a way to discuss obedience to God and the spiritual meaning of freedom. Compare the film’s details with the biblical book, including what was invented for dramatic effect.",
+    "scripture": [
+      "Exodus 3:7–12",
+      "Exodus 12:31–42"
+    ],
+    "questions": [
+      "What does Moses surrender by answering God’s call?",
+      "Where does the movie differ from Exodus, and why does that matter?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — parental content guide",
+        "url": "https://www.commonsensemedia.org/movie-reviews/the-prince-of-egypt",
+        "notes": "The source supports factual content context. Theme scores, age guidance, and spiritual verdicts are independent provisional Coptic Orthodox assessments."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": true,
+    "posterClass": "p1",
+    "reviewBatch": "Batch 1 — Classic Family Favorites",
+    "editorialConfidence": "provisional-source-informed"
+  },
+  {
+    "id": "batch1-1994-the-lion-king",
+    "title": "The Lion King",
+    "year": 1994,
+    "genre": "Animation · Adventure",
+    "runtime": "",
+    "officialRating": "G",
+    "synopsis": "A young lion flees his responsibilities after his father’s death and eventually faces the truth about his family and kingdom.",
+    "verdict": "edifying",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: The film strongly commends responsible leadership, courage, and returning to duties one has tried to escape. Its emphasis on guilt and identity invites discussion, but some ancestor-spirit imagery is fictional storytelling rather than Christian doctrine.",
+    "age": "7+",
+    "ageRationale": "A parental death, predatory threats, and intense animal confrontations may distress younger viewers.",
+    "themes": [
+      {
+        "name": "Family and responsibility",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "Simba eventually chooses duty over avoidance."
+      },
+      {
+        "name": "Courage and hope",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "He returns to confront the destruction of the Pride Lands."
+      },
+      {
+        "name": "Truthfulness and integrity",
+        "type": "positive",
+        "score": 3,
+        "portrayal": "affirmed",
+        "evidence": "The deception behind Mufasa’s death is uncovered."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": 3,
+        "portrayal": "condemned",
+        "evidence": "A deadly stampede, sinister hyenas, and animal fights are central to the conflict."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Death and grief",
+        "severity": "Strong",
+        "details": "Mufasa dies during a stampede; Simba experiences intense sorrow."
+      },
+      {
+        "name": "Threat and animal violence",
+        "severity": "Moderate",
+        "details": "Hyenas threaten cubs and lions fight; mild insults occur."
+      }
+    ],
+    "reflection": "Responsibility is not the absence of fear. The Christian call to repentance involves turning from avoidance and accepting the tasks entrusted to us.",
+    "scripture": [
+      "Luke 15:17–24",
+      "Galatians 6:5"
+    ],
+    "questions": [
+      "What prevents Simba from returning sooner?",
+      "How can we tell the difference between guilt that paralyzes and repentance that changes us?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — parental content guide",
+        "url": "https://www.commonsensemedia.org/movie-reviews/the-lion-king-1994",
+        "notes": "The source supports factual content context. Theme scores, age guidance, and spiritual verdicts are independent provisional Coptic Orthodox assessments."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": true,
+    "posterClass": "p2",
+    "reviewBatch": "Batch 1 — Classic Family Favorites",
+    "editorialConfidence": "provisional-source-informed"
+  },
+  {
+    "id": "batch1-2003-finding-nemo",
+    "title": "Finding Nemo",
+    "year": 2003,
+    "genre": "Animation · Family",
+    "runtime": "",
+    "officialRating": "G",
+    "synopsis": "A protective clownfish travels across the ocean to rescue his son, learning about trust and courage along the way.",
+    "verdict": "edifying",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: The film prizes parental love, perseverance, friendship, and respect for the dignity of a child with a disability. It also shows that care for children must grow with their maturity rather than become control.",
+    "age": "7+",
+    "ageRationale": "A frightening opening loss and repeated encounters with predators could unsettle young children.",
+    "themes": [
+      {
+        "name": "Family and responsibility",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "Marlin searches tirelessly for his missing son."
+      },
+      {
+        "name": "Love and self-sacrifice",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "Marlin repeatedly risks himself to bring Nemo home."
+      },
+      {
+        "name": "Courage and hope",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Nemo and his father persist through danger."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": 2,
+        "portrayal": "descriptive",
+        "evidence": "Predators, sharp-toothed creatures, and ocean hazards threaten the fish."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Parental loss",
+        "severity": "Moderate",
+        "details": "A predator kills Nemo’s mother and most of the eggs in the opening."
+      },
+      {
+        "name": "Ocean peril",
+        "severity": "Moderate",
+        "details": "Sharks, jellyfish, and other creatures create frightening sequences."
+      }
+    ],
+    "reflection": "Parental love is a gift, yet it is meant to help a child mature. Families can discuss protective responsibility alongside the humility to trust others.",
+    "scripture": [
+      "1 Corinthians 13:4–7",
+      "Ephesians 6:4"
+    ],
+    "questions": [
+      "When is Marlin’s fear understandable, and when does it become limiting?",
+      "How does Nemo show courage without pretending danger is absent?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — parental content guide",
+        "url": "https://www.commonsensemedia.org/movie-reviews/finding-nemo",
+        "notes": "The source supports factual content context. Theme scores, age guidance, and spiritual verdicts are independent provisional Coptic Orthodox assessments."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": true,
+    "posterClass": "p3",
+    "reviewBatch": "Batch 1 — Classic Family Favorites",
+    "editorialConfidence": "provisional-source-informed"
+  },
+  {
+    "id": "batch1-1995-toy-story",
+    "title": "Toy Story",
+    "year": 1995,
+    "genre": "Animation · Comedy",
+    "runtime": "",
+    "officialRating": "G",
+    "synopsis": "A cowboy doll fears being replaced by a new space-ranger toy but learns loyalty and friendship through shared danger.",
+    "verdict": "edifying",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: Jealousy gives way to humility, cooperation, and care for someone previously viewed as a rival. The movie offers a concrete picture of how friendship requires overcoming pride.",
+    "age": "7+",
+    "ageRationale": "A child who destroys toys and some threatening dog sequences may frighten sensitive viewers.",
+    "themes": [
+      {
+        "name": "Humility and repentance",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Woody must confront his jealousy toward Buzz."
+      },
+      {
+        "name": "Forgiveness and reconciliation",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "The rival toys learn to help one another."
+      },
+      {
+        "name": "Family and responsibility",
+        "type": "positive",
+        "score": 3,
+        "portrayal": "affirmed",
+        "evidence": "The toys’ concern for their child motivates their actions."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": 2,
+        "portrayal": "condemned",
+        "evidence": "Sid mutilates toys and toys endure tense chases."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Scary toy imagery",
+        "severity": "Moderate",
+        "details": "Sid’s altered toys, threatening dog, and rockets may worry children."
+      },
+      {
+        "name": "Insults and rough behavior",
+        "severity": "Mild",
+        "details": "Occasional name-calling and comic fighting appear."
+      }
+    ],
+    "reflection": "Envy can transform a companion into a rival. Woody’s growth invites conversation about rejoicing in others’ gifts instead of treating them as threats.",
+    "scripture": [
+      "James 3:16",
+      "Philippians 2:3–4"
+    ],
+    "questions": [
+      "What makes Woody jealous?",
+      "What changes when Woody begins to care about Buzz?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — parental content guide",
+        "url": "https://www.commonsensemedia.org/movie-reviews/toy-story",
+        "notes": "The source supports factual content context. Theme scores, age guidance, and spiritual verdicts are independent provisional Coptic Orthodox assessments."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": true,
+    "posterClass": "p4",
+    "reviewBatch": "Batch 1 — Classic Family Favorites",
+    "editorialConfidence": "provisional-source-informed"
+  },
+  {
+    "id": "batch1-2010-toy-story-3",
+    "title": "Toy Story 3",
+    "year": 2010,
+    "genre": "Animation · Adventure",
+    "runtime": "",
+    "officialRating": "G",
+    "synopsis": "As Andy grows up, the toys encounter a seemingly welcoming daycare and face difficult decisions about loyalty and belonging.",
+    "verdict": "edifying",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: Loyalty, teamwork, forgiveness, and sacrificial friendship remain central. The story resists bitterness and shows that love can endure significant transitions.",
+    "age": "10+",
+    "ageRationale": "Sustained peril, bullying by toys, and an intense incinerator sequence justify an older recommended age.",
+    "themes": [
+      {
+        "name": "Love and self-sacrifice",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "The friends remain together during severe danger."
+      },
+      {
+        "name": "Courage and hope",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "The toys cooperate to escape oppression and peril."
+      },
+      {
+        "name": "Forgiveness and reconciliation",
+        "type": "positive",
+        "score": 3,
+        "portrayal": "affirmed",
+        "evidence": "Characters are invited to move beyond resentment."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": 3,
+        "portrayal": "condemned",
+        "evidence": "A cruel daycare hierarchy and the incinerator sequence create sustained threat."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Intense peril",
+        "severity": "Strong",
+        "details": "A prolonged junkyard/incinerator sequence suggests the toys may die."
+      },
+      {
+        "name": "Bullying and confinement",
+        "severity": "Moderate",
+        "details": "Antagonistic toys imprison, intimidate, and mistreat others."
+      }
+    ],
+    "reflection": "The story is an invitation to think about faithful friendship during life transitions and the freedom that comes from refusing to let fear dictate our conduct.",
+    "scripture": [
+      "John 15:13",
+      "Romans 12:10"
+    ],
+    "questions": [
+      "What does loyalty look like when circumstances change?",
+      "How do the characters respond differently to being abandoned?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — parental content guide",
+        "url": "https://www.commonsensemedia.org/movie-reviews/toy-story-3",
+        "notes": "The source supports factual content context. Theme scores, age guidance, and spiritual verdicts are independent provisional Coptic Orthodox assessments."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": true,
+    "posterClass": "p5",
+    "reviewBatch": "Batch 1 — Classic Family Favorites",
+    "editorialConfidence": "provisional-source-informed"
+  },
+  {
+    "id": "batch1-2019-frozen-ii",
+    "title": "Frozen II",
+    "year": 2019,
+    "genre": "Animation · Fantasy",
+    "runtime": "",
+    "officialRating": "PG",
+    "synopsis": "Anna and Elsa investigate a mysterious past while their kingdom faces threats connected to an enchanted forest.",
+    "verdict": "neutral",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: Love between sisters, perseverance, and setting right previous wrongs are constructive. The central explanation for events, however, uses elemental spirits and enchanted powers that belong to the film’s fantasy mythology, not Orthodox spiritual teaching.",
+    "age": "10+",
+    "ageRationale": "Elemental attacks, peril, bereavement, and frightening giants can be intense.",
+    "themes": [
+      {
+        "name": "Love and self-sacrifice",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "The sisters act to protect one another and their community."
+      },
+      {
+        "name": "Courage and hope",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Anna perseveres through grief and uncertainty."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": 3,
+        "portrayal": "descriptive",
+        "evidence": "Elemental spirits and magical powers shape the fantasy cosmology."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": 2,
+        "portrayal": "descriptive",
+        "evidence": "Giants, battles, waves, and threats to a kingdom create danger."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Fantasy spiritual system",
+        "severity": "Moderate",
+        "details": "Elemental spirits, enchanted powers, and supernatural guardians are key plot devices."
+      },
+      {
+        "name": "Threat and grief",
+        "severity": "Moderate",
+        "details": "Battles, near-deaths, parental loss, and intense peril."
+      }
+    ],
+    "reflection": "Parents can affirm the virtues of perseverance and responsibility while explaining why fictional spirit-world explanations should not be confused with the Christian understanding of God, creation, and prayer.",
+    "scripture": [
+      "James 1:12",
+      "1 John 4:1"
+    ],
+    "questions": [
+      "How do the sisters respond to uncertainty?",
+      "Which spiritual ideas in the story are fictional rather than Christian teaching?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — parental content guide",
+        "url": "https://www.commonsensemedia.org/movie-reviews/frozen-2",
+        "notes": "The source supports factual content context. Theme scores, age guidance, and spiritual verdicts are independent provisional Coptic Orthodox assessments."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": false,
+    "posterClass": "p6",
+    "reviewBatch": "Batch 1 — Classic Family Favorites",
+    "editorialConfidence": "provisional-source-informed"
+  },
+  {
+    "id": "batch1-2021-encanto",
+    "title": "Encanto",
+    "year": 2021,
+    "genre": "Animation · Family",
+    "runtime": "",
+    "officialRating": "PG",
+    "synopsis": "In a family gifted with extraordinary powers, a daughter without a special ability tries to hold her relatives together.",
+    "verdict": "edifying",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: The movie critiques achievement-based worth and discovers the value of reconciliation, honesty, and love within families. Its enchanted-house premise is fantasy rather than a claim about spiritual reality.",
+    "age": "7+",
+    "ageRationale": "Tense family confrontations, frightening flashbacks, and danger during a collapsing house may upset younger children.",
+    "themes": [
+      {
+        "name": "Family and responsibility",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "The narrative centers on healing strained family bonds."
+      },
+      {
+        "name": "Forgiveness and reconciliation",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "Family members acknowledge wounds and seek restoration."
+      },
+      {
+        "name": "Humility and repentance",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Relatives must reconsider how they have judged one another."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": 2,
+        "portrayal": "descriptive",
+        "evidence": "Miraculous family gifts and a magical house are fictional plot conventions."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Family pressure and distress",
+        "severity": "Moderate",
+        "details": "Characters fear disappointment, rejection, and the loss of the family home."
+      },
+      {
+        "name": "Fantasy magic and peril",
+        "severity": "Mild",
+        "details": "Enchanted powers and tense physical danger shape the plot."
+      }
+    ],
+    "reflection": "The Christian understanding of personal worth does not depend on talents, accomplishments, or family prestige. The story offers a helpful conversation about love that makes room for weakness.",
+    "scripture": [
+      "1 Corinthians 12:22–26",
+      "Ephesians 4:32"
+    ],
+    "questions": [
+      "Why does Mirabel feel overlooked?",
+      "How can family members express love without measuring one another by achievement?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — parental content guide",
+        "url": "https://www.commonsensemedia.org/movie-reviews/encanto",
+        "notes": "The source supports factual content context. Theme scores, age guidance, and spiritual verdicts are independent provisional Coptic Orthodox assessments."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": true,
+    "posterClass": "p1",
+    "reviewBatch": "Batch 1 — Classic Family Favorites",
+    "editorialConfidence": "provisional-source-informed"
+  },
+  {
+    "id": "batch1-2017-coco",
+    "title": "Coco",
+    "year": 2017,
+    "genre": "Animation · Family",
+    "runtime": "",
+    "officialRating": "PG",
+    "synopsis": "A young musician enters a fantastical realm of the dead while investigating his family history.",
+    "verdict": "neutral",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: Family fidelity, honoring elders, truth, and remembering loved ones are meaningful strengths. However, the story’s imaginative afterlife and encounters with deceased ancestors do not represent Orthodox teaching about death, the soul, or prayer for the departed.",
+    "age": "10+",
+    "ageRationale": "Skeleton imagery, threats of spiritual disappearance, poisoning, and bereavement can be emotionally intense.",
+    "themes": [
+      {
+        "name": "Family and responsibility",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "Miguel comes to value family relationships and memory."
+      },
+      {
+        "name": "Truthfulness and integrity",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "A hidden betrayal is eventually exposed."
+      },
+      {
+        "name": "Love and self-sacrifice",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "The resolution honors care for older family members."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": 4,
+        "portrayal": "descriptive",
+        "evidence": "The Land of the Dead and communication with ancestors dominate the plot."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": 2,
+        "portrayal": "condemned",
+        "evidence": "A character is poisoned and there are perilous confrontations."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Non-Christian afterlife imagery",
+        "severity": "Strong",
+        "details": "Deceased relatives, spirit guides, and rules for the world of the dead are central."
+      },
+      {
+        "name": "Death and frightening imagery",
+        "severity": "Moderate",
+        "details": "Skeletons, threats of fading away, and a poisoning revelation may disturb children."
+      }
+    ],
+    "reflection": "It is good to honor our departed loved ones and remember them in prayer. Families should clearly distinguish this imaginative folk-cosmology from the Orthodox understanding of the resurrection and departed souls.",
+    "scripture": [
+      "John 11:25–26",
+      "1 Thessalonians 4:13–14"
+    ],
+    "questions": [
+      "What does the story get right about family remembrance?",
+      "How does the Christian hope of resurrection differ from the movie’s invented afterlife?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — parental content guide",
+        "url": "https://www.commonsensemedia.org/movie-reviews/coco",
+        "notes": "The source supports factual content context. Theme scores, age guidance, and spiritual verdicts are independent provisional Coptic Orthodox assessments."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": false,
+    "posterClass": "p2",
+    "reviewBatch": "Batch 1 — Classic Family Favorites",
+    "editorialConfidence": "provisional-source-informed"
+  },
+  {
+    "id": "batch1-2015-inside-out",
+    "title": "Inside Out",
+    "year": 2015,
+    "genre": "Animation · Family",
+    "runtime": "",
+    "officialRating": "PG",
+    "synopsis": "Personified emotions help a young girl navigate a move, loneliness, and family change.",
+    "verdict": "edifying",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: The film encourages honesty, empathy, compassion, and the recognition that sadness can help people ask for care. Its portrayal of inner life is a useful metaphor, not a complete Christian anthropology.",
+    "age": "7+",
+    "ageRationale": "Emotional distress, several frightening scenes, and the loss of an imaginary friend may upset young viewers.",
+    "themes": [
+      {
+        "name": "Truthfulness and integrity",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Riley’s healing involves acknowledging how she truly feels."
+      },
+      {
+        "name": "Family and responsibility",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Communication reconnects her with her parents."
+      },
+      {
+        "name": "Compassion and service",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Empathy grows when sadness is heard rather than suppressed."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": 1,
+        "portrayal": "descriptive",
+        "evidence": "Adventure peril and scary fantasy images punctuate the mind-world story."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sadness and emotional distress",
+        "severity": "Moderate",
+        "details": "The film depicts isolation, family conflict, and upsetting imagined loss."
+      },
+      {
+        "name": "Fantasy peril",
+        "severity": "Mild",
+        "details": "Emotions encounter frightening chases and dark imagined spaces."
+      }
+    ],
+    "reflection": "Our emotional life is part of the human person, not an enemy of faith. The film offers a starting point for talking about honest feelings alongside prayer, reason, and loving communication.",
+    "scripture": [
+      "Psalm 42:11",
+      "Romans 12:15"
+    ],
+    "questions": [
+      "Why does listening to sadness help Riley?",
+      "How can we pray honestly when we feel overwhelmed?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — parental content guide",
+        "url": "https://www.commonsensemedia.org/movie-reviews/inside-out",
+        "notes": "The source supports factual content context. Theme scores, age guidance, and spiritual verdicts are independent provisional Coptic Orthodox assessments."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": true,
+    "posterClass": "p3",
+    "reviewBatch": "Batch 1 — Classic Family Favorites",
+    "editorialConfidence": "provisional-source-informed"
+  },
+  {
+    "id": "batch1-2016-zootopia",
+    "title": "Zootopia",
+    "year": 2016,
+    "genre": "Animation · Adventure",
+    "runtime": "",
+    "officialRating": "PG",
+    "synopsis": "An idealistic rabbit police officer and a cynical fox investigate a mystery in a city divided by stereotypes.",
+    "verdict": "edifying",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: The film condemns prejudice and encourages courage, repentance, friendship, and seeing each person fairly. These are strong moral themes, though some adult humor and crime-story peril require discretion.",
+    "age": "10+",
+    "ageRationale": "Intense predator attacks, kidnapping, threatened torture, and chase sequences may frighten younger children.",
+    "themes": [
+      {
+        "name": "Truthfulness and integrity",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "The investigation exposes deception and unfair assumptions."
+      },
+      {
+        "name": "Forgiveness and reconciliation",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Central characters reassess harmful stereotypes and repair trust."
+      },
+      {
+        "name": "Courage and hope",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Judy perseveres despite discouragement."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": 3,
+        "portrayal": "condemned",
+        "evidence": "Predator attacks, threats, chases, and intimidation are part of the mystery."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Scary predator attacks",
+        "severity": "Moderate",
+        "details": "Several predators become threatening; characters experience jump scares and peril."
+      },
+      {
+        "name": "Crime and intimidation",
+        "severity": "Moderate",
+        "details": "Mob imagery, kidnapping, and threats of violence occur."
+      }
+    ],
+    "reflection": "Christians are called to judge with justice rather than appearances. The story provides an accessible way to talk about repentance when we discover prejudice in ourselves.",
+    "scripture": [
+      "James 2:1–4",
+      "John 7:24"
+    ],
+    "questions": [
+      "How do stereotypes injure friendships?",
+      "What does genuine repentance look like when someone has judged unfairly?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — parental content guide",
+        "url": "https://www.commonsensemedia.org/movie-reviews/zootopia",
+        "notes": "The source supports factual content context. Theme scores, age guidance, and spiritual verdicts are independent provisional Coptic Orthodox assessments."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": true,
+    "posterClass": "p4",
+    "reviewBatch": "Batch 1 — Classic Family Favorites",
+    "editorialConfidence": "provisional-source-informed"
+  },
+  {
+    "id": "batch1-2016-moana",
+    "title": "Moana",
+    "year": 2016,
+    "genre": "Animation · Adventure",
+    "runtime": "",
+    "officialRating": "PG",
+    "synopsis": "A young island leader sails beyond familiar waters to restore her community’s wellbeing in a mythological adventure.",
+    "verdict": "neutral",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: Her commitment to serving her people, courage, and perseverance are praiseworthy. The film’s demigod, spirit-guide, and creation-myth elements belong to a non-Christian mythic worldview and should not be confused with Christian teaching.",
+    "age": "10+",
+    "ageRationale": "Monsters, ocean storms, death of an elder, and recurring supernatural threats can be intense.",
+    "themes": [
+      {
+        "name": "Courage and hope",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "Moana undertakes repeated risks to help her people."
+      },
+      {
+        "name": "Family and responsibility",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Protecting the island community motivates her quest."
+      },
+      {
+        "name": "Humility and repentance",
+        "type": "positive",
+        "score": 3,
+        "portrayal": "affirmed",
+        "evidence": "Maui learns to move beyond his boastful self-concern."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": 4,
+        "portrayal": "descriptive",
+        "evidence": "A demigod, nature spirits, and an ancestral spirit guide are central to the mythology."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": 2,
+        "portrayal": "descriptive",
+        "evidence": "Storms, a lava creature, and other monsters threaten the heroes."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Mythological spirituality",
+        "severity": "Strong",
+        "details": "The story features a demigod, ancestral guiding spirit, and supernatural powers."
+      },
+      {
+        "name": "Scary monsters and peril",
+        "severity": "Moderate",
+        "details": "Giant monsters, pirates, and dangerous ocean sequences recur."
+      }
+    ],
+    "reflection": "It is possible to admire courage and service while recognizing that a fictional mythological account of divine action differs from faith in the one God revealed in Christ.",
+    "scripture": [
+      "Joshua 1:9",
+      "1 John 4:1"
+    ],
+    "questions": [
+      "What motivates Moana to help her neighbors?",
+      "What does the movie teach about spirits, and how is that different from Orthodoxy?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — parental content guide",
+        "url": "https://www.commonsensemedia.org/movie-reviews/moana",
+        "notes": "The source supports factual content context. Theme scores, age guidance, and spiritual verdicts are independent provisional Coptic Orthodox assessments."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": false,
+    "posterClass": "p5",
+    "reviewBatch": "Batch 1 — Classic Family Favorites",
+    "editorialConfidence": "provisional-source-informed"
+  },
+  {
+    "id": "batch1-2004-the-incredibles",
+    "title": "The Incredibles",
+    "year": 2004,
+    "genre": "Animation · Superhero",
+    "runtime": "",
+    "officialRating": "PG",
+    "synopsis": "A family of superheroes must overcome secrecy and disagreements to face a dangerous enemy together.",
+    "verdict": "edifying",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: Love, loyalty, self-sacrifice, and cooperation make the family the heart of the story. The film also exposes the danger of secretiveness and pride within a marriage and family.",
+    "age": "10+",
+    "ageRationale": "Extended action violence, guns, explosions, implied deaths, and a brief suicide-related incident warrant a careful age recommendation.",
+    "themes": [
+      {
+        "name": "Family and responsibility",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "Family members protect one another and learn to cooperate."
+      },
+      {
+        "name": "Love and self-sacrifice",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "The heroes repeatedly risk their safety to protect others."
+      },
+      {
+        "name": "Truthfulness and integrity",
+        "type": "positive",
+        "score": 3,
+        "portrayal": "mixed",
+        "evidence": "Secrecy strains the parents’ marriage before trust is restored."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": 4,
+        "portrayal": "condemned",
+        "evidence": "The plot includes repeated attacks, weapons, deaths, and torture threats."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Action violence",
+        "severity": "Strong",
+        "details": "Gunfire, explosions, deaths, and sustained battles occur."
+      },
+      {
+        "name": "Mature family and self-harm themes",
+        "severity": "Moderate",
+        "details": "A marital infidelity suspicion and a stopped suicide attempt are depicted or referenced."
+      }
+    ],
+    "reflection": "Power becomes morally valuable when it serves love. The family’s greatest strength is not exceptional ability but solidarity and responsibility for one another.",
+    "scripture": [
+      "1 Corinthians 12:25–26",
+      "Philippians 2:4"
+    ],
+    "questions": [
+      "When does secrecy harm family trust?",
+      "How is using strength for service different from seeking admiration?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — parental content guide",
+        "url": "https://www.commonsensemedia.org/movie-reviews/the-incredibles",
+        "notes": "The source supports factual content context. Theme scores, age guidance, and spiritual verdicts are independent provisional Coptic Orthodox assessments."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": true,
+    "posterClass": "p6",
+    "reviewBatch": "Batch 1 — Classic Family Favorites",
+    "editorialConfidence": "provisional-source-informed"
+  },
+  {
+    "id": "batch1-2010-tangled",
+    "title": "Tangled",
+    "year": 2010,
+    "genre": "Animation · Fairy Tale",
+    "runtime": "",
+    "officialRating": "PG",
+    "synopsis": "A young woman raised in isolation ventures beyond her tower and learns the truth about her controlling guardian.",
+    "verdict": "edifying",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: The story exposes manipulation and the misuse of affection as a form of control. It honors courage, honest love, and choosing truth over fear, although its magical healing premise is fantasy.",
+    "age": "10+",
+    "ageRationale": "Sustained danger, manipulative emotional abuse, stabbing, and a character’s death call for age caution.",
+    "themes": [
+      {
+        "name": "Courage and hope",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Rapunzel begins making responsible choices outside enforced isolation."
+      },
+      {
+        "name": "Truthfulness and integrity",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "She uncovers lies used to control her."
+      },
+      {
+        "name": "Love and self-sacrifice",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "The story’s resolution turns on love placed ahead of self-interest."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": 3,
+        "portrayal": "condemned",
+        "evidence": "A stabbing, swordplay, and threatening pursuit occur."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": 2,
+        "portrayal": "descriptive",
+        "evidence": "Magical hair and healing powers are fantasy devices."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Threat and injury",
+        "severity": "Moderate",
+        "details": "Knives, pursuit, apparent death, and frightening transformations appear."
+      },
+      {
+        "name": "Manipulation and emotional cruelty",
+        "severity": "Moderate",
+        "details": "Mother Gothel isolates and deceives Rapunzel to maintain control."
+      }
+    ],
+    "reflection": "Love does not require someone to remain imprisoned by another person’s selfishness. Families can discuss the difference between protective guidance and manipulative control.",
+    "scripture": [
+      "1 Corinthians 13:4–6",
+      "Ephesians 4:15"
+    ],
+    "questions": [
+      "How does Gothel twist the meaning of love?",
+      "Why is truth important even when it is frightening?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — parental content guide",
+        "url": "https://www.commonsensemedia.org/movie-reviews/tangled",
+        "notes": "The source supports factual content context. Theme scores, age guidance, and spiritual verdicts are independent provisional Coptic Orthodox assessments."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": true,
+    "posterClass": "p1",
+    "reviewBatch": "Batch 1 — Classic Family Favorites",
+    "editorialConfidence": "provisional-source-informed"
+  },
+  {
+    "id": "batch1-2008-wall-e",
+    "title": "WALL-E",
+    "year": 2008,
+    "genre": "Animation · Science Fiction",
+    "runtime": "",
+    "officialRating": "G",
+    "synopsis": "A solitary cleanup robot discovers a connection that challenges humanity’s passive and wasteful way of life.",
+    "verdict": "edifying",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: The film critiques unchecked consumption and distraction while celebrating care, persistence, service, and renewed attention to the world around us. Its environmental message offers an opening for Christian stewardship.",
+    "age": "7+",
+    "ageRationale": "Robot fighting, laser blasts, explosions, and mild peril may unsettle some children.",
+    "themes": [
+      {
+        "name": "Compassion and service",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "WALL-E consistently helps and protects others."
+      },
+      {
+        "name": "Love and self-sacrifice",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "The robot risks himself for EVE and others."
+      },
+      {
+        "name": "Greed and materialism",
+        "type": "harmful",
+        "score": 4,
+        "portrayal": "condemned",
+        "evidence": "Human society is shown as dominated by consumption and corporate convenience."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": 2,
+        "portrayal": "descriptive",
+        "evidence": "Robots clash; explosions and laser threats appear."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Robot action and peril",
+        "severity": "Mild",
+        "details": "Laser fire, explosions, and robot fights occur."
+      },
+      {
+        "name": "Materialism and screen dependence",
+        "severity": "Moderate",
+        "details": "The story depicts a society absorbed in consumption and electronic entertainment."
+      }
+    ],
+    "reflection": "Stewardship is not only about protecting material creation; it is also about refusing to allow comfort and possessions to replace relationships and gratitude.",
+    "scripture": [
+      "Genesis 2:15",
+      "Luke 12:15"
+    ],
+    "questions": [
+      "What happens when convenience replaces attention to other people?",
+      "How can our family practice grateful stewardship?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — parental content guide",
+        "url": "https://www.commonsensemedia.org/movie-reviews/wall-e",
+        "notes": "The source supports factual content context. Theme scores, age guidance, and spiritual verdicts are independent provisional Coptic Orthodox assessments."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": true,
+    "posterClass": "p2",
+    "reviewBatch": "Batch 1 — Classic Family Favorites",
+    "editorialConfidence": "provisional-source-informed"
+  },
+  {
+    "id": "batch1-1991-beauty-and-the-beast",
+    "title": "Beauty and the Beast",
+    "year": 1991,
+    "genre": "Animation · Fairy Tale",
+    "runtime": "",
+    "officialRating": "G",
+    "synopsis": "A young woman becomes involved in the life of an enchanted prince whose anger and pride have isolated him.",
+    "verdict": "neutral",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: The film explores kindness, self-sacrifice, and moral transformation, but the romantic development within a captivity-and-intimidation scenario deserves careful discussion. It should not be used to teach that abuse is cured by a partner’s love.",
+    "age": "10+",
+    "ageRationale": "Angry outbursts, wolf attacks, imprisonment, and weapon violence are notable concerns.",
+    "themes": [
+      {
+        "name": "Love and self-sacrifice",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Belle cares for others despite personal cost."
+      },
+      {
+        "name": "Humility and repentance",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "The Beast gradually confronts pride and learns care for others."
+      },
+      {
+        "name": "Pride and self-glorification",
+        "type": "harmful",
+        "score": 3,
+        "portrayal": "condemned",
+        "evidence": "Gaston’s vanity and the Beast’s early aggression create conflict."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": 3,
+        "portrayal": "mixed",
+        "evidence": "Imprisonment, wolf attacks, weapons, and threatening behavior appear."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Fear and aggression",
+        "severity": "Moderate",
+        "details": "The Beast has angry outbursts; wolves attack; the castle setting can be frightening."
+      },
+      {
+        "name": "Romance and coercive dynamics",
+        "severity": "Moderate",
+        "details": "The romance develops after captivity and requires careful discussion of healthy boundaries."
+      }
+    ],
+    "reflection": "Christian love is never the same as tolerating coercion. A useful family conversation can distinguish freely given forgiveness from pressure to remain in a harmful relationship.",
+    "scripture": [
+      "1 Corinthians 13:4–7",
+      "Colossians 3:19"
+    ],
+    "questions": [
+      "What must change before the Beast can love responsibly?",
+      "Why are forgiveness and boundaries both important?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — parental content guide",
+        "url": "https://www.commonsensemedia.org/movie-reviews/beauty-and-the-beast",
+        "notes": "The source supports factual content context. Theme scores, age guidance, and spiritual verdicts are independent provisional Coptic Orthodox assessments."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": false,
+    "posterClass": "p3",
+    "reviewBatch": "Batch 1 — Classic Family Favorites",
+    "editorialConfidence": "provisional-source-informed"
+  },
+  {
+    "id": "batch1-2005-the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe",
+    "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "year": 2005,
+    "genre": "Fantasy · Christian Allegory",
+    "runtime": "",
+    "officialRating": "PG",
+    "synopsis": "Four siblings enter a magical kingdom where a sacrificial lion confronts the power of an evil queen.",
+    "verdict": "edifying",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: The story’s Christian allegorical structure strongly emphasizes sacrifice, betrayal, forgiveness, and restoration. The powerful parallels to Christ are worth discussing without treating fictional details as biblical history.",
+    "age": "10+",
+    "ageRationale": "War imagery, frightening creatures, a sacrificial killing, and a large battle sequence may distress younger children.",
+    "themes": [
+      {
+        "name": "Love and self-sacrifice",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "Aslan accepts death to save a traitor."
+      },
+      {
+        "name": "Forgiveness and reconciliation",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "The story gives betrayal a path toward forgiveness."
+      },
+      {
+        "name": "Courage and hope",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "The children stand with others against tyranny."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": 2,
+        "portrayal": "descriptive",
+        "evidence": "A witch, spell, and magical world appear within a Christian allegory."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": 3,
+        "portrayal": "condemned",
+        "evidence": "The story depicts betrayal, torture, weapons, and a major battle."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Battle violence",
+        "severity": "Moderate",
+        "details": "Weapon combat, war peril, and a sacrificial death appear."
+      },
+      {
+        "name": "Witchcraft in fantasy",
+        "severity": "Moderate",
+        "details": "The White Witch uses hostile supernatural power; it is presented as evil."
+      }
+    ],
+    "reflection": "Aslan is a literary Christ-figure, not a substitute for Christ. Compare the allegory’s themes with the Lord’s self-giving love and victorious resurrection.",
+    "scripture": [
+      "John 15:13",
+      "1 Corinthians 15:20–22"
+    ],
+    "questions": [
+      "How does sacrificial love undo betrayal?",
+      "What are the limits of comparing a fictional figure with Christ?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — parental content guide",
+        "url": "https://www.commonsensemedia.org/movie-reviews/the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe",
+        "notes": "The source supports factual content context. Theme scores, age guidance, and spiritual verdicts are independent provisional Coptic Orthodox assessments."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": true,
+    "posterClass": "p4",
+    "reviewBatch": "Batch 1 — Classic Family Favorites",
+    "editorialConfidence": "provisional-source-informed"
+  },
+  {
+    "id": "batch1-2001-the-lord-of-the-rings-the-fellowship-of-the-ring",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "genre": "Fantasy · Adventure",
+    "runtime": "",
+    "officialRating": "PG-13",
+    "synopsis": "A humble hobbit joins a fellowship seeking to destroy a powerful ring that corrupts those who desire it.",
+    "verdict": "edifying",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: The narrative repeatedly places humility, fidelity, courage, and sacrifice against lust for dominion. Its fantasy magic is literary world-building, while the moral conflict provides rich Christian discussion.",
+    "age": "13+",
+    "ageRationale": "Sword battles, frightening creatures, repeated peril, deaths, and pipe-smoking make this better suited to older children and teenagers.",
+    "themes": [
+      {
+        "name": "Humility and repentance",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "The burden falls to a humble protagonist rather than a ruler seeking power."
+      },
+      {
+        "name": "Love and self-sacrifice",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "Members of the fellowship repeatedly protect one another at personal cost."
+      },
+      {
+        "name": "Courage and hope",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "The characters persist against overwhelming danger."
+      },
+      {
+        "name": "Greed and materialism",
+        "type": "harmful",
+        "score": 4,
+        "portrayal": "condemned",
+        "evidence": "The Ring reveals the temptation to possess and dominate."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": 4,
+        "portrayal": "condemned",
+        "evidence": "Sword fights, creature attacks, and deaths recur."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Fantasy violence and terror",
+        "severity": "Strong",
+        "details": "Intense combat, terrifying riders, and the deaths of characters appear."
+      },
+      {
+        "name": "Magic and pipe-smoking",
+        "severity": "Moderate",
+        "details": "Wizards and supernatural fantasy powers are present, and hobbits smoke pipes."
+      }
+    ],
+    "reflection": "Temptation often offers the illusion that power can achieve goodness through corrupt means. Frodo’s weakness and the fellowship’s fidelity invite reflection on humility and mutual aid.",
+    "scripture": [
+      "Mark 8:36",
+      "Galatians 6:2"
+    ],
+    "questions": [
+      "Why can the desire for power corrupt a good goal?",
+      "What does each companion give up to help the fellowship?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — parental content guide",
+        "url": "https://www.commonsensemedia.org/movie-reviews/the-lord-of-the-rings-the-fellowship-of-the-ring",
+        "notes": "The source supports factual content context. Theme scores, age guidance, and spiritual verdicts are independent provisional Coptic Orthodox assessments."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": true,
+    "posterClass": "p5",
+    "reviewBatch": "Batch 1 — Classic Family Favorites",
+    "editorialConfidence": "provisional-source-informed"
+  },
+  {
+    "id": "batch1-2001-harry-potter-and-the-sorcerer-s-stone",
+    "title": "Harry Potter and the Sorcerer’s Stone",
+    "year": 2001,
+    "genre": "Fantasy · Adventure",
+    "runtime": "",
+    "officialRating": "PG",
+    "synopsis": "An orphan discovers a hidden wizarding school and forms friendships while confronting a threat connected to his parents’ deaths.",
+    "verdict": "neutral",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: The story praises friendship, loyalty, courage, and resistance to cruelty. Yet the magical training and spells form the desirable center of its imaginative world; Orthodox parents may want to distinguish fantasy from real-world occult practices and religious teaching.",
+    "age": "10+",
+    "ageRationale": "An intimidating villain, fantasy monsters, remembered murder, and dark encounters could frighten younger children.",
+    "themes": [
+      {
+        "name": "Courage and hope",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Harry and friends face danger for others."
+      },
+      {
+        "name": "Love and self-sacrifice",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Friendship and protective love are presented as powerful goods."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": 4,
+        "portrayal": "mixed",
+        "evidence": "Spells, wands, wizard training, and magical conflict are central and often presented positively."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": 2,
+        "portrayal": "condemned",
+        "evidence": "Trolls, a three-headed dog, and the villain threaten children."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Wizardry-centered fantasy",
+        "severity": "Strong",
+        "details": "Magic lessons, spells, and supernatural conflicts drive the story."
+      },
+      {
+        "name": "Scary creatures and death themes",
+        "severity": "Moderate",
+        "details": "A frightening villain, peril, and a parental murder backstory appear."
+      }
+    ],
+    "reflection": "The appeal of the film’s friendship and bravery can be discussed separately from its fictional magical worldview. Parents should articulate that the Church’s rejection of occult practice is not a judgment on every fantasy device in literature.",
+    "scripture": [
+      "Proverbs 3:5–6",
+      "1 Thessalonians 5:21"
+    ],
+    "questions": [
+      "What makes the friends loyal?",
+      "What is the difference between fantasy stories and seeking supernatural power in real life?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — parental content guide",
+        "url": "https://www.commonsensemedia.org/movie-reviews/harry-potter-and-the-sorcerers-stone",
+        "notes": "The source supports factual content context. Theme scores, age guidance, and spiritual verdicts are independent provisional Coptic Orthodox assessments."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": false,
+    "posterClass": "p6",
+    "reviewBatch": "Batch 1 — Classic Family Favorites",
+    "editorialConfidence": "provisional-source-informed"
+  },
+  {
+    "id": "batch1-2022-puss-in-boots-the-last-wish",
+    "title": "Puss in Boots: The Last Wish",
+    "year": 2022,
+    "genre": "Animation · Fantasy",
+    "runtime": "",
+    "officialRating": "PG",
+    "synopsis": "A boastful adventurer frightened by mortality seeks a magical wish but discovers the worth of the life and relationships he already has.",
+    "verdict": "edifying",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: The arc moves decisively from pride and self-preservation toward gratitude, courage, and relational love. The personification of Death is a fantasy device, not a presentation of Christian teaching about death.",
+    "age": "10+",
+    "ageRationale": "Frightening pursuit by a wolf representing death, weapons, panic, and rude language warrant older-child guidance.",
+    "themes": [
+      {
+        "name": "Humility and repentance",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "Puss confronts his self-importance and changes priorities."
+      },
+      {
+        "name": "Love and self-sacrifice",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "He places companions ahead of personal fame and fear."
+      },
+      {
+        "name": "Courage and hope",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "He gradually faces mortality rather than escaping it."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": 3,
+        "portrayal": "condemned",
+        "evidence": "Sword fights, repeated threats, and a ruthless antagonist occur."
+      },
+      {
+        "name": "Profanity and blasphemy",
+        "type": "harmful",
+        "score": 2,
+        "portrayal": "descriptive",
+        "evidence": "Mild profanity and rude expressions occur."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Frightening Death figure",
+        "severity": "Strong",
+        "details": "A whistling wolf pursues Puss and threatens his last life."
+      },
+      {
+        "name": "Violence and rude language",
+        "severity": "Moderate",
+        "details": "Weapon fights, death jokes, insulting language, and brief drunkenness."
+      }
+    ],
+    "reflection": "Mortality reminds us that life is a gift and that worldly acclaim cannot substitute for love. The film’s change of heart provides a doorway to discussing the difference between fear and repentance.",
+    "scripture": [
+      "Psalm 90:12",
+      "Luke 12:15"
+    ],
+    "questions": [
+      "How does Puss’s definition of a good life change?",
+      "What matters more than fame when life is short?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — parental content guide",
+        "url": "https://www.commonsensemedia.org/movie-reviews/puss-in-boots-the-last-wish",
+        "notes": "The source supports factual content context. Theme scores, age guidance, and spiritual verdicts are independent provisional Coptic Orthodox assessments."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": true,
+    "posterClass": "p1",
+    "reviewBatch": "Batch 1 — Classic Family Favorites",
+    "editorialConfidence": "provisional-source-informed"
+  },
+  {
+    "id": "batch1-2022-turning-red",
+    "title": "Turning Red",
+    "year": 2022,
+    "genre": "Animation · Coming of Age",
+    "runtime": "",
+    "officialRating": "PG",
+    "synopsis": "A teenage girl navigates family expectations, puberty, friendship, and a fantastical transformation into a red panda.",
+    "verdict": "neutral",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: The story values communication and reconciliation, but mixes those strengths with lying, rebellion, and a family spiritual ritual portrayed positively. Orthodox families may see it as a conversation starter rather than a clearly edifying narrative.",
+    "age": "13+",
+    "ageRationale": "Puberty, suggestive humor, family conflict, spiritual ritual imagery, and a destructive transformation may be better for tweens/teens.",
+    "themes": [
+      {
+        "name": "Family and responsibility",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "mixed",
+        "evidence": "Family love is central, but obedience and honesty are strained."
+      },
+      {
+        "name": "Forgiveness and reconciliation",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Mother and daughter begin to understand one another."
+      },
+      {
+        "name": "Dishonesty and betrayal",
+        "type": "harmful",
+        "score": 3,
+        "portrayal": "mixed",
+        "evidence": "Mei repeatedly hides significant choices from her parents."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": 3,
+        "portrayal": "descriptive",
+        "evidence": "An ancestral supernatural transformation and family ritual drive the story."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": 2,
+        "portrayal": "descriptive",
+        "evidence": "Puberty and crush-related material, including suggestive humor, are discussed."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Puberty and suggestive humor",
+        "severity": "Moderate",
+        "details": "Periods, crushes, and body changes are part of the central premise."
+      },
+      {
+        "name": "Family conflict and mystical rituals",
+        "severity": "Moderate",
+        "details": "A tense mother-daughter relationship and ancestral ritual imagery occur."
+      }
+    ],
+    "reflection": "Growing up requires honest dialogue and a conscience formed by love. Parents can support healthy emotional growth without equating every act of independence or rebellion with maturity.",
+    "scripture": [
+      "Ephesians 4:25",
+      "Colossians 3:20–21"
+    ],
+    "questions": [
+      "When should Mei have spoken honestly with her parents?",
+      "How can parents guide growing independence without shame or control?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — parental content guide",
+        "url": "https://www.commonsensemedia.org/movie-reviews/turning-red",
+        "notes": "The source supports factual content context. Theme scores, age guidance, and spiritual verdicts are independent provisional Coptic Orthodox assessments."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": false,
+    "posterClass": "p2",
+    "reviewBatch": "Batch 1 — Classic Family Favorites",
+    "editorialConfidence": "provisional-source-informed"
+  },
+  {
+    "id": "batch1-2021-luca",
+    "title": "Luca",
+    "year": 2021,
+    "genre": "Animation · Family",
+    "runtime": "",
+    "officialRating": "PG",
+    "synopsis": "Two young sea creatures secretly explore life in an Italian seaside village, where friendship and trust are tested.",
+    "verdict": "edifying",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: The film encourages hospitality, loyalty, compassion toward outsiders, and courage. It presents deceit and parental disobedience as part of a larger coming-of-age conflict rather than as a virtue in itself.",
+    "age": "7+",
+    "ageRationale": "Chase scenes, bullying, and fear of being discovered may be intense for some younger viewers.",
+    "themes": [
+      {
+        "name": "Compassion and service",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Friends care for one another and resist prejudice."
+      },
+      {
+        "name": "Courage and hope",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Luca risks rejection to grow and help his friends."
+      },
+      {
+        "name": "Family and responsibility",
+        "type": "positive",
+        "score": 3,
+        "portrayal": "mixed",
+        "evidence": "Family conflict eventually gives way to understanding."
+      },
+      {
+        "name": "Dishonesty and betrayal",
+        "type": "harmful",
+        "score": 2,
+        "portrayal": "mixed",
+        "evidence": "The boys hide their identities and disobey parental instructions."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Bullying and threats",
+        "severity": "Mild",
+        "details": "Characters face prejudice and threats of being captured."
+      },
+      {
+        "name": "Fantasy adventure peril",
+        "severity": "Mild",
+        "details": "Chases, risky swimming, and moments of fear occur."
+      }
+    ],
+    "reflection": "The obligation to love a neighbor extends to those who appear unfamiliar or strange. The story can help children practice compassion while discussing when secrecy damages trust.",
+    "scripture": [
+      "Luke 10:33–37",
+      "Romans 12:10"
+    ],
+    "questions": [
+      "Why do the villagers fear the unfamiliar?",
+      "How can we be welcoming without abandoning truth?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — parental content guide",
+        "url": "https://www.commonsensemedia.org/movie-reviews/luca",
+        "notes": "The source supports factual content context. Theme scores, age guidance, and spiritual verdicts are independent provisional Coptic Orthodox assessments."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": true,
+    "posterClass": "p3",
+    "reviewBatch": "Batch 1 — Classic Family Favorites",
+    "editorialConfidence": "provisional-source-informed"
+  },
+  {
+    "id": "batch1-2020-soul",
+    "title": "Soul",
+    "year": 2020,
+    "genre": "Animation · Philosophical Fantasy",
+    "runtime": "",
+    "officialRating": "PG",
+    "synopsis": "A jazz musician caught between life and death reevaluates his ambition through an imagined realm of souls.",
+    "verdict": "neutral",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: The film affirms gratitude, ordinary joy, human relationships, and the dignity of daily life. However, its portrayal of unborn souls and the afterlife is a fictional cosmology incompatible with Orthodox doctrine; treat it as philosophical fiction, not catechesis.",
+    "age": "10+",
+    "ageRationale": "Questions about death, existence, and the body–soul relationship can confuse or upset younger viewers.",
+    "themes": [
+      {
+        "name": "Compassion and service",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Joe learns that other people matter beyond his career ambition."
+      },
+      {
+        "name": "Humility and repentance",
+        "type": "positive",
+        "score": 3,
+        "portrayal": "affirmed",
+        "evidence": "The protagonist reconsiders an overly narrow view of success."
+      },
+      {
+        "name": "Greed and materialism",
+        "type": "harmful",
+        "score": 2,
+        "portrayal": "condemned",
+        "evidence": "Obsessive ambition is challenged as an insufficient source of meaning."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": 5,
+        "portrayal": "descriptive",
+        "evidence": "The imagined pre-life, soul assignment system, and afterlife are foundational to the plot."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Fictional afterlife theology",
+        "severity": "Strong",
+        "details": "Unborn souls, a Great Before, and disembodied journeys dominate the story."
+      },
+      {
+        "name": "Death and existential anxiety",
+        "severity": "Moderate",
+        "details": "The protagonist seemingly dies; intense philosophical questions recur."
+      }
+    ],
+    "reflection": "Everyday life can become an occasion of thanksgiving, but the Church teaches that the human person is created by God, not assembled through the movie’s imagined pre-life program. Discuss gratitude without absorbing the invented theology.",
+    "scripture": [
+      "Psalm 139:13–16",
+      "James 1:17"
+    ],
+    "questions": [
+      "What makes a life meaningful beyond career success?",
+      "How is the film’s picture of souls different from Orthodox teaching?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — parental content guide",
+        "url": "https://www.commonsensemedia.org/movie-reviews/soul",
+        "notes": "The source supports factual content context. Theme scores, age guidance, and spiritual verdicts are independent provisional Coptic Orthodox assessments."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": false,
+    "posterClass": "p4",
+    "reviewBatch": "Batch 1 — Classic Family Favorites",
+    "editorialConfidence": "provisional-source-informed"
+  },
+  {
+    "id": "batch1-2008-kung-fu-panda",
+    "title": "Kung Fu Panda",
+    "year": 2008,
+    "genre": "Animation · Martial Arts",
+    "runtime": "",
+    "officialRating": "PG",
+    "synopsis": "An unlikely panda martial-arts student grows through discipline and friendship to defend his valley.",
+    "verdict": "edifying",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: The film rewards perseverance, humility, self-control, and taking responsibility rather than indulging vanity. Its mystical mentor imagery should be understood as part of a stylized fantasy rather than Christian spiritual guidance.",
+    "age": "10+",
+    "ageRationale": "Fast-paced fights, weapons, an intimidating prison escape, and body-based insults may trouble younger children.",
+    "themes": [
+      {
+        "name": "Humility and repentance",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Po and his teacher learn to revise unfair assumptions."
+      },
+      {
+        "name": "Courage and hope",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Po persists in training despite ridicule."
+      },
+      {
+        "name": "Truthfulness and integrity",
+        "type": "positive",
+        "score": 3,
+        "portrayal": "affirmed",
+        "evidence": "Growth requires accepting responsibility rather than shortcuts."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": 3,
+        "portrayal": "condemned",
+        "evidence": "Repeated martial-arts battles and intimidating villain scenes occur."
+      },
+      {
+        "name": "Pride and self-glorification",
+        "type": "harmful",
+        "score": 2,
+        "portrayal": "condemned",
+        "evidence": "Tai Lung’s entitlement and resentment are destructive forces."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Martial-arts violence",
+        "severity": "Moderate",
+        "details": "Repeated hand-to-hand combat, weapons, and explosions occur."
+      },
+      {
+        "name": "Body-shaming insults",
+        "severity": "Moderate",
+        "details": "Po is mocked for his size and appearance."
+      }
+    ],
+    "reflection": "Discipline is a way of directing our gifts toward good rather than worshiping personal achievement. Children can also discuss why mockery of someone’s appearance is never a proper measure of worth.",
+    "scripture": [
+      "1 Timothy 4:8",
+      "Philippians 2:3"
+    ],
+    "questions": [
+      "What is the difference between discipline and pride?",
+      "How can teammates correct someone without humiliating them?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — parental content guide",
+        "url": "https://www.commonsensemedia.org/movie-reviews/kung-fu-panda",
+        "notes": "The source supports factual content context. Theme scores, age guidance, and spiritual verdicts are independent provisional Coptic Orthodox assessments."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": true,
+    "posterClass": "p5",
+    "reviewBatch": "Batch 1 — Classic Family Favorites",
+    "editorialConfidence": "provisional-source-informed"
+  },
+  {
+    "id": "batch1-2017-the-star",
+    "title": "The Star",
+    "year": 2017,
+    "genre": "Animation · Biblical",
+    "runtime": "",
+    "officialRating": "PG",
+    "synopsis": "An animated Nativity retelling follows animals who become involved in Mary and Joseph’s journey to Bethlehem.",
+    "verdict": "edifying",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: The story clearly celebrates the birth of Christ, trust in God, compassion, and sacrificial help. Its animal-centered comedy and invented episodes should be separated from the Gospel narrative.",
+    "age": "7+",
+    "ageRationale": "Pursuit, intimidation, and occasional peril make it better suited for children who can handle mild tension.",
+    "themes": [
+      {
+        "name": "Faith and trust in God",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "The Nativity and obedience to God are central."
+      },
+      {
+        "name": "Compassion and service",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Animals and human companions help one another on the journey."
+      },
+      {
+        "name": "Courage and hope",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "The characters persevere despite threats."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": 2,
+        "portrayal": "condemned",
+        "evidence": "Threatening soldiers and chase scenes create peril."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Threat and pursuit",
+        "severity": "Mild",
+        "details": "Chases and brief violence occur during the journey."
+      },
+      {
+        "name": "Biblical dramatization",
+        "severity": "Mild",
+        "details": "Talking animals and imaginary incidents are added to the Nativity story."
+      }
+    ],
+    "reflection": "The Nativity is about the Incarnation of the Son of God, not merely a touching event in a stable. Use the film to open the Gospel accounts and speak about who Christ is.",
+    "scripture": [
+      "Luke 2:1–20",
+      "Matthew 1:18–25"
+    ],
+    "questions": [
+      "Which parts of the film are in the Gospels?",
+      "Why does the birth of Christ matter for our salvation?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — parental content guide",
+        "url": "https://www.commonsensemedia.org/movie-reviews/the-star",
+        "notes": "The source supports factual content context. Theme scores, age guidance, and spiritual verdicts are independent provisional Coptic Orthodox assessments."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": true,
+    "posterClass": "p6",
+    "reviewBatch": "Batch 1 — Classic Family Favorites",
+    "editorialConfidence": "provisional-source-informed"
+  },
+  {
+    "id": "batch1-2019-klaus",
+    "title": "Klaus",
+    "year": 2019,
+    "genre": "Animation · Holiday",
+    "runtime": "",
+    "officialRating": "PG",
+    "synopsis": "A selfish postman’s friendship with a grieving toymaker gradually changes a community divided by a bitter feud.",
+    "verdict": "edifying",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: The film strongly affirms generosity, reconciliation, friendship, and service. It offers positive moral lessons while telling an invented Santa origin story rather than presenting the historical life of St. Nicholas.",
+    "age": "10+",
+    "ageRationale": "Feuding families use weapons, traps, and threatening behavior; there is some sad bereavement and mild language.",
+    "themes": [
+      {
+        "name": "Compassion and service",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "Small acts of giving transform the community."
+      },
+      {
+        "name": "Forgiveness and reconciliation",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "Long-held family hostilities gradually weaken."
+      },
+      {
+        "name": "Humility and repentance",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Jesper changes from self-interest to generosity."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": 2,
+        "portrayal": "condemned",
+        "evidence": "Feuding families threaten one another with traps and weapons."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Community violence and peril",
+        "severity": "Moderate",
+        "details": "Feuds, threatening weapons, traps, and a near-fatal fall occur."
+      },
+      {
+        "name": "Mild language and emotional loss",
+        "severity": "Mild",
+        "details": "Insults and a story of bereavement are included."
+      }
+    ],
+    "reflection": "True giving should not be performed merely to earn praise or a reward. Families can contrast the fictional Santa backstory with the generosity associated with the historical St. Nicholas.",
+    "scripture": [
+      "Matthew 6:3–4",
+      "Ephesians 4:32"
+    ],
+    "questions": [
+      "What transforms Jesper’s motives?",
+      "How can a small act of kindness begin to heal a long disagreement?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — parental content guide",
+        "url": "https://www.commonsensemedia.org/movie-reviews/klaus",
+        "notes": "The source supports factual content context. Theme scores, age guidance, and spiritual verdicts are independent provisional Coptic Orthodox assessments."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": true,
+    "posterClass": "p1",
+    "reviewBatch": "Batch 1 — Classic Family Favorites",
+    "editorialConfidence": "provisional-source-informed"
+  }
+]

@@ -1,0 +1,1952 @@
+[
+  {
+    "id": "film-david-2025",
+    "title": "David",
+    "year": 2025,
+    "genre": "Animation · Biblical",
+    "officialRating": "PG",
+    "runtime": "",
+    "synopsis": "An animated musical retelling of David’s journey from shepherd to king, including battle scenes and the confrontation with Goliath.",
+    "verdict": "edifying",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: Faith is presented as perseverance and humility rather than mere self-confidence. Compare cinematic additions with 1 Samuel, especially when discussing violence and kingship. This classification is based on the documented premise and major themes, not a full scene-by-scene verification; further content research could change it.",
+    "age": "10+",
+    "ageRationale": "Conservative provisional site suggestion based on the cited public description, including battle violence and peril. Complete content verification may require a different age recommendation.",
+    "themes": [
+      {
+        "name": "Faith and trust in God",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "The linked individual guide describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Courage and hope",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "The linked individual guide describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete violence breakdown was not verified for this batch."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete sexual-content breakdown was not verified for this batch."
+      },
+      {
+        "name": "Profanity and blasphemy",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete language breakdown was not verified for this batch."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Battle violence and peril",
+        "severity": "Moderate",
+        "details": "Not exhaustively verified. The linked public guide mentions this general area or theme; exact frequency and severity should be checked before editorial approval."
+      }
+    ],
+    "reflection": "Faith is presented as perseverance and humility rather than mere self-confidence. Compare cinematic additions with 1 Samuel, especially when discussing violence and kingship.",
+    "scripture": [
+      "1 Samuel 17:45"
+    ],
+    "questions": [
+      "Why does David trust God while facing Goliath?",
+      "Which of the film’s choices would you imitate, and which would you avoid?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — individual movie guide",
+        "url": "https://www.commonsensemedia.org/movie-reviews/david",
+        "notes": "External editorial guidance informs the summary; spiritual verdicts and theme ratings are our own provisional interpretation. Full content audit pending."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": true,
+    "reviewDepth": "preliminary",
+    "posterClass": "p1"
+  },
+  {
+    "id": "film-elio-2025",
+    "title": "Elio",
+    "year": 2025,
+    "genre": "Animation · Science Fiction",
+    "officialRating": "PG",
+    "runtime": "",
+    "synopsis": "A lonely boy encounters an alien council and seeks a sense of belonging while facing science-fiction danger.",
+    "verdict": "edifying",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: The longing for acceptance invites conversation about our worth and the duty to welcome isolated people. Science-fiction fantasy is not a literal account of the spiritual world. This classification is based on the documented premise and major themes, not a full scene-by-scene verification; further content research could change it.",
+    "age": "7+",
+    "ageRationale": "Conservative provisional site suggestion based on the cited public description, including alien peril and grief. Complete content verification may require a different age recommendation.",
+    "themes": [
+      {
+        "name": "Compassion and service",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "The linked individual guide describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Family and responsibility",
+        "type": "positive",
+        "score": 3,
+        "portrayal": "affirmed",
+        "evidence": "The linked individual guide describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete violence breakdown was not verified for this batch."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete sexual-content breakdown was not verified for this batch."
+      },
+      {
+        "name": "Profanity and blasphemy",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete language breakdown was not verified for this batch."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Alien peril and grief",
+        "severity": "Moderate",
+        "details": "Not exhaustively verified. The linked public guide mentions this general area or theme; exact frequency and severity should be checked before editorial approval."
+      }
+    ],
+    "reflection": "The longing for acceptance invites conversation about our worth and the duty to welcome isolated people. Science-fiction fantasy is not a literal account of the spiritual world.",
+    "scripture": [
+      "Romans 12:15"
+    ],
+    "questions": [
+      "How do we notice and include someone who feels alone?",
+      "Which of the film’s choices would you imitate, and which would you avoid?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — individual movie guide",
+        "url": "https://www.commonsensemedia.org/movie-reviews/elio",
+        "notes": "External editorial guidance informs the summary; spiritual verdicts and theme ratings are our own provisional interpretation. Full content audit pending."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": true,
+    "reviewDepth": "preliminary",
+    "posterClass": "p2"
+  },
+  {
+    "id": "film-freakier-friday-2025",
+    "title": "Freakier Friday",
+    "year": 2025,
+    "genre": "Comedy · Family",
+    "officialRating": "PG",
+    "runtime": "",
+    "synopsis": "Family members undergo comic body swaps as a blended family struggles with change, with mild language and jokes.",
+    "verdict": "neutral",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: The improbable magical premise is a storytelling device; the teachable material concerns empathy, listening and respecting family members. This classification is based on the documented premise and major themes, not a full scene-by-scene verification; further content research could change it.",
+    "age": "10+",
+    "ageRationale": "Conservative provisional site suggestion based on the cited public description, including mild language and body-related jokes. Complete content verification may require a different age recommendation.",
+    "themes": [
+      {
+        "name": "Family and responsibility",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "The linked individual guide describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Compassion and service",
+        "type": "positive",
+        "score": 3,
+        "portrayal": "affirmed",
+        "evidence": "The linked individual guide describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete violence breakdown was not verified for this batch."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete sexual-content breakdown was not verified for this batch."
+      },
+      {
+        "name": "Profanity and blasphemy",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete language breakdown was not verified for this batch."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Mild language and body-related jokes",
+        "severity": "Mild",
+        "details": "Not exhaustively verified. The linked public guide mentions this general area or theme; exact frequency and severity should be checked before editorial approval."
+      }
+    ],
+    "reflection": "The improbable magical premise is a storytelling device; the teachable material concerns empathy, listening and respecting family members.",
+    "scripture": [
+      "Philippians 2:4"
+    ],
+    "questions": [
+      "What changes when we try to see a situation from another person’s perspective?",
+      "Which of the film’s choices would you imitate, and which would you avoid?"
+    ],
+    "sources": [
+      {
+        "label": "BBFC — official content advice",
+        "url": "https://www.bbfc.co.uk/release/freakier-friday-q29sbgvjdglvbjpwwc0xmdi4oda0",
+        "notes": "External editorial guidance informs the summary; spiritual verdicts and theme ratings are our own provisional interpretation. Full content audit pending."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": true,
+    "reviewDepth": "preliminary",
+    "posterClass": "p3"
+  },
+  {
+    "id": "film-in-your-dreams-2025",
+    "title": "In Your Dreams",
+    "year": 2025,
+    "genre": "Animation · Adventure",
+    "officialRating": "PG",
+    "runtime": "",
+    "synopsis": "Siblings navigate an adventurous dream world and danger while learning lessons about their family and one another.",
+    "verdict": "edifying",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: Dream imagery should not be confused with spiritual revelation. The central family relationship can support discussion of patience and loving another person despite conflict. This classification is based on the documented premise and major themes, not a full scene-by-scene verification; further content research could change it.",
+    "age": "10+",
+    "ageRationale": "Conservative provisional site suggestion based on the cited public description, including fantasy peril. Complete content verification may require a different age recommendation.",
+    "themes": [
+      {
+        "name": "Family and responsibility",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "The linked individual guide describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Courage and hope",
+        "type": "positive",
+        "score": 3,
+        "portrayal": "affirmed",
+        "evidence": "The linked individual guide describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete violence breakdown was not verified for this batch."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete sexual-content breakdown was not verified for this batch."
+      },
+      {
+        "name": "Profanity and blasphemy",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete language breakdown was not verified for this batch."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Fantasy peril",
+        "severity": "Moderate",
+        "details": "Not exhaustively verified. The linked public guide mentions this general area or theme; exact frequency and severity should be checked before editorial approval."
+      }
+    ],
+    "reflection": "Dream imagery should not be confused with spiritual revelation. The central family relationship can support discussion of patience and loving another person despite conflict.",
+    "scripture": [
+      "Colossians 3:13"
+    ],
+    "questions": [
+      "How can siblings love each other through conflict?",
+      "Which of the film’s choices would you imitate, and which would you avoid?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — individual movie guide",
+        "url": "https://www.commonsensemedia.org/movie-reviews/in-your-dreams",
+        "notes": "External editorial guidance informs the summary; spiritual verdicts and theme ratings are our own provisional interpretation. Full content audit pending."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": true,
+    "reviewDepth": "preliminary",
+    "posterClass": "p4"
+  },
+  {
+    "id": "film-hola-frida-2025",
+    "title": "Hola Frida",
+    "year": 2025,
+    "genre": "Animation · Biography",
+    "officialRating": "Unrated",
+    "runtime": "",
+    "synopsis": "An animated coming-of-age story about a young artist confronting illness and discovering creativity.",
+    "verdict": "edifying",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: The film can invite compassion toward those who suffer and gratitude for talents used with courage and generosity. This classification is based on the documented premise and major themes, not a full scene-by-scene verification; further content research could change it.",
+    "age": "10+",
+    "ageRationale": "Conservative provisional site suggestion based on the cited public description, including illness and difficult emotions. Complete content verification may require a different age recommendation.",
+    "themes": [
+      {
+        "name": "Courage and hope",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "The linked individual guide describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Compassion and service",
+        "type": "positive",
+        "score": 3,
+        "portrayal": "affirmed",
+        "evidence": "The linked individual guide describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete violence breakdown was not verified for this batch."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete sexual-content breakdown was not verified for this batch."
+      },
+      {
+        "name": "Profanity and blasphemy",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete language breakdown was not verified for this batch."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Illness and difficult emotions",
+        "severity": "Mild",
+        "details": "Not exhaustively verified. The linked public guide mentions this general area or theme; exact frequency and severity should be checked before editorial approval."
+      }
+    ],
+    "reflection": "The film can invite compassion toward those who suffer and gratitude for talents used with courage and generosity.",
+    "scripture": [
+      "2 Corinthians 1:3–4"
+    ],
+    "questions": [
+      "How can we encourage a friend living with illness?",
+      "Which of the film’s choices would you imitate, and which would you avoid?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — individual movie guide",
+        "url": "https://www.commonsensemedia.org/movie-reviews/hola-frida",
+        "notes": "External editorial guidance informs the summary; spiritual verdicts and theme ratings are our own provisional interpretation. Full content audit pending."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": true,
+    "reviewDepth": "preliminary",
+    "posterClass": "p5"
+  },
+  {
+    "id": "film-arco-2025",
+    "title": "Arco",
+    "year": 2025,
+    "genre": "Animation · Adventure",
+    "officialRating": "PG",
+    "runtime": "",
+    "synopsis": "A hopeful animated friendship adventure with moments of peril and mild scares.",
+    "verdict": "edifying",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: Friendship and care for another person matter more than spectacle. Families can discuss helping someone without expecting anything in return. This classification is based on the documented premise and major themes, not a full scene-by-scene verification; further content research could change it.",
+    "age": "10+",
+    "ageRationale": "Conservative provisional site suggestion based on the cited public description, including adventure peril and mild scary scenes. Complete content verification may require a different age recommendation.",
+    "themes": [
+      {
+        "name": "Love and self-sacrifice",
+        "type": "positive",
+        "score": 3,
+        "portrayal": "affirmed",
+        "evidence": "The linked editorial movie list describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Courage and hope",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "The linked editorial movie list describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete violence breakdown was not verified for this batch."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete sexual-content breakdown was not verified for this batch."
+      },
+      {
+        "name": "Profanity and blasphemy",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete language breakdown was not verified for this batch."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Adventure peril and mild scary scenes",
+        "severity": "Mild",
+        "details": "Not exhaustively verified. The linked public guide mentions this general area or theme; exact frequency and severity should be checked before editorial approval."
+      }
+    ],
+    "reflection": "Friendship and care for another person matter more than spectacle. Families can discuss helping someone without expecting anything in return.",
+    "scripture": [
+      "John 15:13"
+    ],
+    "questions": [
+      "What does loyal friendship look like when someone is afraid?",
+      "Which of the film’s choices would you imitate, and which would you avoid?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — 2025 / 2026 film list",
+        "url": "https://www.commonsensemedia.org/lists/best-movies-of-the-year-2025",
+        "notes": "External editorial guidance informs the summary; spiritual verdicts and theme ratings are our own provisional interpretation. Full content audit pending."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": true,
+    "reviewDepth": "preliminary",
+    "posterClass": "p6"
+  },
+  {
+    "id": "film-dora-and-the-search-for-sol-dorado-2025",
+    "title": "Dora and the Search for Sol Dorado",
+    "year": 2025,
+    "genre": "Adventure · Family",
+    "officialRating": "Unrated",
+    "runtime": "",
+    "synopsis": "A live-action search adventure involving friends, danger and positive messages.",
+    "verdict": "neutral",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: This mainly recreational adventure provides an opportunity to examine courage, cooperation and the temptation to chase treasure at the expense of relationships. This classification is based on the documented premise and major themes, not a full scene-by-scene verification; further content research could change it.",
+    "age": "10+",
+    "ageRationale": "Conservative provisional site suggestion based on the cited public description, including adventure peril. Complete content verification may require a different age recommendation.",
+    "themes": [
+      {
+        "name": "Courage and hope",
+        "type": "positive",
+        "score": 3,
+        "portrayal": "affirmed",
+        "evidence": "The linked editorial movie list describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Compassion and service",
+        "type": "positive",
+        "score": 2,
+        "portrayal": "affirmed",
+        "evidence": "The linked editorial movie list describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete violence breakdown was not verified for this batch."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete sexual-content breakdown was not verified for this batch."
+      },
+      {
+        "name": "Profanity and blasphemy",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete language breakdown was not verified for this batch."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Adventure peril",
+        "severity": "Moderate",
+        "details": "Not exhaustively verified. The linked public guide mentions this general area or theme; exact frequency and severity should be checked before editorial approval."
+      }
+    ],
+    "reflection": "This mainly recreational adventure provides an opportunity to examine courage, cooperation and the temptation to chase treasure at the expense of relationships.",
+    "scripture": [
+      "Matthew 6:21"
+    ],
+    "questions": [
+      "What is worth more than a treasure?",
+      "Which of the film’s choices would you imitate, and which would you avoid?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — 2025 / 2026 film list",
+        "url": "https://www.commonsensemedia.org/lists/best-movies-of-the-year-2025",
+        "notes": "External editorial guidance informs the summary; spiritual verdicts and theme ratings are our own provisional interpretation. Full content audit pending."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": true,
+    "reviewDepth": "preliminary",
+    "posterClass": "p1"
+  },
+  {
+    "id": "film-guardians-of-the-galapagos-2025",
+    "title": "Guardians of the Galapagos",
+    "year": 2025,
+    "genre": "Documentary · Nature",
+    "officialRating": "Unrated",
+    "runtime": "",
+    "synopsis": "A nature documentary about sea lions and conservation work, emphasizing collaboration.",
+    "verdict": "edifying",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: Care for the natural world can be understood as stewardship of creation rather than worship of creation. This classification is based on the documented premise and major themes, not a full scene-by-scene verification; further content research could change it.",
+    "age": "10+",
+    "ageRationale": "Conservative provisional site suggestion based on the cited public description, including wildlife and nature-related jeopardy. Complete content verification may require a different age recommendation.",
+    "themes": [
+      {
+        "name": "Compassion and service",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "The linked editorial movie list describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Truthfulness and integrity",
+        "type": "positive",
+        "score": 2,
+        "portrayal": "affirmed",
+        "evidence": "The linked editorial movie list describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete violence breakdown was not verified for this batch."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete sexual-content breakdown was not verified for this batch."
+      },
+      {
+        "name": "Profanity and blasphemy",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete language breakdown was not verified for this batch."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Wildlife and nature-related jeopardy",
+        "severity": "Unverified",
+        "details": "Potentially relevant based on the premise; detailed severity not verified."
+      }
+    ],
+    "reflection": "Care for the natural world can be understood as stewardship of creation rather than worship of creation.",
+    "scripture": [
+      "Genesis 2:15"
+    ],
+    "questions": [
+      "How can our family care for creation in practical ways?",
+      "Which of the film’s choices would you imitate, and which would you avoid?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — 2025 / 2026 film list",
+        "url": "https://www.commonsensemedia.org/lists/best-movies-of-the-year-2025",
+        "notes": "External editorial guidance informs the summary; spiritual verdicts and theme ratings are our own provisional interpretation. Full content audit pending."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": true,
+    "reviewDepth": "preliminary",
+    "posterClass": "p2"
+  },
+  {
+    "id": "film-pangolin-kulu-s-journey-2025",
+    "title": "Pangolin: Kulu’s Journey",
+    "year": 2025,
+    "genre": "Documentary · Animals",
+    "officialRating": "PG",
+    "runtime": "",
+    "synopsis": "A nature documentary about a pangolin, featuring danger to animals and mild language.",
+    "verdict": "edifying",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: Compassion extends to vulnerable creatures. Stewardship includes responsible action rather than merely feeling sympathy. This classification is based on the documented premise and major themes, not a full scene-by-scene verification; further content research could change it.",
+    "age": "10+",
+    "ageRationale": "Conservative provisional site suggestion based on the cited public description, including animal peril and mild language. Complete content verification may require a different age recommendation.",
+    "themes": [
+      {
+        "name": "Compassion and service",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "The linked editorial movie list describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Courage and hope",
+        "type": "positive",
+        "score": 3,
+        "portrayal": "affirmed",
+        "evidence": "The linked editorial movie list describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete violence breakdown was not verified for this batch."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete sexual-content breakdown was not verified for this batch."
+      },
+      {
+        "name": "Profanity and blasphemy",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete language breakdown was not verified for this batch."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Animal peril and mild language",
+        "severity": "Mild",
+        "details": "Not exhaustively verified. The linked public guide mentions this general area or theme; exact frequency and severity should be checked before editorial approval."
+      }
+    ],
+    "reflection": "Compassion extends to vulnerable creatures. Stewardship includes responsible action rather than merely feeling sympathy.",
+    "scripture": [
+      "Proverbs 12:10"
+    ],
+    "questions": [
+      "What responsibilities do people have toward threatened animals?",
+      "Which of the film’s choices would you imitate, and which would you avoid?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — 2025 / 2026 film list",
+        "url": "https://www.commonsensemedia.org/lists/best-movies-of-the-year-2025",
+        "notes": "External editorial guidance informs the summary; spiritual verdicts and theme ratings are our own provisional interpretation. Full content audit pending."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": false,
+    "reviewDepth": "preliminary",
+    "posterClass": "p3"
+  },
+  {
+    "id": "film-pets-2025",
+    "title": "Pets",
+    "year": 2025,
+    "genre": "Documentary · Animals",
+    "officialRating": "Unrated",
+    "runtime": "",
+    "synopsis": "A documentary exploring the relationships between people and animals, touching on difficult topics.",
+    "verdict": "neutral",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: Gratitude for animals and compassionate care are valuable, but affection for animals should also coexist with responsibility to people. This classification is based on the documented premise and major themes, not a full scene-by-scene verification; further content research could change it.",
+    "age": "10+",
+    "ageRationale": "Conservative provisional site suggestion based on the cited public description, including emotionally difficult animal-related topics. Complete content verification may require a different age recommendation.",
+    "themes": [
+      {
+        "name": "Compassion and service",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "The linked editorial movie list describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Family and responsibility",
+        "type": "positive",
+        "score": 2,
+        "portrayal": "affirmed",
+        "evidence": "The linked editorial movie list describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete violence breakdown was not verified for this batch."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete sexual-content breakdown was not verified for this batch."
+      },
+      {
+        "name": "Profanity and blasphemy",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete language breakdown was not verified for this batch."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Emotionally difficult animal-related topics",
+        "severity": "Unverified",
+        "details": "Potentially relevant based on the premise; detailed severity not verified."
+      }
+    ],
+    "reflection": "Gratitude for animals and compassionate care are valuable, but affection for animals should also coexist with responsibility to people.",
+    "scripture": [
+      "Proverbs 12:10"
+    ],
+    "questions": [
+      "How can caring for an animal teach responsibility?",
+      "Which of the film’s choices would you imitate, and which would you avoid?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — 2025 / 2026 film list",
+        "url": "https://www.commonsensemedia.org/lists/best-movies-of-the-year-2025",
+        "notes": "External editorial guidance informs the summary; spiritual verdicts and theme ratings are our own provisional interpretation. Full content audit pending."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": false,
+    "reviewDepth": "preliminary",
+    "posterClass": "p4"
+  },
+  {
+    "id": "film-the-colors-within-2025",
+    "title": "The Colors Within",
+    "year": 2025,
+    "genre": "Animation · Drama",
+    "officialRating": "PG",
+    "runtime": "",
+    "synopsis": "An animated coming-of-age film about young musicians, friendship and self-expression.",
+    "verdict": "edifying",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: Creative gifts can become acts of encouragement when practiced with humility and care for other people. This classification is based on the documented premise and major themes, not a full scene-by-scene verification; further content research could change it.",
+    "age": "10+",
+    "ageRationale": "Conservative provisional site suggestion based on the cited public description, including coming-of-age emotional themes. Complete content verification may require a different age recommendation.",
+    "themes": [
+      {
+        "name": "Compassion and service",
+        "type": "positive",
+        "score": 3,
+        "portrayal": "affirmed",
+        "evidence": "The linked editorial movie list describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Courage and hope",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "The linked editorial movie list describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete violence breakdown was not verified for this batch."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete sexual-content breakdown was not verified for this batch."
+      },
+      {
+        "name": "Profanity and blasphemy",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete language breakdown was not verified for this batch."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Coming-of-age emotional themes",
+        "severity": "Mild",
+        "details": "Not exhaustively verified. The linked public guide mentions this general area or theme; exact frequency and severity should be checked before editorial approval."
+      }
+    ],
+    "reflection": "Creative gifts can become acts of encouragement when practiced with humility and care for other people.",
+    "scripture": [
+      "1 Peter 4:10"
+    ],
+    "questions": [
+      "How can musical talents be used in service to others?",
+      "Which of the film’s choices would you imitate, and which would you avoid?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — 2025 / 2026 film list",
+        "url": "https://www.commonsensemedia.org/lists/best-movies-of-the-year-2025",
+        "notes": "External editorial guidance informs the summary; spiritual verdicts and theme ratings are our own provisional interpretation. Full content audit pending."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": false,
+    "reviewDepth": "preliminary",
+    "posterClass": "p5"
+  },
+  {
+    "id": "film-a-tooth-fairy-tale-2025",
+    "title": "A Tooth Fairy Tale",
+    "year": 2025,
+    "genre": "Animation · Fantasy",
+    "officialRating": "Unrated",
+    "runtime": "",
+    "synopsis": "A whimsical fantasy adventure about a tooth fairy, involving some danger and potentially scary moments.",
+    "verdict": "neutral",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: The supernatural elements are fairy-tale inventions, not Christian teaching about angels. Enjoy imaginative storytelling while distinguishing fantasy from faith. This classification is based on the documented premise and major themes, not a full scene-by-scene verification; further content research could change it.",
+    "age": "7+",
+    "ageRationale": "Conservative provisional site suggestion based on the cited public description, including fantasy peril and possible scares. Complete content verification may require a different age recommendation.",
+    "themes": [
+      {
+        "name": "Courage and hope",
+        "type": "positive",
+        "score": 2,
+        "portrayal": "affirmed",
+        "evidence": "The linked editorial movie list describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Compassion and service",
+        "type": "positive",
+        "score": 2,
+        "portrayal": "affirmed",
+        "evidence": "The linked editorial movie list describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete violence breakdown was not verified for this batch."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete sexual-content breakdown was not verified for this batch."
+      },
+      {
+        "name": "Profanity and blasphemy",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete language breakdown was not verified for this batch."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Fantasy peril and possible scares",
+        "severity": "Mild",
+        "details": "Not exhaustively verified. The linked public guide mentions this general area or theme; exact frequency and severity should be checked before editorial approval."
+      }
+    ],
+    "reflection": "The supernatural elements are fairy-tale inventions, not Christian teaching about angels. Enjoy imaginative storytelling while distinguishing fantasy from faith.",
+    "scripture": [
+      "1 Thessalonians 5:21"
+    ],
+    "questions": [
+      "How can we enjoy an imaginary story without believing its magic is real?",
+      "Which of the film’s choices would you imitate, and which would you avoid?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — 2025 / 2026 film list",
+        "url": "https://www.commonsensemedia.org/lists/best-movies-of-the-year-2025",
+        "notes": "External editorial guidance informs the summary; spiritual verdicts and theme ratings are our own provisional interpretation. Full content audit pending."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": false,
+    "reviewDepth": "preliminary",
+    "posterClass": "p6"
+  },
+  {
+    "id": "film-grow-2025",
+    "title": "Grow",
+    "year": 2025,
+    "genre": "Family · Fantasy",
+    "officialRating": "PG",
+    "runtime": "",
+    "synopsis": "A magical family story built around a giant pumpkin, with big emotions and some toilet humor.",
+    "verdict": "neutral",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: The entertaining fantasy encourages conversation about managing strong feelings and treating others kindly. This classification is based on the documented premise and major themes, not a full scene-by-scene verification; further content research could change it.",
+    "age": "10+",
+    "ageRationale": "Conservative provisional site suggestion based on the cited public description, including rude humor and strong emotions. Complete content verification may require a different age recommendation.",
+    "themes": [
+      {
+        "name": "Family and responsibility",
+        "type": "positive",
+        "score": 3,
+        "portrayal": "affirmed",
+        "evidence": "The linked editorial movie list describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Courage and hope",
+        "type": "positive",
+        "score": 2,
+        "portrayal": "affirmed",
+        "evidence": "The linked editorial movie list describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete violence breakdown was not verified for this batch."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete sexual-content breakdown was not verified for this batch."
+      },
+      {
+        "name": "Profanity and blasphemy",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete language breakdown was not verified for this batch."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Rude humor and strong emotions",
+        "severity": "Mild",
+        "details": "Not exhaustively verified. The linked public guide mentions this general area or theme; exact frequency and severity should be checked before editorial approval."
+      }
+    ],
+    "reflection": "The entertaining fantasy encourages conversation about managing strong feelings and treating others kindly.",
+    "scripture": [
+      "Ephesians 4:32"
+    ],
+    "questions": [
+      "What can we do when our emotions become overwhelming?",
+      "Which of the film’s choices would you imitate, and which would you avoid?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — 2025 / 2026 film list",
+        "url": "https://www.commonsensemedia.org/lists/best-movies-of-the-year-2025",
+        "notes": "External editorial guidance informs the summary; spiritual verdicts and theme ratings are our own provisional interpretation. Full content audit pending."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": false,
+    "reviewDepth": "preliminary",
+    "posterClass": "p1"
+  },
+  {
+    "id": "film-monster-mia-2026",
+    "title": "Monster Mia",
+    "year": 2026,
+    "genre": "Animation · Fantasy",
+    "officialRating": "Unrated",
+    "runtime": "",
+    "synopsis": "A human-and-monster adventure that challenges stereotypes and encourages empathy across differences.",
+    "verdict": "edifying",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: Appearances can conceal goodness, and reflexive suspicion should give way to careful, compassionate judgment. This classification is based on the documented premise and major themes, not a full scene-by-scene verification; further content research could change it.",
+    "age": "7+",
+    "ageRationale": "Conservative provisional site suggestion based on the cited public description, including monster-themed fantasy material. Complete content verification may require a different age recommendation.",
+    "themes": [
+      {
+        "name": "Compassion and service",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "The linked editorial movie list describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Truthfulness and integrity",
+        "type": "positive",
+        "score": 3,
+        "portrayal": "affirmed",
+        "evidence": "The linked editorial movie list describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete violence breakdown was not verified for this batch."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete sexual-content breakdown was not verified for this batch."
+      },
+      {
+        "name": "Profanity and blasphemy",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete language breakdown was not verified for this batch."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Monster-themed fantasy material",
+        "severity": "Unverified",
+        "details": "Potentially relevant based on the premise; detailed severity not verified."
+      }
+    ],
+    "reflection": "Appearances can conceal goodness, and reflexive suspicion should give way to careful, compassionate judgment.",
+    "scripture": [
+      "1 Samuel 16:7"
+    ],
+    "questions": [
+      "Why should we avoid judging someone by appearances?",
+      "Which of the film’s choices would you imitate, and which would you avoid?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — 2025 / 2026 film list",
+        "url": "https://www.commonsensemedia.org/lists/new-kids-movies",
+        "notes": "External editorial guidance informs the summary; spiritual verdicts and theme ratings are our own provisional interpretation. Full content audit pending."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": false,
+    "reviewDepth": "preliminary",
+    "posterClass": "p2"
+  },
+  {
+    "id": "film-paw-patrol-the-dino-movie-2026",
+    "title": "PAW Patrol: The Dino Movie",
+    "year": 2026,
+    "genre": "Animation · Adventure",
+    "officialRating": "PG",
+    "runtime": "",
+    "synopsis": "Rescue-pup heroes encounter dinosaurs and danger during a family adventure.",
+    "verdict": "neutral",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: Cooperation and readiness to help can be positive lessons even in a lighthearted action story. This classification is based on the documented premise and major themes, not a full scene-by-scene verification; further content research could change it.",
+    "age": "7+",
+    "ageRationale": "Conservative provisional site suggestion based on the cited public description, including dinosaur peril and action. Complete content verification may require a different age recommendation.",
+    "themes": [
+      {
+        "name": "Compassion and service",
+        "type": "positive",
+        "score": 3,
+        "portrayal": "affirmed",
+        "evidence": "The linked individual guide describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Courage and hope",
+        "type": "positive",
+        "score": 3,
+        "portrayal": "affirmed",
+        "evidence": "The linked individual guide describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete violence breakdown was not verified for this batch."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete sexual-content breakdown was not verified for this batch."
+      },
+      {
+        "name": "Profanity and blasphemy",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete language breakdown was not verified for this batch."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Dinosaur peril and action",
+        "severity": "Moderate",
+        "details": "Not exhaustively verified. The linked public guide mentions this general area or theme; exact frequency and severity should be checked before editorial approval."
+      }
+    ],
+    "reflection": "Cooperation and readiness to help can be positive lessons even in a lighthearted action story.",
+    "scripture": [
+      "Galatians 6:2"
+    ],
+    "questions": [
+      "When is courage really an act of service?",
+      "Which of the film’s choices would you imitate, and which would you avoid?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — individual movie guide",
+        "url": "https://www.commonsensemedia.org/movie-reviews/paw-patrol-the-dino-movie",
+        "notes": "External editorial guidance informs the summary; spiritual verdicts and theme ratings are our own provisional interpretation. Full content audit pending."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": false,
+    "reviewDepth": "preliminary",
+    "posterClass": "p3"
+  },
+  {
+    "id": "film-the-cat-in-the-hat-2026",
+    "title": "The Cat in the Hat",
+    "year": 2026,
+    "genre": "Animation · Comedy",
+    "officialRating": "PG",
+    "runtime": "",
+    "synopsis": "A colorful Seuss-inspired sibling adventure balancing whimsy, chaos and warm moments.",
+    "verdict": "neutral",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: Enjoy the imaginative comedy while using the sibling relationships to discuss kindness and boundaries. This classification is based on the documented premise and major themes, not a full scene-by-scene verification; further content research could change it.",
+    "age": "7+",
+    "ageRationale": "Conservative provisional site suggestion based on the cited public description, including chaotic cartoon situations. Complete content verification may require a different age recommendation.",
+    "themes": [
+      {
+        "name": "Family and responsibility",
+        "type": "positive",
+        "score": 3,
+        "portrayal": "affirmed",
+        "evidence": "The linked individual guide describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Compassion and service",
+        "type": "positive",
+        "score": 2,
+        "portrayal": "affirmed",
+        "evidence": "The linked individual guide describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete violence breakdown was not verified for this batch."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete sexual-content breakdown was not verified for this batch."
+      },
+      {
+        "name": "Profanity and blasphemy",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete language breakdown was not verified for this batch."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Chaotic cartoon situations",
+        "severity": "Mild",
+        "details": "Not exhaustively verified. The linked public guide mentions this general area or theme; exact frequency and severity should be checked before editorial approval."
+      }
+    ],
+    "reflection": "Enjoy the imaginative comedy while using the sibling relationships to discuss kindness and boundaries.",
+    "scripture": [
+      "Romans 12:10"
+    ],
+    "questions": [
+      "How can fun be balanced with responsibility?",
+      "Which of the film’s choices would you imitate, and which would you avoid?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — individual movie guide",
+        "url": "https://www.commonsensemedia.org/movie-reviews/the-cat-in-the-hat",
+        "notes": "External editorial guidance informs the summary; spiritual verdicts and theme ratings are our own provisional interpretation. Full content audit pending."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": false,
+    "reviewDepth": "preliminary",
+    "posterClass": "p4"
+  },
+  {
+    "id": "film-tom-and-jerry-forbidden-compass-2026",
+    "title": "Tom and Jerry: Forbidden Compass",
+    "year": 2026,
+    "genre": "Animation · Comedy",
+    "officialRating": "PG",
+    "runtime": "",
+    "synopsis": "The cat-and-mouse pair travel through a fantastical Chinese-themed adventure featuring action and mythical lore.",
+    "verdict": "neutral",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: A fantasy setting can be enjoyed as fiction while discussing the importance of honesty and restraint in conflict. This classification is based on the documented premise and major themes, not a full scene-by-scene verification; further content research could change it.",
+    "age": "7+",
+    "ageRationale": "Conservative provisional site suggestion based on the cited public description, including comic action and fantasy lore. Complete content verification may require a different age recommendation.",
+    "themes": [
+      {
+        "name": "Courage and hope",
+        "type": "positive",
+        "score": 2,
+        "portrayal": "affirmed",
+        "evidence": "The linked editorial movie list describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Family and responsibility",
+        "type": "positive",
+        "score": 2,
+        "portrayal": "affirmed",
+        "evidence": "The linked editorial movie list describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete violence breakdown was not verified for this batch."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete sexual-content breakdown was not verified for this batch."
+      },
+      {
+        "name": "Profanity and blasphemy",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete language breakdown was not verified for this batch."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Comic action and fantasy lore",
+        "severity": "Mild",
+        "details": "Not exhaustively verified. The linked public guide mentions this general area or theme; exact frequency and severity should be checked before editorial approval."
+      }
+    ],
+    "reflection": "A fantasy setting can be enjoyed as fiction while discussing the importance of honesty and restraint in conflict.",
+    "scripture": [
+      "Proverbs 15:1"
+    ],
+    "questions": [
+      "What might have prevented a comic argument from growing worse?",
+      "Which of the film’s choices would you imitate, and which would you avoid?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — 2025 / 2026 film list",
+        "url": "https://www.commonsensemedia.org/lists/new-kids-movies",
+        "notes": "External editorial guidance informs the summary; spiritual verdicts and theme ratings are our own provisional interpretation. Full content audit pending."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": false,
+    "reviewDepth": "preliminary",
+    "posterClass": "p5"
+  },
+  {
+    "id": "film-coyote-vs-acme-2026",
+    "title": "Coyote vs. Acme",
+    "year": 2026,
+    "genre": "Animation · Comedy",
+    "officialRating": "PG",
+    "runtime": "",
+    "synopsis": "A live-action and animation hybrid brings Wile E. Coyote into a chaotic but emotional battle involving comic danger.",
+    "verdict": "neutral",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: The comedy provides opportunities to discuss justice and mercy. Physical cartoon injury should not be mistaken for acceptable real-world conduct. This classification is based on the documented premise and major themes, not a full scene-by-scene verification; further content research could change it.",
+    "age": "10+",
+    "ageRationale": "Conservative provisional site suggestion based on the cited public description, including cartoon violence and comic weapons. Complete content verification may require a different age recommendation.",
+    "themes": [
+      {
+        "name": "Truthfulness and integrity",
+        "type": "positive",
+        "score": 3,
+        "portrayal": "affirmed",
+        "evidence": "The linked individual guide describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Courage and hope",
+        "type": "positive",
+        "score": 3,
+        "portrayal": "affirmed",
+        "evidence": "The linked individual guide describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete violence breakdown was not verified for this batch."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete sexual-content breakdown was not verified for this batch."
+      },
+      {
+        "name": "Profanity and blasphemy",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete language breakdown was not verified for this batch."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Cartoon violence and comic weapons",
+        "severity": "Moderate",
+        "details": "Not exhaustively verified. The linked public guide mentions this general area or theme; exact frequency and severity should be checked before editorial approval."
+      }
+    ],
+    "reflection": "The comedy provides opportunities to discuss justice and mercy. Physical cartoon injury should not be mistaken for acceptable real-world conduct.",
+    "scripture": [
+      "Micah 6:8"
+    ],
+    "questions": [
+      "Why does justice matter even in a silly comedy?",
+      "Which of the film’s choices would you imitate, and which would you avoid?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — individual movie guide",
+        "url": "https://www.commonsensemedia.org/movie-reviews/coyote-vs-acme",
+        "notes": "External editorial guidance informs the summary; spiritual verdicts and theme ratings are our own provisional interpretation. Full content audit pending."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": false,
+    "reviewDepth": "preliminary",
+    "posterClass": "p6"
+  },
+  {
+    "id": "film-minions-monsters-2026",
+    "title": "Minions & Monsters",
+    "year": 2026,
+    "genre": "Animation · Comedy",
+    "officialRating": "PG",
+    "runtime": "",
+    "synopsis": "The Minions encounter outsized monsters and large-scale cartoon action in an entertainment-focused adventure.",
+    "verdict": "neutral",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: Enjoyment and laughter can be wholesome, yet the story has limited explicit spiritual substance and cartoon violence should be kept in perspective. This classification is based on the documented premise and major themes, not a full scene-by-scene verification; further content research could change it.",
+    "age": "10+",
+    "ageRationale": "Conservative provisional site suggestion based on the cited public description, including monster threats and cartoon violence. Complete content verification may require a different age recommendation.",
+    "themes": [
+      {
+        "name": "Courage and hope",
+        "type": "positive",
+        "score": 2,
+        "portrayal": "affirmed",
+        "evidence": "The linked editorial movie list describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Compassion and service",
+        "type": "positive",
+        "score": 1,
+        "portrayal": "affirmed",
+        "evidence": "The linked editorial movie list describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete violence breakdown was not verified for this batch."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete sexual-content breakdown was not verified for this batch."
+      },
+      {
+        "name": "Profanity and blasphemy",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete language breakdown was not verified for this batch."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Monster threats and cartoon violence",
+        "severity": "Moderate",
+        "details": "Not exhaustively verified. The linked public guide mentions this general area or theme; exact frequency and severity should be checked before editorial approval."
+      }
+    ],
+    "reflection": "Enjoyment and laughter can be wholesome, yet the story has limited explicit spiritual substance and cartoon violence should be kept in perspective.",
+    "scripture": [
+      "Proverbs 17:22"
+    ],
+    "questions": [
+      "Can we enjoy a movie without adopting every behavior in it?",
+      "Which of the film’s choices would you imitate, and which would you avoid?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — 2025 / 2026 film list",
+        "url": "https://www.commonsensemedia.org/lists/new-kids-movies",
+        "notes": "External editorial guidance informs the summary; spiritual verdicts and theme ratings are our own provisional interpretation. Full content audit pending."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": false,
+    "reviewDepth": "preliminary",
+    "posterClass": "p1"
+  },
+  {
+    "id": "film-forgotten-island-2026",
+    "title": "Forgotten Island",
+    "year": 2026,
+    "genre": "Animation · Fantasy",
+    "officialRating": "PG",
+    "runtime": "",
+    "synopsis": "An animated friendship adventure draws on Filipino mythology and includes frightening monsters.",
+    "verdict": "neutral",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: Friendship may be commendable even when the fantasy draws on religious stories outside Christian faith. Make room for respectful conversation about myth versus revelation. This classification is based on the documented premise and major themes, not a full scene-by-scene verification; further content research could change it.",
+    "age": "10+",
+    "ageRationale": "Conservative provisional site suggestion based on the cited public description, including monster scares and mythology-based imagery. Complete content verification may require a different age recommendation.",
+    "themes": [
+      {
+        "name": "Love and self-sacrifice",
+        "type": "positive",
+        "score": 3,
+        "portrayal": "affirmed",
+        "evidence": "The linked individual guide describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Courage and hope",
+        "type": "positive",
+        "score": 3,
+        "portrayal": "affirmed",
+        "evidence": "The linked individual guide describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete violence breakdown was not verified for this batch."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete sexual-content breakdown was not verified for this batch."
+      },
+      {
+        "name": "Profanity and blasphemy",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete language breakdown was not verified for this batch."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Monster scares and mythology-based imagery",
+        "severity": "Moderate",
+        "details": "Not exhaustively verified. The linked public guide mentions this general area or theme; exact frequency and severity should be checked before editorial approval."
+      }
+    ],
+    "reflection": "Friendship may be commendable even when the fantasy draws on religious stories outside Christian faith. Make room for respectful conversation about myth versus revelation.",
+    "scripture": [
+      "1 Thessalonians 5:21"
+    ],
+    "questions": [
+      "How is a cultural myth different from Christian teaching?",
+      "Which of the film’s choices would you imitate, and which would you avoid?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — individual movie guide",
+        "url": "https://www.commonsensemedia.org/movie-reviews/forgotten-island",
+        "notes": "External editorial guidance informs the summary; spiritual verdicts and theme ratings are our own provisional interpretation. Full content audit pending."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": false,
+    "reviewDepth": "preliminary",
+    "posterClass": "p2"
+  },
+  {
+    "id": "film-the-magic-faraway-tree-2026",
+    "title": "The Magic Faraway Tree",
+    "year": 2026,
+    "genre": "Fantasy · Family",
+    "officialRating": "PG",
+    "runtime": "",
+    "synopsis": "A fanciful family adventure adapts a magical tree story and includes rude humor.",
+    "verdict": "neutral",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: An imaginary world is not a claim about spiritual truth. Families can reflect on how imagination can coexist with responsibility and sound judgment. This classification is based on the documented premise and major themes, not a full scene-by-scene verification; further content research could change it.",
+    "age": "10+",
+    "ageRationale": "Conservative provisional site suggestion based on the cited public description, including rude humor and fantasy peril. Complete content verification may require a different age recommendation.",
+    "themes": [
+      {
+        "name": "Family and responsibility",
+        "type": "positive",
+        "score": 3,
+        "portrayal": "affirmed",
+        "evidence": "The linked editorial movie list describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Courage and hope",
+        "type": "positive",
+        "score": 3,
+        "portrayal": "affirmed",
+        "evidence": "The linked editorial movie list describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete violence breakdown was not verified for this batch."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete sexual-content breakdown was not verified for this batch."
+      },
+      {
+        "name": "Profanity and blasphemy",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete language breakdown was not verified for this batch."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Rude humor and fantasy peril",
+        "severity": "Mild",
+        "details": "Not exhaustively verified. The linked public guide mentions this general area or theme; exact frequency and severity should be checked before editorial approval."
+      }
+    ],
+    "reflection": "An imaginary world is not a claim about spiritual truth. Families can reflect on how imagination can coexist with responsibility and sound judgment.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "questions": [
+      "What parts of a fantasy story are worth imitating?",
+      "Which of the film’s choices would you imitate, and which would you avoid?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — 2025 / 2026 film list",
+        "url": "https://www.commonsensemedia.org/lists/new-kids-movies",
+        "notes": "External editorial guidance informs the summary; spiritual verdicts and theme ratings are our own provisional interpretation. Full content audit pending."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": false,
+    "reviewDepth": "preliminary",
+    "posterClass": "p3"
+  },
+  {
+    "id": "film-not-my-dog-2026",
+    "title": "Not My Dog",
+    "year": 2026,
+    "genre": "Family · Drama",
+    "officialRating": "Unrated",
+    "runtime": "",
+    "synopsis": "A family-friendly pet story includes bullying and mild language, with a relationship to a dog at its center.",
+    "verdict": "edifying",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: Kindness to an animal should connect to gentleness toward vulnerable people, especially those targeted by bullying. This classification is based on the documented premise and major themes, not a full scene-by-scene verification; further content research could change it.",
+    "age": "10+",
+    "ageRationale": "Conservative provisional site suggestion based on the cited public description, including bullying and mild language. Complete content verification may require a different age recommendation.",
+    "themes": [
+      {
+        "name": "Compassion and service",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "The linked editorial movie list describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Courage and hope",
+        "type": "positive",
+        "score": 3,
+        "portrayal": "affirmed",
+        "evidence": "The linked editorial movie list describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete violence breakdown was not verified for this batch."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete sexual-content breakdown was not verified for this batch."
+      },
+      {
+        "name": "Profanity and blasphemy",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete language breakdown was not verified for this batch."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Bullying and mild language",
+        "severity": "Mild",
+        "details": "Not exhaustively verified. The linked public guide mentions this general area or theme; exact frequency and severity should be checked before editorial approval."
+      }
+    ],
+    "reflection": "Kindness to an animal should connect to gentleness toward vulnerable people, especially those targeted by bullying.",
+    "scripture": [
+      "Ephesians 4:32"
+    ],
+    "questions": [
+      "How can we help someone being bullied?",
+      "Which of the film’s choices would you imitate, and which would you avoid?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — 2025 / 2026 film list",
+        "url": "https://www.commonsensemedia.org/lists/new-kids-movies",
+        "notes": "External editorial guidance informs the summary; spiritual verdicts and theme ratings are our own provisional interpretation. Full content audit pending."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": false,
+    "reviewDepth": "preliminary",
+    "posterClass": "p4"
+  },
+  {
+    "id": "film-super-charlie-2026",
+    "title": "Super-Charlie",
+    "year": 2026,
+    "genre": "Animation · Superhero",
+    "officialRating": "Unrated",
+    "runtime": "",
+    "synopsis": "A child adjusts to the arrival of a younger sibling in an animated superhero adventure.",
+    "verdict": "edifying",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: Sibling jealousy is a normal temptation that can be answered through gratitude and practical love rather than rivalry. This classification is based on the documented premise and major themes, not a full scene-by-scene verification; further content research could change it.",
+    "age": "10+",
+    "ageRationale": "Conservative provisional site suggestion based on the cited public description, including superhero adventure action. Complete content verification may require a different age recommendation.",
+    "themes": [
+      {
+        "name": "Family and responsibility",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "The linked editorial movie list describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Love and self-sacrifice",
+        "type": "positive",
+        "score": 3,
+        "portrayal": "affirmed",
+        "evidence": "The linked editorial movie list describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete violence breakdown was not verified for this batch."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete sexual-content breakdown was not verified for this batch."
+      },
+      {
+        "name": "Profanity and blasphemy",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete language breakdown was not verified for this batch."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Superhero adventure action",
+        "severity": "Unverified",
+        "details": "Potentially relevant based on the premise; detailed severity not verified."
+      }
+    ],
+    "reflection": "Sibling jealousy is a normal temptation that can be answered through gratitude and practical love rather than rivalry.",
+    "scripture": [
+      "Romans 12:10"
+    ],
+    "questions": [
+      "How can an older sibling welcome a new baby?",
+      "Which of the film’s choices would you imitate, and which would you avoid?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — 2025 / 2026 film list",
+        "url": "https://www.commonsensemedia.org/lists/new-kids-movies",
+        "notes": "External editorial guidance informs the summary; spiritual verdicts and theme ratings are our own provisional interpretation. Full content audit pending."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": false,
+    "reviewDepth": "preliminary",
+    "posterClass": "p5"
+  },
+  {
+    "id": "film-chickenhare-and-the-secret-of-the-groundhog-2026",
+    "title": "Chickenhare and the Secret of the Groundhog",
+    "year": 2026,
+    "genre": "Animation · Adventure",
+    "officialRating": "Unrated",
+    "runtime": "",
+    "synopsis": "An animated sequel combines mild peril with messages about self-discovery and friendship.",
+    "verdict": "neutral",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: The movie can prompt conversations about identity being shaped through character and loving action rather than applause or appearance. This classification is based on the documented premise and major themes, not a full scene-by-scene verification; further content research could change it.",
+    "age": "10+",
+    "ageRationale": "Conservative provisional site suggestion based on the cited public description, including mild adventure peril. Complete content verification may require a different age recommendation.",
+    "themes": [
+      {
+        "name": "Courage and hope",
+        "type": "positive",
+        "score": 3,
+        "portrayal": "affirmed",
+        "evidence": "The linked editorial movie list describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Compassion and service",
+        "type": "positive",
+        "score": 3,
+        "portrayal": "affirmed",
+        "evidence": "The linked editorial movie list describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete violence breakdown was not verified for this batch."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete sexual-content breakdown was not verified for this batch."
+      },
+      {
+        "name": "Profanity and blasphemy",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete language breakdown was not verified for this batch."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Mild adventure peril",
+        "severity": "Mild",
+        "details": "Not exhaustively verified. The linked public guide mentions this general area or theme; exact frequency and severity should be checked before editorial approval."
+      }
+    ],
+    "reflection": "The movie can prompt conversations about identity being shaped through character and loving action rather than applause or appearance.",
+    "scripture": [
+      "1 Peter 4:10"
+    ],
+    "questions": [
+      "How do we recognize our gifts without becoming proud?",
+      "Which of the film’s choices would you imitate, and which would you avoid?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — 2025 / 2026 film list",
+        "url": "https://www.commonsensemedia.org/lists/new-kids-movies",
+        "notes": "External editorial guidance informs the summary; spiritual verdicts and theme ratings are our own provisional interpretation. Full content audit pending."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": false,
+    "reviewDepth": "preliminary",
+    "posterClass": "p6"
+  },
+  {
+    "id": "film-before-the-ice-melts-2026",
+    "title": "Before the Ice Melts",
+    "year": 2026,
+    "genre": "Sports · Drama",
+    "officialRating": "Unrated",
+    "runtime": "",
+    "synopsis": "A family-focused hockey drama about pursuing dreams and working through challenges.",
+    "verdict": "edifying",
+    "verdictRationale": "Provisional Coptic Orthodox interpretation: Perseverance is valuable when joined with humility, gratitude and respect for teammates. This classification is based on the documented premise and major themes, not a full scene-by-scene verification; further content research could change it.",
+    "age": "10+",
+    "ageRationale": "Conservative provisional site suggestion based on the cited public description, including competitive sports tension. Complete content verification may require a different age recommendation.",
+    "themes": [
+      {
+        "name": "Courage and hope",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "The linked editorial movie list describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Truthfulness and integrity",
+        "type": "positive",
+        "score": 3,
+        "portrayal": "affirmed",
+        "evidence": "The linked editorial movie list describes the movie's general story or major concerns; check the complete movie for any finer-grained claim."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete violence breakdown was not verified for this batch."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete sexual-content breakdown was not verified for this batch."
+      },
+      {
+        "name": "Profanity and blasphemy",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A complete language breakdown was not verified for this batch."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Competitive sports tension",
+        "severity": "Unverified",
+        "details": "Potentially relevant based on the premise; detailed severity not verified."
+      }
+    ],
+    "reflection": "Perseverance is valuable when joined with humility, gratitude and respect for teammates.",
+    "scripture": [
+      "Colossians 3:23"
+    ],
+    "questions": [
+      "How can ambition be pursued without becoming selfish?",
+      "Which of the film’s choices would you imitate, and which would you avoid?"
+    ],
+    "sources": [
+      {
+        "label": "Common Sense Media — 2025 / 2026 film list",
+        "url": "https://www.commonsensemedia.org/lists/new-kids-movies",
+        "notes": "External editorial guidance informs the summary; spiritual verdicts and theme ratings are our own provisional interpretation. Full content audit pending."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "featured": false,
+    "reviewDepth": "preliminary",
+    "posterClass": "p1"
+  }
+]

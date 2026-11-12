@@ -1,0 +1,12 @@
+{
+  "version": 10,
+  "auditDate": "2026-11-11",
+  "existingReviews": 81,
+  "addedReviews": 12,
+  "provisionalReviews": 93,
+  "theologicallyApproved": 0,
+  "officialBBFCnew": 12,
+  "unverifiedExisting": 81,
+  "posterSource": "TMDB runtime if configured, plus eight remote manifest URLs",
+  "remainingWarning": "External evidence does not verify every absent content category. Provisional review verdicts cannot be called final."
+}
