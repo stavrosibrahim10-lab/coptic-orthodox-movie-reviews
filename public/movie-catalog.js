@@ -1,4 +1,4 @@
-/* Movie identification only: these entries are NOT reviews. */
+/* The Orthodox Lens V12 — canonical entries; original spiritual assessments are not official Church teaching. */
 const movieCatalog = [
   {
     "id": "catalog-2026-goat",
@@ -7,334 +7,382 @@ const movieCatalog = [
     "genre": "Animation · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p1"
+    "posterClass": "p1",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-2026-the-magic-faraway-tree",
-    "title": "The Magic Faraway Tree",
-    "year": 2026,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p2"
-  },
-  {
-    "id": "catalog-2026-minions-monsters",
-    "title": "Minions & Monsters",
-    "year": 2026,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p3"
-  },
-  {
-    "id": "catalog-2026-paw-patrol-the-dino-movie",
-    "title": "PAW Patrol: The Dino Movie",
-    "year": 2026,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p4"
-  },
-  {
-    "id": "catalog-2026-the-sheep-detectives",
+    "id": "catalog-2026-thesheepdetectives",
     "title": "The Sheep Detectives",
     "year": 2026,
     "genre": "Animation · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p5"
+    "posterClass": "p5",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-2026-coyote-vs-acme",
-    "title": "Coyote vs. Acme",
-    "year": 2026,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p6"
-  },
-  {
-    "id": "catalog-2026-forgotten-island",
-    "title": "Forgotten Island",
-    "year": 2026,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p1"
-  },
-  {
-    "id": "catalog-2026-the-super-mario-galaxy-movie",
-    "title": "The Super Mario Galaxy Movie",
-    "year": 2026,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p2"
-  },
-  {
-    "id": "catalog-2026-the-cat-in-the-hat",
-    "title": "The Cat in the Hat",
-    "year": 2026,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p3"
-  },
-  {
-    "id": "catalog-2025-zootopia-2",
-    "title": "Zootopia 2",
-    "year": 2025,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p4"
-  },
-  {
-    "id": "catalog-2025-elio",
-    "title": "Elio",
-    "year": 2025,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p5"
-  },
-  {
-    "id": "catalog-2025-the-bad-guys-2",
-    "title": "The Bad Guys 2",
-    "year": 2025,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p6"
-  },
-  {
-    "id": "catalog-2025-dog-man",
-    "title": "Dog Man",
-    "year": 2025,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p1"
-  },
-  {
-    "id": "catalog-2025-the-smurfs",
+    "id": "catalog-2025-thesmurfs",
     "title": "The Smurfs",
     "year": 2025,
     "genre": "Animation · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p2"
+    "posterClass": "p2",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-2025-kpop-demon-hunters",
-    "title": "KPop Demon Hunters",
-    "year": 2025,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p3"
-  },
-  {
-    "id": "catalog-2025-gabby-s-dollhouse-the-movie",
+    "id": "catalog-2025-gabbysdollhousethemovie",
     "title": "Gabby’s Dollhouse: The Movie",
     "year": 2025,
     "genre": "Animation · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p4"
+    "posterClass": "p4",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-2025-the-spongebob-movie-search-for-squarepants",
+    "id": "catalog-2025-thespongebobmoviesearchforsquarepants",
     "title": "The SpongeBob Movie: Search for SquarePants",
     "year": 2025,
     "genre": "Animation · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p5"
+    "posterClass": "p5",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-2025-lilo-stitch",
-    "title": "Lilo & Stitch",
-    "year": 2025,
-    "genre": "Family · Adventure",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p6"
-  },
-  {
-    "id": "catalog-2025-how-to-train-your-dragon",
-    "title": "How to Train Your Dragon",
-    "year": 2025,
-    "genre": "Family · Adventure",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p1"
-  },
-  {
-    "id": "catalog-2025-freakier-friday",
-    "title": "Freakier Friday",
-    "year": 2025,
-    "genre": "Family · Adventure",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p2"
-  },
-  {
-    "id": "catalog-2025-the-fantastic-four-first-steps",
+    "id": "catalog-2025-thefantasticfourfirststeps",
     "title": "The Fantastic Four: First Steps",
     "year": 2025,
     "genre": "Family · Adventure",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p3"
+    "posterClass": "p3",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
     "id": "catalog-2025-superman",
@@ -343,286 +391,446 @@ const movieCatalog = [
     "genre": "Family · Adventure",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p4"
+    "posterClass": "p4",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-2025-the-minecraft-movie",
+    "id": "catalog-2025-theminecraftmovie",
     "title": "The Minecraft Movie",
     "year": 2025,
     "genre": "Family · Adventure",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p5"
+    "posterClass": "p5",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-2025-the-king-of-kings",
-    "title": "The King of Kings",
-    "year": 2025,
-    "genre": "Family · Adventure",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p6"
-  },
-  {
-    "id": "catalog-2024-the-wild-robot",
-    "title": "The Wild Robot",
-    "year": 2024,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p1"
-  },
-  {
-    "id": "catalog-2024-inside-out-2",
-    "title": "Inside Out 2",
-    "year": 2024,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p2"
-  },
-  {
-    "id": "catalog-2024-moana-2",
-    "title": "Moana 2",
-    "year": 2024,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p3"
-  },
-  {
-    "id": "catalog-2024-despicable-me-4",
+    "id": "catalog-2024-despicableme4",
     "title": "Despicable Me 4",
     "year": 2024,
     "genre": "Animation · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p4"
+    "posterClass": "p4",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-2024-the-garfield-movie",
-    "title": "The Garfield Movie",
-    "year": 2024,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p5"
-  },
-  {
-    "id": "catalog-2024-kung-fu-panda-4",
+    "id": "catalog-2024-kungfupanda4",
     "title": "Kung Fu Panda 4",
     "year": 2024,
     "genre": "Animation · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p6"
+    "posterClass": "p6",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-2024-transformers-one",
-    "title": "Transformers One",
-    "year": 2024,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p1"
-  },
-  {
-    "id": "catalog-2024-orion-and-the-dark",
-    "title": "Orion and the Dark",
-    "year": 2024,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p2"
-  },
-  {
-    "id": "catalog-2024-flow",
-    "title": "Flow",
-    "year": 2024,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p3"
-  },
-  {
-    "id": "catalog-2024-wallace-gromit-vengeance-most-fowl",
+    "id": "catalog-2024-wallaceandgromitvengeancemostfowl",
     "title": "Wallace & Gromit: Vengeance Most Fowl",
     "year": 2024,
     "genre": "Animation · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p4"
+    "posterClass": "p4",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-2024-the-lord-of-the-rings-the-war-of-the-rohirrim",
+    "id": "catalog-2024-thelordoftheringsthewaroftherohirrim",
     "title": "The Lord of the Rings: The War of the Rohirrim",
     "year": 2024,
     "genre": "Animation · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p5"
+    "posterClass": "p5",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-2024-sonic-the-hedgehog-3",
-    "title": "Sonic the Hedgehog 3",
-    "year": 2024,
-    "genre": "Family · Adventure",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p6"
-  },
-  {
-    "id": "catalog-2024-mufasa-the-lion-king",
+    "id": "catalog-2024-mufasathelionking",
     "title": "Mufasa: The Lion King",
     "year": 2024,
     "genre": "Family · Adventure",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p1"
-  },
-  {
-    "id": "catalog-2024-paddington-in-peru",
-    "title": "Paddington in Peru",
-    "year": 2024,
-    "genre": "Family · Adventure",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p2"
-  },
-  {
-    "id": "catalog-2024-the-best-christmas-pageant-ever",
-    "title": "The Best Christmas Pageant Ever",
-    "year": 2024,
-    "genre": "Family · Adventure",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p3"
+    "posterClass": "p1",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
     "id": "catalog-2024-if",
@@ -631,94 +839,126 @@ const movieCatalog = [
     "genre": "Family · Adventure",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p4"
+    "posterClass": "p4",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-2024-harold-and-the-purple-crayon",
+    "id": "catalog-2024-haroldandthepurplecrayon",
     "title": "Harold and the Purple Crayon",
     "year": 2024,
     "genre": "Family · Adventure",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p5"
-  },
-  {
-    "id": "catalog-2024-the-forge",
-    "title": "The Forge",
-    "year": 2024,
-    "genre": "Family · Adventure",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p6"
-  },
-  {
-    "id": "catalog-2024-wicked",
-    "title": "Wicked",
-    "year": 2024,
-    "genre": "Family · Adventure",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p1"
-  },
-  {
-    "id": "catalog-2023-elemental",
-    "title": "Elemental",
-    "year": 2023,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p2"
-  },
-  {
-    "id": "catalog-2023-the-super-mario-bros-movie",
-    "title": "The Super Mario Bros. Movie",
-    "year": 2023,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p3"
+    "posterClass": "p5",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
     "id": "catalog-2023-wish",
@@ -727,30 +967,62 @@ const movieCatalog = [
     "genre": "Animation · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p4"
-  },
-  {
-    "id": "catalog-2023-migration",
-    "title": "Migration",
-    "year": 2023,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p5"
+    "posterClass": "p4",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
     "id": "catalog-2023-nimona",
@@ -759,94 +1031,254 @@ const movieCatalog = [
     "genre": "Animation · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p6"
+    "posterClass": "p6",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-2023-teenage-mutant-ninja-turtles-mutant-mayhem",
+    "id": "catalog-2023-teenagemutantninjaturtlesmutantmayhem",
     "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
     "year": 2023,
     "genre": "Animation · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p1"
+    "posterClass": "p1",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-2023-spider-man-across-the-spider-verse",
-    "title": "Spider-Man: Across the Spider-Verse",
-    "year": 2023,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p2"
-  },
-  {
-    "id": "catalog-2023-the-boy-and-the-heron",
-    "title": "The Boy and the Heron",
-    "year": 2023,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p3"
-  },
-  {
-    "id": "catalog-2023-trolls-band-together",
+    "id": "catalog-2023-trollsbandtogether",
     "title": "Trolls Band Together",
     "year": 2023,
     "genre": "Animation · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p4"
+    "posterClass": "p4",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-2023-chicken-run-dawn-of-the-nugget",
+    "id": "catalog-2023-chickenrundawnofthenugget",
     "title": "Chicken Run: Dawn of the Nugget",
     "year": 2023,
     "genre": "Animation · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p5"
+    "posterClass": "p5",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
     "id": "catalog-2023-leo",
@@ -855,126 +1287,254 @@ const movieCatalog = [
     "genre": "Animation · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p6"
+    "posterClass": "p6",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-2023-wonka",
-    "title": "Wonka",
-    "year": 2023,
-    "genre": "Family · Adventure",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p1"
-  },
-  {
-    "id": "catalog-2023-the-little-mermaid",
-    "title": "The Little Mermaid",
-    "year": 2023,
-    "genre": "Family · Adventure",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p2"
-  },
-  {
-    "id": "catalog-2023-peter-pan-wendy",
+    "id": "catalog-2023-peterpanandwendy",
     "title": "Peter Pan & Wendy",
     "year": 2023,
     "genre": "Family · Adventure",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p3"
+    "posterClass": "p3",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-2023-the-journey-to-bethlehem",
+    "id": "catalog-2023-thejourneytobethlehem",
     "title": "The Journey to Bethlehem",
     "year": 2023,
     "genre": "Family · Adventure",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p4"
+    "posterClass": "p4",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-2023-jesus-revolution",
+    "id": "catalog-2023-jesusrevolution",
     "title": "Jesus Revolution",
     "year": 2023,
     "genre": "Family · Adventure",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p5"
-  },
-  {
-    "id": "catalog-2022-puss-in-boots-the-last-wish",
-    "title": "Puss in Boots: The Last Wish",
-    "year": 2022,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p6"
-  },
-  {
-    "id": "catalog-2022-turning-red",
-    "title": "Turning Red",
-    "year": 2022,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p1"
+    "posterClass": "p5",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
     "id": "catalog-2022-lightyear",
@@ -983,254 +1543,638 @@ const movieCatalog = [
     "genre": "Animation · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p2"
+    "posterClass": "p2",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-2022-the-bad-guys",
-    "title": "The Bad Guys",
-    "year": 2022,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p3"
-  },
-  {
-    "id": "catalog-2022-minions-the-rise-of-gru",
+    "id": "catalog-2022-minionstheriseofgru",
     "title": "Minions: The Rise of Gru",
     "year": 2022,
     "genre": "Animation · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p4"
+    "posterClass": "p4",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-2022-guillermo-del-toro-s-pinocchio",
+    "id": "catalog-2022-guillermodeltorospinocchio",
     "title": "Guillermo del Toro’s Pinocchio",
     "year": 2022,
     "genre": "Animation · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p5"
+    "posterClass": "p5",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-2022-dc-league-of-super-pets",
+    "id": "catalog-2022-dcleagueofsuperpets",
     "title": "DC League of Super-Pets",
     "year": 2022,
     "genre": "Animation · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p6"
+    "posterClass": "p6",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-2022-strange-world",
+    "id": "catalog-2022-strangeworld",
     "title": "Strange World",
     "year": 2022,
     "genre": "Animation · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p1"
+    "posterClass": "p1",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-2022-sonic-the-hedgehog-2",
+    "id": "catalog-2022-sonicthehedgehog2",
     "title": "Sonic the Hedgehog 2",
     "year": 2022,
     "genre": "Family · Adventure",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p2"
+    "posterClass": "p2",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-2022-matilda-the-musical",
+    "id": "catalog-2022-matildathemusical",
     "title": "Matilda the Musical",
     "year": 2022,
     "genre": "Family · Adventure",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p3"
+    "posterClass": "p3",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-2022-the-sea-beast",
+    "id": "catalog-2022-theseabeast",
     "title": "The Sea Beast",
     "year": 2022,
     "genre": "Family · Adventure",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p4"
+    "posterClass": "p4",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-2022-the-chosen-season-three-finale",
+    "id": "catalog-2022-thechosenseasonthreefinale",
     "title": "The Chosen: Season Three Finale",
     "year": 2022,
     "genre": "Family · Adventure",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p5"
+    "posterClass": "p5",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-2021-encanto",
-    "title": "Encanto",
-    "year": 2021,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p6"
-  },
-  {
-    "id": "catalog-2021-luca",
-    "title": "Luca",
-    "year": 2021,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p1"
-  },
-  {
-    "id": "catalog-2021-raya-and-the-last-dragon",
-    "title": "Raya and the Last Dragon",
-    "year": 2021,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p2"
-  },
-  {
-    "id": "catalog-2021-sing-2",
-    "title": "Sing 2",
-    "year": 2021,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p3"
-  },
-  {
-    "id": "catalog-2021-the-mitchells-vs-the-machines",
-    "title": "The Mitchells vs. the Machines",
-    "year": 2021,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p4"
-  },
-  {
-    "id": "catalog-2021-ron-s-gone-wrong",
+    "id": "catalog-2021-ronsgonewrong",
     "title": "Ron’s Gone Wrong",
     "year": 2021,
     "genre": "Animation · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p5"
+    "posterClass": "p5",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
     "id": "catalog-2021-vivo",
@@ -1239,30 +2183,62 @@ const movieCatalog = [
     "genre": "Animation · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p6"
-  },
-  {
-    "id": "catalog-2020-soul",
-    "title": "Soul",
-    "year": 2020,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p1"
+    "posterClass": "p6",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
     "id": "catalog-2020-onward",
@@ -1271,14 +2247,62 @@ const movieCatalog = [
     "genre": "Animation · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p2"
+    "posterClass": "p2",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
     "id": "catalog-2020-wolfwalkers",
@@ -1287,126 +2311,382 @@ const movieCatalog = [
     "genre": "Animation · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p3"
+    "posterClass": "p3",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-2020-the-croods-a-new-age",
+    "id": "catalog-2020-thecroodsanewage",
     "title": "The Croods: A New Age",
     "year": 2020,
     "genre": "Animation · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p4"
+    "posterClass": "p4",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-2020-over-the-moon",
+    "id": "catalog-2020-overthemoon",
     "title": "Over the Moon",
     "year": 2020,
     "genre": "Animation · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p5"
+    "posterClass": "p5",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-2019-toy-story-4",
+    "id": "catalog-2019-toystory4",
     "title": "Toy Story 4",
     "year": 2019,
     "genre": "Animation · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p6"
+    "posterClass": "p6",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-2019-frozen-ii",
-    "title": "Frozen II",
-    "year": 2019,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p1"
-  },
-  {
-    "id": "catalog-2019-how-to-train-your-dragon-the-hidden-world",
+    "id": "catalog-2019-howtotrainyourdragonthehiddenworld",
     "title": "How to Train Your Dragon: The Hidden World",
     "year": 2019,
     "genre": "Animation · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p2"
+    "posterClass": "p2",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-2019-the-lego-movie-2-the-second-part",
+    "id": "catalog-2019-thelegomovie2thesecondpart",
     "title": "The LEGO Movie 2: The Second Part",
     "year": 2019,
     "genre": "Animation · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p3"
-  },
-  {
-    "id": "catalog-2019-klaus",
-    "title": "Klaus",
-    "year": 2019,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p4"
+    "posterClass": "p3",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
     "id": "catalog-2019-abominable",
@@ -1415,78 +2695,190 @@ const movieCatalog = [
     "genre": "Animation · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p5"
+    "posterClass": "p5",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-2018-incredibles-2",
-    "title": "Incredibles 2",
-    "year": 2018,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p6"
-  },
-  {
-    "id": "catalog-2018-spider-man-into-the-spider-verse",
-    "title": "Spider-Man: Into the Spider-Verse",
-    "year": 2018,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p1"
-  },
-  {
-    "id": "catalog-2018-ralph-breaks-the-internet",
+    "id": "catalog-2018-ralphbreakstheinternet",
     "title": "Ralph Breaks the Internet",
     "year": 2018,
     "genre": "Animation · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p2"
+    "posterClass": "p2",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-2018-the-grinch",
+    "id": "catalog-2018-thegrinch",
     "title": "The Grinch",
     "year": 2018,
     "genre": "Animation · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p3"
+    "posterClass": "p3",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
     "id": "catalog-2018-smallfoot",
@@ -1495,62 +2887,126 @@ const movieCatalog = [
     "genre": "Animation · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p4"
+    "posterClass": "p4",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-2017-coco",
-    "title": "Coco",
-    "year": 2017,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p5"
-  },
-  {
-    "id": "catalog-2017-cars-3",
+    "id": "catalog-2017-cars3",
     "title": "Cars 3",
     "year": 2017,
     "genre": "Animation · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p6"
-  },
-  {
-    "id": "catalog-2017-the-lego-batman-movie",
-    "title": "The LEGO Batman Movie",
-    "year": 2017,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p1"
+    "posterClass": "p6",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
     "id": "catalog-2017-ferdinand",
@@ -1559,94 +3015,126 @@ const movieCatalog = [
     "genre": "Animation · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p2"
+    "posterClass": "p2",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-2017-the-star",
-    "title": "The Star",
-    "year": 2017,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p3"
-  },
-  {
-    "id": "catalog-2016-moana",
-    "title": "Moana",
-    "year": 2016,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p4"
-  },
-  {
-    "id": "catalog-2016-zootopia",
-    "title": "Zootopia",
-    "year": 2016,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p5"
-  },
-  {
-    "id": "catalog-2016-finding-dory",
-    "title": "Finding Dory",
-    "year": 2016,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p6"
-  },
-  {
-    "id": "catalog-2016-kubo-and-the-two-strings",
+    "id": "catalog-2016-kuboandthetwostrings",
     "title": "Kubo and the Two Strings",
     "year": 2016,
     "genre": "Animation · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p1"
+    "posterClass": "p1",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
     "id": "catalog-2016-sing",
@@ -1655,94 +3143,254 @@ const movieCatalog = [
     "genre": "Animation · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p2"
+    "posterClass": "p2",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-2016-the-secret-life-of-pets",
-    "title": "The Secret Life of Pets",
-    "year": 2016,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p3"
-  },
-  {
-    "id": "catalog-2015-inside-out",
-    "title": "Inside Out",
-    "year": 2015,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p4"
-  },
-  {
-    "id": "catalog-2015-the-good-dinosaur",
+    "id": "catalog-2015-thegooddinosaur",
     "title": "The Good Dinosaur",
     "year": 2015,
     "genre": "Animation · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p5"
+    "posterClass": "p5",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-2015-the-peanuts-movie",
+    "id": "catalog-2015-thepeanutsmovie",
     "title": "The Peanuts Movie",
     "year": 2015,
     "genre": "Animation · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p6"
+    "posterClass": "p6",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-2015-shaun-the-sheep-movie",
+    "id": "catalog-2015-shaunthesheepmovie",
     "title": "Shaun the Sheep Movie",
     "year": 2015,
     "genre": "Animation · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p1"
+    "posterClass": "p1",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
     "id": "catalog-2015-minions",
@@ -1751,318 +3399,446 @@ const movieCatalog = [
     "genre": "Animation · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p2"
+    "posterClass": "p2",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-2010-the-chronicles-of-narnia-the-voyage-of-the-dawn-treader",
+    "id": "catalog-2010-thechroniclesofnarniathevoyageofthedawntreader",
     "title": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
     "year": 2010,
     "genre": "Family · Adventure",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p3"
+    "posterClass": "p3",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-2010-toy-story-3",
-    "title": "Toy Story 3",
-    "year": 2010,
-    "genre": "Family · Adventure",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p4"
-  },
-  {
-    "id": "catalog-2010-how-to-train-your-dragon",
-    "title": "How to Train Your Dragon",
-    "year": 2010,
-    "genre": "Family · Adventure",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p5"
-  },
-  {
-    "id": "catalog-2010-tangled",
-    "title": "Tangled",
-    "year": 2010,
-    "genre": "Family · Adventure",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p6"
-  },
-  {
-    "id": "catalog-2008-wall-e",
-    "title": "WALL-E",
-    "year": 2008,
-    "genre": "Family · Adventure",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p1"
-  },
-  {
-    "id": "catalog-2008-the-chronicles-of-narnia-prince-caspian",
+    "id": "catalog-2008-thechroniclesofnarniaprincecaspian",
     "title": "The Chronicles of Narnia: Prince Caspian",
     "year": 2008,
     "genre": "Family · Adventure",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p2"
+    "posterClass": "p2",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-2008-kung-fu-panda",
-    "title": "Kung Fu Panda",
-    "year": 2008,
-    "genre": "Family · Adventure",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p3"
-  },
-  {
-    "id": "catalog-2005-the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe",
-    "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
-    "year": 2005,
-    "genre": "Fantasy · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p4"
-  },
-  {
-    "id": "catalog-2004-the-incredibles",
-    "title": "The Incredibles",
-    "year": 2004,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p5"
-  },
-  {
-    "id": "catalog-2004-shrek-2",
-    "title": "Shrek 2",
-    "year": 2004,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p6"
-  },
-  {
-    "id": "catalog-2004-the-polar-express",
-    "title": "The Polar Express",
-    "year": 2004,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p1"
-  },
-  {
-    "id": "catalog-2003-finding-nemo",
-    "title": "Finding Nemo",
-    "year": 2003,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p2"
-  },
-  {
-    "id": "catalog-2003-brother-bear",
+    "id": "catalog-2003-brotherbear",
     "title": "Brother Bear",
     "year": 2003,
     "genre": "Animation · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p3"
+    "posterClass": "p3",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-2001-the-lord-of-the-rings-the-fellowship-of-the-ring",
-    "title": "The Lord of the Rings: The Fellowship of the Ring",
-    "year": 2001,
-    "genre": "Fantasy · Adventure",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p4"
-  },
-  {
-    "id": "catalog-2001-harry-potter-and-the-sorcerer-s-stone",
-    "title": "Harry Potter and the Sorcerer’s Stone",
-    "year": 2001,
-    "genre": "Fantasy · Adventure",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p5"
-  },
-  {
-    "id": "catalog-2002-the-lord-of-the-rings-the-two-towers",
+    "id": "catalog-2002-thelordoftheringsthetwotowers",
     "title": "The Lord of the Rings: The Two Towers",
     "year": 2002,
     "genre": "Fantasy · Adventure",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p6"
+    "posterClass": "p6",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-2002-harry-potter-and-the-chamber-of-secrets",
+    "id": "catalog-2002-harrypotterandthechamberofsecrets",
     "title": "Harry Potter and the Chamber of Secrets",
     "year": 2002,
     "genre": "Fantasy · Adventure",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p1"
+    "posterClass": "p1",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-2003-the-lord-of-the-rings-the-return-of-the-king",
+    "id": "catalog-2003-thelordoftheringsthereturnoftheking",
     "title": "The Lord of the Rings: The Return of the King",
     "year": 2003,
     "genre": "Fantasy · Adventure",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p2"
-  },
-  {
-    "id": "catalog-1998-the-prince-of-egypt",
-    "title": "The Prince of Egypt",
-    "year": 1998,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p3"
+    "posterClass": "p2",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
     "id": "catalog-1998-mulan",
@@ -2071,46 +3847,62 @@ const movieCatalog = [
     "genre": "Animation · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p4"
-  },
-  {
-    "id": "catalog-1998-a-bug-s-life",
-    "title": "A Bug’s Life",
-    "year": 1998,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p5"
-  },
-  {
-    "id": "catalog-1995-toy-story",
-    "title": "Toy Story",
-    "year": 1995,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p6"
+    "posterClass": "p4",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
     "id": "catalog-1995-pocahontas",
@@ -2119,110 +3911,254 @@ const movieCatalog = [
     "genre": "Animation · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p1"
+    "posterClass": "p1",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-1994-the-lion-king",
-    "title": "The Lion King",
-    "year": 1994,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p2"
-  },
-  {
-    "id": "catalog-1991-beauty-and-the-beast",
-    "title": "Beauty and the Beast",
-    "year": 1991,
-    "genre": "Animation · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p3"
-  },
-  {
-    "id": "catalog-1989-the-little-mermaid",
+    "id": "catalog-1989-thelittlemermaid",
     "title": "The Little Mermaid",
     "year": 1989,
     "genre": "Animation · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p4"
+    "posterClass": "p4",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-1987-the-princess-bride",
-    "title": "The Princess Bride",
-    "year": 1987,
-    "genre": "Fantasy · Family",
-    "isCatalog": true,
-    "isSeed": false,
-    "status": "awaiting_research",
-    "verdict": null,
-    "age": null,
-    "themes": [],
-    "warnings": [],
-    "sources": [],
-    "synopsis": "",
-    "posterClass": "p5"
-  },
-  {
-    "id": "catalog-1965-the-sound-of-music",
+    "id": "catalog-1965-thesoundofmusic",
     "title": "The Sound of Music",
     "year": 1965,
     "genre": "Musical · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p6"
+    "posterClass": "p6",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
-    "id": "catalog-1964-mary-poppins",
+    "id": "catalog-1964-marypoppins",
     "title": "Mary Poppins",
     "year": 1964,
     "genre": "Family · Fantasy",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p1"
+    "posterClass": "p1",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
     "id": "catalog-1940-pinocchio",
@@ -2231,14 +4167,62 @@ const movieCatalog = [
     "genre": "Animation · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p2"
+    "posterClass": "p2",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   },
   {
     "id": "catalog-1940-fantasia",
@@ -2247,13 +4231,1853 @@ const movieCatalog = [
     "genre": "Animation · Family",
     "isCatalog": true,
     "isSeed": false,
-    "status": "awaiting_research",
+    "status": "awaiting_film_specific_evidence",
     "verdict": null,
     "age": null,
-    "themes": [],
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
     "warnings": [],
     "sources": [],
     "synopsis": "",
-    "posterClass": "p3"
+    "posterClass": "p3",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
+  },
+  {
+    "id": "catalog-2000-theemperorsnewgroove",
+    "title": "The Emperor’s New Groove",
+    "year": 2000,
+    "genre": "Animation · Comedy",
+    "isCatalog": true,
+    "isSeed": false,
+    "status": "awaiting_film_specific_evidence",
+    "verdict": null,
+    "age": null,
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
+    "warnings": [],
+    "sources": [],
+    "synopsis": "",
+    "posterClass": "p4",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
+  },
+  {
+    "id": "catalog-2001-monstersinc",
+    "title": "Monsters, Inc.",
+    "year": 2001,
+    "genre": "Animation · Family",
+    "isCatalog": true,
+    "isSeed": false,
+    "status": "awaiting_film_specific_evidence",
+    "verdict": null,
+    "age": null,
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
+    "warnings": [],
+    "sources": [],
+    "synopsis": "",
+    "posterClass": "p4",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
+  },
+  {
+    "id": "catalog-2002-treasureplanet",
+    "title": "Treasure Planet",
+    "year": 2002,
+    "genre": "Animation · Adventure",
+    "isCatalog": true,
+    "isSeed": false,
+    "status": "awaiting_film_specific_evidence",
+    "verdict": null,
+    "age": null,
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
+    "warnings": [],
+    "sources": [],
+    "synopsis": "",
+    "posterClass": "p4",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
+  },
+  {
+    "id": "catalog-1967-thejunglebook",
+    "title": "The Jungle Book",
+    "year": 1967,
+    "genre": "Animation · Adventure",
+    "isCatalog": true,
+    "isSeed": false,
+    "status": "awaiting_film_specific_evidence",
+    "verdict": null,
+    "age": null,
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
+    "warnings": [],
+    "sources": [],
+    "synopsis": "",
+    "posterClass": "p4",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
+  },
+  {
+    "id": "catalog-1950-cinderella",
+    "title": "Cinderella",
+    "year": 1950,
+    "genre": "Animation · Fantasy",
+    "isCatalog": true,
+    "isSeed": false,
+    "status": "awaiting_film_specific_evidence",
+    "verdict": null,
+    "age": null,
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
+    "warnings": [],
+    "sources": [],
+    "synopsis": "",
+    "posterClass": "p4",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
+  },
+  {
+    "id": "catalog-1937-snowwhiteandthesevendwarfs",
+    "title": "Snow White and the Seven Dwarfs",
+    "year": 1937,
+    "genre": "Animation · Fantasy",
+    "isCatalog": true,
+    "isSeed": false,
+    "status": "awaiting_film_specific_evidence",
+    "verdict": null,
+    "age": null,
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
+    "warnings": [],
+    "sources": [],
+    "synopsis": "",
+    "posterClass": "p4",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
+  },
+  {
+    "id": "catalog-1959-sleepingbeauty",
+    "title": "Sleeping Beauty",
+    "year": 1959,
+    "genre": "Animation · Fantasy",
+    "isCatalog": true,
+    "isSeed": false,
+    "status": "awaiting_film_specific_evidence",
+    "verdict": null,
+    "age": null,
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
+    "warnings": [],
+    "sources": [],
+    "synopsis": "",
+    "posterClass": "p4",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
+  },
+  {
+    "id": "catalog-1951-aliceinwonderland",
+    "title": "Alice in Wonderland",
+    "year": 1951,
+    "genre": "Animation · Fantasy",
+    "isCatalog": true,
+    "isSeed": false,
+    "status": "awaiting_film_specific_evidence",
+    "verdict": null,
+    "age": null,
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
+    "warnings": [],
+    "sources": [],
+    "synopsis": "",
+    "posterClass": "p4",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
+  },
+  {
+    "id": "catalog-1977-therescuers",
+    "title": "The Rescuers",
+    "year": 1977,
+    "genre": "Animation · Adventure",
+    "isCatalog": true,
+    "isSeed": false,
+    "status": "awaiting_film_specific_evidence",
+    "verdict": null,
+    "age": null,
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
+    "warnings": [],
+    "sources": [],
+    "synopsis": "",
+    "posterClass": "p4",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
+  },
+  {
+    "id": "catalog-1990-therescuersdownunder",
+    "title": "The Rescuers Down Under",
+    "year": 1990,
+    "genre": "Animation · Adventure",
+    "isCatalog": true,
+    "isSeed": false,
+    "status": "awaiting_film_specific_evidence",
+    "verdict": null,
+    "age": null,
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
+    "warnings": [],
+    "sources": [],
+    "synopsis": "",
+    "posterClass": "p4",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
+  },
+  {
+    "id": "catalog-1996-thehunchbackofnotredame",
+    "title": "The Hunchback of Notre Dame",
+    "year": 1996,
+    "genre": "Animation · Musical",
+    "isCatalog": true,
+    "isSeed": false,
+    "status": "awaiting_film_specific_evidence",
+    "verdict": null,
+    "age": null,
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
+    "warnings": [],
+    "sources": [],
+    "synopsis": "",
+    "posterClass": "p4",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
+  },
+  {
+    "id": "catalog-1997-hercules",
+    "title": "Hercules",
+    "year": 1997,
+    "genre": "Animation · Fantasy",
+    "isCatalog": true,
+    "isSeed": false,
+    "status": "awaiting_film_specific_evidence",
+    "verdict": null,
+    "age": null,
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
+    "warnings": [],
+    "sources": [],
+    "synopsis": "",
+    "posterClass": "p4",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
+  },
+  {
+    "id": "catalog-1999-tarzan",
+    "title": "Tarzan",
+    "year": 1999,
+    "genre": "Animation · Adventure",
+    "isCatalog": true,
+    "isSeed": false,
+    "status": "awaiting_film_specific_evidence",
+    "verdict": null,
+    "age": null,
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
+    "warnings": [],
+    "sources": [],
+    "synopsis": "",
+    "posterClass": "p4",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
+  },
+  {
+    "id": "catalog-2001-atlantisthelostempire",
+    "title": "Atlantis: The Lost Empire",
+    "year": 2001,
+    "genre": "Animation · Adventure",
+    "isCatalog": true,
+    "isSeed": false,
+    "status": "awaiting_film_specific_evidence",
+    "verdict": null,
+    "age": null,
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
+    "warnings": [],
+    "sources": [],
+    "synopsis": "",
+    "posterClass": "p4",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
+  },
+  {
+    "id": "catalog-2008-bolt",
+    "title": "Bolt",
+    "year": 2008,
+    "genre": "Animation · Adventure",
+    "isCatalog": true,
+    "isSeed": false,
+    "status": "awaiting_film_specific_evidence",
+    "verdict": null,
+    "age": null,
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
+    "warnings": [],
+    "sources": [],
+    "synopsis": "",
+    "posterClass": "p4",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
+  },
+  {
+    "id": "catalog-2007-meettherobinsons",
+    "title": "Meet the Robinsons",
+    "year": 2007,
+    "genre": "Animation · Sci-Fi",
+    "isCatalog": true,
+    "isSeed": false,
+    "status": "awaiting_film_specific_evidence",
+    "verdict": null,
+    "age": null,
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
+    "warnings": [],
+    "sources": [],
+    "synopsis": "",
+    "posterClass": "p4",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
+  },
+  {
+    "id": "catalog-2014-bighero6",
+    "title": "Big Hero 6",
+    "year": 2014,
+    "genre": "Animation · Action",
+    "isCatalog": true,
+    "isSeed": false,
+    "status": "awaiting_film_specific_evidence",
+    "verdict": null,
+    "age": null,
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
+    "warnings": [],
+    "sources": [],
+    "synopsis": "",
+    "posterClass": "p4",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
+  },
+  {
+    "id": "catalog-1990-homealone",
+    "title": "Home Alone",
+    "year": 1990,
+    "genre": "Comedy · Family",
+    "isCatalog": true,
+    "isSeed": false,
+    "status": "awaiting_film_specific_evidence",
+    "verdict": null,
+    "age": null,
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
+    "warnings": [],
+    "sources": [],
+    "synopsis": "",
+    "posterClass": "p4",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
+  },
+  {
+    "id": "catalog-1992-homealone2lostinnewyork",
+    "title": "Home Alone 2: Lost in New York",
+    "year": 1992,
+    "genre": "Comedy · Family",
+    "isCatalog": true,
+    "isSeed": false,
+    "status": "awaiting_film_specific_evidence",
+    "verdict": null,
+    "age": null,
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
+    "warnings": [],
+    "sources": [],
+    "synopsis": "",
+    "posterClass": "p4",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
+  },
+  {
+    "id": "catalog-1982-ettheextraterrestrial",
+    "title": "E.T. the Extra-Terrestrial",
+    "year": 1982,
+    "genre": "Sci-Fi · Family",
+    "isCatalog": true,
+    "isSeed": false,
+    "status": "awaiting_film_specific_evidence",
+    "verdict": null,
+    "age": null,
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
+    "warnings": [],
+    "sources": [],
+    "synopsis": "",
+    "posterClass": "p4",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
+  },
+  {
+    "id": "catalog-1993-thesandlot",
+    "title": "The Sandlot",
+    "year": 1993,
+    "genre": "Comedy · Family",
+    "isCatalog": true,
+    "isSeed": false,
+    "status": "awaiting_film_specific_evidence",
+    "verdict": null,
+    "age": null,
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
+    "warnings": [],
+    "sources": [],
+    "synopsis": "",
+    "posterClass": "p4",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
+  },
+  {
+    "id": "catalog-1985-thegoonies",
+    "title": "The Goonies",
+    "year": 1985,
+    "genre": "Adventure · Family",
+    "isCatalog": true,
+    "isSeed": false,
+    "status": "awaiting_film_specific_evidence",
+    "verdict": null,
+    "age": null,
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
+    "warnings": [],
+    "sources": [],
+    "synopsis": "",
+    "posterClass": "p4",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
+  },
+  {
+    "id": "catalog-1984-theneverendingstory",
+    "title": "The NeverEnding Story",
+    "year": 1984,
+    "genre": "Fantasy · Adventure",
+    "isCatalog": true,
+    "isSeed": false,
+    "status": "awaiting_film_specific_evidence",
+    "verdict": null,
+    "age": null,
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
+    "warnings": [],
+    "sources": [],
+    "synopsis": "",
+    "posterClass": "p4",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
+  },
+  {
+    "id": "catalog-1984-thekaratekid",
+    "title": "The Karate Kid",
+    "year": 1984,
+    "genre": "Drama · Sports",
+    "isCatalog": true,
+    "isSeed": false,
+    "status": "awaiting_film_specific_evidence",
+    "verdict": null,
+    "age": null,
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
+    "warnings": [],
+    "sources": [],
+    "synopsis": "",
+    "posterClass": "p4",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
+  },
+  {
+    "id": "catalog-2016-hiddenfigures",
+    "title": "Hidden Figures",
+    "year": 2016,
+    "genre": "Drama · History",
+    "isCatalog": true,
+    "isSeed": false,
+    "status": "awaiting_film_specific_evidence",
+    "verdict": null,
+    "age": null,
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
+    "warnings": [],
+    "sources": [],
+    "synopsis": "",
+    "posterClass": "p4",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
+  },
+  {
+    "id": "catalog-2017-wonder",
+    "title": "Wonder",
+    "year": 2017,
+    "genre": "Drama · Family",
+    "isCatalog": true,
+    "isSeed": false,
+    "status": "awaiting_film_specific_evidence",
+    "verdict": null,
+    "age": null,
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
+    "warnings": [],
+    "sources": [],
+    "synopsis": "",
+    "posterClass": "p4",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
+  },
+  {
+    "id": "catalog-1998-thetrumanshow",
+    "title": "The Truman Show",
+    "year": 1998,
+    "genre": "Drama · Sci-Fi",
+    "isCatalog": true,
+    "isSeed": false,
+    "status": "awaiting_film_specific_evidence",
+    "verdict": null,
+    "age": null,
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
+    "warnings": [],
+    "sources": [],
+    "synopsis": "",
+    "posterClass": "p4",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
+  },
+  {
+    "id": "catalog-2014-interstellar",
+    "title": "Interstellar",
+    "year": 2014,
+    "genre": "Sci-Fi · Drama",
+    "isCatalog": true,
+    "isSeed": false,
+    "status": "awaiting_film_specific_evidence",
+    "verdict": null,
+    "age": null,
+    "themes": [
+      {
+        "name": "Moral message and virtues",
+        "type": "positive",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific review."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Sexual content and immodesty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Requires film-specific content guide."
+      }
+    ],
+    "warnings": [],
+    "sources": [],
+    "synopsis": "",
+    "posterClass": "p4",
+    "reviewStatus": "research_pending",
+    "questions": [
+      "What action in this movie best illustrates responsibility or selfishness?",
+      "What does the ending ask us to admire, and do we agree?",
+      "When characters make poor choices, are there consequences or genuine repentance?",
+      "Does the story give a helpful or misleading picture of love, truth, justice, or spiritual life?",
+      "What would we want to discuss with our father of confession or parish priest if the film raises a difficult moral question?"
+    ],
+    "contentCoverage": "not_verified",
+    "theologicalApproval": "pending",
+    "editorNote": "Not a completed review. Research links below are discovery links only and do not constitute verified source evidence.",
+    "researchFocus": "Review plot, moral framing, family impact, spirituality, content warnings, and whether scenes condemn or celebrate harmful behavior.",
+    "scripture": [
+      "Philippians 4:8"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "Use this verse as a discernment prompt while the movie-specific review remains pending."
+    }
   }
 ];

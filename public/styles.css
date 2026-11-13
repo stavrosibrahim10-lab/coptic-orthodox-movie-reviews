@@ -27,3 +27,11 @@
 
 /* V9: keep original proportions; pastoral note is deliberately understated */
 .pastoral-guidance{background:#eef4eb;border-left:3px solid #377b5b;color:#365546;padding:13px 15px;border-radius:4px;font-size:12px;line-height:1.75;margin-top:15px}
+
+/* V12 foundation: scripture accent within existing hero layout */
+.theme-verse{display:flex;flex-direction:column;max-width:625px;border-left:3px solid #d7bd82;padding:4px 0 4px 16px;margin:0 0 24px;gap:4px;color:#e7e3d6;font-family:Georgia,serif;font-size:15px;line-height:1.5}
+.theme-verse-ref{font:800 10px/1.5 Arial,sans-serif;letter-spacing:.15em;color:#e1c390}
+.theme-verse small{color:#aebcb7;font:11px/1.5 Arial,sans-serif}
+
+/* V12: theological citations, minimal styling; original layout unchanged */
+.faith-panel{border-left:3px solid #b59a69;background:#f5f5ee;padding:16px 18px;margin-top:19px;border-radius:4px}.faith-panel h3{font-size:18px;margin:7px 0 9px}.faith-panel p{margin:0 0 8px}.faith-panel small{font-size:11px;color:#58665f}.faith-panel a{color:#285f4b;text-decoration:underline}.faith-panel.patristic{border-color:#618a76;background:#eef3ed}

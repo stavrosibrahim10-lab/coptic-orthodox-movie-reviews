@@ -1,3 +1,4 @@
+/* The Orthodox Lens V12 — canonical entries; original spiritual assessments are not official Church teaching. */
 const seedReviews = [
   {
     "id": "film-toy-story-5",
@@ -99,7 +100,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Philippians 2:4",
+      "connection": "A passage for reflecting on love and self-sacrifice; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "film-hoppers",
@@ -201,7 +206,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Genesis 2:15",
+      "connection": "A passage for reflecting on compassion and service; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "film-shaun-the-sheep-beast",
@@ -290,7 +299,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Proverbs 18:13",
+      "connection": "A passage for reflecting on family and responsibility; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "film-king-of-kings",
@@ -393,7 +406,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Luke 23",
+      "connection": "A passage for reflecting on faith and trust in god; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "film-minecraft-movie",
@@ -482,7 +499,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "1 Thessalonians 5:21",
+      "connection": "A passage for reflecting on courage and hope; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "film-wild-robot",
@@ -589,7 +610,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "John 15:13",
+      "connection": "A passage for reflecting on love and self-sacrifice; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "film-inside-out-2",
@@ -696,7 +721,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Psalm 42:5",
+      "connection": "A passage for reflecting on compassion and service; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "film-paddington-peru",
@@ -802,7 +831,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Romans 12:10",
+      "connection": "A passage for reflecting on family and responsibility; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "film-flow",
@@ -891,7 +924,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Luke 10:33–37",
+      "connection": "A passage for reflecting on compassion and service; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "film-the-forge",
@@ -998,7 +1035,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "James 2:17",
+      "connection": "A passage for reflecting on faith and trust in god; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "researched-moana-2",
@@ -1100,7 +1141,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "1 Corinthians 10:31",
+      "connection": "A passage for reflecting on family and responsibility; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "researched-sonic-the-hedgehog-3",
@@ -1197,7 +1242,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Romans 12:19",
+      "connection": "A passage for reflecting on forgiveness and reconciliation; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "researched-zootopia-2",
@@ -1299,7 +1348,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "James 2:1",
+      "connection": "A passage for reflecting on truthfulness and integrity; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "researched-dog-man",
@@ -1396,7 +1449,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Romans 12:10",
+      "connection": "A passage for reflecting on compassion and service; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "researched-lilo-stitch-2025",
@@ -1498,7 +1555,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Galatians 6:2",
+      "connection": "A passage for reflecting on family and responsibility; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "researched-how-to-train-your-dragon-2025",
@@ -1595,7 +1656,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Matthew 5:9",
+      "connection": "A passage for reflecting on compassion and service; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "researched-the-bad-guys-2",
@@ -1699,7 +1764,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Luke 3:8",
+      "connection": "A passage for reflecting on humility and repentance; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "researched-the-super-mario-bros-movie",
@@ -1796,7 +1865,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "1 Corinthians 16:13–14",
+      "connection": "A passage for reflecting on family and responsibility; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "batch1-1998-the-prince-of-egypt",
@@ -1888,7 +1961,19 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Exodus 3:7–12",
+      "connection": "A passage for reflecting on faith and trust in god; families should read it in context rather than assuming the film teaches the passage."
+    },
+    "patristic": {
+      "author": "St. Basil the Great",
+      "work": "Address to Young Men on the Right Use of Greek Literature",
+      "section": "IV–VIII",
+      "type": "verified_paraphrase",
+      "text": "St. Basil counsels readers to value what cultivates virtue in non-Christian literature while rejecting what damages the soul. The same discriminating attention can guide the way we approach a film.",
+      "url": "https://www.tertullian.org/fathers/basil_litterature01.htm"
+    }
   },
   {
     "id": "batch1-1994-the-lion-king",
@@ -1980,7 +2065,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Luke 15:17–24",
+      "connection": "A passage for reflecting on family and responsibility; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "batch1-2003-finding-nemo",
@@ -2072,7 +2161,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "1 Corinthians 13:4–7",
+      "connection": "A passage for reflecting on family and responsibility; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "batch1-1995-toy-story",
@@ -2164,7 +2257,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "James 3:16",
+      "connection": "A passage for reflecting on humility and repentance; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "batch1-2010-toy-story-3",
@@ -2256,7 +2353,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "John 15:13",
+      "connection": "A passage for reflecting on love and self-sacrifice; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "batch1-2019-frozen-ii",
@@ -2348,7 +2449,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "James 1:12",
+      "connection": "A passage for reflecting on love and self-sacrifice; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "batch1-2021-encanto",
@@ -2440,7 +2545,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "1 Corinthians 12:22–26",
+      "connection": "A passage for reflecting on family and responsibility; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "batch1-2017-coco",
@@ -2539,7 +2648,19 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "John 11:25–26",
+      "connection": "A passage for reflecting on family and responsibility; families should read it in context rather than assuming the film teaches the passage."
+    },
+    "patristic": {
+      "author": "St. Basil the Great",
+      "work": "Address to Young Men on the Right Use of Greek Literature",
+      "section": "IV–VIII",
+      "type": "verified_paraphrase",
+      "text": "St. Basil counsels readers to value what cultivates virtue in non-Christian literature while rejecting what damages the soul. The same discriminating attention can guide the way we approach a film.",
+      "url": "https://www.tertullian.org/fathers/basil_litterature01.htm"
+    }
   },
   {
     "id": "batch1-2015-inside-out",
@@ -2631,7 +2752,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Psalm 42:11",
+      "connection": "A passage for reflecting on truthfulness and integrity; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "batch1-2016-zootopia",
@@ -2723,7 +2848,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "James 2:1–4",
+      "connection": "A passage for reflecting on truthfulness and integrity; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "batch1-2016-moana",
@@ -2822,7 +2951,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Joshua 1:9",
+      "connection": "A passage for reflecting on courage and hope; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "batch1-2004-the-incredibles",
@@ -2914,7 +3047,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "1 Corinthians 12:25–26",
+      "connection": "A passage for reflecting on family and responsibility; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "batch1-2010-tangled",
@@ -3013,7 +3150,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "1 Corinthians 13:4–6",
+      "connection": "A passage for reflecting on courage and hope; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "batch1-2008-wall-e",
@@ -3105,7 +3246,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Genesis 2:15",
+      "connection": "A passage for reflecting on compassion and service; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "batch1-1991-beauty-and-the-beast",
@@ -3197,7 +3342,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "1 Corinthians 13:4–7",
+      "connection": "A passage for reflecting on love and self-sacrifice; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "batch1-2005-the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe",
@@ -3296,7 +3445,19 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "John 15:13",
+      "connection": "A passage for reflecting on love and self-sacrifice; families should read it in context rather than assuming the film teaches the passage."
+    },
+    "patristic": {
+      "author": "St. Basil the Great",
+      "work": "Address to Young Men on the Right Use of Greek Literature",
+      "section": "IV–VIII",
+      "type": "verified_paraphrase",
+      "text": "St. Basil counsels readers to value what cultivates virtue in non-Christian literature while rejecting what damages the soul. The same discriminating attention can guide the way we approach a film.",
+      "url": "https://www.tertullian.org/fathers/basil_litterature01.htm"
+    }
   },
   {
     "id": "batch1-2001-the-lord-of-the-rings-the-fellowship-of-the-ring",
@@ -3395,7 +3556,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Mark 8:36",
+      "connection": "A passage for reflecting on humility and repentance; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "batch1-2001-harry-potter-and-the-sorcerer-s-stone",
@@ -3487,7 +3652,19 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Proverbs 3:5–6",
+      "connection": "A passage for reflecting on courage and hope; families should read it in context rather than assuming the film teaches the passage."
+    },
+    "patristic": {
+      "author": "St. Basil the Great",
+      "work": "Address to Young Men on the Right Use of Greek Literature",
+      "section": "IV–VIII",
+      "type": "verified_paraphrase",
+      "text": "St. Basil counsels readers to value what cultivates virtue in non-Christian literature while rejecting what damages the soul. The same discriminating attention can guide the way we approach a film.",
+      "url": "https://www.tertullian.org/fathers/basil_litterature01.htm"
+    }
   },
   {
     "id": "batch1-2022-puss-in-boots-the-last-wish",
@@ -3586,7 +3763,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Psalm 90:12",
+      "connection": "A passage for reflecting on humility and repentance; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "batch1-2022-turning-red",
@@ -3685,7 +3866,19 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Ephesians 4:25",
+      "connection": "A passage for reflecting on family and responsibility; families should read it in context rather than assuming the film teaches the passage."
+    },
+    "patristic": {
+      "author": "St. Basil the Great",
+      "work": "Address to Young Men on the Right Use of Greek Literature",
+      "section": "IV–VIII",
+      "type": "verified_paraphrase",
+      "text": "St. Basil counsels readers to value what cultivates virtue in non-Christian literature while rejecting what damages the soul. The same discriminating attention can guide the way we approach a film.",
+      "url": "https://www.tertullian.org/fathers/basil_litterature01.htm"
+    }
   },
   {
     "id": "batch1-2021-luca",
@@ -3777,7 +3970,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Luke 10:33–37",
+      "connection": "A passage for reflecting on compassion and service; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "batch1-2020-soul",
@@ -3869,7 +4066,19 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Psalm 139:13–16",
+      "connection": "A passage for reflecting on compassion and service; families should read it in context rather than assuming the film teaches the passage."
+    },
+    "patristic": {
+      "author": "St. Basil the Great",
+      "work": "Address to Young Men on the Right Use of Greek Literature",
+      "section": "IV–VIII",
+      "type": "verified_paraphrase",
+      "text": "St. Basil counsels readers to value what cultivates virtue in non-Christian literature while rejecting what damages the soul. The same discriminating attention can guide the way we approach a film.",
+      "url": "https://www.tertullian.org/fathers/basil_litterature01.htm"
+    }
   },
   {
     "id": "batch1-2008-kung-fu-panda",
@@ -3968,7 +4177,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "1 Timothy 4:8",
+      "connection": "A passage for reflecting on humility and repentance; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "batch1-2017-the-star",
@@ -4060,7 +4273,19 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Luke 2:1–20",
+      "connection": "A passage for reflecting on faith and trust in god; families should read it in context rather than assuming the film teaches the passage."
+    },
+    "patristic": {
+      "author": "St. Basil the Great",
+      "work": "Address to Young Men on the Right Use of Greek Literature",
+      "section": "IV–VIII",
+      "type": "verified_paraphrase",
+      "text": "St. Basil counsels readers to value what cultivates virtue in non-Christian literature while rejecting what damages the soul. The same discriminating attention can guide the way we approach a film.",
+      "url": "https://www.tertullian.org/fathers/basil_litterature01.htm"
+    }
   },
   {
     "id": "batch1-2019-klaus",
@@ -4152,7 +4377,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Matthew 6:3–4",
+      "connection": "A passage for reflecting on compassion and service; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "film-david-2025",
@@ -4244,7 +4473,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "1 Samuel 17:45",
+      "connection": "A passage for reflecting on faith and trust in god; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "film-elio-2025",
@@ -4336,7 +4569,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Romans 12:15",
+      "connection": "A passage for reflecting on compassion and service; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "film-freakier-friday-2025",
@@ -4428,7 +4665,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Philippians 2:4",
+      "connection": "A passage for reflecting on family and responsibility; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "film-in-your-dreams-2025",
@@ -4520,7 +4761,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Colossians 3:13",
+      "connection": "A passage for reflecting on family and responsibility; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "film-hola-frida-2025",
@@ -4612,7 +4857,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "2 Corinthians 1:3–4",
+      "connection": "A passage for reflecting on courage and hope; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "film-arco-2025",
@@ -4704,7 +4953,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "John 15:13",
+      "connection": "A passage for reflecting on love and self-sacrifice; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "film-dora-and-the-search-for-sol-dorado-2025",
@@ -4796,7 +5049,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Matthew 6:21",
+      "connection": "A passage for reflecting on courage and hope; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "film-guardians-of-the-galapagos-2025",
@@ -4888,7 +5145,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Genesis 2:15",
+      "connection": "A passage for reflecting on compassion and service; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "film-pangolin-kulu-s-journey-2025",
@@ -4980,7 +5241,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Proverbs 12:10",
+      "connection": "A passage for reflecting on compassion and service; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "film-pets-2025",
@@ -5072,7 +5337,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Proverbs 12:10",
+      "connection": "A passage for reflecting on compassion and service; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "film-the-colors-within-2025",
@@ -5164,7 +5433,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "1 Peter 4:10",
+      "connection": "A passage for reflecting on compassion and service; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "film-a-tooth-fairy-tale-2025",
@@ -5256,7 +5529,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "1 Thessalonians 5:21",
+      "connection": "A passage for reflecting on courage and hope; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "film-grow-2025",
@@ -5348,7 +5625,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Ephesians 4:32",
+      "connection": "A passage for reflecting on family and responsibility; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "film-monster-mia-2026",
@@ -5440,7 +5721,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "1 Samuel 16:7",
+      "connection": "A passage for reflecting on compassion and service; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "film-paw-patrol-the-dino-movie-2026",
@@ -5532,7 +5817,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Galatians 6:2",
+      "connection": "A passage for reflecting on compassion and service; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "film-the-cat-in-the-hat-2026",
@@ -5624,7 +5913,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Romans 12:10",
+      "connection": "A passage for reflecting on family and responsibility; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "film-tom-and-jerry-forbidden-compass-2026",
@@ -5716,7 +6009,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Proverbs 15:1",
+      "connection": "A passage for reflecting on courage and hope; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "film-coyote-vs-acme-2026",
@@ -5808,7 +6105,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Micah 6:8",
+      "connection": "A passage for reflecting on truthfulness and integrity; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "film-minions-monsters-2026",
@@ -5900,7 +6201,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Proverbs 17:22",
+      "connection": "A passage for reflecting on courage and hope; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "film-forgotten-island-2026",
@@ -5992,7 +6297,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "1 Thessalonians 5:21",
+      "connection": "A passage for reflecting on love and self-sacrifice; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "film-the-magic-faraway-tree-2026",
@@ -6084,7 +6393,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Philippians 4:8",
+      "connection": "A passage for reflecting on family and responsibility; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "film-not-my-dog-2026",
@@ -6176,7 +6489,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Ephesians 4:32",
+      "connection": "A passage for reflecting on compassion and service; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "film-super-charlie-2026",
@@ -6268,7 +6585,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Romans 12:10",
+      "connection": "A passage for reflecting on family and responsibility; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "film-chickenhare-and-the-secret-of-the-groundhog-2026",
@@ -6360,7 +6681,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "1 Peter 4:10",
+      "connection": "A passage for reflecting on courage and hope; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "film-before-the-ice-melts-2026",
@@ -6452,7 +6777,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Colossians 3:23",
+      "connection": "A passage for reflecting on courage and hope; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "title": "The Mitchells vs. the Machines",
@@ -6561,7 +6890,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "James 1:19",
+      "connection": "A passage for reflecting on family and responsibility; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "title": "Wonka",
@@ -6670,7 +7003,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "1 Timothy 6:10",
+      "connection": "A passage for reflecting on compassion and service; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "title": "Elemental",
@@ -6779,7 +7116,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Exodus 20:12",
+      "connection": "A passage for reflecting on family and responsibility; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "title": "Transformers One",
@@ -6888,7 +7229,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Ephesians 4:26–27",
+      "connection": "A passage for reflecting on courage and hope; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "title": "Spider-Man: Across the Spider-Verse",
@@ -6997,7 +7342,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "John 15:13",
+      "connection": "A passage for reflecting on love and self-sacrifice; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "title": "The Garfield Movie",
@@ -7106,7 +7455,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Ephesians 4:32",
+      "connection": "A passage for reflecting on forgiveness and reconciliation; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "title": "Migration",
@@ -7210,7 +7563,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Matthew 6:34",
+      "connection": "A passage for reflecting on family and responsibility; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "title": "The Magician's Elephant",
@@ -7314,7 +7671,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Romans 12:12",
+      "connection": "A passage for reflecting on courage and hope; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "film-the-bad-guys-2022",
@@ -7404,7 +7765,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Luke 15:7",
+      "connection": "A passage for reflecting on humility and repentance; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "film-sing-2-2021",
@@ -7494,7 +7859,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Colossians 3:23",
+      "connection": "A passage for reflecting on courage and hope; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "film-ratatouille-2007",
@@ -7596,7 +7965,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Proverbs 12:22",
+      "connection": "A passage for reflecting on courage and hope; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "film-despicable-me-2010",
@@ -7698,7 +8071,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Philippians 2:4",
+      "connection": "A passage for reflecting on love and self-sacrifice; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "film-a-bugs-life-1998",
@@ -7800,7 +8177,11 @@ const seedReviews = [
       "spiritual_content": "not_exhaustively_verified",
       "substance_use": "not_exhaustively_verified"
     },
-    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending."
+    "editorNote": "Existing provisional review: linked sources not exhaustively independently audited. Theological approval pending.",
+    "themeScripture": {
+      "reference": "Micah 6:8",
+      "connection": "A passage for reflecting on courage and hope; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "bbfc-2016-finding-dory",
@@ -7893,7 +8274,11 @@ const seedReviews = [
       "spiritual_content": "interpretive",
       "substance_use": "source_check_required"
     },
-    "editorNote": "Official BBFC content guidance supports listed cautions only. Missing categories have not been confirmed absent. Theological assessment awaits qualified Coptic Orthodox editor."
+    "editorNote": "Official BBFC content guidance supports listed cautions only. Missing categories have not been confirmed absent. Theological assessment awaits qualified Coptic Orthodox editor.",
+    "themeScripture": {
+      "reference": "Romans 12:12",
+      "connection": "A passage for reflecting on family and responsibility; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "bbfc-2018-incredibles-2",
@@ -7991,7 +8376,11 @@ const seedReviews = [
       "spiritual_content": "interpretive",
       "substance_use": "source_check_required"
     },
-    "editorNote": "Official BBFC content guidance supports listed cautions only. Missing categories have not been confirmed absent. Theological assessment awaits qualified Coptic Orthodox editor."
+    "editorNote": "Official BBFC content guidance supports listed cautions only. Missing categories have not been confirmed absent. Theological assessment awaits qualified Coptic Orthodox editor.",
+    "themeScripture": {
+      "reference": "Mark 10:43",
+      "connection": "A passage for reflecting on family and responsibility; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "bbfc-2006-cars",
@@ -8079,7 +8468,11 @@ const seedReviews = [
       "spiritual_content": "interpretive",
       "substance_use": "source_check_required"
     },
-    "editorNote": "Official BBFC content guidance supports listed cautions only. Missing categories have not been confirmed absent. Theological assessment awaits qualified Coptic Orthodox editor."
+    "editorNote": "Official BBFC content guidance supports listed cautions only. Missing categories have not been confirmed absent. Theological assessment awaits qualified Coptic Orthodox editor.",
+    "themeScripture": {
+      "reference": "Philippians 2:3-4",
+      "connection": "A passage for reflecting on humility and repentance; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "bbfc-2016-the-secret-life-of-pets",
@@ -8172,7 +8565,11 @@ const seedReviews = [
       "spiritual_content": "interpretive",
       "substance_use": "source_check_required"
     },
-    "editorNote": "Official BBFC content guidance supports listed cautions only. Missing categories have not been confirmed absent. Theological assessment awaits qualified Coptic Orthodox editor."
+    "editorNote": "Official BBFC content guidance supports listed cautions only. Missing categories have not been confirmed absent. Theological assessment awaits qualified Coptic Orthodox editor.",
+    "themeScripture": {
+      "reference": "Romans 12:10",
+      "connection": "A passage for reflecting on family and responsibility; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "bbfc-2001-shrek",
@@ -8270,7 +8667,11 @@ const seedReviews = [
       "spiritual_content": "interpretive",
       "substance_use": "source_check_required"
     },
-    "editorNote": "Official BBFC content guidance supports listed cautions only. Missing categories have not been confirmed absent. Theological assessment awaits qualified Coptic Orthodox editor."
+    "editorNote": "Official BBFC content guidance supports listed cautions only. Missing categories have not been confirmed absent. Theological assessment awaits qualified Coptic Orthodox editor.",
+    "themeScripture": {
+      "reference": "1 Samuel 16:7",
+      "connection": "A passage for reflecting on compassion and service; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "bbfc-2014-the-lego-movie",
@@ -8363,7 +8764,11 @@ const seedReviews = [
       "spiritual_content": "interpretive",
       "substance_use": "source_check_required"
     },
-    "editorNote": "Official BBFC content guidance supports listed cautions only. Missing categories have not been confirmed absent. Theological assessment awaits qualified Coptic Orthodox editor."
+    "editorNote": "Official BBFC content guidance supports listed cautions only. Missing categories have not been confirmed absent. Theological assessment awaits qualified Coptic Orthodox editor.",
+    "themeScripture": {
+      "reference": "1 Corinthians 12:12",
+      "connection": "A passage for reflecting on courage and hope; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "bbfc-2012-brave",
@@ -8456,7 +8861,11 @@ const seedReviews = [
       "spiritual_content": "interpretive",
       "substance_use": "source_check_required"
     },
-    "editorNote": "Official BBFC content guidance supports listed cautions only. Missing categories have not been confirmed absent. Theological assessment awaits qualified Coptic Orthodox editor."
+    "editorNote": "Official BBFC content guidance supports listed cautions only. Missing categories have not been confirmed absent. Theological assessment awaits qualified Coptic Orthodox editor.",
+    "themeScripture": {
+      "reference": "Ephesians 6:1-3",
+      "connection": "A passage for reflecting on forgiveness and reconciliation; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "bbfc-2009-up",
@@ -8544,7 +8953,11 @@ const seedReviews = [
       "spiritual_content": "interpretive",
       "substance_use": "source_check_required"
     },
-    "editorNote": "Official BBFC content guidance supports listed cautions only. Missing categories have not been confirmed absent. Theological assessment awaits qualified Coptic Orthodox editor."
+    "editorNote": "Official BBFC content guidance supports listed cautions only. Missing categories have not been confirmed absent. Theological assessment awaits qualified Coptic Orthodox editor.",
+    "themeScripture": {
+      "reference": "Romans 12:15",
+      "connection": "A passage for reflecting on love and self-sacrifice; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "bbfc-2004-shrek-2",
@@ -8642,7 +9055,11 @@ const seedReviews = [
       "spiritual_content": "interpretive",
       "substance_use": "source_check_required"
     },
-    "editorNote": "Official BBFC content guidance supports listed cautions only. Missing categories have not been confirmed absent. Theological assessment awaits qualified Coptic Orthodox editor."
+    "editorNote": "Official BBFC content guidance supports listed cautions only. Missing categories have not been confirmed absent. Theological assessment awaits qualified Coptic Orthodox editor.",
+    "themeScripture": {
+      "reference": "Ephesians 4:25",
+      "connection": "A passage for reflecting on family and responsibility; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "bbfc-2017-the-lego-batman-movie",
@@ -8735,7 +9152,11 @@ const seedReviews = [
       "spiritual_content": "interpretive",
       "substance_use": "source_check_required"
     },
-    "editorNote": "Official BBFC content guidance supports listed cautions only. Missing categories have not been confirmed absent. Theological assessment awaits qualified Coptic Orthodox editor."
+    "editorNote": "Official BBFC content guidance supports listed cautions only. Missing categories have not been confirmed absent. Theological assessment awaits qualified Coptic Orthodox editor.",
+    "themeScripture": {
+      "reference": "Ecclesiastes 4:9-10",
+      "connection": "A passage for reflecting on family and responsibility; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "bbfc-2013-monsters-university",
@@ -8833,7 +9254,11 @@ const seedReviews = [
       "spiritual_content": "interpretive",
       "substance_use": "source_check_required"
     },
-    "editorNote": "Official BBFC content guidance supports listed cautions only. Missing categories have not been confirmed absent. Theological assessment awaits qualified Coptic Orthodox editor."
+    "editorNote": "Official BBFC content guidance supports listed cautions only. Missing categories have not been confirmed absent. Theological assessment awaits qualified Coptic Orthodox editor.",
+    "themeScripture": {
+      "reference": "Romans 12:10",
+      "connection": "A passage for reflecting on humility and repentance; families should read it in context rather than assuming the film teaches the passage."
+    }
   },
   {
     "id": "bbfc-2023-the-little-mermaid",
@@ -8931,6 +9356,929 @@ const seedReviews = [
       "spiritual_content": "interpretive",
       "substance_use": "source_check_required"
     },
-    "editorNote": "Official BBFC content guidance supports listed cautions only. Missing categories have not been confirmed absent. Theological assessment awaits qualified Coptic Orthodox editor."
+    "editorNote": "Official BBFC content guidance supports listed cautions only. Missing categories have not been confirmed absent. Theological assessment awaits qualified Coptic Orthodox editor.",
+    "themeScripture": {
+      "reference": "Proverbs 3:5-6",
+      "connection": "A passage for reflecting on family and responsibility; families should read it in context rather than assuming the film teaches the passage."
+    }
+  },
+  {
+    "id": "review-kpopdemonhunters-2025",
+    "title": "KPop Demon Hunters",
+    "year": 2025,
+    "genre": "Animation · Fantasy",
+    "runtime": "",
+    "officialRating": "See BBFC source",
+    "synopsis": "Three performers secretly fight demons while navigating identity, loyalty, and the pressures of celebrity.",
+    "verdict": "neutral",
+    "verdictRationale": "Independent preliminary interpretation: Friendship and resisting fear are constructive, but the film’s demon-fighting mythology should not be confused with Christian teaching about spiritual warfare.",
+    "age": "10+",
+    "ageRationale": "Suggested minimum age based on the documented content cautions; individual maturity differs and the advice is not an official age classification.",
+    "themes": [
+      {
+        "name": "Family and responsibility",
+        "type": "positive",
+        "score": 3,
+        "portrayal": "affirmed",
+        "evidence": "Interpretation of the film premise and overall narrative."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": 4,
+        "portrayal": "mixed",
+        "evidence": "BBFC content description; contextual theme score is a provisional independent interpretation."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Fantasy violence",
+        "severity": "Mild",
+        "details": "Stylized clashes with demons, magical weapons, soul-threatening imagery, and scary creatures."
+      },
+      {
+        "name": "Language and suggestiveness",
+        "severity": "Very mild",
+        "details": "Very mild insults and comic admiration of the performers’ appearance."
+      },
+      {
+        "name": "Emotional distress",
+        "severity": "Mild",
+        "details": "Characters face guilt and anxiety, with support from friends."
+      }
+    ],
+    "reflection": "Friendship and resisting fear are constructive, but the film’s demon-fighting mythology should not be confused with Christian teaching about spiritual warfare.",
+    "scripture": [
+      "1 John 4:1"
+    ],
+    "themeScripture": {
+      "reference": "1 John 4:1",
+      "connection": "A biblical passage for discussing the particular moral tension identified in this film; the passage does not independently establish the film’s content."
+    },
+    "questions": [
+      "How can we separate the film’s fictional fantasy mythology from what Christians actually believe about spiritual struggle?",
+      "Which character showed courage, humility, truthfulness, or compassion—and what did it cost them?",
+      "When does the story portray a wrong choice as wrong, and when might the viewer be tempted to excuse it?",
+      "How might the film’s message compare with the Christian teaching in 1 John 4:1?",
+      "If we could change one choice in this story to better reflect Christian love, what would it be?"
+    ],
+    "sources": [
+      {
+        "label": "BBFC official content advice — KPop Demon Hunters",
+        "url": "https://www.bbfc.co.uk/release/kpop-demon-hunters-q29sbgvjdglvbjpwwc0xmdmymtc0",
+        "notes": "Supports the documented parental content descriptions. Verdicts, ages and theme scores are independent provisional interpretations."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "contentVerification": "official_content_advice_partial",
+    "theologicalApproval": "pending",
+    "contentCoverage": "partial",
+    "checkedAt": "2026-11-13",
+    "editorNote": "Awaiting full editorial review and evidence for content categories not listed.",
+    "patristic": {
+      "author": "St. Basil the Great",
+      "work": "Address to Young Men on the Right Use of Greek Literature",
+      "section": "IV–VIII",
+      "type": "verified_paraphrase",
+      "text": "St. Basil counsels readers to value what cultivates virtue in non-Christian literature while rejecting what damages the soul. The same discriminating attention can guide the way we approach a film.",
+      "url": "https://www.tertullian.org/fathers/basil_litterature01.htm"
+    }
+  },
+  {
+    "id": "review-thebestchristmaspageantever-2024",
+    "title": "The Best Christmas Pageant Ever",
+    "year": 2024,
+    "genre": "Comedy · Family",
+    "runtime": "",
+    "officialRating": "See BBFC source",
+    "synopsis": "A church Christmas pageant is disrupted and unexpectedly enriched when a group of notorious siblings joins the cast.",
+    "verdict": "edifying",
+    "verdictRationale": "Independent preliminary interpretation: The story opens a compelling conversation about hospitality, grace, and seeing dignity in children whom others have written off.",
+    "age": "7+",
+    "ageRationale": "Suggested minimum age based on the documented content cautions; individual maturity differs and the advice is not an official age classification.",
+    "themes": [
+      {
+        "name": "Compassion and service",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Interpretation of the film premise and overall narrative."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": 1,
+        "portrayal": "mixed",
+        "evidence": "BBFC content description; contextual theme score is a provisional independent interpretation."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Bullying and mild violence",
+        "severity": "Mild",
+        "details": "Children argue, hit one another, and throw snowballs; the story eventually treats bullying critically."
+      },
+      {
+        "name": "Smoking",
+        "severity": "Mild",
+        "details": "A child smokes a cigar and is corrected."
+      },
+      {
+        "name": "Language",
+        "severity": "Very mild",
+        "details": "A few mild words and irreverent expressions are reported."
+      }
+    ],
+    "reflection": "The story opens a compelling conversation about hospitality, grace, and seeing dignity in children whom others have written off.",
+    "scripture": [
+      "Matthew 25:40"
+    ],
+    "themeScripture": {
+      "reference": "Matthew 25:40",
+      "connection": "A biblical passage for discussing the particular moral tension identified in this film; the passage does not independently establish the film’s content."
+    },
+    "questions": [
+      "Who is treated as an outsider, and how does welcoming that person change the community?",
+      "Which character showed courage, humility, truthfulness, or compassion—and what did it cost them?",
+      "When does the story portray a wrong choice as wrong, and when might the viewer be tempted to excuse it?",
+      "How might the film’s message compare with the Christian teaching in Matthew 25:40?",
+      "If we could change one choice in this story to better reflect Christian love, what would it be?"
+    ],
+    "sources": [
+      {
+        "label": "BBFC official content advice — The Best Christmas Pageant Ever",
+        "url": "https://www.bbfc.co.uk/release/the-best-christmas-pageant-ever-q29sbgvjdglvbjpwwc0xmdi2mdaw",
+        "notes": "Supports the documented parental content descriptions. Verdicts, ages and theme scores are independent provisional interpretations."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "contentVerification": "official_content_advice_partial",
+    "theologicalApproval": "pending",
+    "contentCoverage": "partial",
+    "checkedAt": "2026-11-13",
+    "editorNote": "Awaiting full editorial review and evidence for content categories not listed."
+  },
+  {
+    "id": "review-theprincessbride-1987",
+    "title": "The Princess Bride",
+    "year": 1987,
+    "genre": "Fantasy · Comedy",
+    "runtime": "",
+    "officialRating": "See BBFC source",
+    "synopsis": "A fairy-tale quest mixes love, loyalty, swordplay, deception, and revenge with playful humor.",
+    "verdict": "neutral",
+    "verdictRationale": "Independent preliminary interpretation: The film’s devotion and friendship invite discussion; revenge, violent conflict, and romantic idealization deserve separate reflection.",
+    "age": "10+",
+    "ageRationale": "Suggested minimum age based on the documented content cautions; individual maturity differs and the advice is not an official age classification.",
+    "themes": [
+      {
+        "name": "Love and self-sacrifice",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Interpretation of the film premise and overall narrative."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": 3,
+        "portrayal": "mixed",
+        "evidence": "BBFC content description; contextual theme score is a provisional independent interpretation."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Swordplay and threat",
+        "severity": "Moderate",
+        "details": "Dueling, stabbings, electrocution, and a rat attack with some blood."
+      },
+      {
+        "name": "Language",
+        "severity": "Mild",
+        "details": "A few mild profanities."
+      },
+      {
+        "name": "Alcohol and romance",
+        "severity": "Mild",
+        "details": "Adults drink; there is kissing and a brief innuendo."
+      }
+    ],
+    "reflection": "The film’s devotion and friendship invite discussion; revenge, violent conflict, and romantic idealization deserve separate reflection.",
+    "scripture": [
+      "Romans 12:19"
+    ],
+    "themeScripture": {
+      "reference": "Romans 12:19",
+      "connection": "A biblical passage for discussing the particular moral tension identified in this film; the passage does not independently establish the film’s content."
+    },
+    "questions": [
+      "What is the difference between courage in defense of another person and revenge for personal satisfaction?",
+      "Which character showed courage, humility, truthfulness, or compassion—and what did it cost them?",
+      "When does the story portray a wrong choice as wrong, and when might the viewer be tempted to excuse it?",
+      "How might the film’s message compare with the Christian teaching in Romans 12:19?",
+      "If we could change one choice in this story to better reflect Christian love, what would it be?"
+    ],
+    "sources": [
+      {
+        "label": "BBFC official content advice — The Princess Bride",
+        "url": "https://www.bbfc.co.uk/release/the-princess-bride-q29sbgvjdglvbjpwwc0yotq4nzi",
+        "notes": "Supports the documented parental content descriptions. Verdicts, ages and theme scores are independent provisional interpretations."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "contentVerification": "official_content_advice_partial",
+    "theologicalApproval": "pending",
+    "contentCoverage": "partial",
+    "checkedAt": "2026-11-13",
+    "editorNote": "Awaiting full editorial review and evidence for content categories not listed."
+  },
+  {
+    "id": "review-spidermanintothespiderverse-2018",
+    "title": "Spider-Man: Into the Spider-Verse",
+    "year": 2018,
+    "genre": "Animation · Action",
+    "runtime": "",
+    "officialRating": "See BBFC source",
+    "synopsis": "Miles Morales grows into the responsibility of being Spider-Man while meeting heroes from alternate dimensions.",
+    "verdict": "edifying",
+    "verdictRationale": "Independent preliminary interpretation: The story strongly emphasizes courage, responsibility, and service; intense fantasy confrontations require age-sensitive judgment.",
+    "age": "10+",
+    "ageRationale": "Suggested minimum age based on the documented content cautions; individual maturity differs and the advice is not an official age classification.",
+    "themes": [
+      {
+        "name": "Courage and hope",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "Interpretation of the film premise and overall narrative."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": 3,
+        "portrayal": "mixed",
+        "evidence": "BBFC content description; contextual theme score is a provisional independent interpretation."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Fantasy action violence",
+        "severity": "Moderate",
+        "details": "The classification authority notes moderate fantasy violence and injury detail."
+      },
+      {
+        "name": "Threat and innuendo",
+        "severity": "Mild",
+        "details": "Threatening sequences and occasional suggestive humor are reported."
+      }
+    ],
+    "reflection": "The story strongly emphasizes courage, responsibility, and service; intense fantasy confrontations require age-sensitive judgment.",
+    "scripture": [
+      "Galatians 6:2"
+    ],
+    "themeScripture": {
+      "reference": "Galatians 6:2",
+      "connection": "A biblical passage for discussing the particular moral tension identified in this film; the passage does not independently establish the film’s content."
+    },
+    "questions": [
+      "How does Miles learn that courage includes carrying responsibilities for the good of others?",
+      "Which character showed courage, humility, truthfulness, or compassion—and what did it cost them?",
+      "When does the story portray a wrong choice as wrong, and when might the viewer be tempted to excuse it?",
+      "How might the film’s message compare with the Christian teaching in Galatians 6:2?",
+      "If we could change one choice in this story to better reflect Christian love, what would it be?"
+    ],
+    "sources": [
+      {
+        "label": "BBFC official content advice — Spider-Man: Into the Spider-Verse",
+        "url": "https://www.bbfc.co.uk/release/spider-man-into-the-spider-verse-q29sbgvjdglvbjpwwc0ymza2ndc",
+        "notes": "Supports the documented parental content descriptions. Verdicts, ages and theme scores are independent provisional interpretations."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "contentVerification": "official_content_advice_partial",
+    "theologicalApproval": "pending",
+    "contentCoverage": "partial",
+    "checkedAt": "2026-11-13",
+    "editorNote": "Awaiting full editorial review and evidence for content categories not listed."
+  },
+  {
+    "id": "review-wicked-2024",
+    "title": "Wicked",
+    "year": 2024,
+    "genre": "Musical · Fantasy",
+    "runtime": "",
+    "officialRating": "See BBFC source",
+    "synopsis": "Two young women with contrasting personalities grow closer in a magical school while confronting prejudice and powerful authorities.",
+    "verdict": "neutral",
+    "verdictRationale": "Independent preliminary interpretation: Friendship and resisting injustice are worth discussing. The magical setting is fictional, and it should not be treated as instruction in actual spiritual practices.",
+    "age": "10+",
+    "ageRationale": "Suggested minimum age based on the documented content cautions; individual maturity differs and the advice is not an official age classification.",
+    "themes": [
+      {
+        "name": "Courage and hope",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Interpretation of the film premise and overall narrative."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": 3,
+        "portrayal": "mixed",
+        "evidence": "BBFC content description; contextual theme score is a provisional independent interpretation."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Peril and coercion",
+        "severity": "Mild",
+        "details": "Brief confrontations, guards’ violence, and threatening situations."
+      },
+      {
+        "name": "Discrimination",
+        "severity": "Moderate",
+        "details": "Prejudice and the manipulation of marginalized groups are central plot concerns."
+      },
+      {
+        "name": "Fantasy magic",
+        "severity": "Present",
+        "details": "Sorcery is central to the fictional setting; this is a moral-discussion topic rather than a factual claim about the occult."
+      }
+    ],
+    "reflection": "Friendship and resisting injustice are worth discussing. The magical setting is fictional, and it should not be treated as instruction in actual spiritual practices.",
+    "scripture": [
+      "Micah 6:8"
+    ],
+    "themeScripture": {
+      "reference": "Micah 6:8",
+      "connection": "A biblical passage for discussing the particular moral tension identified in this film; the passage does not independently establish the film’s content."
+    },
+    "questions": [
+      "How can we oppose unfairness without justifying every decision made by a sympathetic character?",
+      "Which character showed courage, humility, truthfulness, or compassion—and what did it cost them?",
+      "When does the story portray a wrong choice as wrong, and when might the viewer be tempted to excuse it?",
+      "How might the film’s message compare with the Christian teaching in Micah 6:8?",
+      "If we could change one choice in this story to better reflect Christian love, what would it be?"
+    ],
+    "sources": [
+      {
+        "label": "BBFC official content advice — Wicked",
+        "url": "https://www.bbfc.co.uk/release/wicked-q29sbgvjdglvbjpwwc0xmdiwotc4",
+        "notes": "Supports the documented parental content descriptions. Verdicts, ages and theme scores are independent provisional interpretations."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "contentVerification": "official_content_advice_partial",
+    "theologicalApproval": "pending",
+    "contentCoverage": "partial",
+    "checkedAt": "2026-11-13",
+    "editorNote": "Awaiting full editorial review and evidence for content categories not listed.",
+    "patristic": {
+      "author": "St. Basil the Great",
+      "work": "Address to Young Men on the Right Use of Greek Literature",
+      "section": "IV–VIII",
+      "type": "verified_paraphrase",
+      "text": "St. Basil counsels readers to value what cultivates virtue in non-Christian literature while rejecting what damages the soul. The same discriminating attention can guide the way we approach a film.",
+      "url": "https://www.tertullian.org/fathers/basil_litterature01.htm"
+    }
+  },
+  {
+    "id": "review-theboyandtheheron-2023",
+    "title": "The Boy and the Heron",
+    "year": 2023,
+    "genre": "Animation · Fantasy",
+    "runtime": "",
+    "officialRating": "See BBFC source",
+    "synopsis": "A grieving boy encounters a talking heron and travels through a surreal alternate world while coping with family loss.",
+    "verdict": "neutral",
+    "verdictRationale": "Independent preliminary interpretation: The film provides material for discussing grief, memory, and healing, while its unsettling imagery and supernatural framework need careful context.",
+    "age": "13+",
+    "ageRationale": "Suggested minimum age based on the documented content cautions; individual maturity differs and the advice is not an official age classification.",
+    "themes": [
+      {
+        "name": "Family and responsibility",
+        "type": "positive",
+        "score": 3,
+        "portrayal": "affirmed",
+        "evidence": "Interpretation of the film premise and overall narrative."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": 3,
+        "portrayal": "mixed",
+        "evidence": "BBFC content description; contextual theme score is a provisional independent interpretation."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Threat and blood",
+        "severity": "Moderate",
+        "details": "Disturbing fantasy encounters, bloody images, and intense fire flashbacks."
+      },
+      {
+        "name": "Self-harm depiction",
+        "severity": "Strong",
+        "details": "A grieving boy deliberately strikes himself in the head with a rock, causing bleeding."
+      },
+      {
+        "name": "Bereavement",
+        "severity": "Moderate",
+        "details": "The death of a parent and grief are core emotional themes."
+      }
+    ],
+    "reflection": "The film provides material for discussing grief, memory, and healing, while its unsettling imagery and supernatural framework need careful context.",
+    "scripture": [
+      "Psalm 34:18"
+    ],
+    "themeScripture": {
+      "reference": "Psalm 34:18",
+      "connection": "A biblical passage for discussing the particular moral tension identified in this film; the passage does not independently establish the film’s content."
+    },
+    "questions": [
+      "What kinds of support do people need when grief makes them feel isolated or angry?",
+      "Which character showed courage, humility, truthfulness, or compassion—and what did it cost them?",
+      "When does the story portray a wrong choice as wrong, and when might the viewer be tempted to excuse it?",
+      "How might the film’s message compare with the Christian teaching in Psalm 34:18?",
+      "If we could change one choice in this story to better reflect Christian love, what would it be?"
+    ],
+    "sources": [
+      {
+        "label": "BBFC official content advice — The Boy and the Heron",
+        "url": "https://www.bbfc.co.uk/release/the-boy-and-the-heron-q29sbgvjdglvbjpwwc0xmde3mtkz",
+        "notes": "Supports the documented parental content descriptions. Verdicts, ages and theme scores are independent provisional interpretations."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "contentVerification": "official_content_advice_partial",
+    "theologicalApproval": "pending",
+    "contentCoverage": "partial",
+    "checkedAt": "2026-11-13",
+    "editorNote": "Awaiting full editorial review and evidence for content categories not listed.",
+    "patristic": {
+      "author": "St. Basil the Great",
+      "work": "Address to Young Men on the Right Use of Greek Literature",
+      "section": "IV–VIII",
+      "type": "verified_paraphrase",
+      "text": "St. Basil counsels readers to value what cultivates virtue in non-Christian literature while rejecting what damages the soul. The same discriminating attention can guide the way we approach a film.",
+      "url": "https://www.tertullian.org/fathers/basil_litterature01.htm"
+    }
+  },
+  {
+    "id": "review-theirongiant-1999",
+    "title": "The Iron Giant",
+    "year": 1999,
+    "genre": "Animation · Sci-Fi",
+    "runtime": "",
+    "officialRating": "See BBFC source",
+    "synopsis": "A boy befriends an enormous robot while authorities fear the machine’s potential for destruction.",
+    "verdict": "edifying",
+    "verdictRationale": "Independent preliminary interpretation: The central choice between destructive power and loving self-sacrifice makes this a useful film for discussing Christian freedom and moral responsibility.",
+    "age": "10+",
+    "ageRationale": "Suggested minimum age based on the documented content cautions; individual maturity differs and the advice is not an official age classification.",
+    "themes": [
+      {
+        "name": "Love and self-sacrifice",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "Interpretation of the film premise and overall narrative."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": 2,
+        "portrayal": "mixed",
+        "evidence": "BBFC content description; contextual theme score is a provisional independent interpretation."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Action violence",
+        "severity": "Mild",
+        "details": "Animated electrocution, gunfire and explosion imagery, and threat to the robot."
+      },
+      {
+        "name": "Language",
+        "severity": "Mild",
+        "details": "Occasional mild language."
+      },
+      {
+        "name": "Smoking",
+        "severity": "Mild",
+        "details": "A villain is seen smoking a pipe."
+      }
+    ],
+    "reflection": "The central choice between destructive power and loving self-sacrifice makes this a useful film for discussing Christian freedom and moral responsibility.",
+    "scripture": [
+      "John 15:13"
+    ],
+    "themeScripture": {
+      "reference": "John 15:13",
+      "connection": "A biblical passage for discussing the particular moral tension identified in this film; the passage does not independently establish the film’s content."
+    },
+    "questions": [
+      "What makes the robot’s final choice an act of love rather than simply a display of strength?",
+      "Which character showed courage, humility, truthfulness, or compassion—and what did it cost them?",
+      "When does the story portray a wrong choice as wrong, and when might the viewer be tempted to excuse it?",
+      "How might the film’s message compare with the Christian teaching in John 15:13?",
+      "If we could change one choice in this story to better reflect Christian love, what would it be?"
+    ],
+    "sources": [
+      {
+        "label": "BBFC official content advice — The Iron Giant",
+        "url": "https://www.bbfc.co.uk/release/the-iron-giant-q29sbgvjdglvbjpwwc00mdg3mjm",
+        "notes": "Supports the documented parental content descriptions. Verdicts, ages and theme scores are independent provisional interpretations."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "contentVerification": "official_content_advice_partial",
+    "theologicalApproval": "pending",
+    "contentCoverage": "partial",
+    "checkedAt": "2026-11-13",
+    "editorNote": "Awaiting full editorial review and evidence for content categories not listed."
+  },
+  {
+    "id": "review-rayaandthelastdragon-2021",
+    "title": "Raya and the Last Dragon",
+    "year": 2021,
+    "genre": "Animation · Adventure",
+    "runtime": "",
+    "officialRating": "See BBFC source",
+    "synopsis": "A warrior seeks a legendary dragon and tries to restore a divided land by rebuilding trust.",
+    "verdict": "edifying",
+    "verdictRationale": "Independent preliminary interpretation: The film raises questions about forgiveness, repeated betrayal, and the difficulty of trusting others without abandoning prudence.",
+    "age": "10+",
+    "ageRationale": "Suggested minimum age based on the documented content cautions; individual maturity differs and the advice is not an official age classification.",
+    "themes": [
+      {
+        "name": "Forgiveness and reconciliation",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Interpretation of the film premise and overall narrative."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": 2,
+        "portrayal": "mixed",
+        "evidence": "BBFC content description; contextual theme score is a provisional independent interpretation."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Action violence",
+        "severity": "Mild",
+        "details": "Kicks, punches, and bladed-weapon fighting without graphic injury detail."
+      },
+      {
+        "name": "Fantasy threat",
+        "severity": "Mild",
+        "details": "Strange creatures endanger characters and turn people to stone."
+      }
+    ],
+    "reflection": "The film raises questions about forgiveness, repeated betrayal, and the difficulty of trusting others without abandoning prudence.",
+    "scripture": [
+      "Colossians 3:13"
+    ],
+    "themeScripture": {
+      "reference": "Colossians 3:13",
+      "connection": "A biblical passage for discussing the particular moral tension identified in this film; the passage does not independently establish the film’s content."
+    },
+    "questions": [
+      "Can we forgive someone while still setting wise boundaries after trust has been broken?",
+      "Which character showed courage, humility, truthfulness, or compassion—and what did it cost them?",
+      "When does the story portray a wrong choice as wrong, and when might the viewer be tempted to excuse it?",
+      "How might the film’s message compare with the Christian teaching in Colossians 3:13?",
+      "If we could change one choice in this story to better reflect Christian love, what would it be?"
+    ],
+    "sources": [
+      {
+        "label": "BBFC official content advice — Raya and the Last Dragon",
+        "url": "https://www.bbfc.co.uk/release/raya-and-the-last-dragon-q29sbgvjdglvbjpwwc01mde3otq",
+        "notes": "Supports the documented parental content descriptions. Verdicts, ages and theme scores are independent provisional interpretations."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "contentVerification": "official_content_advice_partial",
+    "theologicalApproval": "pending",
+    "contentCoverage": "partial",
+    "checkedAt": "2026-11-13",
+    "editorNote": "Awaiting full editorial review and evidence for content categories not listed."
+  },
+  {
+    "id": "review-howtotrainyourdragon-2010",
+    "title": "How to Train Your Dragon",
+    "year": 2010,
+    "genre": "Animation · Adventure",
+    "runtime": "",
+    "officialRating": "See BBFC source",
+    "synopsis": "A young Viking refuses to see dragons only as enemies and develops a surprising friendship.",
+    "verdict": "edifying",
+    "verdictRationale": "Independent preliminary interpretation: The story illustrates the difference between courage and cruelty, while helping families discuss compassion and the pressure to conform.",
+    "age": "10+",
+    "ageRationale": "Suggested minimum age based on the documented content cautions; individual maturity differs and the advice is not an official age classification.",
+    "themes": [
+      {
+        "name": "Compassion and service",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Interpretation of the film premise and overall narrative."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": 2,
+        "portrayal": "mixed",
+        "evidence": "BBFC content description; contextual theme score is a provisional independent interpretation."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Fantasy peril",
+        "severity": "Mild",
+        "details": "Frequent battles and chases involving large dragons; some scenes may frighten young children."
+      },
+      {
+        "name": "Language",
+        "severity": "Very mild",
+        "details": "Infrequent mild expressions in dialogue."
+      }
+    ],
+    "reflection": "The story illustrates the difference between courage and cruelty, while helping families discuss compassion and the pressure to conform.",
+    "scripture": [
+      "Romans 12:18"
+    ],
+    "themeScripture": {
+      "reference": "Romans 12:18",
+      "connection": "A biblical passage for discussing the particular moral tension identified in this film; the passage does not independently establish the film’s content."
+    },
+    "questions": [
+      "What does Hiccup see that others overlook when fear shapes their judgment?",
+      "Which character showed courage, humility, truthfulness, or compassion—and what did it cost them?",
+      "When does the story portray a wrong choice as wrong, and when might the viewer be tempted to excuse it?",
+      "How might the film’s message compare with the Christian teaching in Romans 12:18?",
+      "If we could change one choice in this story to better reflect Christian love, what would it be?"
+    ],
+    "sources": [
+      {
+        "label": "BBFC official content advice — How to Train Your Dragon",
+        "url": "https://www.bbfc.co.uk/release/how-to-train-your-dragon-q29sbgvjdglvbjpwwc00mjmzndc",
+        "notes": "Supports the documented parental content descriptions. Verdicts, ages and theme scores are independent provisional interpretations."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "contentVerification": "official_content_advice_partial",
+    "theologicalApproval": "pending",
+    "contentCoverage": "partial",
+    "checkedAt": "2026-11-13",
+    "editorNote": "Awaiting full editorial review and evidence for content categories not listed."
+  },
+  {
+    "id": "review-thepolarexpress-2004",
+    "title": "The Polar Express",
+    "year": 2004,
+    "genre": "Animation · Fantasy",
+    "runtime": "",
+    "officialRating": "See BBFC source",
+    "synopsis": "A child travels on a magical train to the North Pole, exploring wonder and belief at Christmas.",
+    "verdict": "neutral",
+    "verdictRationale": "Independent preliminary interpretation: The film emphasizes trust and wonder, though families should distinguish secular Christmas folklore from the Christian meaning of the Nativity.",
+    "age": "7+",
+    "ageRationale": "Suggested minimum age based on the documented content cautions; individual maturity differs and the advice is not an official age classification.",
+    "themes": [
+      {
+        "name": "Courage and hope",
+        "type": "positive",
+        "score": 3,
+        "portrayal": "affirmed",
+        "evidence": "Interpretation of the film premise and overall narrative."
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "type": "harmful",
+        "score": 1,
+        "portrayal": "mixed",
+        "evidence": "BBFC content description; contextual theme score is a provisional independent interpretation."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Mild peril",
+        "severity": "Mild",
+        "details": "Train mishaps, dangerous ice, a fall from a train, and a briefly frightening puppet."
+      }
+    ],
+    "reflection": "The film emphasizes trust and wonder, though families should distinguish secular Christmas folklore from the Christian meaning of the Nativity.",
+    "scripture": [
+      "Luke 2:11"
+    ],
+    "themeScripture": {
+      "reference": "Luke 2:11",
+      "connection": "A biblical passage for discussing the particular moral tension identified in this film; the passage does not independently establish the film’s content."
+    },
+    "questions": [
+      "What is the difference between believing in a holiday legend and faith in the birth of Christ?",
+      "Which character showed courage, humility, truthfulness, or compassion—and what did it cost them?",
+      "When does the story portray a wrong choice as wrong, and when might the viewer be tempted to excuse it?",
+      "How might the film’s message compare with the Christian teaching in Luke 2:11?",
+      "If we could change one choice in this story to better reflect Christian love, what would it be?"
+    ],
+    "sources": [
+      {
+        "label": "BBFC official content advice — The Polar Express",
+        "url": "https://www.bbfc.co.uk/release/the-polar-express-q29sbgvjdglvbjpwwc0znty5ode",
+        "notes": "Supports the documented parental content descriptions. Verdicts, ages and theme scores are independent provisional interpretations."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "contentVerification": "official_content_advice_partial",
+    "theologicalApproval": "pending",
+    "contentCoverage": "partial",
+    "checkedAt": "2026-11-13",
+    "editorNote": "Awaiting full editorial review and evidence for content categories not listed.",
+    "patristic": {
+      "author": "St. Basil the Great",
+      "work": "Address to Young Men on the Right Use of Greek Literature",
+      "section": "IV–VIII",
+      "type": "verified_paraphrase",
+      "text": "St. Basil counsels readers to value what cultivates virtue in non-Christian literature while rejecting what damages the soul. The same discriminating attention can guide the way we approach a film.",
+      "url": "https://www.tertullian.org/fathers/basil_litterature01.htm"
+    }
+  },
+  {
+    "id": "review-orionandthedark-2024",
+    "title": "Orion and the Dark",
+    "year": 2024,
+    "genre": "Animation · Fantasy",
+    "runtime": "",
+    "officialRating": "See BBFC source",
+    "synopsis": "An anxious boy faces his many fears through a fantasy encounter with the personification of darkness.",
+    "verdict": "neutral",
+    "verdictRationale": "Independent preliminary interpretation: An opportunity to discuss anxiety, courage, and the importance of facing fears with trusted help rather than ridicule.",
+    "age": "7+",
+    "ageRationale": "Suggested minimum age based on the documented content cautions; individual maturity differs and the advice is not an official age classification.",
+    "themes": [
+      {
+        "name": "Courage and hope",
+        "type": "positive",
+        "score": 3,
+        "portrayal": "affirmed",
+        "evidence": "Interpretation of the film premise and overall narrative."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "BBFC content description; contextual theme score is a provisional independent interpretation."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Threat and peril",
+        "severity": "Unspecified",
+        "details": "BBFC lists threat and violence among its content issues but the retrieved excerpt did not give scene-level detail."
+      },
+      {
+        "name": "Language",
+        "severity": "Unspecified",
+        "details": "Language is listed in official content advice without a verified scene-by-scene description."
+      },
+      {
+        "name": "Dangerous behavior",
+        "severity": "Unspecified",
+        "details": "Dangerous behavior is listed in official content advice."
+      }
+    ],
+    "reflection": "An opportunity to discuss anxiety, courage, and the importance of facing fears with trusted help rather than ridicule.",
+    "scripture": [
+      "Psalm 56:3"
+    ],
+    "themeScripture": {
+      "reference": "Psalm 56:3",
+      "connection": "A biblical passage for discussing the particular moral tension identified in this film; the passage does not independently establish the film’s content."
+    },
+    "questions": [
+      "What helps us face fear without feeling ashamed of being afraid?",
+      "Which character showed courage, humility, truthfulness, or compassion—and what did it cost them?",
+      "When does the story portray a wrong choice as wrong, and when might the viewer be tempted to excuse it?",
+      "How might the film’s message compare with the Christian teaching in Psalm 56:3?",
+      "If we could change one choice in this story to better reflect Christian love, what would it be?"
+    ],
+    "sources": [
+      {
+        "label": "BBFC official content advice — Orion and the Dark",
+        "url": "https://www.bbfc.co.uk/release/orion-and-the-dark-q29sbgvjdglvbjpwwc0xmde5mtu5",
+        "notes": "Supports the documented parental content descriptions. Verdicts, ages and theme scores are independent provisional interpretations."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "contentVerification": "official_content_advice_partial",
+    "theologicalApproval": "pending",
+    "contentCoverage": "partial",
+    "checkedAt": "2026-11-13",
+    "editorNote": "Awaiting full editorial review and evidence for content categories not listed."
+  },
+  {
+    "id": "review-thesupermariogalaxymovie-2026",
+    "title": "The Super Mario Galaxy Movie",
+    "year": 2026,
+    "genre": "Animation · Adventure",
+    "runtime": "",
+    "officialRating": "See BBFC source",
+    "synopsis": "Mario and friends travel through space on a fast-paced adventure involving fantastical foes.",
+    "verdict": "neutral",
+    "verdictRationale": "Independent preliminary interpretation: This is primarily adventure entertainment; parents can discuss loyalty, solidarity, and the costs of fighting without treating the film as moral instruction.",
+    "age": "7+",
+    "ageRationale": "Suggested minimum age based on the documented content cautions; individual maturity differs and the advice is not an official age classification.",
+    "themes": [
+      {
+        "name": "Courage and hope",
+        "type": "positive",
+        "score": 3,
+        "portrayal": "affirmed",
+        "evidence": "Interpretation of the film premise and overall narrative."
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": 2,
+        "portrayal": "mixed",
+        "evidence": "BBFC content description; contextual theme score is a provisional independent interpretation."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Fantasy fighting",
+        "severity": "Mild",
+        "details": "Kicks, punches, fantastical weapons, and laser fire with comic relief."
+      },
+      {
+        "name": "Monsters and peril",
+        "severity": "Mild",
+        "details": "Chases and threatening fantasy creatures, usually short and reassuringly resolved."
+      },
+      {
+        "name": "Family separation",
+        "severity": "Very mild",
+        "details": "Brief emotionally upsetting references to separation."
+      }
+    ],
+    "reflection": "This is primarily adventure entertainment; parents can discuss loyalty, solidarity, and the costs of fighting without treating the film as moral instruction.",
+    "scripture": [
+      "Philippians 2:4"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 2:4",
+      "connection": "A biblical passage for discussing the particular moral tension identified in this film; the passage does not independently establish the film’s content."
+    },
+    "questions": [
+      "Which characters show friendship by serving others rather than chasing their own victory?",
+      "Which character showed courage, humility, truthfulness, or compassion—and what did it cost them?",
+      "When does the story portray a wrong choice as wrong, and when might the viewer be tempted to excuse it?",
+      "How might the film’s message compare with the Christian teaching in Philippians 2:4?",
+      "If we could change one choice in this story to better reflect Christian love, what would it be?"
+    ],
+    "sources": [
+      {
+        "label": "BBFC official content advice — The Super Mario Galaxy Movie",
+        "url": "https://www.bbfc.co.uk/release/the-super-mario-galaxy-movie-q29sbgvjdglvbjpwwc0xmdmzndy5",
+        "notes": "Supports the documented parental content descriptions. Verdicts, ages and theme scores are independent provisional interpretations."
+      }
+    ],
+    "isSeed": true,
+    "isDemo": false,
+    "status": "provisional",
+    "contentVerification": "official_content_advice_partial",
+    "theologicalApproval": "pending",
+    "contentCoverage": "partial",
+    "checkedAt": "2026-11-13",
+    "editorNote": "Awaiting full editorial review and evidence for content categories not listed."
   }
 ];
