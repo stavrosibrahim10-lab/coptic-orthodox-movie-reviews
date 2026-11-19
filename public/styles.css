@@ -35,3 +35,8 @@
 
 /* V12: theological citations, minimal styling; original layout unchanged */
 .faith-panel{border-left:3px solid #b59a69;background:#f5f5ee;padding:16px 18px;margin-top:19px;border-radius:4px}.faith-panel h3{font-size:18px;margin:7px 0 9px}.faith-panel p{margin:0 0 8px}.faith-panel small{font-size:11px;color:#58665f}.faith-panel a{color:#285f4b;text-decoration:underline}.faith-panel.patristic{border-color:#618a76;background:#eef3ed}
+
+/* Stage 3 source-coverage evidence; keeps V12 layout unchanged. */
+.content-evidence{border-top:1px solid var(--border);margin-top:22px;padding-top:20px}.content-evidence h3{font-size:17px;margin:8px 0}.content-evidence>p{font-size:12px}.evidence-category{padding:11px 0;border-bottom:1px solid var(--border)}.evidence-category strong{font-size:12px;display:block}.evidence-category small{color:var(--muted);display:block;font-size:11px;margin-top:2px}.evidence-category ul{margin:8px 0;padding-left:18px;font-size:12px}.evidence-category a{font-size:11px;text-decoration:underline;color:var(--forest)}
+
+.legacy-warning-label{font-size:10px;font-weight:500;color:#9c7048}.warning-item:has(.legacy-warning-label){border-left:2px solid #d7c7ad;padding-left:9px}
