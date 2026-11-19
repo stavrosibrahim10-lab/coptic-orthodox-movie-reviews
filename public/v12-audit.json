@@ -3,11 +3,12 @@
   "generated_utc": "2026-11-13",
   "canonical_movies": 200,
   "provisional_original_reviews": 105,
-  "research_pending_pages": 95,
+  "research_pending_pages": 23,
   "theologically_approved": 0,
   "film_specific_official_bbfc_new": 12,
   "poster_coverage": "TMDB authenticated runtime lookup; not guaranteed for each title",
   "duplicate_titles_after_merge": 0,
   "verified_review_count": "not independently certified; all require human review",
-  "notice": "200 movie pages, NOT 200 fully verified reviews. Research-pending items must not display an approved verdict or numerical claims."
+  "notice": "200 movie pages, NOT 200 fully verified reviews. Research-pending items must not display an approved verdict or numerical claims.",
+  "stage_4_provisional_assessments": 72
 }
