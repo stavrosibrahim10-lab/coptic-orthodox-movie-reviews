@@ -64,6 +64,18 @@ export function validateReview(review){
   if(!review.themes.every(t=>typeof t.name==='string'&&t.name.trim()&&['positive','harmful'].includes(t.type)&&Number.isInteger(t.score)&&t.score>=0&&t.score<=5&&['affirmed','condemned','criticized','mixed','descriptive','unverified'].includes(t.portrayal)&&str(t.evidence).length>=8&&Array.isArray(t.references)&&t.references.some(s=>sourceUrl(s.url))))throw new ApiError('Every theme needs a 0–5 score, rationale, portrayal and HTTPS source');
   if(!Array.isArray(review.sources)||!review.sources.some(s=>sourceUrl(s.url)))throw new ApiError('A film-specific HTTPS source is required');
   if(!Array.isArray(review.questions)||review.questions.length<5||review.questions.some(q=>str(q).length<10))throw new ApiError('Provide five useful discussion questions');
+  if (review.familyAdvisories !== undefined) {
+    const advisories = review.familyAdvisories;
+    if (!advisories || typeof advisories !== 'object' || Array.isArray(advisories)) {
+      throw new ApiError('Family content advisories must be an object');
+    }
+    for (const [type, advisory] of Object.entries(advisories)) {
+      if (!['representation', 'advocacy', 'interpretation', 'parentalAuthority', 'familyPortrayal', 'comingOfAge'].includes(type)
+          || !str(advisory?.details) || advisory.details.length > 800 || !sourceUrl(advisory.url)) {
+        throw new ApiError('Each family content advisory needs a description of up to 800 characters and an HTTPS source');
+      }
+    }
+  }
   return review;
 }
 export function safeError(err){return reply({error:err instanceof ApiError?err.message:'Unexpected server error'},err instanceof ApiError?err.status:500)}

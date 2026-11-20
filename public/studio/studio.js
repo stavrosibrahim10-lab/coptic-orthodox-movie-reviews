@@ -119,11 +119,25 @@ function reviewEditor(){
  <div class="divider"></div><div class="title-row"><h2>Theme ratings</h2>${canWrite?smallBtn('+ Add theme','add-theme'):''}</div><p class="note">Four or more well-supported themes; each 0–5 score has a specific rationale and HTTPS reference. An absent content advisory is not proof of a zero.</p><div id="themeRows">${(r.themes||[]).map(themeEditor).join('')}</div>
  <div class="divider"></div><h2>Sources, content notes & warnings</h2><p class="note">Each source on its own line: <code>Label | https://link | Notes</code>. Warnings use: <code>Category | Severity | Details</code>.</p>
  ${field('Film-specific source links','fSources',(r.sources||[]).map(s=>`${s.label||''} | ${s.url||''} | ${s.notes||''}`).join('\n'))}${field('Content warnings','fWarnings',(r.warnings||[]).map(w=>`${w.name||''} | ${w.severity||''} | ${w.details||''}`).join('\n'))}${field('Editor notes','fEditorNote',r.editorNote)}
+ ${familyAdvisoryEditor(r,canWrite)}
  <div class="actions" style="margin-top:20px">${smallBtn('Save draft & reset approvals','save',canWrite?'':'disabled','')}${smallBtn('Preview edits','preview-edits')}${smallBtn('AI revision suggestions','nav','data-tab="assistant"')}</div><div id="editPreview"></div></section>
  <section class="box sectiongap"><div class="title-row"><h2>Record approvals</h2><span class="muted tiny">Three independent checkpoints</span></div><p class="note">Approving attests to your editorial review of that dimension. It does not claim official ecclesiastical endorsement.</p>${approved.map(([key,label,who])=>`<div class="metric-line"><span><strong>${label}</strong><br><span class="muted tiny">${who?'Signed by '+who.slice(0,8)+'…':'Awaiting qualified review'}</span></span>${who?'<span class="chip resolved">✓ Signed</span>':smallBtn('Sign off','approve',`data-part="${key}" ${S.demo||(key==='spiritual'&&!['owner','reviewer'].includes(S.role))||(key!=='spiritual'&&!canWrite)?'disabled':''}`)}</div>`).join('')}<div class="divider"></div><div class="actions">${smallBtn('Publish approved version','publish',S.demo||S.role!=='owner'||approvedCount!==3||issuesList.some(i=>i.state==='open')?'disabled':'','')}${meta.published?'<span class="chip published">Previous public version preserved</span>':''}</div><p class="note">Publishing is blocked server-side unless the draft has all three sign-offs, required fields, and no open issues.</p></section>
  <section class="box sectiongap"><div class="title-row"><h2>Revision history</h2></div>${historyEditor(selected.history||[])}</section></div>
  <aside class="sticky-side"><section class="box"><div class="title-row"><h2>Stage 4 evidence queue</h2><span class="chip open">${issuesList.filter(i=>i.state==='open').length} open</span></div>${issuesList.length?issuesList.map(issueEditor).join(''):'<p class="note">No flagged issues for this movie; reviewers should still verify content and interpretations.</p>'}</section><section class="box sectiongap"><div class="title-row"><h2>Stage 3 parent content guide</h2></div><p class="note">Original six-category evidence ledger preserved, with source-scoped observations. Reported absence is not independent absence certification.</p>${stage3Panel(meta.movie_id)}</section><section class="box sectiongap"><h2>Review notes</h2><p class="note">Spiritual verdicts examine what the film asks viewers to admire and how it depicts wrongdoing. The same verdict may carry a mature age recommendation. Ask a father of confession or parish priest for individual pastoral discernment.</p></section></aside></div>`;
 }
+function familyAdvisoryEditor(review, canWrite){
+  const advisories = getFamilyAdvisories(review);
+  const fields = Object.entries(familyAdvisoryLabels).map(([type, label]) => {
+    const advisory = advisories[type];
+    return field(label, 'advisory-' + type, advisory?.details)
+      + field(label + ' source URL', 'advisory-source-' + type, advisory?.url, 'text');
+  }).join('');
+  return `<div class="divider"></div><h2>Family content advisories</h2>
+  <p class="note">Describe the scenes and their consequences. For parental authority, explain which choices the story rewards or criticizes. For family portrayal, name the caregivers and describe how the story treats fathers and father figures. For puberty, name the specific topics or scenes.</p>
+  <p class="note">Use Explicit advocacy when the film makes a case for a real-world position or urges action. Use Interpretive note for subtext or creative inspiration and attribute it to its source. Each note needs a film-specific HTTPS source.</p>
+  <fieldset style="border:0;padding:0;margin:0;min-width:0" ${canWrite?'':'disabled'}>${fields}</fieldset>`;
+}
+
 function collectDraft(){
  const s=S.selected;if(!s)throw Error('Open a movie first');const r=JSON.parse(JSON.stringify(s.row.draft));
  const v=id=>document.getElementById(id)?.value||'';
@@ -131,6 +145,17 @@ function collectDraft(){
  r.editorNote=v('fEditorNote').trim();
  r.sources=v('fSources').split('\n').map(line=>{const [label,url,...notes]=line.split('|').map(x=>x.trim());return {label,url,notes:notes.join(' | ')}}).filter(s=>s.url);
  r.warnings=v('fWarnings').split('\n').map(line=>{const [name,severity,...detail]=line.split('|').map(x=>x.trim());return {name,severity,details:detail.join(' | ')}}).filter(s=>s.name);
+ const currentAdvisories = getFamilyAdvisories(r);
+ const advisories = {};
+ let advisoryChanged = false;
+ for (const type of Object.keys(familyAdvisoryLabels)) {
+  const details = v('advisory-' + type).trim();
+  const url = v('advisory-source-' + type).trim();
+  if (details || url) advisories[type] = {details, url};
+  const current = currentAdvisories[type];
+  if (details !== (current?.details || '') || url !== (current?.url || '')) advisoryChanged = true;
+ }
+ if (advisoryChanged) r.familyAdvisories = advisories;
  r.themes=[...document.querySelectorAll('[data-theme-row]')].map(tr=>{
   const name=tr.querySelector('.theme-name').value.trim(),type=tr.querySelector('.theme-type').value,score=Number(tr.querySelector('.theme-score').value),portrayal=tr.querySelector('.theme-portrayal').value,evidence=tr.querySelector('.theme-evidence').value.trim();
   const old=(S.selected.row.draft.themes||[]).find(t=>t.name===name);
@@ -139,7 +164,7 @@ function collectDraft(){
  });
  return r;
 }
-function editPreview(){try{const r=collectDraft();document.getElementById('editPreview').innerHTML=`<div class="preview-card"><div class="eyebrow">Unpublished editor preview</div><h2>${h(r.title)} · ${h(verdictLabels[r.verdict])}</h2><p><strong>Recommended age: ${h(r.age)}</strong></p><p>${h(r.verdictRationale)}</p><p>${h(r.ageRationale)}</p><h3>Theme ratings</h3>${r.themes.map(t=>`<p class="tiny"><strong>${h(t.name)}: ${h(t.score)}/5</strong> · ${h(t.portrayal)} — ${h(t.evidence)}</p>`).join('')}<h3>Family questions</h3>${r.questions.map((q,i)=>`<p class="tiny">${i+1}. ${h(q)}</p>`).join('')}</div>`;}catch(e){note(e.message,'bad')}}
+function editPreview(){try{const r=collectDraft();document.getElementById('editPreview').innerHTML=`<div class="preview-card"><div class="eyebrow">Unpublished editor preview</div><h2>${h(r.title)} · ${h(verdictLabels[r.verdict])}</h2><p><strong>Recommended age: ${h(r.age)}</strong></p><p>${h(r.verdictRationale)}</p><p>${h(r.ageRationale)}</p><h3>Theme ratings</h3>${r.themes.map(t=>`<p class="tiny"><strong>${h(t.name)}: ${h(t.score)}/5</strong> · ${h(t.portrayal)} — ${h(t.evidence)}</p>`).join('')}${Object.entries(getFamilyAdvisories(r)).map(([type, advisory])=>advisory.details?`<p><strong>${h(familyAdvisoryLabels[type])}</strong> ${h(advisory.details)}</p>`:'').join('')}<h3>Family questions</h3>${r.questions.map((q,i)=>`<p class="tiny">${i+1}. ${h(q)}</p>`).join('')}</div>`;}catch(e){note(e.message,'bad')}}
 async function openFilm(id){
   if(!id)return;try{
     let data;if(S.demo){const r=seedReviews.find(x=>x.id===id);if(!r)throw Error('Movie missing from preview data');data={row:{movie_id:r.id,title:r.title,release_year:r.year,revision:1,workflow:'draft',draft:JSON.parse(JSON.stringify(r)),published:null},issues:issues(id),history:[]};}
