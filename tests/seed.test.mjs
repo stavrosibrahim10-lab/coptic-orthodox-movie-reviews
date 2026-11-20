@@ -1,11 +1,46 @@
 import test from 'node:test';import assert from 'node:assert/strict';import fs from 'node:fs';import vm from 'node:vm';
 import {validateReview,environment} from '../netlify/functions/_shared/core.mjs';
+import {applyFamilyReviewRecommendation, supplementalReviews, supplementalContentEvidenceById} from '../public/family-review-ratings.js';
 const seed=JSON.parse(fs.readFileSync(new URL('../bootstrap/studio-import.json',import.meta.url),'utf8'));
 test('200 unique movie drafts with complete Stage 4 review structure',()=>{
  assert.equal(seed.reviews.length,200);
  assert.equal(new Set(seed.reviews.map(r=>r.id)).size,200);
  for(const review of seed.reviews){assert.equal(validateReview(review),review);assert.ok(review.questions.length>=5);}
  assert.equal(seed.reviews.reduce((n,r)=>n+r.themes.length,0),857);
+});
+test('recommended ratings fit the review schema without duplicating themes',()=>{
+ const all=[...seed.reviews, ...supplementalReviews];
+ assert.equal(new Set(all.map(r=>r.id)).size,all.length);
+ for(const review of all){
+   const updated=applyFamilyReviewRecommendation(review);
+   assert.equal(validateReview(updated),updated);
+   if(updated!==review){
+     assert.equal(new Set(updated.themes.map(t=>t.name)).size,updated.themes.length);
+     assert.equal(applyFamilyReviewRecommendation(updated),updated);
+   }
+ }
+ const luca=applyFamilyReviewRecommendation(all.find(r=>r.id==='batch1-2021-luca'));
+ assert.equal(luca.verdict,'neutral');
+ assert.ok(luca.themes.some(t=>t.type==='context'&&t.name==='Hidden identity and acceptance'));
+ assert.ok(!luca.themes.some(t=>t.name==='Dishonesty and betrayal'));
+});
+test('The Emoji Movie has a sourced Destructive review and can update a prior draft',()=>{
+ const review=supplementalReviews.find(r=>r.title==='The Emoji Movie');
+ assert.equal(review.verdict,'destructive');
+ assert.equal(review.theologicalApproval,'pending');
+ assert.ok(review.patristic.url.startsWith('https://'));
+ assert.ok(review.themes.some(t=>t.type==='context'&&t.score===5));
+ const categories=supplementalContentEvidenceById[review.id].content_categories;
+ for(const category of ['sexual_content','language','violence','spiritual_material','substance_use','moral_themes']){
+   assert.ok(categories[category].findings.length>0);
+   assert.ok(categories[category].evidence.some(item=>item.url.startsWith('https://')));
+ }
+ const old={...review,verdict:'neutral',themeScripture:undefined,editorNote:'Retain the editor note.'};
+ const revised=applyFamilyReviewRecommendation(old);
+ assert.equal(revised.verdict,'destructive');
+ assert.deepEqual(revised.themeScripture,review.themeScripture);
+ assert.equal(revised.editorNote,old.editorNote);
+ assert.equal(applyFamilyReviewRecommendation(revised),revised);
 });
 test('241 flagged concerns attached to the 200 imported movies',()=>{
  assert.equal(seed.issues.length,241);

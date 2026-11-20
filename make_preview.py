@@ -18,6 +18,12 @@ assets = [
 ]
 for name, tag, start, end in assets:
     contents = (public / name).read_text(encoding='utf-8')
+    if name == 'app.js':
+        ratings_import = "import {applyFamilyReviewRecommendation, supplementalReviews, supplementalContentEvidenceById} from './family-review-ratings.js';"
+        if contents.count(ratings_import) != 1:
+            raise ValueError('Expected one family review ratings import')
+        ratings = (public / 'family-review-ratings.js').read_text(encoding='utf-8')
+        contents = contents.replace(ratings_import, ratings)
     if html.count(tag) != 1 or re.search(re.escape(end), contents, flags=re.IGNORECASE):
         raise ValueError(f'Cannot safely inline {name}')
     html = html.replace(tag, f'{start}{contents}{end}')

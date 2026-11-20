@@ -61,7 +61,7 @@ export function validateReview(review){
   if(!['All Ages','7+','10+','13+','16+','18+','Not Recommended'].includes(review.age))throw new ApiError('Choose an age recommendation');
   if(str(review.verdictRationale).length<20||str(review.ageRationale).length<20)throw new ApiError('Explain the verdict and age recommendation');
   if(!Array.isArray(review.themes)||review.themes.length<4||review.themes.length>40)throw new ApiError('Provide at least four meaningful themes');
-  if(!review.themes.every(t=>typeof t.name==='string'&&t.name.trim()&&['positive','harmful'].includes(t.type)&&Number.isInteger(t.score)&&t.score>=0&&t.score<=5&&['affirmed','condemned','criticized','mixed','descriptive','unverified'].includes(t.portrayal)&&str(t.evidence).length>=8&&Array.isArray(t.references)&&t.references.some(s=>sourceUrl(s.url))))throw new ApiError('Every theme needs a 0–5 score, rationale, portrayal and HTTPS source');
+  if(!review.themes.every(t=>typeof t.name==='string'&&t.name.trim()&&['positive','harmful','context'].includes(t.type)&&Number.isInteger(t.score)&&t.score>=0&&t.score<=5&&['affirmed','condemned','criticized','mixed','descriptive','unverified'].includes(t.portrayal)&&str(t.evidence).length>=8&&Array.isArray(t.references)&&t.references.some(s=>sourceUrl(s.url))))throw new ApiError('Every theme needs a 0–5 score, rationale, portrayal and HTTPS source');
   if(!Array.isArray(review.sources)||!review.sources.some(s=>sourceUrl(s.url)))throw new ApiError('A film-specific HTTPS source is required');
   if(!Array.isArray(review.questions)||review.questions.length<5||review.questions.some(q=>str(q).length<10))throw new ApiError('Provide five useful discussion questions');
   if (review.familyAdvisories !== undefined) {

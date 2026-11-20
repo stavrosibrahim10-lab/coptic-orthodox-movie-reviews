@@ -56,7 +56,10 @@ test('saving changes resets signatures and reopens resolved flags',async()=>{
   familyPortrayal: {details:'The father helps his child talk through a disagreement.',url:'https://example.com/film-review'},
   comingOfAge: {details:'Two friends discuss puberty and crushes.',url:'https://example.com/film-review'}
  };
- const d={...working.draft,verdictRationale:working.draft.verdictRationale+' Additional editor explanation.',familyAdvisories};
+ const contextTheme={name:'Family and cultural themes',type:'context',score:3,portrayal:'mixed',
+  evidence:'The central conflict tests the family’s trust.',references:[{label:'Guide',url:'https://example.com/film-review'}]};
+ const d={...working.draft,verdictRationale:working.draft.verdictRationale+' Additional editor explanation.',
+  familyAdvisories,themes:[...working.draft.themes,contextTheme]};
  const r=await status('save',{movie_id:movieId,revision:working.revision,review:d});
  assert.equal(r.status,200);assert.equal(r.body.row.facts_by,null);assert.equal(r.body.row.spiritual_by,null);
  assert.equal(issue.state,'open');assert.ok(r.body.row.published,'Previous public version should remain unchanged');
@@ -67,6 +70,7 @@ test('saving changes resets signatures and reopens resolved flags',async()=>{
  const published = await status('publish', {movie_id:movieId,revision:working.revision});
  assert.equal(published.status,200);
  assert.deepEqual(published.body.row.published.familyAdvisories,familyAdvisories);
+ assert.deepEqual(published.body.row.published.themes.at(-1),contextTheme);
 });
 test('saving an advisory requires an HTTPS source',async()=>{
  const review={...working.draft,familyAdvisories:{representation:{details:'A brief reference in dialogue.',url:''}}};
