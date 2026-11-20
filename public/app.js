@@ -176,7 +176,7 @@ function renderRatings(r,type,remainingAdvisories){
     const label = familyAdvisoryLabels[advisoryType];
     if (advisory) remainingAdvisories.delete(advisoryType);
     return `<div class="rating-row"><div><strong>${esc(t.name)}</strong><small>${esc(t.portrayal||'unverified')} · ${esc(t.evidence||'Evidence note pending')}${refs ? `<br>${refs}` : ''}</small></div><div class="rating-track"><div class="rating-fill ${esc(type)}" style="width:${fill}%"></div></div><div class="score">${esc(score)}</div>
-      ${advisory ? `<details class="rating-note"><summary>${esc(label)}</summary>${renderAdvisoryText(advisory, label, sources)}</details>` : ''}</div>`;
+      ${advisory ? `<div class="rating-note"><strong>${esc(label)}</strong>${renderAdvisoryText(advisory, label, sources)}</div>` : ''}</div>`;
   }).join('');
 }
 
@@ -198,12 +198,12 @@ function renderReviewRatings(review){
   return `<section class="paper-panel detail-section" aria-labelledby="theme-ratings-title">
     <h2 id="theme-ratings-title">Spiritual theme ratings (0–5)</h2>
     ${ratings}
-    <details class="viewing-notes">
-      <summary>Before you watch</summary>
+    <section class="viewing-notes" aria-labelledby="viewing-notes-title">
+      <h3 id="viewing-notes-title">Before you watch</h3>
       ${otherNotes}${evidence}
       ${review.age ? '<p class="muted viewing-age-note">The suggested age reflects content maturity. Consider your child’s individual sensitivities.</p>' : ''}
       <div class="pastoral-guidance">For personal spiritual discernment, seek the guidance of your father of confession or parish priest.</div>
-    </details>
+    </section>
   </section>`;
 }
 
@@ -253,7 +253,7 @@ function renderContentEvidence(r){
     }).join('');
     return `<div class="evidence-category"><strong>${esc(label)}</strong><small>${labelText}</small><ul>${findings}</ul>${categorySources}${notes}</div>`;
   }).join('');
-  return `<div class="content-evidence"><h3>Checked content findings</h3><p class="muted">Findings reflect the scenes, themes, and dialogue covered by the cited guides.</p>${advisories}${cells}</div>`;
+  return `<div class="content-evidence"><h4>Checked content findings</h4><p class="muted">Findings reflect the scenes, themes, and dialogue covered by the cited guides.</p>${advisories}${cells}</div>`;
 }
 function renderAdvisoryText(note,label,listedSources=[]){
   const source = /^https:\/\//i.test(note.url || '') && !listedSources.some(item=>item.url===note.url)

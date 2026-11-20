@@ -44,12 +44,12 @@
 .rating-note {
   grid-column: 1 / -1;
   margin-top: -3px;
+  padding: 6px 10px;
+  border-inline-start: 2px solid var(--border);
   font-size: 12px;
 }
-.rating-note summary, .viewing-notes summary {
+.rating-note > strong, .viewing-notes > h3 {
   color: var(--forest);
-  font-weight: 700;
-  cursor: pointer;
 }
 .rating-note p, .viewing-notes .evidence-category p {
   margin: 6px 0;
@@ -66,13 +66,18 @@
   border-radius: 7px;
   padding: 12px 14px;
 }
-.viewing-notes > summary {
+.viewing-notes > h3 {
+  margin: 0;
   font-size: 14px;
 }
 .viewing-notes .content-evidence {
   margin-top: 12px;
   padding-top: 0;
   border-top: 0;
+}
+.viewing-notes .content-evidence h4 {
+  font-size: 15px;
+  margin: 8px 0;
 }
 .viewing-notes .viewing-age-note {
   margin: 12px 0 0;
