@@ -50,9 +50,28 @@ test('owner publishes verified, signed draft after source issue is resolved',asy
  assert.equal(r.body.row.workflow,'published');assert.ok(r.body.row.published);assert.equal(r.body.row.published.theologicalApproval,'approved');
 });
 test('saving changes resets signatures and reopens resolved flags',async()=>{
- const d={...working.draft,verdictRationale:working.draft.verdictRationale+' Additional editor explanation.'};
+ const familyAdvisories = {
+  advocacy: {details:'The film encourages habitat conservation.',url:'https://example.com/film-review'},
+  parentalAuthority: {details:'The story shows the consequences of leaving home without permission.',url:'https://example.com/film-review'},
+  familyPortrayal: {details:'The father helps his child talk through a disagreement.',url:'https://example.com/film-review'},
+  comingOfAge: {details:'Two friends discuss puberty and crushes.',url:'https://example.com/film-review'}
+ };
+ const d={...working.draft,verdictRationale:working.draft.verdictRationale+' Additional editor explanation.',familyAdvisories};
  const r=await status('save',{movie_id:movieId,revision:working.revision,review:d});
  assert.equal(r.status,200);assert.equal(r.body.row.facts_by,null);assert.equal(r.body.row.spiritual_by,null);
  assert.equal(issue.state,'open');assert.ok(r.body.row.published,'Previous public version should remain unchanged');
+ assert.deepEqual(r.body.row.draft.familyAdvisories, familyAdvisories);
+ assert.equal(r.body.row.published.familyAdvisories, undefined);
+ working.facts_by=working.age_by=working.spiritual_by='ab1a1212-1212-1212-1212-121212121212';
+ issue.state='resolved';
+ const published = await status('publish', {movie_id:movieId,revision:working.revision});
+ assert.equal(published.status,200);
+ assert.deepEqual(published.body.row.published.familyAdvisories,familyAdvisories);
+});
+test('saving an advisory requires an HTTPS source',async()=>{
+ const review={...working.draft,familyAdvisories:{representation:{details:'A brief reference in dialogue.',url:''}}};
+ const r=await status('save',{movie_id:movieId,revision:working.revision,review});
+ assert.equal(r.status,400);
+ assert.match(r.body.error,/HTTPS source/);
 });
 process.on('exit',()=>{globalThis.fetch=originalFetch;for(const [k,v] of Object.entries(originalEnv))if(v===undefined)delete process.env[k];else process.env[k]=v});
