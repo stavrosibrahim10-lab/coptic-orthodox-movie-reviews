@@ -1,4 +1,5 @@
 import {environment,ApiError,reply,safeError,originAllowed,jsonBody,supabase,rows,patch,insert,authenticate,validateReview,str,sourceUrl,canEdit,canPublish,canSpiritual} from './_shared/core.mjs';
+import {applyFamilyReviewRecommendation,supplementalReviews} from '../../public/family-review-ratings.js';
 export const config={path:'/api/studio'};
 const recentCols='movie_id,title,release_year,verdict,suggested_age,workflow,revision,facts_by,age_by,spiritual_by,published_at,updated_at,published';
 const normalizeId=id=>str(id,120).replace(/[^a-zA-Z0-9_-]/g,'');
@@ -8,6 +9,30 @@ async function issuesFor(id){return rows('studio_issues',{where:{movie_id:'eq.'+
 async function record(actor,action,movie_id,detail=''){await insert('studio_activity',{actor_id:actor,action,movie_id,detail:str(detail,700)});}
 async function snapshot(row,actor,action){await insert('studio_revisions',{movie_id:row.movie_id,revision:row.revision,action,snapshot:row.draft,actor_id:actor});}
 function rowSummary(r){return {...r,has_live_version:!!r.published,published:undefined}}
+function dashboardReviews(){
+  return rows('studio_reviews',{select:recentCols,order:'updated_at.desc',limit:1000});
+}
+async function registerReleaseDrafts(list){
+  const existingIds=new Set(list.map(row=>row.movie_id));
+  const missing=supplementalReviews.filter(review=>!existingIds.has(review.id));
+  if(!missing.length)return list;
+  const drafts=missing.map(review=>{
+    const draft=validateReview(applyFamilyReviewRecommendation(review));
+    return {
+      movie_id:draft.id,
+      title:draft.title,
+      release_year:draft.year,
+      verdict:draft.verdict,
+      suggested_age:draft.age,
+      draft,
+      workflow:'draft',
+      revision:1
+    };
+  });
+  // Only released files supply new drafts. A concurrent import preserves the saved copy.
+  await insert('studio_reviews',drafts,{ignore:true});
+  return dashboardReviews();
+}
 function assertMember(role,action){if(!roleAllows(role,action))throw new ApiError('Your role cannot perform this action',403)}
 async function updateReview(row,expected,fields){
   if(!Number.isInteger(expected)||expected!==row.revision)throw new ApiError('This review changed since you opened it. Reload it before saving.',409);
@@ -150,13 +175,18 @@ export default async function handler(req){
       try{await supabase('/auth/v1/logout',{admin:false,method:'POST',token:(req.headers.get('authorization')||'').replace(/^Bearer\s+/i,'')});}catch{}
       return reply({signed_out:true});
     }
-    if(method==='GET'&&action==='bootstrap'){
-      const [list,issues,members,activity]=await Promise.all([
-        rows('studio_reviews',{select:recentCols,order:'updated_at.desc',limit:1000}),
+    if(action==='bootstrap'){
+      let [list,issues,members,activity]=await Promise.all([
+        dashboardReviews(),
         rows('studio_issues',{select:'id,movie_id,kind,state,title,detail,source_url,resolution_note',limit:2000}),
         rows('studio_members',{select:'user_id,display_name,role,active,created_at',limit:100}),
         rows('studio_activity',{select:'action,movie_id,detail,created_at,actor_id',order:'created_at.desc',limit:15})]);
-      return reply({user:{id:actor,email:user.email,role,display_name:member.display_name},reviews:list.map(rowSummary),issues,members,activity});
+      let releaseDraftsPending=false;
+      if(method==='POST'){
+        try { list=await registerReleaseDrafts(list); }
+        catch { releaseDraftsPending=true; }
+      }
+      return reply({user:{id:actor,email:user.email,role,display_name:member.display_name},reviews:list.map(rowSummary),issues,members,activity,releaseDraftsPending});
     }
     if(method==='GET'&&action==='item')return reply(await getItem(normalizeId(query.get('id'))));
     if(method==='GET'&&action==='metrics'){
