@@ -73,6 +73,16 @@ export function validateReview(review){
   if(review.themes.filter(t=>t.name===LGBTQ_THEME_NAME).length>1)throw new ApiError('Only one LGBTQ Themes & Messaging rating is allowed');
   const impact=lgbtqImpact(getLgbtqTheme(review)?.score);
   if(impact==='destructive'&&review.verdict!=='destructive')throw new ApiError('LGBTQ rating 2–5 requires Destructive to Spiritual Wellness under the selected editorial policy');
+  if(review.biblicalParallels !== undefined){
+    if(!Array.isArray(review.biblicalParallels)||review.biblicalParallels.length>8)throw new ApiError('Limit biblical parallels to eight editorial entries');
+    for(const entry of review.biblicalParallels){
+      if(!entry||str(entry.title,121).length<5||str(entry.title).length>120
+        ||str(entry.filmMoment).length<15||str(entry.filmMoment).length>800
+        ||str(entry.scriptureReference).length<3||str(entry.scriptureReference).length>150
+        ||str(entry.reflection).length<30||str(entry.reflection).length>1500
+        ||!sourceUrl(entry.sourceUrl))throw new ApiError('Each biblical parallel needs a title, film moment, Bible reference, substantive reflection, and film-specific HTTPS source');
+    }
+  }
   if(!Array.isArray(review.sources)||!review.sources.some(s=>sourceUrl(s.url)))throw new ApiError('A film-specific HTTPS source is required');
   if(!Array.isArray(review.questions)||review.questions.length<5||review.questions.some(q=>str(q).length<10))throw new ApiError('Provide five useful discussion questions');
   if (review.familyAdvisories !== undefined) {
