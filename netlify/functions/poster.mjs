@@ -1,8 +1,15 @@
 // Authenticated TMDB poster lookup for the Coptic Orthodox Movie Reviews frontend.
 // Exposed at /api/poster by Netlify's function route configuration.
 const normalize = value => String(value ?? '').toLowerCase().normalize('NFKD').replace(/[\u0300-\u036f]/g, '').replace(/&/g, ' and ').replace(/[^a-z0-9]+/g, ' ').trim();
-// The streaming release predates the theatrical date returned by TMDB.
-const movieIds = new Map([['hamilton|2020', 556574]]);
+// Verified TMDB records for alternate titles or release dates used by the catalog.
+const movieIds = new Map([
+  ['hamilton|2020', 556574],
+  ['dracula sovereign of the damned|1980', 90450],
+  ['ultimate avengers|2006', 14609],
+  ['ultimate avengers 2 rise of the panther|2006', 14611],
+  ['doctor strange the sorcerer supreme|2007', 14830],
+  ['the fantastic four first steps|2025', 617126]
+]);
 const response = (payload, status=200) => new Response(JSON.stringify(payload), {
   status, headers: {'Content-Type':'application/json; charset=utf-8','Cache-Control':'public, max-age=86400','X-Content-Type-Options':'nosniff'}
 });
@@ -33,10 +40,11 @@ export default async function handler(request) {
     if (!result.ok) return response({posterUrl:null,reason:'TMDB request failed'},502);
     const body=await result.json();
     // Require a matching title and a year within one year for alternate release dates.
-    const candidates=movieId && body.id===movieId?[body]:body.results||[];
-    const matches=candidates.filter(m=>m.poster_path &&
-      (normalize(m.title)===normalizedTitle || normalize(m.original_title)===normalizedTitle) &&
-      (movieId?m.id===movieId:Math.abs(Number((m.release_date||'').slice(0,4))-year)<=1));
+    const candidates=movieId?[body]:body.results||[];
+    const matches=candidates.filter(m=>m.poster_path && (movieId
+      ? m.id===movieId
+      : (normalize(m.title)===normalizedTitle || normalize(m.original_title)===normalizedTitle) &&
+        Math.abs(Number((m.release_date||'').slice(0,4))-year)<=1));
     matches.sort((a,b)=>{
       const exactA=Number((a.release_date||'').slice(0,4))===year?1:0;
       const exactB=Number((b.release_date||'').slice(0,4))===year?1:0;
