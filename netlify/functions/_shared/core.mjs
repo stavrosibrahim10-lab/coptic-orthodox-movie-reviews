@@ -1,4 +1,5 @@
 // Shared backend helpers. No third-party dependencies; compatible with Netlify Functions / Node 22.
+import {LGBTQ_THEME_NAME,getLgbtqTheme,lgbtqImpact} from '../../../public/lgbtq-audit.js';
 export function environment(){
   const url=(process.env.SUPABASE_URL||'').trim().replace(/\/$/,'');
   const pub=(process.env.SUPABASE_PUBLISHABLE_KEY||'').trim();
@@ -61,7 +62,17 @@ export function validateReview(review){
   if(!['All Ages','7+','10+','13+','16+','18+','Not Recommended'].includes(review.age))throw new ApiError('Choose an age recommendation');
   if(str(review.verdictRationale).length<20||str(review.ageRationale).length<20)throw new ApiError('Explain the verdict and age recommendation');
   if(!Array.isArray(review.themes)||review.themes.length<4||review.themes.length>40)throw new ApiError('Provide at least four meaningful themes');
-  if(!review.themes.every(t=>typeof t.name==='string'&&t.name.trim()&&['positive','harmful','context'].includes(t.type)&&Number.isInteger(t.score)&&t.score>=0&&t.score<=5&&['affirmed','condemned','criticized','mixed','descriptive','unverified'].includes(t.portrayal)&&str(t.evidence).length>=8&&Array.isArray(t.references)&&t.references.some(s=>sourceUrl(s.url))))throw new ApiError('Every theme needs a 0–5 score, rationale, portrayal and HTTPS source');
+  if(!review.themes.every(t=>{
+    const pendingLgbtq=t.name===LGBTQ_THEME_NAME&&t.score===null;
+    return typeof t.name==='string'&&t.name.trim()&&['positive','harmful','context'].includes(t.type)
+      &&(pendingLgbtq||(Number.isInteger(t.score)&&t.score>=0&&t.score<=5))
+      &&['affirmed','condemned','criticized','mixed','descriptive','unverified'].includes(t.portrayal)
+      &&str(t.evidence).length>=8&&Array.isArray(t.references)
+      &&(pendingLgbtq||t.references.some(s=>sourceUrl(s.url)));
+  }))throw new ApiError('Verified themes need a 0–5 score, rationale, portrayal and HTTPS source; LGBTQ screening may remain Not Verified in drafts');
+  if(review.themes.filter(t=>t.name===LGBTQ_THEME_NAME).length>1)throw new ApiError('Only one LGBTQ Themes & Messaging rating is allowed');
+  const impact=lgbtqImpact(getLgbtqTheme(review)?.score);
+  if(impact==='destructive'&&review.verdict!=='destructive')throw new ApiError('LGBTQ rating 2–5 requires Destructive to Spiritual Wellness under the selected editorial policy');
   if(!Array.isArray(review.sources)||!review.sources.some(s=>sourceUrl(s.url)))throw new ApiError('A film-specific HTTPS source is required');
   if(!Array.isArray(review.questions)||review.questions.length<5||review.questions.some(q=>str(q).length<10))throw new ApiError('Provide five useful discussion questions');
   if (review.familyAdvisories !== undefined) {
@@ -77,6 +88,11 @@ export function validateReview(review){
     }
   }
   return review;
+}
+export function requireLgbtqVerification(review){
+  const theme=getLgbtqTheme(review);
+  if(!theme||theme.score===null||theme.score===undefined)throw new ApiError('Complete the film-specific LGBTQ 0–5 research before sign-off or publication');
+  return theme;
 }
 export function safeError(err){return reply({error:err instanceof ApiError?err.message:'Unexpected server error'},err instanceof ApiError?err.status:500)}
 export function publicReview(row){return {...row.published,id:row.movie_id,reviewType:'published',theologicalApproval:'approved',contentVerification:'editor_checked',editorialStatus:'published',publishedAt:row.published_at}}

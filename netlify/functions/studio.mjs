@@ -1,5 +1,6 @@
-import {environment,ApiError,reply,safeError,originAllowed,jsonBody,supabase,rows,patch,insert,authenticate,validateReview,str,sourceUrl,canEdit,canPublish,canSpiritual} from './_shared/core.mjs';
+import {environment,ApiError,reply,safeError,originAllowed,jsonBody,supabase,rows,patch,insert,authenticate,validateReview,str,sourceUrl,canEdit,canPublish,canSpiritual,requireLgbtqVerification} from './_shared/core.mjs';
 import {applyFamilyReviewRecommendation,supplementalReviews} from '../../public/family-review-ratings.js';
+import {withLgbtqTheme,getLgbtqTheme} from '../../public/lgbtq-audit.js';
 export const config={path:'/api/studio'};
 const recentCols='movie_id,title,release_year,verdict,suggested_age,workflow,revision,facts_by,age_by,spiritual_by,published_at,updated_at,published';
 const normalizeId=id=>str(id,120).replace(/[^a-zA-Z0-9_-]/g,'');
@@ -17,7 +18,7 @@ async function registerReleaseDrafts(list){
   const missing=supplementalReviews.filter(review=>!existingIds.has(review.id));
   if(!missing.length)return list;
   const drafts=missing.map(review=>{
-    const draft=validateReview(applyFamilyReviewRecommendation(review));
+    const draft=validateReview(withLgbtqTheme(applyFamilyReviewRecommendation(review),{proposeVerdict:true}));
     return {
       movie_id:draft.id,
       title:draft.title,
@@ -32,6 +33,31 @@ async function registerReleaseDrafts(list){
   // Only released files supply new drafts. A concurrent import preserves the saved copy.
   await insert('studio_reviews',drafts,{ignore:true});
   return dashboardReviews();
+}
+async function initializeLgbtqBatch(b,actor,role){
+  if(role!=='owner')throw new ApiError('Only the owner may initialize the catalog-wide rating',403);
+  if(!Array.isArray(b.movie_ids)||!b.movie_ids.length||b.movie_ids.length>10)
+    throw new ApiError('Select 1–10 existing movie IDs per batch');
+  const ids=[...new Set(b.movie_ids.map(normalizeId))];
+  const results=[];
+  // Each movie is separately guarded by revision for safe retry after interruptions.
+  for(const id of ids){
+    try{
+      const row=await movie(id);
+      if(getLgbtqTheme(row.draft)){results.push({movie_id:id,state:'already_present'});continue}
+      const draft=validateReview(withLgbtqTheme(row.draft,{proposeVerdict:true}));
+      const next=await updateReview(row,row.revision,{
+        draft,verdict:draft.verdict,suggested_age:draft.age,workflow:'draft',
+        facts_by:null,facts_at:null,age_by:null,age_at:null,
+        spiritual_by:null,spiritual_at:null,updated_by:actor
+      });
+      // Do not change the published copy or silently close/open unrelated flags.
+      await snapshot(next,actor,'initialized LGBTQ rating');
+      await record(actor,'initialized LGBTQ rating',id,'Added source-backed starter or Not Verified screening field; previous sign-offs cleared');
+      results.push({movie_id:id,state:'saved',revision:next.revision,score:getLgbtqTheme(draft).score});
+    }catch(err){results.push({movie_id:id,state:'error',reason:err instanceof ApiError?err.message:'Unable to save draft'})}
+  }
+  return {results};
 }
 function assertMember(role,action){if(!roleAllows(role,action))throw new ApiError('Your role cannot perform this action',403)}
 async function updateReview(row,expected,fields){
@@ -74,7 +100,7 @@ async function actionReview(action,b,actor,role){
     return {row:next};
   }
   if(action==='approve_facts'||action==='approve_age'||action==='approve_spiritual'){
-    assertMember(role,action);validateReview(row.draft);
+    assertMember(role,action);validateReview(row.draft);requireLgbtqVerification(row.draft);
     const updates={updated_by:actor};const now=new Date().toISOString();
     if(action==='approve_facts'){updates.facts_by=actor;updates.facts_at=now;}
     if(action==='approve_age'){updates.age_by=actor;updates.age_at=now;}
@@ -89,6 +115,7 @@ async function actionReview(action,b,actor,role){
     if(!row.facts_by||!row.age_by||!row.spiritual_by)throw new ApiError('Facts, age guidance, and spiritual assessment must all be signed off');
     const pending=(await issuesFor(id)).filter(i=>i.state==='open');
     if(pending.length)throw new ApiError(`Resolve or document a waiver for the ${pending.length} outstanding audit issue(s) first`);
+    requireLgbtqVerification(row.draft);
     const draft={...row.draft,contentVerification:'editor_checked',theologicalApproval:'approved',editorialStatus:'published'};
     const next=await updateReview(row,expected,{draft,published:draft,workflow:'published',published_at:new Date().toISOString(),published_by:actor,updated_by:actor});
     await snapshot(next,actor,'published');await record(actor,'published',id,'New public version released');
@@ -201,6 +228,7 @@ export default async function handler(req){
     if(method!=='POST')throw new ApiError('Unknown API action',404);
     if(['save','approve_facts','approve_age','approve_spiritual','publish','rollback'].includes(action))return reply(await actionReview(action,b,actor,role));
     if(action==='issue')return reply(await changeIssue(b,actor,role));
+    if(action==='lgbtq_initialize')return reply(await initializeLgbtqBatch(b,actor,role));
     if(action==='ai'){assertMember(role,'save');return reply(await aiDraft(b));}
     if(action==='invite'){if(role!=='owner')throw new ApiError('Only the owner can invite editors',403);return reply(await invite(b,actor,req));}
     if(action==='team_role'){if(role!=='owner')throw new ApiError('Only the owner can change roles',403);return reply(await teamRole(b,actor));}

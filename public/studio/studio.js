@@ -1,7 +1,8 @@
 // The Orthodox Lens Editorial Studio. Admin mutations always go through protected Netlify API.
 import {applyFamilyReviewRecommendation, supplementalReviews, supplementalContentEvidenceById} from '../family-review-ratings.js';
+import {LGBTQ_THEME_NAME,withLgbtqTheme,lgbtqImpact,LGBTQ_SCORING_GUIDE} from '../lgbtq-audit.js';
 
-const studioSeedReviews = [...seedReviews, ...supplementalReviews].map(applyFamilyReviewRecommendation);
+const studioSeedReviews = [...seedReviews, ...supplementalReviews].map(applyFamilyReviewRecommendation).map(r=>withLgbtqTheme(r,{proposeVerdict:true}));
 const el=document.getElementById('studio-root');
 const escapeHtml=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const h=escapeHtml;
@@ -66,6 +67,7 @@ function overview(){
   const verdicts=S.data.reviews.reduce((acc,r)=>{if(r.verdict)acc[r.verdict]=(acc[r.verdict]||0)+1;return acc},{edifying:0,neutral:0,destructive:0});
   return header('Editorial overview','One workspace for reviews, approval decisions, research and publication.',`<a class="btn secondary" href="/" target="_blank">View public site ↗</a>`)+
   `<div class="stats-grid">${stat('Movie records',total,'Stage 4 library imported')}${stat('Published',done,`${pct(done,total)}% editorial approvals complete`)}${stat('Open source claims',countOpen('source'),'Verify exact content and interpretation')}${stat('Age guidance flags',countOpen('age'),'Prioritize sensitive recommendations')}</div>
+  <div class="box sectiongap"><div class="title-row"><h2>LGBTQ Themes &amp; Messaging — catalog scoring</h2><span class="chip">201 films</span></div><p class="note">The 0–5 score tracks prominence. 0 = N/A after screening, 1 = Neutral, 2–5 = Destructive under this site's editorial policy. Unchecked titles show Not Verified. Six film-specific starters have supporting source links; the other titles require screening. Existing edits and published versions are preserved.</p><p class="note">Initialize missing rating fields in drafts without overwriting saved ratings. Affected drafts return to review and lose previous sign-offs; existing flags are not silently closed.</p><div class="actions">${S.role==='owner'&&!S.demo?smallBtn('Add 0–5 category to all Studio drafts','lgbtq-init'):''}${smallBtn('Browse film drafts','nav','data-tab="library"')}</div></div>
   <div class="two-col sectiongap"><section class="box"><div class="title-row"><h2>Stage 4 approval progress</h2><span class="chip">${done} / ${total}</span></div><div class="bar-bg"><div class="bar-fg" style="width:${pct(done,total)}%"></div></div><div class="progress-steps"><span class="done">✓ ${total} movie records</span><span>Review claims</span><span>Approve decisions</span><span>Publish</span></div><p class="note" style="margin-top:17px">Every movie has a provisional assessment. Research and editorial sign-off must be completed before publication. A review is not marked approved just because an external guide has been linked.</p><div class="actions">${smallBtn('Open approval queue','nav','data-tab="queue"')}${smallBtn('View source flags','nav','data-tab="sources"')}</div></section><section class="box"><div class="title-row"><h2>Provisional verdict mix</h2><span class="muted tiny">Imported reviews</span></div>${Object.entries(verdicts).map(([type,n])=>`<div class="metric-line"><span>${h(verdictLabels[type])}</span><div class="actions"><div class="pill-bar"><span style="width:${pct(n,total)}%"></span></div><strong>${n}</strong></div></div>`).join('')}<div class="callout" style="margin-top:15px">Verdicts are independent Christian editorial assessments, not official Church teaching.</div></section></div>
   <div class="two-col sectiongap"><section class="box"><div class="title-row"><h2>Priority approval queue</h2>${smallBtn('All movies','nav','data-tab="queue"')}</div>${needs.length?movieTable(needs):'<p class="note">No open issues in this workspace.</p>'}</section><section class="box"><div class="title-row"><h2>Recent team activity</h2></div>${S.data.activity.length?S.data.activity.slice(0,9).map(a=>`<div class="metric-line"><span><strong>${h(a.action)}</strong><br><span class="muted tiny">${h(a.movie_id||a.detail)}</span></span><span class="muted tiny">${new Date(a.created_at).toLocaleDateString()}</span></div>`).join(''):'<div class="empty"><strong>No recorded actions yet</strong>Actions will appear after the database is connected.</div>'}</section></div>`;
 }
@@ -99,7 +101,8 @@ function assistant(){
 function field(label,id,value,kind='textarea',cls=''){return `<div class="field ${cls}"><label for="${h(id)}">${h(label)}</label>${kind==='textarea'?`<textarea class="control" id="${h(id)}">${h(value)}</textarea>`:`<input class="control" id="${h(id)}" value="${h(value)}">`}</div>`}
 const options=(values,selected)=>values.map(x=>`<option ${x===selected?'selected':''} value="${h(x)}">${h(x)}</option>`).join('');
 function themeEditor(t,i){
-  return `<div class="mini-theme" data-theme-row="${i}"><div class="mini-theme-top"><div class="field"><label>Theme name</label><input class="control theme-name" value="${h(t.name)}"></div><div class="field"><label>Type</label><select class="control theme-type">${options(['positive','harmful','context'],t.type)}</select></div><div class="field"><label>Intensity (0–5)</label><select class="control theme-score">${options(['0','1','2','3','4','5'],String(t.score??0))}</select></div><div class="field"><label>Portrayal</label><select class="control theme-portrayal">${options(['affirmed','condemned','criticized','mixed','descriptive','unverified'],t.portrayal)}</select></div><div style="padding-top:21px">${smallBtn('×','remove-theme',`data-index="${i}"`,'danger')}</div></div><div class="field"><label>Why this score? Which verified detail supports it?</label><textarea class="control theme-evidence">${h(t.evidence)}</textarea></div><div class="field"><label>Evidence source URLs — one per line (mandatory)</label><textarea class="control theme-refs" style="min-height:64px">${h((t.references||[]).map(s=>s.url).join('\n'))}</textarea></div></div>`;
+  const isLgbtq=t.name===LGBTQ_THEME_NAME;
+  return `<div class="mini-theme" data-theme-row="${i}"><div class="mini-theme-top"><div class="field"><label>Theme name</label><input class="control theme-name" value="${h(t.name)}"></div><div class="field"><label>Type</label><select class="control theme-type">${options(['positive','harmful','context'],t.type)}</select></div><div class="field"><label>Intensity (0–5)</label><select class="control theme-score">${isLgbtq?`<option value="unverified" ${t.score==null?'selected':''}>Not Verified</option>`:''}${options(['0','1','2','3','4','5'],t.score==null?'unverified':String(t.score))}</select></div><div class="field"><label>Portrayal</label><select class="control theme-portrayal">${options(['affirmed','condemned','criticized','mixed','descriptive','unverified'],t.portrayal)}</select></div><div style="padding-top:21px">${smallBtn('×','remove-theme',`data-index="${i}"`,'danger')}</div></div><div class="field"><label>Why this score? Which verified detail supports it?</label><textarea class="control theme-evidence">${h(t.evidence)}</textarea></div><div class="field"><label>Evidence source URLs — one per line (mandatory)</label><textarea class="control theme-refs" style="min-height:64px">${h((t.references||[]).map(s=>s.url).join('\n'))}</textarea></div>${isLgbtq?`<p class="note">0 = N/A only after a documented check; 1 = Neutral under this criterion; 2–5 = Destructive under site policy. Preserve the on-screen evidence and source. Off-screen interviews and interpretations do not themselves qualify for a numeric finding.</p>`:''}</div>`;
 }
 function stage3Panel(id){const ev=stage3({movie_id:id});if(!ev)return '<p class="note">No linked Stage 3 evidence was found. Verify the film identity before editing.</p>';
  const labels={sexual_content:'Sexual content',language:'Language & blasphemy',violence:'Violence / peril',spiritual_material:'Occult / spiritual material',substance_use:'Substance use',moral_themes:'Moral themes'};
@@ -113,7 +116,7 @@ function issueEditor(i){return `<div class="issue ${h(i.state)}"><div class="tit
 function historyEditor(hist){return hist.map(x=>`<div class="history-row"><span><strong>Revision ${h(x.revision)}</strong><br><span class="muted">${h(x.action)} · ${new Date(x.created_at).toLocaleString()}</span></span>${smallBtn('Restore draft','restore',`data-history="${h(x.id)}"`, 'secondary')}</div>`).join('')||'<p class="note">History will appear after the first saved edit.</p>'}
 function reviewEditor(){
  const selected=S.selected;if(!selected)return overview();
- const r=selected.workingDraft||selected.row.draft||{};const meta=selected.row;const issuesList=selected.issues||[];
+ const r=withLgbtqTheme(selected.workingDraft||selected.row.draft||{});const meta=selected.row;const issuesList=selected.issues||[];
  const canWrite=!S.demo&&['owner','editor'].includes(S.role);
  const approved=[['facts','Content & factual review',meta.facts_by],['age','Age guidance review',meta.age_by],['spiritual','Spiritual interpretation',meta.spiritual_by]];
  const approvedCount=approved.filter(x=>x[2]).length;
@@ -124,7 +127,7 @@ function reviewEditor(){
  <div class="review-layout"><div><section class="box"><div class="title-row"><h2>Edit review</h2>${stateChip(meta.workflow)}</div><div class="callout" style="margin-bottom:20px">Edits invalidate all three earlier approvals. Save first, then review and approve the updated text. Movie identity is locked to keep the Stage 3 content guide attached to the correct title.</div>
  <div class="review-fields"><div class="field"><label>Spiritual verdict</label><select id="fVerdict" class="control" ${canWrite?'':'disabled'}>${[['edifying','Edifying'],['neutral','Neutral'],['destructive','Destructive to Spiritual Wellness']].map(([x,label])=>`<option value="${x}" ${r.verdict===x?'selected':''}>${label}</option>`).join('')}</select></div><div class="field"><label>Suggested viewing age (independent)</label><select id="fAge" class="control" ${canWrite?'':'disabled'}>${options(['All Ages','7+','10+','13+','16+','18+','Not Recommended'],r.age)}</select></div>
  ${field('Why this spiritual verdict?','fVerdictReason',r.verdictRationale,'textarea','full')}${field('Why this age? Explain violence, language, sexual content, fear, maturity.','fAgeReason',r.ageRationale,'textarea','full')}${field('Spiritual reflection','fReflection',r.reflection,'textarea','full')}${field('Scripture references (one per line)','fScripture',(r.scripture||[]).join('\n'),'textarea','full')}${field('Five family discussion questions (one per line)','fQuestions',(r.questions||[]).join('\n'),'textarea','full')}</div>
- <div class="divider"></div><div class="title-row"><h2>Theme ratings</h2>${canWrite?smallBtn('+ Add theme','add-theme'):''}</div><p class="note">Use 0–5 for prominence. Choose context for topics such as puberty, relationships or attributed subtext. Explain how relevant themes informed the verdict. Each score needs a specific rationale and an HTTPS source.</p>${canWrite&&applyFamilyReviewRecommendation(r)!==r?smallBtn('Load suggested review updates','apply-family-ratings'):''}<div id="themeRows">${(r.themes||[]).map(themeEditor).join('')}</div>
+ <div class="divider"></div><div class="title-row"><h2>Theme ratings</h2>${canWrite?smallBtn('+ Add theme','add-theme'):''}</div><p class="note">Use 0–5 for prominence. LGBTQ Themes &amp; Messaging: 0 = N/A; 1 = Neutral under this criterion; 2–5 = Destructive to Spiritual Wellness; Not Verified = research still required. A verified score needs a film-specific source. The score measures prominence, not moral worth. A saved draft is not an approval.</p>${canWrite&&applyFamilyReviewRecommendation(r)!==r?smallBtn('Load suggested review updates','apply-family-ratings'):''}<div id="themeRows">${(r.themes||[]).map(themeEditor).join('')}</div>
  <div class="divider"></div><h2>Sources, content notes & warnings</h2><p class="note">Each source on its own line: <code>Label | https://link | Notes</code>. Content warnings appear under Before you watch after publication. Use <code>Category | Severity | Details</code>.</p>
  ${field('Film-specific source links','fSources',(r.sources||[]).map(s=>`${s.label||''} | ${s.url||''} | ${s.notes||''}`).join('\n'))}${field('Content warnings','fWarnings',(r.warnings||[]).map(w=>`${w.name||''} | ${w.severity||''} | ${w.details||''}`).join('\n'))}${field('Editor notes','fEditorNote',r.editorNote)}
  ${familyAdvisoryEditor(r,canWrite)}
@@ -167,14 +170,21 @@ function collectDraft(){
  }
  if (advisoryChanged) r.familyAdvisories = advisories;
  r.themes=[...document.querySelectorAll('[data-theme-row]')].map(tr=>{
-  const name=tr.querySelector('.theme-name').value.trim(),type=tr.querySelector('.theme-type').value,score=Number(tr.querySelector('.theme-score').value),portrayal=tr.querySelector('.theme-portrayal').value,evidence=tr.querySelector('.theme-evidence').value.trim();
+  const name=tr.querySelector('.theme-name').value.trim(),type=tr.querySelector('.theme-type').value,score=tr.querySelector('.theme-score').value==='unverified'?null:Number(tr.querySelector('.theme-score').value),portrayal=tr.querySelector('.theme-portrayal').value,evidence=tr.querySelector('.theme-evidence').value.trim();
   const old=(baseDraft.themes||[]).find(t=>t.name===name);
   const references=tr.querySelector('.theme-refs').value.split('\n').map(url=>url.trim()).filter(Boolean).map(url=>(old?.references||[]).find(x=>x.url===url)||{label:'Film-specific source',url});
   return {name,type,score,portrayal,evidence,references};
  });
+ const lgbtq=r.themes.find(t=>t.name===LGBTQ_THEME_NAME);
+ const impact=lgbtqImpact(lgbtq?.score);
+ if(impact==='destructive'){
+   r.verdict='destructive';
+   if(!r.verdictRationale.includes('LGBTQ Themes & Messaging'))
+     r.verdictRationale=`Under The Orthodox Lens editorial policy, the sourced LGBTQ Themes & Messaging score of ${lgbtq.score}/5 supports a Destructive verdict. ${lgbtq.evidence} `+r.verdictRationale;
+ }
  return r;
 }
-function editPreview(){try{const r=collectDraft();document.getElementById('editPreview').innerHTML=`<div class="preview-card"><div class="eyebrow">Unpublished editor preview</div><h2>${h(r.title)} · ${h(verdictLabels[r.verdict])}</h2><p><strong>Recommended age: ${h(r.age)}</strong></p><p>${h(r.verdictRationale)}</p><p>${h(r.ageRationale)}</p><h3>Theme ratings</h3>${r.themes.map(t=>`<p class="tiny"><strong>${h(t.name)}: ${h(t.score)}/5</strong> · ${h(t.portrayal)} — ${h(t.evidence)}</p>`).join('')}${Object.entries(getFamilyAdvisories(r)).map(([type, advisory])=>advisory.details?`<p><strong>${h(familyAdvisoryLabels[type])}</strong> ${h(advisory.details)}</p>`:'').join('')}<h3>Family questions</h3>${r.questions.map((q,i)=>`<p class="tiny">${i+1}. ${h(q)}</p>`).join('')}</div>`;}catch(e){note(e.message,'bad')}}
+function editPreview(){try{const r=collectDraft();document.getElementById('editPreview').innerHTML=`<div class="preview-card"><div class="eyebrow">Unpublished editor preview</div><h2>${h(r.title)} · ${h(verdictLabels[r.verdict])}</h2><p><strong>Recommended age: ${h(r.age)}</strong></p><p>${h(r.verdictRationale)}</p><p>${h(r.ageRationale)}</p><h3>Theme ratings</h3>${r.themes.map(t=>`<p class="tiny"><strong>${h(t.name)}: ${t.score===null?'Not Verified':h(t.score)+'/5'}</strong> · ${h(t.portrayal)} — ${h(t.evidence)}</p>`).join('')}${Object.entries(getFamilyAdvisories(r)).map(([type, advisory])=>advisory.details?`<p><strong>${h(familyAdvisoryLabels[type])}</strong> ${h(advisory.details)}</p>`:'').join('')}<h3>Family questions</h3>${r.questions.map((q,i)=>`<p class="tiny">${i+1}. ${h(q)}</p>`).join('')}</div>`;}catch(e){note(e.message,'bad')}}
 async function openFilm(id){
   if(!id)return;try{
     let data;if(S.demo){const r=studioSeedReviews.find(x=>x.id===id);if(!r)throw Error('Movie missing from preview data');data={row:{movie_id:r.id,title:r.title,release_year:r.year,revision:1,workflow:'draft',draft:JSON.parse(JSON.stringify(r)),published:null},issues:issues(id),history:[]};}
@@ -219,9 +229,28 @@ async function handle(action,node){
   if(action==='demo'){S.demo=true;S.tab='overview';S.metric=null;S.notice=null;await bootstrap();return}
   if(action==='logout'){if(!S.demo&&S.token)await post('logout',{}).catch(()=>{});clearSession();S.demo=false;loginPage();return}
   if(action==='nav'){
-    if(S.tab==='review'&&S.selected&&!S.demo){try{if(JSON.stringify(collectDraft())!==JSON.stringify(S.selected.row.draft)&&!confirm('You have unsaved edits. Leave this review?'))return}catch{}}
+    if(S.tab==='review'&&S.selected&&!S.demo){try{if(JSON.stringify(collectDraft())!==JSON.stringify(withLgbtqTheme(S.selected.row.draft))&&!confirm('You have unsaved edits. Leave this review?'))return}catch{}}
     S.tab=node.dataset.tab;S.notice=null;
     if(S.tab==='analytics'&&!S.demo)S.metric=await api('metrics',{days:S.metricDays});render();return;
+  }
+  if(action==='lgbtq-init'){
+    if(S.role!=='owner'||S.demo)throw Error('Sign in as the owner to initialize ratings');
+    if(!confirm('Add the LGBTQ 0–5 field to the existing movie drafts? Existing editorial edits and published versions will be preserved. Affected draft approvals will be reset for re-review.'))return;
+    const ids=[...new Set(S.data.reviews.map(r=>r.movie_id))];
+    const summary={saved:0,already_present:0,error:0,errors:[]};
+    for(let i=0;i<ids.length;i+=10){
+      const batch=ids.slice(i,i+10);
+      const res=await post('lgbtq_initialize',{movie_ids:batch});
+      for(const entry of (res.results||[])){
+        if(entry.state==='error')summary.errors.push(`${entry.movie_id}: ${entry.reason}`);
+        summary[entry.state]=(summary[entry.state]||0)+1;
+      }
+      note(`LGBTQ scoring: ${Math.min(i+10,ids.length)}/${ids.length} drafts checked · ${summary.saved} added · ${summary.error} errors`,'info');
+    }
+    await bootstrap();
+    note(`Catalog initialized: ${summary.saved} new ratings, ${summary.already_present} already existed, ${summary.error} errors. Research is still required for unverified films.${summary.errors.length?' Check console for error details.':''}`,summary.error?'bad':'good');
+    if(summary.errors.length)console.warn('LGBTQ audit initialization problems',summary.errors);
+    return;
   }
   if(action==='open'){await openFilm(node.dataset.id);return}
   if(action==='public-review'){window.open('/#review/'+encodeURIComponent(node.dataset.id),'_blank','noopener');return}

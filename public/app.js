@@ -1,6 +1,7 @@
 import {applyFamilyReviewRecommendation, supplementalReviews, supplementalContentEvidenceById} from './family-review-ratings.js';
+import {LGBTQ_THEME_NAME,withLgbtqTheme,lgbtqImpact,starterLgbtqTheme,getLgbtqTheme} from './lgbtq-audit.js';
 
-const provisionalReviews = [...seedReviews, ...supplementalReviews].map(applyFamilyReviewRecommendation);
+const provisionalReviews = [...seedReviews, ...supplementalReviews].map(applyFamilyReviewRecommendation).map(r=>withLgbtqTheme(r,{proposeVerdict:true}));
 let published=[];
 let adminReviews=[];
 let currentDraft=null;
@@ -44,7 +45,7 @@ function normalizedCatalog(){
 
 function reviewedItems(){
   const catalogIds = new Map([...provisionalReviews, ...movieCatalog].map(movie => [filmKey(movie), movie.id]));
-  const pub=(published||[]).map((r,i)=>({...r,contentEvidenceId:catalogIds.get(filmKey(r)),posterClass:coverClass(r,i),sourceLinks:r.sourceLinks||sourceSearchLinks(r),reviewType:'published'}));
+  const pub=(published||[]).map((r,i)=>({...((getLgbtqTheme(r)||!Array.isArray(r.themes))?r:{...r,themes:[starterLgbtqTheme('unreviewed-published'),...r.themes]}),contentEvidenceId:catalogIds.get(filmKey(r)),posterClass:coverClass(r,i),sourceLinks:r.sourceLinks||sourceSearchLinks(r),reviewType:'published'}));
   const seeded=provisionalReviews
     .filter(r=>!pub.some(p=>p.title.toLowerCase()===r.title.toLowerCase()&&p.year===r.year))
     .map((r,i)=>({...r,posterClass:coverClass(r,i),sourceLinks:r.sourceLinks||sourceSearchLinks(r),reviewType:'seed'}));
@@ -165,17 +166,20 @@ function renderRatings(r,type,remainingAdvisories){
   const list=(r.themes||[]).filter(t=>t.type===type);
   if(!list.length) return `<p class="muted">No ${type==='positive'?'positive':'harmful'} theme ratings have been published yet.</p>`;
   return list.map(t=>{
-    const score=(t.score===null||t.score===undefined)?'N/V':`${t.score}/5`;
+    const score=(t.score===null||t.score===undefined)?'Not Verified':`${t.score}/5`;
     const fill=(typeof t.score==='number'&&t.score>=0)?(t.score/5)*100:0;
     const sources = (t.references || []).filter(source => /^https:\/\//i.test(source?.url));
     const refs = sources
       .map(source => `<a href="${esc(source.url)}" target="_blank" rel="noopener noreferrer">${esc(source.label)}</a>`)
       .join(' · ');
+    const impact=t.name===LGBTQ_THEME_NAME?lgbtqImpact(t.score):null;
+    const impactNote=impact==='not_verified'?'Screening pending; no claim of absence':impact==='not_applicable'?'N/A for this category':impact==='neutral'?'Neutral under this criterion':'Destructive under site policy';
     const advisoryType = advisoryTypesByTheme.get(t.name);
     const advisory = remainingAdvisories.get(advisoryType);
     const label = familyAdvisoryLabels[advisoryType];
     if (advisory) remainingAdvisories.delete(advisoryType);
     return `<div class="rating-row"><div><strong>${esc(t.name)}</strong><small>${esc(t.portrayal||'unverified')} · ${esc(t.evidence||'Evidence note pending')}${refs ? `<br>${refs}` : ''}</small></div><div class="rating-track"><div class="rating-fill ${esc(type)}" style="width:${fill}%"></div></div><div class="score">${esc(score)}</div>
+      ${impactNote?`<div class="rating-note"><strong>Editorial category: ${esc(impactNote)}</strong><small>Prominence score and source note above; other content is assessed separately.</small></div>`:''}
       ${advisory ? `<div class="rating-note"><strong>${esc(label)}</strong>${renderAdvisoryText(advisory, label, sources)}</div>` : ''}</div>`;
   }).join('');
 }
@@ -184,7 +188,7 @@ function renderReviewRatings(review){
   const advisories = new Map(Object.entries(getFamilyAdvisories(review))
     .filter(([type, note]) => Object.hasOwn(familyAdvisoryLabels, type) && note?.details));
   const ratings = review.verdict ? `
-    <p class="muted">Scores show how prominent a theme is. A 1 is incidental and a 5 is defining. The portrayal describes how the film treats it.</p>
+    <p class="muted">Scores show prominence, not moral worth. For LGBTQ Themes &amp; Messaging, 0/5 = N/A, 1/5 = Neutral under this criterion, 2–5/5 = Destructive under this site's editorial policy; Not Verified means screening remains open. Portrayal describes how the film treats a theme.</p>
     <div class="rating-header">Virtues & positive themes</div>${renderRatings(review,'positive',advisories)}
     <div class="rating-header">Content & harmful themes</div>${renderRatings(review,'harmful',advisories)}
     ${(review.themes||[]).some(t=>t.type==='context')
