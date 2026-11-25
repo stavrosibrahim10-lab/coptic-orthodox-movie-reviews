@@ -1,0 +1,2482 @@
+[
+  {
+    "id": "marvel-2012-the-amazing-spider-man",
+    "title": "The Amazing Spider-Man",
+    "year": 2012,
+    "genre": "Marvel · Live action",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/amazing-spider-man/"
+      },
+      {
+        "label": "BBFC",
+        "url": "https://www.bbfc.co.uk/release/the-amazing-spider-man-q29sbgvjdglvbjpwwc00nzmwmtu"
+      }
+    ],
+    "officialRating": "PG-13",
+    "age": "13+",
+    "verdict": "neutral",
+    "synopsis": "Peter Parker investigates his father’s work, develops unusual powers and faces a threat created by Dr. Connors’s research.",
+    "verdictRationale": "Peter’s attention shifts from retaliation to rescue. The change gives families a worthwhile discussion even as early vigilantism is played for laughs.",
+    "ageRationale": "A bridge rescue, frightening reptilian transformations, fatal violence and suggestive remarks make this a teen recommendation.",
+    "reflection": "Peter initially wields power to make people feel small. His growing attentiveness to strangers opens an Orthodox discussion about the difference between ability and the patient love that should govern it.",
+    "themes": [
+      {
+        "name": "Protection",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "Peter rescues a frightened child on the bridge.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/amazing-spider-man/"
+          }
+        ]
+      },
+      {
+        "name": "Cooperation",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Gwen helps prepare the antidote.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/amazing-spider-man/"
+          }
+        ]
+      },
+      {
+        "name": "Vengeance",
+        "type": "harmful",
+        "score": 4,
+        "portrayal": "criticized",
+        "evidence": "After Ben’s death, Peter searches for the killer.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/amazing-spider-man/"
+          }
+        ]
+      },
+      {
+        "name": "Reckless research",
+        "type": "harmful",
+        "score": 4,
+        "portrayal": "criticized",
+        "evidence": "Connors uses an experimental serum on himself.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/amazing-spider-man/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "The sources document the content findings listed in this draft. Additional film-specific screening is needed to assess this category.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "details": "Peter and Gwen kiss, and a subway incident exposes a woman’s bra.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/amazing-spider-man/"
+      },
+      {
+        "name": "Language",
+        "details": "The guide records profanity and religious exclamations.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/amazing-spider-man/"
+      },
+      {
+        "name": "Violence and peril",
+        "details": "A child is trapped in a car over water. The Lizard attacks, and the film includes a fatal shooting.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/amazing-spider-man/"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "A funeral is held in a church.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/amazing-spider-man/"
+      },
+      {
+        "name": "Drinking and substance use",
+        "details": "Beer bottles and wine glasses appear.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/amazing-spider-man/"
+      }
+    ],
+    "scripture": [
+      "Philippians 2:4"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 2:4",
+      "url": "https://www.biblegateway.com/passage/?search=Philippians%202%3A4&version=KJV",
+      "connection": "Peter’s attention turns toward the boy’s fear. Paul’s call to consider others makes this a way to discuss how help changes when we listen first.",
+      "translation": "KJV",
+      "text": "Look not every man on his own things, but every man also on the things of others."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 11 on Ephesians",
+      "section": "Ephesians 4:11–12",
+      "url": "https://www.newadvent.org/fathers/230111.htm",
+      "text": "Each one edifies, each one perfects, each one ministers."
+    },
+    "biblicalParallels": [
+      {
+        "title": "Listening during a rescue",
+        "filmMoment": "Peter offers his mask to a frightened boy during a rescue from a car hanging over water.",
+        "scriptureReference": "Philippians 2:4",
+        "reflection": "Peter’s attention turns toward the boy’s fear. Paul’s call to consider others makes this a way to discuss how help changes when we listen first.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/amazing-spider-man/"
+      }
+    ],
+    "questions": [
+      "How does Peter embarrass a classmate early in the film?",
+      "What does the boy in the car need from Peter besides strength?",
+      "Why does Connors rush his research?",
+      "What does Gwen contribute that Peter cannot do alone?",
+      "What changes when Peter makes saving people his first concern?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Peter and Gwen kiss, and a subway incident exposes a woman’s bra."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/amazing-spider-man/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The guide records profanity and religious exclamations."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/amazing-spider-man/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A child is trapped in a car over water. The Lizard attacks, and the film includes a fatal shooting."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/amazing-spider-man/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A funeral is held in a church."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/amazing-spider-man/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Beer bottles and wine glasses appear."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/amazing-spider-man/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Peter gradually puts rescue ahead of retaliation."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/amazing-spider-man/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2013-the-wolverine",
+    "title": "The Wolverine",
+    "year": 2013,
+    "genre": "Marvel · Live action",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/wolverine-2013/"
+      },
+      {
+        "label": "BBFC",
+        "url": "https://www.bbfc.co.uk/release/the-wolverine-q29sbgvjdglvbjpwwc00nzeymjc"
+      }
+    ],
+    "officialRating": "PG-13",
+    "age": "16+",
+    "verdict": "neutral",
+    "synopsis": "Logan travels to Japan and protects Mariko while a former acquaintance seeks his healing ability.",
+    "verdictRationale": "Care for Mariko gives Logan purpose beyond his isolation. Prolonged and sometimes graphic combat tempers the positive example.",
+    "ageRationale": "Repeated lethal claw attacks, injury, strong language and implied sex support a 16+ recommendation for the theatrical cut.",
+    "reflection": "Logan’s grief makes isolation understandable. His return to caring for someone gives families a way to discuss how accepting help and seeking companionship can renew a sense of responsibility.",
+    "themes": [
+      {
+        "name": "Protective love",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "Logan puts his life at risk for Mariko.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/wolverine-2013/"
+          }
+        ]
+      },
+      {
+        "name": "Accepting help",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Loss of his usual healing makes Logan depend on other people.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/wolverine-2013/"
+          }
+        ]
+      },
+      {
+        "name": "Exploitation",
+        "type": "harmful",
+        "score": 4,
+        "portrayal": "criticized",
+        "evidence": "Yashida seeks to transfer Logan’s healing power for himself.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/wolverine-2013/"
+          }
+        ]
+      },
+      {
+        "name": "Lethal retaliation",
+        "type": "harmful",
+        "score": 4,
+        "portrayal": "criticized",
+        "evidence": "Logan injures a hunter after finding the poisoned bear.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/wolverine-2013/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "The sources document the content findings listed in this draft. Additional film-specific screening is needed to assess this category.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "details": "A politician caresses women in lingerie. Logan and Mariko share a bed, with sex implied.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/wolverine-2013/"
+      },
+      {
+        "name": "Language",
+        "details": "The theatrical release includes strong language.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/wolverine-2013/"
+      },
+      {
+        "name": "Violence and peril",
+        "details": "There are sustained blade and claw fights, injuries, and scenes of people being killed.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/wolverine-2013/"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "Yashida receives a Buddhist funeral. Yukio has visions of how people die.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/wolverine-2013/"
+      },
+      {
+        "name": "Drinking and substance use",
+        "details": "Alcohol is served in a bar, and Logan pours a drink on an injured man’s hand.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/wolverine-2013/"
+      }
+    ],
+    "scripture": [
+      "John 15:13"
+    ],
+    "themeScripture": {
+      "reference": "John 15:13",
+      "url": "https://www.biblegateway.com/passage/?search=John%2015%3A13&version=KJV",
+      "connection": "The risk is what gives Logan’s protection moral weight. Christ’s teaching invites families to consider the cost a person is willing to bear for another.",
+      "translation": "KJV",
+      "text": "Greater love hath no man than this, that a man lay down his life for his friends."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 77 on the Gospel of John",
+      "section": "John 15:12–13",
+      "url": "https://www.newadvent.org/fathers/240177.htm",
+      "text": "Because this is the mark of the disciples, this the bond of virtue."
+    },
+    "biblicalParallels": [
+      {
+        "title": "Protection that costs something",
+        "filmMoment": "Logan accepts danger to protect Mariko when his healing can no longer be taken for granted.",
+        "scriptureReference": "John 15:13",
+        "reflection": "The risk is what gives Logan’s protection moral weight. Christ’s teaching invites families to consider the cost a person is willing to bear for another.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/wolverine-2013/"
+      }
+    ],
+    "questions": [
+      "Why does Yashida’s offer tempt Logan?",
+      "How does the loss of healing change Logan’s decisions?",
+      "Which of Yukio’s actions show loyalty?",
+      "How does Logan’s response to the hunter differ from his protection of Mariko?",
+      "What could help a grieving person accept help without feeling weak?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A politician caresses women in lingerie. Logan and Mariko share a bed, with sex implied."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/wolverine-2013/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The theatrical release includes strong language."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/wolverine-2013/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "There are sustained blade and claw fights, injuries, and scenes of people being killed."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/wolverine-2013/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Yashida receives a Buddhist funeral. Yukio has visions of how people die."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/wolverine-2013/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Alcohol is served in a bar, and Logan pours a drink on an injured man’s hand."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/wolverine-2013/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Logan foregoes safety to protect Mariko."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/wolverine-2013/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2014-the-amazing-spider-man-2",
+    "title": "The Amazing Spider-Man 2",
+    "year": 2014,
+    "genre": "Marvel · Live action",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/amazing-spider-man-2/"
+      },
+      {
+        "label": "BBFC",
+        "url": "https://www.bbfc.co.uk/release/the-amazing-spider-man-2-q29sbgvjdglvbjpwwc00nziyoty"
+      }
+    ],
+    "officialRating": "PG-13",
+    "age": "13+",
+    "verdict": "neutral",
+    "synopsis": "Peter tries to protect Gwen while Max Dillon and Harry Osborn become dangerous adversaries.",
+    "verdictRationale": "Peter’s defense of others is admirable, but a tragic loss and repeated coercion complicate the example. The film gives families material for a conversation about listening before trying to decide for someone.",
+    "ageRationale": "Electro is tortured, several scenes involve painful transformations, and the climax includes a traumatic death. The film also includes profanity and drinking.",
+    "reflection": "Peter’s fear for Gwen is real. Families can ask how concern becomes more constructive when it makes room for another person’s judgment, gifts and responsibilities.",
+    "themes": [
+      {
+        "name": "Cooperation",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "Gwen uses her knowledge to help stop Electro.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/amazing-spider-man-2/"
+          }
+        ]
+      },
+      {
+        "name": "Service",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Peter repeatedly confronts dangers to other people.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/amazing-spider-man-2/"
+          }
+        ]
+      },
+      {
+        "name": "Coercion",
+        "type": "harmful",
+        "score": 4,
+        "portrayal": "criticized",
+        "evidence": "Harry pushes Peter to help him obtain Spider-Man’s blood.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/amazing-spider-man-2/"
+          }
+        ]
+      },
+      {
+        "name": "Cruelty",
+        "type": "harmful",
+        "score": 4,
+        "portrayal": "criticized",
+        "evidence": "Electro is subjected to repeated shocks while restrained.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/amazing-spider-man-2/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "The sources document the content findings listed in this draft. Additional film-specific screening is needed to assess this category.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "details": "Peter and Gwen kiss. Spider-Man uses webbing to pull down a criminal’s trousers.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/amazing-spider-man-2/"
+      },
+      {
+        "name": "Language",
+        "details": "The guide records profanity and misuse of God’s name.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/amazing-spider-man-2/"
+      },
+      {
+        "name": "Violence and peril",
+        "details": "Electro is restrained and repeatedly shocked. Harry’s transformation is painful, and the climax includes a fatal fall.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/amazing-spider-man-2/"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "Electro describes himself in godlike terms.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/amazing-spider-man-2/"
+      },
+      {
+        "name": "Drinking and substance use",
+        "details": "Harry drinks liquor and mentions receiving Scotch at age sixteen.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/amazing-spider-man-2/"
+      }
+    ],
+    "scripture": [
+      "Philippians 2:4"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 2:4",
+      "url": "https://www.biblegateway.com/passage/?search=Philippians%202%3A4&version=KJV",
+      "connection": "Paul’s teaching encourages us to attend to other people’s interests. Gwen’s choice invites a discussion about listening to the people we are trying to protect.",
+      "translation": "KJV",
+      "text": "Look not every man on his own things, but every man also on the things of others."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 11 on Ephesians",
+      "section": "Ephesians 4:11–12",
+      "url": "https://www.newadvent.org/fathers/230111.htm",
+      "text": "Each one edifies, each one perfects, each one ministers."
+    },
+    "biblicalParallels": [
+      {
+        "title": "Listening to a partner",
+        "filmMoment": "Gwen insists on joining Peter in dealing with Electro and brings knowledge he needs.",
+        "scriptureReference": "Philippians 2:4",
+        "reflection": "Paul’s teaching encourages us to attend to other people’s interests. Gwen’s choice invites a discussion about listening to the people we are trying to protect.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/amazing-spider-man-2/"
+      }
+    ],
+    "questions": [
+      "Why does Peter hesitate to keep his promise about Gwen?",
+      "What does Max want people to notice about him?",
+      "Where does Harry’s desire for healing lead him?",
+      "Why does Gwen decide to get involved?",
+      "How could family members care for someone after a loss like Peter’s?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Peter and Gwen kiss. Spider-Man uses webbing to pull down a criminal’s trousers."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/amazing-spider-man-2/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The guide records profanity and misuse of God’s name."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/amazing-spider-man-2/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Electro is restrained and repeatedly shocked. Harry’s transformation is painful, and the climax includes a fatal fall."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/amazing-spider-man-2/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Electro describes himself in godlike terms."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/amazing-spider-man-2/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Harry drinks liquor and mentions receiving Scotch at age sixteen."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/amazing-spider-man-2/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Gwen helps confront Electro, while Harry seeks a cure through coercion."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/amazing-spider-man-2/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2014-x-men-days-of-future-past",
+    "title": "X-Men: Days of Future Past",
+    "year": 2014,
+    "genre": "Marvel · Live action",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/x-men-days-of-future-past/"
+      },
+      {
+        "label": "BBFC",
+        "url": "https://www.bbfc.co.uk/release/x-men-days-of-future-past-q29sbgvjdglvbjpwwc0zoda3mdi"
+      }
+    ],
+    "officialRating": "PG-13",
+    "age": "13+",
+    "verdict": "edifying",
+    "synopsis": "Surviving mutants send Logan’s consciousness back to 1973 to prevent a future of coordinated extermination.",
+    "verdictRationale": "Raven’s decision to spare a life shows that people can interrupt a cycle of retaliation. Graphic fantasy violence and the nudity and drinking advisories still matter.",
+    "ageRationale": "Sentinels impale and kill mutants. Rear nudity, heavy drinking and strong profanity support 13+ for the original theatrical cut.",
+    "reflection": "Xavier’s hope takes the form of trust that Raven can choose differently. An Orthodox conversation can dwell on repentance as a real change of direction even after many choices have narrowed the path.",
+    "themes": [
+      {
+        "name": "Mercy",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "Raven chooses to spare Trask in a public confrontation.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/x-men-days-of-future-past/"
+          }
+        ]
+      },
+      {
+        "name": "Sacrifice",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Mutants in the future risk their lives to sustain Logan’s mission.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/x-men-days-of-future-past/"
+          }
+        ]
+      },
+      {
+        "name": "Dehumanization",
+        "type": "harmful",
+        "score": 5,
+        "portrayal": "criticized",
+        "evidence": "The Sentinel program targets mutants for elimination.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/x-men-days-of-future-past/"
+          }
+        ]
+      },
+      {
+        "name": "Retaliation",
+        "type": "harmful",
+        "score": 4,
+        "portrayal": "criticized",
+        "evidence": "Different characters respond to persecution by threatening their enemies.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/x-men-days-of-future-past/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "The sources document the content findings listed in this draft. Additional film-specific screening is needed to assess this category.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "details": "Logan wakes beside a woman in underwear. His bare backside is visible when he gets out of bed.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/x-men-days-of-future-past/"
+      },
+      {
+        "name": "Language",
+        "details": "The guide reports a strong expletive and other profanity.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/x-men-days-of-future-past/"
+      },
+      {
+        "name": "Violence and peril",
+        "details": "Sentinels impale mutants, and pictures show victims of past experiments.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/x-men-days-of-future-past/"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "A post-credits scene shows a crowd worshipping a mutant figure.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/x-men-days-of-future-past/"
+      },
+      {
+        "name": "Drinking and substance use",
+        "details": "Young Xavier drinks heavily and injects an experimental drug. Logan smokes cigars.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/x-men-days-of-future-past/"
+      }
+    ],
+    "scripture": [
+      "Romans 12:21"
+    ],
+    "themeScripture": {
+      "reference": "Romans 12:21",
+      "url": "https://www.biblegateway.com/passage/?search=Romans%2012%3A21&version=KJV",
+      "connection": "Raven’s decision interrupts retaliation. Paul’s instruction to overcome evil with good gives families language for the strength involved in putting down a weapon.",
+      "translation": "KJV",
+      "text": "Be not overcome of evil, but overcome evil with good."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 11 on Ephesians",
+      "section": "Ephesians 4:11–12",
+      "url": "https://www.newadvent.org/fathers/230111.htm",
+      "text": "Each one edifies, each one perfects, each one ministers."
+    },
+    "biblicalParallels": [
+      {
+        "title": "Ending an act of revenge",
+        "filmMoment": "Raven chooses to spare Trask despite having the opportunity and motive to kill him.",
+        "scriptureReference": "Romans 12:21",
+        "reflection": "Raven’s decision interrupts retaliation. Paul’s instruction to overcome evil with good gives families language for the strength involved in putting down a weapon.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/x-men-days-of-future-past/"
+      }
+    ],
+    "questions": [
+      "Why does Xavier need Raven’s trust?",
+      "What fear makes the Sentinel program attractive to its supporters?",
+      "What does Wolverine depend on the future team to do?",
+      "What changes when Raven puts the weapon down?",
+      "Where have you seen an act of restraint interrupt a feud?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Logan wakes beside a woman in underwear. His bare backside is visible when he gets out of bed."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/x-men-days-of-future-past/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The guide reports a strong expletive and other profanity."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/x-men-days-of-future-past/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Sentinels impale mutants, and pictures show victims of past experiments."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/x-men-days-of-future-past/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A post-credits scene shows a crowd worshipping a mutant figure."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/x-men-days-of-future-past/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Young Xavier drinks heavily and injects an experimental drug. Logan smokes cigars."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/x-men-days-of-future-past/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Raven’s choice to spare Trask alters the outcome Xavier expects."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/x-men-days-of-future-past/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2016-x-men-apocalypse",
+    "title": "X-Men: Apocalypse",
+    "year": 2016,
+    "genre": "Marvel · Live action",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/x-men-apocalypse/"
+      },
+      {
+        "label": "BBFC",
+        "url": "https://www.bbfc.co.uk/release/x-men-apocalypse-q29sbgvjdglvbjpwwc00mzq3odu"
+      }
+    ],
+    "officialRating": "PG-13",
+    "age": "13+",
+    "verdict": "neutral",
+    "synopsis": "Xavier’s students face a mutant who claims divine authority and recruits others to remake the world.",
+    "verdictRationale": "The X-Men offer loyalty to vulnerable people and help one another resist despair. The scale of destruction and the villain’s claims of divinity make the discussion more complex.",
+    "ageRationale": "Repeated killings, a family tragedy, disturbing transformations, language and revealing imagery warrant teen guidance.",
+    "reflection": "Erik’s loss is real, and Apocalypse exploits it. The story gives families a way to discuss consoling grief and recognizing when flattery or anger makes someone vulnerable to manipulation.",
+    "themes": [
+      {
+        "name": "Mentorship",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Xavier helps young mutants learn to use their powers responsibly.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/x-men-apocalypse/"
+          }
+        ]
+      },
+      {
+        "name": "Protection",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Raven helps mutants escape forced combat.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/x-men-apocalypse/"
+          }
+        ]
+      },
+      {
+        "name": "Domination",
+        "type": "harmful",
+        "score": 5,
+        "portrayal": "criticized",
+        "evidence": "Apocalypse recruits followers while claiming superior, godlike power.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/x-men-apocalypse/"
+          }
+        ]
+      },
+      {
+        "name": "Vengeance",
+        "type": "harmful",
+        "score": 4,
+        "portrayal": "criticized",
+        "evidence": "Apocalypse channels Erik’s grief into widespread destruction.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/x-men-apocalypse/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "The sources document the content findings listed in this draft. Additional film-specific screening is needed to assess this category.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "details": "Mystique’s blue form is highly revealing, and some outfits have plunging necklines.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/x-men-apocalypse/"
+      },
+      {
+        "name": "Language",
+        "details": "The guide records profanity, including a strong expletive.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/x-men-apocalypse/"
+      },
+      {
+        "name": "Violence and peril",
+        "details": "Erik’s wife and daughter die, and battles and destruction endanger crowds.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/x-men-apocalypse/"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "Apocalypse claims to have been worshipped as several gods. Nightcrawler crosses himself and prays.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/x-men-apocalypse/"
+      },
+      {
+        "name": "Drinking and substance use",
+        "details": "Angel drinks liquor and appears intoxicated. A cigarette is shown.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/x-men-apocalypse/"
+      }
+    ],
+    "scripture": [
+      "Galatians 6:2"
+    ],
+    "themeScripture": {
+      "reference": "Galatians 6:2",
+      "url": "https://www.biblegateway.com/passage/?search=Galatians%206%3A2&version=KJV",
+      "connection": "Paul’s call to bear another’s burden connects with Xavier’s continued concern for Erik. Families can discuss what it means to stay close to someone grieving while challenging plans that would hurt others.",
+      "translation": "KJV",
+      "text": "Bear ye one another’s burdens, and so fulfil the law of Christ."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 11 on Ephesians",
+      "section": "Ephesians 4:11–12",
+      "url": "https://www.newadvent.org/fathers/230111.htm",
+      "text": "Each one edifies, each one perfects, each one ministers."
+    },
+    "biblicalParallels": [
+      {
+        "title": "Staying near a grieving friend",
+        "filmMoment": "Xavier keeps reaching out to Erik after the deaths of Erik’s wife and daughter.",
+        "scriptureReference": "Galatians 6:2",
+        "reflection": "Paul’s call to bear another’s burden connects with Xavier’s continued concern for Erik. Families can discuss what it means to stay close to someone grieving while challenging plans that would hurt others.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/x-men-apocalypse/"
+      }
+    ],
+    "questions": [
+      "What makes Apocalypse’s invitation attractive to Erik?",
+      "How does Raven help the mutants she encounters?",
+      "What does Xavier mean when he calls Scott’s powers a gift?",
+      "Where do the characters confuse strength with authority?",
+      "How can someone remain a friend to a grieving person who is making dangerous choices?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Mystique’s blue form is highly revealing, and some outfits have plunging necklines."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/x-men-apocalypse/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The guide records profanity, including a strong expletive."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/x-men-apocalypse/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Erik’s wife and daughter die, and battles and destruction endanger crowds."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/x-men-apocalypse/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Apocalypse claims to have been worshipped as several gods. Nightcrawler crosses himself and prays."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/x-men-apocalypse/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Angel drinks liquor and appears intoxicated. A cigarette is shown."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/x-men-apocalypse/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Xavier mentors young mutants, and Raven helps captives escape."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/x-men-apocalypse/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2017-logan",
+    "title": "Logan",
+    "year": 2017,
+    "genre": "Marvel · Live action",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/logan-2017/"
+      },
+      {
+        "label": "BBFC",
+        "url": "https://www.bbfc.co.uk/release/logan-q29sbgvjdglvbjpwwc0zotuynzy"
+      }
+    ],
+    "officialRating": "R",
+    "age": "18+",
+    "verdict": "destructive",
+    "synopsis": "An ill Logan cares for Charles Xavier and reluctantly escorts Laura, a child pursued by people who engineered her abilities.",
+    "verdictRationale": "Logan’s protection of Laura and his care for Xavier carry real moral weight. The draft weighs sustained graphic killing and the repeated use of children in brutal combat as dominant concerns for family viewing.",
+    "ageRationale": "The original R-rated film includes graphic dismemberment, pervasive strong profanity, brief toplessness and heavy drinking. Recommend adults only.",
+    "reflection": "Logan expects little good from companionship. The meal offered by the farm family briefly gives him an image of hospitality, and his relationship with Laura later requires him to accept responsibility he had tried to avoid.",
+    "themes": [
+      {
+        "name": "Sacrificial love",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "Logan risks his life to protect Laura and the other children.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/logan-2017/"
+          }
+        ]
+      },
+      {
+        "name": "Hospitality",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "A farm family welcomes Logan, Xavier and Laura to dinner.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/logan-2017/"
+          }
+        ]
+      },
+      {
+        "name": "Exploitation",
+        "type": "harmful",
+        "score": 5,
+        "portrayal": "criticized",
+        "evidence": "A laboratory treats children as material for weapons.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/logan-2017/"
+          }
+        ]
+      },
+      {
+        "name": "Graphic violence",
+        "type": "harmful",
+        "score": 5,
+        "portrayal": "criticized",
+        "evidence": "Killings and dismemberment are recurrent and shown in detail.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/logan-2017/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "The sources document the content findings listed in this draft. Additional film-specific screening is needed to assess this category.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "details": "A woman briefly exposes her breasts.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/logan-2017/"
+      },
+      {
+        "name": "Language",
+        "details": "Strong profanity recurs throughout the film.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/logan-2017/"
+      },
+      {
+        "name": "Violence and peril",
+        "details": "The film shows graphic stabbing and dismemberment, including killings involving children.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/logan-2017/"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "A Christian family prays at dinner, and Logan and Xavier discuss whether their lives fit God’s plan.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/logan-2017/"
+      },
+      {
+        "name": "Drinking and substance use",
+        "details": "Logan repeatedly drinks liquor and uses an injectable fictional drug.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/logan-2017/"
+      }
+    ],
+    "scripture": [
+      "John 15:13"
+    ],
+    "themeScripture": {
+      "reference": "John 15:13",
+      "url": "https://www.biblegateway.com/passage/?search=John%2015%3A13&version=KJV",
+      "connection": "Christ’s words offer a way to discuss Logan’s final concern for the children. The comparison is about freely bearing a cost for someone else, with the film’s graphic means open to further discussion.",
+      "translation": "KJV",
+      "text": "Greater love hath no man than this, that a man lay down his life for his friends."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 77 on the Gospel of John",
+      "section": "John 15:12–13",
+      "url": "https://www.newadvent.org/fathers/240177.htm",
+      "text": "Because this is the mark of the disciples, this the bond of virtue."
+    },
+    "biblicalParallels": [
+      {
+        "title": "Care at personal cost",
+        "filmMoment": "Logan ultimately risks his life to protect Laura and the other children.",
+        "scriptureReference": "John 15:13",
+        "reflection": "Christ’s words offer a way to discuss Logan’s final concern for the children. The comparison is about freely bearing a cost for someone else, with the film’s graphic means open to further discussion.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/logan-2017/"
+      }
+    ],
+    "questions": [
+      "Why does Xavier insist on stopping to help the farm family?",
+      "How does that family’s hospitality challenge Logan?",
+      "What does the laboratory fail to recognize about Laura and the others?",
+      "When does Laura begin to see Logan as someone she can rely on?",
+      "What does Logan’s final action communicate that he has not been able to say?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A woman briefly exposes her breasts."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/logan-2017/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Strong profanity recurs throughout the film."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/logan-2017/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The film shows graphic stabbing and dismemberment, including killings involving children."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/logan-2017/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A Christian family prays at dinner, and Logan and Xavier discuss whether their lives fit God’s plan."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/logan-2017/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Logan repeatedly drinks liquor and uses an injectable fictional drug."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/logan-2017/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Logan and Xavier protect Laura, and a farm family offers hospitality."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/logan-2017/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2018-venom",
+    "title": "Venom",
+    "year": 2018,
+    "genre": "Marvel · Live action",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/venom-2018/"
+      },
+      {
+        "label": "BBFC",
+        "url": "https://www.bbfc.co.uk/release/venom-q29sbgvjdglvbjpwwc00odc2ody"
+      }
+    ],
+    "officialRating": "PG-13",
+    "age": "16+",
+    "verdict": "neutral",
+    "synopsis": "Journalist Eddie Brock becomes host to an alien symbiote while investigating Carlton Drake’s experiments.",
+    "verdictRationale": "The whistleblower’s courage and Eddie’s attempts to limit harm support discussion. The film also makes repeated predatory violence a punch line, leaving a mixed verdict.",
+    "ageRationale": "Threats of devouring people, off-camera beheadings, strong profanity and implied sex support a cautious 16+ recommendation.",
+    "reflection": "Dora’s concern exposes the moral blindness of treating vulnerable people as tools. Eddie also needs to recognize where his choices cause harm even when he cannot control everything Venom does.",
+    "themes": [
+      {
+        "name": "Courageous honesty",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Dora seeks help to expose what her employer is doing.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/venom-2018/"
+          }
+        ]
+      },
+      {
+        "name": "Care for a rival",
+        "type": "positive",
+        "score": 3,
+        "portrayal": "affirmed",
+        "evidence": "Dan helps Eddie despite their awkward relationship.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/venom-2018/"
+          }
+        ]
+      },
+      {
+        "name": "Exploitation",
+        "type": "harmful",
+        "score": 5,
+        "portrayal": "criticized",
+        "evidence": "Drake exposes vulnerable human test subjects to alien organisms.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/venom-2018/"
+          }
+        ]
+      },
+      {
+        "name": "Predatory violence",
+        "type": "harmful",
+        "score": 5,
+        "portrayal": "criticized",
+        "evidence": "Venom repeatedly attacks people and threatens to eat them.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/venom-2018/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "The sources document the content findings listed in this draft. Additional film-specific screening is needed to assess this category.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "details": "Eddie and Anne kiss and are shown going to bed together.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/venom-2018/"
+      },
+      {
+        "name": "Language",
+        "details": "The guide reports strong profanity and many other expletives.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/venom-2018/"
+      },
+      {
+        "name": "Violence and peril",
+        "details": "Venom bites off heads off-camera, and raids and crashes involve gunfire and further deaths.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/venom-2018/"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "Drake invokes the biblical Isaac while justifying his experiment.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/venom-2018/"
+      },
+      {
+        "name": "Drinking and substance use",
+        "details": "Characters drink beer and wine.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/venom-2018/"
+      }
+    ],
+    "scripture": [
+      "Philippians 2:4"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 2:4",
+      "url": "https://www.biblegateway.com/passage/?search=Philippians%202%3A4&version=KJV",
+      "connection": "The passage asks readers to attend to others’ welfare. Dora’s decision invites discussion about the responsibility of someone who can expose a danger others cannot see.",
+      "translation": "KJV",
+      "text": "Look not every man on his own things, but every man also on the things of others."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 11 on Ephesians",
+      "section": "Ephesians 4:11–12",
+      "url": "https://www.newadvent.org/fathers/230111.htm",
+      "text": "Each one edifies, each one perfects, each one ministers."
+    },
+    "biblicalParallels": [
+      {
+        "title": "Speaking up for vulnerable people",
+        "filmMoment": "Dora Skirth risks her safety and career by helping Eddie investigate dangerous human experiments.",
+        "scriptureReference": "Philippians 2:4",
+        "reflection": "The passage asks readers to attend to others’ welfare. Dora’s decision invites discussion about the responsibility of someone who can expose a danger others cannot see.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/venom-2018/"
+      }
+    ],
+    "questions": [
+      "What danger does Dora accept by approaching Eddie?",
+      "Why does Drake invoke Isaac when speaking to his test subject?",
+      "When is Eddie responsible for what follows his choices?",
+      "How does Dan treat someone who could be a rival?",
+      "What is lost when the film uses Venom’s threats as jokes?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Eddie and Anne kiss and are shown going to bed together."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/venom-2018/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The guide reports strong profanity and many other expletives."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/venom-2018/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Venom bites off heads off-camera, and raids and crashes involve gunfire and further deaths."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/venom-2018/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Drake invokes the biblical Isaac while justifying his experiment."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/venom-2018/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Characters drink beer and wine."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/venom-2018/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Dora exposes dangerous experiments, and Eddie attempts to set limits on Venom."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/venom-2018/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2019-avengers-endgame",
+    "title": "Avengers: Endgame",
+    "year": 2019,
+    "genre": "Marvel · Live action",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/avengers-endgame-2019/"
+      },
+      {
+        "label": "BBFC",
+        "url": "https://www.bbfc.co.uk/release/avengers-endgame-q29sbgvjdglvbjpwwc00mde4oda"
+      },
+      {
+        "label": "GLAAD Studio Responsibility Index",
+        "url": "https://media.glaad.org/wp-content/uploads/2020/07/10053020/GLAAD-2020-Studio-Responsibility-Index-231.pdf"
+      }
+    ],
+    "officialRating": "PG-13",
+    "age": "13+",
+    "verdict": "neutral",
+    "synopsis": "Surviving Avengers look for a way to undo Thanos’s destruction and take personal risks to restore those lost.",
+    "verdictRationale": "The Avengers’ readiness to risk themselves and the film’s attention to grief carry positive weight. The balance includes lethal revenge, heavy drinking, strong language and an incidental support-group reference under the screening rubric.",
+    "ageRationale": "Strong language, a beheading, a vigilante killing sequence, bereavement and heavy drinking warrant teen guidance.",
+    "reflection": "The film shows several ways of living with loss, including isolation and revenge. The scene at the support group also opens a conversation about listening to a person who is trying to begin again.",
+    "themes": [
+      {
+        "name": "Sacrificial love",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "Natasha gives her life, and Tony risks his life to stop Thanos.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/avengers-endgame-2019/"
+          }
+        ]
+      },
+      {
+        "name": "Support in grief",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Steve leads a group for survivors processing their loss.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/avengers-endgame-2019/"
+          }
+        ]
+      },
+      {
+        "name": "Vengeance",
+        "type": "harmful",
+        "score": 4,
+        "portrayal": "criticized",
+        "evidence": "Clint kills people during his vigilante period.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/avengers-endgame-2019/"
+          }
+        ]
+      },
+      {
+        "name": "Excessive drinking",
+        "type": "harmful",
+        "score": 3,
+        "portrayal": "criticized",
+        "evidence": "Thor repeatedly turns to alcohol while coping with loss.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/avengers-endgame-2019/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": 1,
+        "portrayal": "descriptive",
+        "evidence": "A man at Steve Rogers’s survivor support group briefly talks about going on a date with another man. The man and his date are discussed in a single scene.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/avengers-endgame-2019/"
+          },
+          {
+            "label": "GLAAD Studio Responsibility Index",
+            "url": "https://media.glaad.org/wp-content/uploads/2020/07/10053020/GLAAD-2020-Studio-Responsibility-Index-231.pdf"
+          }
+        ]
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "details": "Couples kiss. A man in Steve Rogers’s support group mentions a date with another man. There are also crude remarks about bodies.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/avengers-endgame-2019/"
+      },
+      {
+        "name": "Language",
+        "details": "The guide reports repeated profanity.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/avengers-endgame-2019/"
+      },
+      {
+        "name": "Violence and peril",
+        "details": "The theatrical cut includes Thanos’s beheading, Clint’s violent vengeance and a large-scale final battle.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/avengers-endgame-2019/"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "Magical-looking portals and shields appear, and a character voices an expectation of an afterlife.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/avengers-endgame-2019/"
+      },
+      {
+        "name": "Drinking and substance use",
+        "details": "Thor drinks repeatedly and is sometimes intoxicated.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/avengers-endgame-2019/"
+      }
+    ],
+    "scripture": [
+      "John 15:13"
+    ],
+    "themeScripture": {
+      "reference": "John 15:13",
+      "url": "https://www.biblegateway.com/passage/?search=John%2015%3A13&version=KJV",
+      "connection": "Christ speaks of giving one’s own life in love. Natasha’s choice is a way into the subject of freely serving others. The fantasy premise of obtaining a stone through death deserves its own discussion.",
+      "translation": "KJV",
+      "text": "Greater love hath no man than this, that a man lay down his life for his friends."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 77 on the Gospel of John",
+      "section": "John 15:12–13",
+      "url": "https://www.newadvent.org/fathers/240177.htm",
+      "text": "Because this is the mark of the disciples, this the bond of virtue."
+    },
+    "biblicalParallels": [
+      {
+        "title": "Giving one’s life for others",
+        "filmMoment": "Natasha gives her life so Clint can return with the Soul Stone.",
+        "scriptureReference": "John 15:13",
+        "reflection": "Christ speaks of giving one’s own life in love. Natasha’s choice is a way into the subject of freely serving others. The fantasy premise of obtaining a stone through death deserves its own discussion.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/avengers-endgame-2019/"
+      }
+    ],
+    "questions": [
+      "What is Steve trying to give people at the support group?",
+      "How is Clint’s response to grief different from Natasha’s?",
+      "Why do the survivors need to work across old disagreements?",
+      "What does Tony decide to risk near the end?",
+      "How can a family listen well when someone is grieving?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Couples kiss. A man in Steve Rogers’s support group mentions a date with another man. There are also crude remarks about bodies."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/avengers-endgame-2019/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The guide reports repeated profanity."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/avengers-endgame-2019/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The theatrical cut includes Thanos’s beheading, Clint’s violent vengeance and a large-scale final battle."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/avengers-endgame-2019/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Magical-looking portals and shields appear, and a character voices an expectation of an afterlife."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/avengers-endgame-2019/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Thor drinks repeatedly and is sometimes intoxicated."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/avengers-endgame-2019/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The surviving team responds to grief with differing choices before cooperating in a rescue."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/avengers-endgame-2019/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2019-captain-marvel",
+    "title": "Captain Marvel",
+    "year": 2019,
+    "genre": "Marvel · Live action",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/captain-marvel-2019/"
+      },
+      {
+        "label": "BBFC",
+        "url": "https://www.bbfc.co.uk/release/captain-marvel-q29sbgvjdglvbjpwwc00mdm1ndq"
+      },
+      {
+        "label": "Fandango set visit and cast interview",
+        "url": "https://www.fandango.com/movie-news/captain-marvel-set-visit-and-interview-the-marvel-ous-miss-larson-753517"
+      }
+    ],
+    "officialRating": "PG-13",
+    "age": "13+",
+    "verdict": "edifying",
+    "synopsis": "Carol Danvers recovers memories of her life on Earth and reassesses what she has been taught about the Kree and Skrulls.",
+    "verdictRationale": "Carol’s willingness to learn from people she was taught to fear shapes her choice to protect displaced families. Her courage is strengthened by Maria’s truthful friendship.",
+    "ageRationale": "Sci-fi shootings, a disturbing autopsy, creature attacks, language and a crude remark support teen guidance.",
+    "reflection": "Maria helps Carol remember who she is through the memory of an actual friendship. The film invites discussion about listening to trustworthy friends when a powerful authority tries to tell us whom to fear.",
+    "themes": [
+      {
+        "name": "Care for strangers",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "Carol helps protect displaced Skrulls.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/captain-marvel-2019/"
+          }
+        ]
+      },
+      {
+        "name": "Truthful friendship",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "Maria helps Carol reconstruct memories the Kree have suppressed.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/captain-marvel-2019/"
+          }
+        ]
+      },
+      {
+        "name": "Perseverance",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Flashbacks depict Carol repeatedly getting back up after setbacks.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/captain-marvel-2019/"
+          }
+        ]
+      },
+      {
+        "name": "Manipulation",
+        "type": "harmful",
+        "score": 5,
+        "portrayal": "criticized",
+        "evidence": "The Kree distort Carol’s past and portray the Skrulls as a uniform enemy.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/captain-marvel-2019/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Maria and Carol’s established friendship is a central relationship. The reviewed sources do not establish a romance, and a film-wide LGBTQ screening remains open.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/captain-marvel-2019/"
+          },
+          {
+            "label": "Fandango set visit and cast interview",
+            "url": "https://www.fandango.com/movie-news/captain-marvel-set-visit-and-interview-the-marvel-ous-miss-larson-753517"
+          }
+        ]
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "details": "A man addresses Carol with a sexist double entendre. An autopsy scene includes a brief suggestive gesture.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/captain-marvel-2019/"
+      },
+      {
+        "name": "Language",
+        "details": "The guide reports profanity and a nearly uttered stronger expletive.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/captain-marvel-2019/"
+      },
+      {
+        "name": "Violence and peril",
+        "details": "Laser blasts kill people. A creature uses tentacles to seize opponents, and spaceships are destroyed.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/captain-marvel-2019/"
+      },
+      {
+        "name": "Drinking and substance use",
+        "details": "A bar scene shows patrons drinking.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/captain-marvel-2019/"
+      }
+    ],
+    "scripture": [
+      "Philippians 2:4"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 2:4",
+      "url": "https://www.biblegateway.com/passage/?search=Philippians%202%3A4&version=KJV",
+      "connection": "Paul asks believers to attend to the concerns of others. Carol’s willingness to hear the Skrulls helps families discuss how someone can recognize the needs of a group they have been taught to distrust.",
+      "translation": "KJV",
+      "text": "Look not every man on his own things, but every man also on the things of others."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 11 on Ephesians",
+      "section": "Ephesians 4:11–12",
+      "url": "https://www.newadvent.org/fathers/230111.htm",
+      "text": "Each one edifies, each one perfects, each one ministers."
+    },
+    "biblicalParallels": [
+      {
+        "title": "Listening across a divide",
+        "filmMoment": "Carol listens to the Skrulls’ account and uses her abilities to protect them.",
+        "scriptureReference": "Philippians 2:4",
+        "reflection": "Paul asks believers to attend to the concerns of others. Carol’s willingness to hear the Skrulls helps families discuss how someone can recognize the needs of a group they have been taught to distrust.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/captain-marvel-2019/"
+      }
+    ],
+    "questions": [
+      "What does Maria remember that Carol needs to hear?",
+      "Why did Carol trust the Kree’s description of the Skrulls?",
+      "When does she first listen to the people she was taught to fear?",
+      "What is the difference between perseverance and refusing correction?",
+      "How might your family help someone who has been misrepresented?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A man addresses Carol with a sexist double entendre. An autopsy scene includes a brief suggestive gesture."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/captain-marvel-2019/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The guide reports profanity and a nearly uttered stronger expletive."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/captain-marvel-2019/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Laser blasts kill people. A creature uses tentacles to seize opponents, and spaceships are destroyed."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/captain-marvel-2019/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "not_verified",
+          "findings": [
+            "Carol’s powers involve science-fiction energy; no explicit supernatural act is established by the reviewed guide."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/captain-marvel-2019/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A bar scene shows patrons drinking."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/captain-marvel-2019/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Carol learns that the displaced Skrulls need protection, and Maria corroborates key parts of her past."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/captain-marvel-2019/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2019-spider-man-far-from-home",
+    "title": "Spider-Man: Far From Home",
+    "year": 2019,
+    "genre": "Marvel · Live action",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/spider-man-far-from-home-2019/"
+      },
+      {
+        "label": "BBFC",
+        "url": "https://www.bbfc.co.uk/release/spider-man-far-from-home-q29sbgvjdglvbjpwwc00mdm0nte"
+      }
+    ],
+    "officialRating": "PG-13",
+    "age": "13+",
+    "verdict": "edifying",
+    "synopsis": "Peter takes a school trip to Europe and must decide how to handle powerful technology while grieving Tony Stark.",
+    "verdictRationale": "Peter begins by hoping somebody else will take over and matures by repairing the damage his trust helps cause. Beck’s deceptions make truth and accountability central.",
+    "ageRationale": "Fearful illusions, drone attacks on students, suggestive jokes and profanity support 13+.",
+    "reflection": "Peter’s fatigue and grief make his wish for a break understandable. Families can discuss turning to honest friends before making a decision that gives someone power over other people.",
+    "themes": [
+      {
+        "name": "Accountability",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "Peter returns to stop Beck after trusting him with Stark’s system.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/spider-man-far-from-home-2019/"
+          }
+        ]
+      },
+      {
+        "name": "Friendship",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "MJ uncovers a clue and helps Peter understand the deception.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/spider-man-far-from-home-2019/"
+          }
+        ]
+      },
+      {
+        "name": "Deception",
+        "type": "harmful",
+        "score": 5,
+        "portrayal": "criticized",
+        "evidence": "Beck stages attacks to create a false public image.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/spider-man-far-from-home-2019/"
+          }
+        ]
+      },
+      {
+        "name": "Avoidance",
+        "type": "harmful",
+        "score": 4,
+        "portrayal": "criticized",
+        "evidence": "Peter initially avoids calls and gives up control of the technology.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/spider-man-far-from-home-2019/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "The sources document the content findings listed in this draft. Additional film-specific screening is needed to assess this category.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "details": "Peter is seen partly undressed while changing suits, and teenagers kiss.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/spider-man-far-from-home-2019/"
+      },
+      {
+        "name": "Language",
+        "details": "The guide reports profanity and suggestive banter.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/spider-man-far-from-home-2019/"
+      },
+      {
+        "name": "Violence and peril",
+        "details": "Drone attacks, explosions and threatening illusions put students and bystanders in danger.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/spider-man-far-from-home-2019/"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "An apparent elemental attack damages a church tower. A chaperone suggests witches as an explanation.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/spider-man-far-from-home-2019/"
+      },
+      {
+        "name": "Drinking and substance use",
+        "details": "Beck drinks beer while Peter has lemonade. Another teenager tries to accept an alcoholic drink.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/spider-man-far-from-home-2019/"
+      }
+    ],
+    "scripture": [
+      "Philippians 2:4"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 2:4",
+      "url": "https://www.biblegateway.com/passage/?search=Philippians%202%3A4&version=KJV",
+      "connection": "Paul’s teaching helps frame the difference between wanting relief and considering who might be harmed by handing a decision to someone else. Peter’s repair starts when classmates’ safety becomes his focus.",
+      "translation": "KJV",
+      "text": "Look not every man on his own things, but every man also on the things of others."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 11 on Ephesians",
+      "section": "Ephesians 4:11–12",
+      "url": "https://www.newadvent.org/fathers/230111.htm",
+      "text": "Each one edifies, each one perfects, each one ministers."
+    },
+    "biblicalParallels": [
+      {
+        "title": "Taking responsibility after misplaced trust",
+        "filmMoment": "Peter gives Beck access to Stark’s technology and then takes responsibility for stopping its misuse.",
+        "scriptureReference": "Philippians 2:4",
+        "reflection": "Paul’s teaching helps frame the difference between wanting relief and considering who might be harmed by handing a decision to someone else. Peter’s repair starts when classmates’ safety becomes his focus.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/spider-man-far-from-home-2019/"
+      }
+    ],
+    "questions": [
+      "What does Peter want from his trip?",
+      "Why does Beck seem trustworthy at first?",
+      "Which clue helps MJ discover what is happening?",
+      "What does Peter do after admitting he misjudged Beck?",
+      "How can your family check an impressive video before believing or sharing it?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Peter is seen partly undressed while changing suits, and teenagers kiss."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/spider-man-far-from-home-2019/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The guide reports profanity and suggestive banter."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/spider-man-far-from-home-2019/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Drone attacks, explosions and threatening illusions put students and bystanders in danger."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/spider-man-far-from-home-2019/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "An apparent elemental attack damages a church tower. A chaperone suggests witches as an explanation."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/spider-man-far-from-home-2019/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Beck drinks beer while Peter has lemonade. Another teenager tries to accept an alcoholic drink."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/spider-man-far-from-home-2019/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Beck manufactures false dangers, and Peter works to protect his classmates after handing him access."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/spider-man-far-from-home-2019/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  }
+]
