@@ -171,23 +171,96 @@ const emojiMovieReview = {
   ]
 };
 
-export const supplementalReviews = [emojiMovieReview];
+
+const hamiltonDisney = source('Disney Movies', 'https://movies.disney.com/hamilton');
+const hamiltonGuide = source('Common Sense Media', 'https://www.commonsensemedia.org/movie-reviews/hamilton');
+const hamiltonFamilyGuide = source('Plugged In', 'https://www.pluggedin.com/movie-reviews/hamilton-2020/');
+
+const hamiltonReview = {
+  id: 'catalog-2020-hamilton',
+  title: 'Hamilton',
+  year: 2020,
+  genre: 'Musical · Historical biography',
+  runtime: '2h 41min',
+  officialRating: 'PG-13',
+  verdict: 'neutral',
+  verdictRationale: 'The musical admires Hamilton’s perseverance and public service while showing how pride, infidelity, and the defense of reputation damage his family and end in tragedy. Eliza’s response gives families room to discuss mercy and reconciliation. Recurring profanity, sexual innuendo, and fatal duels make this a mixed choice for family viewing.',
+  age: '13+',
+  ageRationale: 'Suggested for teens with parental discretion. The film includes strong language, a sexually suggestive musical number depicting an affair, fatal staged pistol duels, and an allusion to suicide.',
+  synopsis: 'This filmed performance of the original Broadway production follows Alexander Hamilton from his arrival in New York through the American Revolution and the founding of the United States. His rivalry with Aaron Burr and choices about work, family, and reputation drive the story.',
+  reflection: 'Hamilton’s determination serves others when it is directed toward public duty. It becomes destructive when preserving his reputation takes priority over the people closest to him. Families can discuss how Eliza’s willingness to reconcile makes space for mercy while the story still shows the lasting consequences of betrayal.',
+  scripture: ['Mark 8:36', 'Ephesians 4:31–32'],
+  themeScripture: {
+    reference: 'Ephesians 4:31–32',
+    url: 'https://www.biblegateway.com/passage/?search=Ephesians%204%3A31-32&version=NKJV',
+    connection: 'Paul calls Christians to put away bitterness and forgive one another. Eliza’s response opens a conversation about what forgiveness can ask of us after a real injury.'
+  },
+  questions: [
+    'When does Hamilton’s drive help other people, and when does it harm his family?',
+    'What does Hamilton try to protect by making his affair public? Who bears the consequences?',
+    'How does Eliza’s response after Philip’s death change her relationship with Alexander?',
+    'What might Hamilton and Burr each have done differently before the final duel?',
+    'Which parts of the musical would you want to check against a historical source?'
+  ],
+  sources: [hamiltonDisney, hamiltonGuide, hamiltonFamilyGuide],
+  sourceLinks: [hamiltonDisney, hamiltonGuide, hamiltonFamilyGuide],
+  warnings: [
+    {name: 'Language', severity: 'Recurring', details: 'Strong language and crude insults recur in songs and dialogue.'},
+    {name: 'Adultery and innuendo', severity: 'Moderate', details: 'An extramarital affair is dramatized in a sexually suggestive musical number.'},
+    {name: 'Violence and death', severity: 'Moderate', details: 'Staged pistol duels cause fatal injuries, and the story alludes to suicide.'},
+    {name: 'Alcohol', severity: 'Brief', details: 'Characters drink socially.'}
+  ],
+  contentVerification: 'Source-linked parent guides',
+  theologicalApproval: 'pending',
+  themes: [
+    theme('Perseverance and public service', 'positive', 4, 'affirmed',
+      'Hamilton persists through hardship and puts his writing and leadership to work for the emerging nation.', hamiltonDisney, hamiltonGuide),
+    theme('Mercy and reconciliation', 'positive', 3, 'affirmed',
+      'After Philip’s death, Eliza and Alexander begin to reconcile in their grief.', hamiltonFamilyGuide),
+    theme('Ambition and reputation', 'context', 5, 'mixed',
+      'Ambition contributes to Hamilton’s public achievements, but his pursuit of status and defense of his reputation damage his family.', hamiltonGuide, hamiltonFamilyGuide),
+    theme('Infidelity and sexual innuendo', 'harmful', 3, 'mixed',
+      'A suggestive number depicts an affair that leads to blackmail and damages Hamilton’s marriage.', hamiltonGuide, hamiltonFamilyGuide),
+    theme('Dueling and retaliation', 'harmful', 3, 'criticized',
+      'Fatal duels show the cost of defending honor through retaliation.', hamiltonGuide, hamiltonFamilyGuide),
+    theme('Strong language', 'harmful', 4, 'descriptive',
+      'Profanity, insults, and crude expressions recur throughout the filmed performance.', hamiltonGuide, hamiltonFamilyGuide)
+  ]
+};
+
+export const supplementalReviews = [emojiMovieReview, hamiltonReview];
 
 function checkedFindings(findings, ...guides) {
+  return findingsCheckedOn(findings, '2026-11-20', ...guides);
+}
+
+function findingsCheckedOn(findings, date, ...guides) {
   return {
     status: 'specific_findings_verified',
     findings,
     evidence: guides.map(guide => ({
       provider: guide.label,
       url: guide.url,
-      checked_at: '2026-11-20',
+      checked_at: date,
       scope: 'film_specific_content_guide'
     })),
     absence_verified: false
   };
 }
 
+const hamiltonFindings = findings =>
+  findingsCheckedOn(findings, '2026-11-25', hamiltonGuide, hamiltonFamilyGuide);
+
 export const supplementalContentEvidenceById = {
+  [hamiltonReview.id]: {
+    content_categories: {
+      sexual_content: hamiltonFindings(['An extramarital affair is depicted through a sexually suggestive musical number.']),
+      language: hamiltonFindings(['Profanity and vulgar insults recur in the filmed performance.']),
+      violence: hamiltonFindings(['Pistol duels result in fatal injuries. The dialogue also alludes to suicide.']),
+      substance_use: hamiltonFindings(['Characters drink alcohol socially.']),
+      moral_themes: hamiltonFindings(['Hamilton perseveres through hardship, but ambition, infidelity, and rivalry take a toll on his family.'])
+    }
+  },
   [emojiMovieReview.id]: {
     content_categories: {
       sexual_content: checkedFindings([
