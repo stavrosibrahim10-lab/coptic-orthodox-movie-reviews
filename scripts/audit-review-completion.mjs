@@ -25,6 +25,7 @@ for (const file of readdirSync(editorialDir).filter(name => /^review-drafts-.*\.
 }
 
 const screening = new Map();
+const stage4 = new Map();
 function addScreening(records, scoreKey, provenance, sourceCheck) {
   for (const record of records) {
     const score = record[scoreKey];
@@ -37,6 +38,9 @@ const readEditorial = name => JSON.parse(readFileSync(new URL(name, editorialDir
 const rollingArg = process.argv.find(arg => arg.startsWith('--rolling='));
 if (rollingArg) {
   const rolling = JSON.parse(readFileSync(rollingArg.slice('--rolling='.length), 'utf8'));
+  for (const batch of rolling.stage4_batches ?? []) {
+    for (const film of batch.films) stage4.set(film.movie_id, `batch ${batch.number}: ${film.status}`);
+  }
   addScreening(rolling.batches.flatMap(batch => batch.films), 'proposed_score', 'rolling_proposal',
     record => record.sources?.some(sourceUrl));
 }
@@ -124,15 +128,16 @@ const counts = {
   priorRecordedStudioScores: rows.filter(row => row.screeningSource.startsWith('prior_studio_snapshot')).length,
   filmSpecificBiblicalParallelMissing: rows.filter(row => row.issues.includes('film_specific_biblical_parallel_missing')).length,
   patristicQuoteRequiresReview: rows.filter(row => row.issues.includes('patristic_quote_requires_review')).length,
+  stage4EvidenceAuditRecorded: rows.filter(row => stage4.has(row.id)).length,
   allRepositoryChecksPass: rows.filter(row => row.issues.length === 0).length,
 };
 
 if (process.argv.includes('--summary')) {
   process.stdout.write(JSON.stringify(counts, null, 2) + '\n');
 } else {
-  const columns = ['id', 'title', 'year', 'catalog_group', 'draft', 'studio_draft_validator', 'lgbtq_score', 'lgbtq_record', 'kjv_guiding_text', 'patristic', ...keys, 'open_checks'];
+  const columns = ['id', 'title', 'year', 'catalog_group', 'draft', 'studio_draft_validator', 'lgbtq_score', 'lgbtq_record', 'kjv_guiding_text', 'patristic', ...keys, 'open_checks', 'stage4_evidence_audit'];
   const lines = rows.map(row => [row.id, row.title, row.year, row.type, row.draft,
     row.draftChecks ? 'pass' : 'open', row.lgbtqScore ?? 'unverified', row.screeningSource, row.kjv ? 'available' : 'open',
-    row.patristic, ...keys.map(key => row.categories[key]), row.issues.join(' | ')]);
+    row.patristic, ...keys.map(key => row.categories[key]), row.issues.join(' | '), stage4.get(row.id) ?? '']);
   process.stdout.write([columns, ...lines].map(line => line.join('\t')).join('\n') + '\n');
 }
