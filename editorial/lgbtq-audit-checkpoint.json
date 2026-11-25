@@ -171,6 +171,26 @@
       ],
       "remaining_missing_reviews": 93,
       "studio_status": "unauthenticated_repository_proposals_verified"
+    },
+    {
+      "date": "2026-11-25",
+      "batch_file": "editorial/review-drafts-marvel-batch-03.json",
+      "branch": "editorial/review-completion",
+      "commit": "0ab3f46f4e678794bb2b04cc318df587cbc1748f",
+      "film_ids": [
+        "marvel-2012-the-amazing-spider-man",
+        "marvel-2013-the-wolverine",
+        "marvel-2014-the-amazing-spider-man-2",
+        "marvel-2014-x-men-days-of-future-past",
+        "marvel-2016-x-men-apocalypse",
+        "marvel-2017-logan",
+        "marvel-2018-venom",
+        "marvel-2019-avengers-endgame",
+        "marvel-2019-captain-marvel",
+        "marvel-2019-spider-man-far-from-home"
+      ],
+      "remaining_missing_reviews": 83,
+      "studio_status": "unauthenticated_repository_proposals_verified"
     }
   ],
   "stage4_batches": [
