@@ -1,3 +1,4 @@
+import {scriptureQuotes} from './scripture-quotes.js';
 import {applyFamilyReviewRecommendation, supplementalReviews, supplementalContentEvidenceById} from './family-review-ratings.js';
 import {LGBTQ_THEME_NAME,withLgbtqTheme,lgbtqImpact,starterLgbtqTheme,getLgbtqTheme,isLgbtqRelatedAdvisory} from './lgbtq-audit.js';
 
@@ -124,12 +125,12 @@ function howToUse(){
 function home(){
   const recent=featuredRecent();
   const reviewed=reviewedHighlights();
-  return `<section class="hero"><div class="hero-inner"><div class="eyebrow">✣ &nbsp; Faithful discernment for the whole family</div><h1>Stories shape us.<br><em>Choose them wisely.</em></h1><p class="hero-lede">Explore movies through a Christian perspective informed by the historic Orthodox tradition, with thoughtful spiritual guidance, clear content warnings, and practical advice for Christian families.</p><div class="theme-verse"><span class="theme-verse-ref">PHILIPPIANS 4:8</span><span>Reflect on what is true, honorable, just, pure, lovely, and worthy of praise.</span><small>Scripture theme · paraphrase</small></div><form class="hero-search" id="heroSearch"><span class="search-ico">⌕</span><input id="heroInput" placeholder="Search movies, genres, and themes..." aria-label="Search movies" autocomplete="off"><button class="btn gold" type="submit">Explore movies →</button></form><div class="hero-note"><span class="dot"></span> Independent guidance for Christian families</div></div></section>
+  return `<section class="hero"><div class="hero-inner"><div class="eyebrow">✣ &nbsp; Faithful discernment for the whole family</div><h1>Stories shape us.<br><em>Choose them wisely.</em></h1><p class="hero-lede">Explore movies through a Christian perspective informed by the historic Orthodox tradition, with thoughtful spiritual guidance, clear content warnings, and practical advice for Christian families.</p><div class="theme-verse"><span class="theme-verse-ref">PHILIPPIANS 4:8</span><span>${esc(scriptureQuotes["Philippians 4:8"])}</span><small>World English Bible</small></div><form class="hero-search" id="heroSearch"><span class="search-ico">⌕</span><input id="heroInput" placeholder="Search movies, genres, and themes..." aria-label="Search movies" autocomplete="off"><button class="btn gold" type="submit">Explore movies →</button></form><div class="hero-note"><span class="dot"></span> Independent guidance for Christian families</div></div></section>
   ${howToUse()}
   ${summaryStrip()}
   <section class="section recent-section"><div class="container"><div class="section-header"><div><div class="eyebrow">Fresh recommendations</div><h2>Best recent movies</h2><p>A selection of recent releases to research and discuss. Inclusion is not an endorsement; reviews and age suggestions are provisional.</p></div><a href="#browse" class="text-link">Browse all movies →</a></div><div class="movie-grid recent-feature">${recent.map(card).join('')}</div><p class="recent-note">We display authentic published movie posters when available through our verified poster sources. If a poster is unavailable, a text cover is shown instead; no AI-generated substitute is used.</p></div></section>
   <section class="section"><div class="container"><div class="section-header"><div><div class="eyebrow">Actively reviewed</div><h2>The Orthodox Lens review library</h2><p>${reviewedCount()} provisional reviews with age guidance, Scripture references, family questions, and source links. Unapproved assessments remain labeled provisional.</p></div><a href="#about/approach" class="text-link">Read our framework →</a></div><div class="movie-grid">${reviewed.map(card).join('')}</div></div></section>
-  <section class="steps-dark section"><div class="container"><div class="section-header"><div><div class="eyebrow">How the site grows</div><h2>From research queue to finished review</h2><p>Browse movie pages with source-linked content findings. Spiritual verdicts and age guidance are provisional or pending editorial review.</p></div></div><div class="steps"><article class="step"><div class="step-num">01</div><h3>Research the film</h3><p>Start with source pages like IMDb, Common Sense Media, Dove, BBFC, studio summaries, and trusted parental guides.</p></article><article class="step"><div class="step-num">02</div><h3>Draft the review</h3><p>Use the editorial studio to draft an evidence-constrained review, then inspect the verdict, age guidance, and theme ratings carefully.</p></article><article class="step"><div class="step-num">03</div><h3>Approve and publish</h3><p>Once the facts and Christian interpretation are solid, publish the full review and it appears automatically across the site.</p></article></div></div></section>`;
+  `;
 }
 
 function browse(){
@@ -252,17 +253,36 @@ function researchLinksBlock(r){
 }
 
 function pendingDetail(r){
-  return `<div class="container review-back"><a class="back-link" href="#browse">← Back to movies</a><div class="review-layout"><div><div class="paper-panel"><div class="review-banner">${renderCover(r,{large:true})}<div><div class="eyebrow">independent Christian movie research page</div><h1>${esc(r.title)}</h1><div class="meta">${esc(r.year)} · ${esc(r.genre||'Film')}</div>${pill(null)}<div class="tag-row"><span class="tag">Full verdict pending</span></div><p>This movie’s spiritual verdict, theme scores, and age guidance are pending. See Before you watch in the theme ratings panel for available findings and sources.</p>${researchLinksBlock(r)}</div></div></div><div class="paper-panel detail-section"><div class="eyebrow">Editorial review</div><h2>What the full review considers</h2><div class="check-grid"><div class="check-item">Violence, peril, and disturbing imagery</div><div class="check-item">Language and blasphemy</div><div class="check-item">Sexual content and immodesty</div><div class="check-item">Occult, superstition, or spiritual confusion</div><div class="check-item">Family themes, sacrifice, forgiveness, repentance</div><div class="check-item">What the story ultimately asks viewers to admire</div></div><p class="muted">The ratings panel links to sources for checked findings. Unlisted concerns may still be present.</p></div>${renderReviewRatings(r)}<div class="paper-panel detail-section"><div class="eyebrow">After watching · discussion starter</div><h2>Five questions for families</h2><p class="muted">Use these prompts after watching together. <a href="#suggest/${encodeURIComponent(r.id)}">Suggest a Gospel parallel</a> for editorial review.</p>${(r.questions||[]).map((q,i)=>`<div class="q-item"><strong>${i+1}.</strong> ${esc(q)}</div>`).join('')}<div class="faith-panel"><div class="eyebrow">A starting Scripture</div><h3>Philippians 4:8</h3><p>Reflect together on what the story asks viewers to admire, and consider that message alongside this passage.</p></div></div></div><aside><div class="paper-panel"><div class="eyebrow">Quick links</div><h3 class="side-title">Research sources</h3>${researchLinksBlock(r)}<p class="muted" style="margin-top:12px">IMDb helps with basic film identity and credits. Common Sense Media and Dove can help with parental concerns and content direction. Use them as inputs, not as substitutes for your own independent Christian assessment.</p></div></aside></div></div>`;
+  return `<div class="container review-back"><a class="back-link" href="#browse">← Back to movies</a><div class="review-layout"><div><div class="paper-panel"><div class="review-banner">${renderCover(r,{large:true})}<div><div class="eyebrow">independent Christian movie research page</div><h1>${esc(r.title)}</h1><div class="meta">${esc(r.year)} · ${esc(r.genre||'Film')}</div>${pill(null)}<div class="tag-row"><span class="tag">Full verdict pending</span></div><p>This movie’s spiritual verdict, theme scores, and age guidance are pending. See Before you watch in the theme ratings panel for available findings and sources.</p>${researchLinksBlock(r)}</div></div></div><div class="paper-panel detail-section"><div class="eyebrow">Editorial review</div><h2>What the full review considers</h2><div class="check-grid"><div class="check-item">Violence, peril, and disturbing imagery</div><div class="check-item">Language and blasphemy</div><div class="check-item">Sexual content and immodesty</div><div class="check-item">Occult, superstition, or spiritual confusion</div><div class="check-item">Family themes, sacrifice, forgiveness, repentance</div><div class="check-item">What the story ultimately asks viewers to admire</div></div><p class="muted">The ratings panel links to sources for checked findings. Unlisted concerns may still be present.</p></div>${renderReviewRatings(r)}<div class="paper-panel detail-section"><div class="eyebrow">After watching · discussion starter</div><h2>Five questions for families</h2><p class="muted">Use these prompts after watching together. <a href="#suggest/${encodeURIComponent(r.id)}">Suggest a Gospel parallel</a> for editorial review.</p>${(r.questions||[]).map((q,i)=>`<div class="q-item"><strong>${i+1}.</strong> ${esc(q)}</div>`).join('')}<div class="faith-panel"><div class="eyebrow">A starting Scripture</div><h3>Philippians 4:8</h3>${scriptureQuotation("Philippians 4:8")}<p>Reflect together on what the story asks viewers to admire, and consider that message alongside this passage.</p></div></div></div><aside><div class="paper-panel"><div class="eyebrow">Quick links</div><h3 class="side-title">Research sources</h3>${researchLinksBlock(r)}<p class="muted" style="margin-top:12px">IMDb helps with basic film identity and credits. Common Sense Media and Dove can help with parental concerns and content direction. Use them as inputs, not as substitutes for your own independent Christian assessment.</p></div></aside></div></div>`;
+}
+
+const patristicQuotes = {
+  "www.tertullian.org/fathers/basil_litterature01.htm": "So we, if wise, shall take from heathen books whatever befits us and is allied to the truth, and shall pass over the rest.",
+  "www.newadvent.org/fathers/200179.htm": "For the covering of a roof, for a garment, for bread, for cold water, for visiting, for going into the prison.",
+  "www.newadvent.org/fathers/230121.htm": "as many do by disinheriting them, and disowning them, and treating them overbearingly, not as free, but as slaves.",
+  "www.newadvent.org/fathers/200149.htm": "He was teaching them humility, and temperance, and charity, and to be of like mind one towards another, and to account all things common.",
+  "www.newadvent.org/fathers/230111.htm": "Each one edifies, each one perfects, each one ministers.",
+  "ccel.org/ccel/athanasius/incarnation/incarnation.iv.html": "His bodily acts still declare Him to be not man only, but the Power and Word of God."
+};
+
+function scriptureQuotation(reference){
+  const text=scriptureQuotes[reference?.replaceAll('–','-')];
+  if(!text)return '';
+  const quote=`<blockquote><p>${esc(text)}</p><cite>World English Bible</cite></blockquote>`;
+  return text.length>700?`<details><summary>Read ${esc(reference)}</summary>${quote}</details>`:quote;
 }
 
 function faithReferences(r){
   const verse=r.themeScripture;
   const fathers=r.patristic;
-  const verseTitle = /^https:\/\//i.test(verse?.url || '')
-    ? `<a href="${esc(verse.url)}" target="_blank" rel="noopener noreferrer">${esc(verse.reference)}</a>`
-    : esc(verse?.reference);
-  return `${verse?`<div class="faith-panel"><div class="eyebrow">Guiding Scripture</div><h3>${verseTitle}</h3><p>${esc(verse.connection||'Read this passage in its biblical context and discuss the relation to the film.')}</p><small>Reference and commentary, not a claim that the film teaches Scripture.</small></div>`:''}
-  ${fathers?`<div class="faith-panel patristic"><div class="eyebrow">Wisdom from the Church Fathers</div><h3>${esc(fathers.author)}</h3><p>${esc(fathers.text)}</p><small>Paraphrase of <a href="${esc(fathers.url)}" rel="noopener noreferrer" target="_blank">${esc(fathers.work)}${fathers.section?' ('+esc(fathers.section)+')':''}</a> — not an exact quotation.</small></div>`:''}`;
+  const patristicKey=fathers?.url?.replace(/^https:\/\//i,'');
+  const patristicQuote=patristicQuotes[patristicKey];
+  const patristicUrl=patristicKey==='ccel.org/ccel/athanasius/incarnation/incarnation.iv.html'
+    ?'https://ccel.org/ccel/athanasius/incarnation/formats/On_the_Incarnation.pdf':fathers?.url;
+  const verseUrl=verse?.reference
+    ?'https://www.biblegateway.com/passage/?search='+encodeURIComponent(verse.reference)+'&version=WEB':'';
+  return `${verse?`<div class="faith-panel"><div class="eyebrow">Guiding Scripture</div><h3><a href="${esc(verseUrl)}" target="_blank" rel="noopener noreferrer">${esc(verse.reference)}</a></h3>${scriptureQuotation(verse.reference)}<p>${esc(verse.connection||'Read this passage in context and consider how it relates to the film.')}</p></div>`:''}
+  ${patristicQuote?`<div class="faith-panel patristic"><div class="eyebrow">Wisdom from the Church Fathers</div><h3>${esc(fathers.author)}</h3><blockquote><p>${esc(patristicQuote)}</p><cite><a href="${esc(patristicUrl)}" rel="noopener noreferrer" target="_blank">${esc(fathers.work)}${fathers.section?' ('+esc(fathers.section)+')':''}</a></cite></blockquote></div>`:''}`;
 }
 
 function renderContentEvidence(r){
@@ -310,7 +330,7 @@ function renderBiblicalParallels(r){
   const items=material.map(p=>`<article class="gospel-parallel"><h3>${esc(p.title)}</h3>
     ${p.filmMoment?`<p><strong>In the story:</strong> ${esc(p.filmMoment)}</p>`:''}
     <p><strong>Biblical connection:</strong> ${/^https:\/\//i.test(p.scriptureUrl||'')?`<a href="${esc(p.scriptureUrl)}" target="_blank" rel="noopener noreferrer">${esc(p.scriptureReference)}</a>`:esc(p.scriptureReference)}</p>
-    <p>${esc(p.reflection)}</p>${/^https:\/\//i.test(p.sourceUrl||'')?`<small><a href="${esc(p.sourceUrl)}" target="_blank" rel="noopener noreferrer">Film-specific supporting source</a></small>`:''}
+    ${scriptureQuotation(p.scriptureReference)}<p>${esc(p.reflection)}</p>${/^https:\/\//i.test(p.sourceUrl||'')?`<small><a href="${esc(p.sourceUrl)}" target="_blank" rel="noopener noreferrer">Film-specific supporting source</a></small>`:''}
   </article>`).join('');
   return `<section class="paper-panel detail-section gospel-parallels" aria-labelledby="gospel-parallels-title"><h2 id="gospel-parallels-title">Biblical Parallels &amp; Gospel Reflections</h2><p class="muted">These are editorial comparisons for family discussion, not claims that the filmmakers intended to teach the Gospel. Read passages in context.</p>
     ${items||'<p class="muted">Film-specific connections are awaiting editorial research.</p>'}
@@ -333,13 +353,13 @@ async function loadCommunityIdeas(id){
 function suggestionPage(preselectedId=''){
   const available=allMovies().filter(m=>m.title&&m.id).sort((a,b)=>a.title.localeCompare(b.title));
   return `<section class="page-hero"><div class="container"><h1>Reader Suggestions</h1><p>Share a film to review, a biblical parallel, a content correction, or a family discussion idea. Every submission goes to our private editorial queue first.</p></div></section>
-  <section class="section"><div class="container suggestion-layout"><div class="paper-panel"><h2>Submit a suggestion</h2><p class="muted">You do not need an account. Please do not include private contact information. If approved, your suggestion may appear publicly without a name.</p>
+  <section class="section"><div class="container suggestion-layout"><div class="paper-panel"><h2>Submit a suggestion</h2><p>To request a review, choose “A movie for us to review” and enter the film title. Everything else is optional.</p><p class="muted">You do not need an account. Please do not include private contact information. If approved, your suggestion may appear publicly without a name.</p>
    <form id="suggestionForm" class="suggestion-form">
-    <label for="ideaKind">What are you suggesting?</label><select id="ideaKind" required><option value="biblical_parallel">A biblical parallel</option><option value="gospel_reflection">A Gospel reflection</option><option value="review_correction">A review correction or content warning</option><option value="film_request">A movie for us to review</option><option value="general_feedback">Other website feedback</option></select>
+    <label for="ideaKind">What are you suggesting?</label><select id="ideaKind" required><option value="film_request">A movie for us to review</option><option value="biblical_parallel">A biblical parallel</option><option value="gospel_reflection">A Gospel reflection</option><option value="review_correction">A review correction or content warning</option><option value="general_feedback">Other website feedback</option></select>
     <label for="ideaMovie">Movie already in our library (optional)</label><select id="ideaMovie"><option value="">Choose a movie, or enter a title below</option>${available.map(m=>`<option value="${esc(m.id)}" ${m.id===preselectedId?'selected':''}>${esc(m.title)} (${esc(m.year)})</option>`).join('')}</select>
     <label for="ideaTitle">Movie title (for a film not listed)</label><input id="ideaTitle" maxlength="160" placeholder="Movie title if not in our library">
     <label for="ideaScripture">Bible passage (for a biblical parallel or Gospel reflection)</label><input id="ideaScripture" maxlength="140" placeholder="e.g., Luke 15:11–32">
-    <label for="ideaDetails">What did you notice, and why does it matter?</label><textarea id="ideaDetails" minlength="25" maxlength="1800" rows="7" required placeholder="Describe the scene, your suggested connection, or the correction. Please be specific."></textarea>
+    <label for="ideaDetails">Details <span id="ideaDetailsOptional">(optional for film requests)</span></label><textarea id="ideaDetails" maxlength="1800" rows="7" placeholder="Describe the scene, your suggested connection, or the correction. Please be specific."></textarea>
     <label for="ideaSource">Supporting source URL (optional, HTTPS)</label><input id="ideaSource" type="url" placeholder="https://…" maxlength="1000">
     <div class="form-trap" aria-hidden="true"><label for="ideaWebsite">Leave this blank</label><input id="ideaWebsite" tabindex="-1" autocomplete="off"></div>
     <button class="btn gold" type="submit">Send for review →</button><p id="suggestionStatus" class="suggestion-status" role="status" aria-live="polite"></p>
@@ -367,7 +387,7 @@ function about(){
     <article class="method-card"><div class="eyebrow">Our foundations</div><h2>Faithful, not official.</h2><p>Our perspective is informed by Scripture and the historic Orthodox Christian tradition, including teachings of the Church Fathers where relevant. We welcome Christians from different traditions.</p><p><strong>We are not an official publication or representative of any Orthodox Church, bishop, synod, or religious institution.</strong> Our evaluations are independent editorial opinions.</p></article>
     <article class="method-card"><div class="eyebrow">For families</div><h2>Discuss, don't merely rate.</h2><p>Neutral movies in particular can open meaningful conversations about truthfulness, humility, courage, relationships, and the difference between portraying wrongdoing and endorsing it.</p><p>Our post-viewing questions are intended to support parents and children in thoughtful conversation, not to replace a family's judgment.</p></article>
     <article class="method-card"><div class="eyebrow">A pastoral reminder</div><h2>Spiritual guidance belongs in relationship.</h2><p>Reviews and age recommendations on this website are suggestions, not spiritual direction. For personal discernment, families should seek the guidance of their father of confession or parish priest.</p><p>AI assists research and drafting, while final approval requires human verification of film facts, citations, and the theological interpretation. A provisional review is labeled accordingly.</p></article>
-  </div><div class="paper-panel" style="margin-top:24px"><div class="eyebrow">Our guiding Scripture</div><h2>Philippians 4:8</h2><p>We seek to give thoughtful attention to what is true, honorable, just, pure, lovely, and worthy of praise. This is the guiding principle behind our approach to entertainment.</p><p class="muted">Paraphrase of Philippians 4:8; consult your preferred Bible translation for the full verse.</p></div><div class="paper-panel" style="margin-top:24px"><div class="eyebrow">Artwork and sources</div><h2>Original movie posters</h2><p>Movie-cover images are loaded from TMDB when a film can be reliably matched. This product uses the TMDB API but is not endorsed or certified by TMDB. <a class="text-link" href="https://www.themoviedb.org/" target="_blank" rel="noopener noreferrer">The Movie Database (TMDB)</a>.</p><p>Film-content references and our spiritual interpretations are separate. Content warnings must be verified with film-specific sources; Scripture and Church-Father citations are never presented as official Church judgments.</p><p class="muted">Verified patristic paraphrases link to the underlying text. We do not fabricate quotations. Check each movie page for the editorial status of its spiritual assessment.</p></div></div></section>${reviewApproach()}`;
+  </div><div class="paper-panel" style="margin-top:24px"><div class="eyebrow">Our guiding Scripture</div><h2>Philippians 4:8</h2>${scriptureQuotation("Philippians 4:8")}</div><div class="paper-panel" style="margin-top:24px"><div class="eyebrow">Artwork and sources</div><h2>Original movie posters</h2><p>Movie-cover images are loaded from TMDB when a film can be reliably matched. This product uses the TMDB API but is not endorsed or certified by TMDB. <a class="text-link" href="https://www.themoviedb.org/" target="_blank" rel="noopener noreferrer">The Movie Database (TMDB)</a>.</p><p>Film-content references and our spiritual interpretations are separate. Content warnings must be verified with film-specific sources; Scripture and Church-Father citations are never presented as official Church judgments.</p><p class="muted">Scripture and Church Fathers quotations are sourced. Check each movie page for the editorial status of its spiritual assessment.</p></div></div></section>${reviewApproach()}`;
 }
 
 function reviewApproach(){
@@ -414,7 +434,26 @@ async function sendSuggestion(event){
   finally{button.disabled=false}
 }
 function wire(){
-  document.getElementById('suggestionForm')?.addEventListener('submit',sendSuggestion);
+  const suggestionForm=document.getElementById('suggestionForm');
+  if(suggestionForm){
+    const kind=document.getElementById('ideaKind');
+    const details=document.getElementById('ideaDetails');
+    const scripture=document.getElementById('ideaScripture');
+    const configureFields=()=>{
+      const filmRequest=kind.value==='film_request';
+      details.required=!filmRequest;
+      document.getElementById('ideaDetailsOptional').hidden=!filmRequest;
+      details.minLength=filmRequest?0:25;
+      scripture.required=['biblical_parallel','gospel_reflection'].includes(kind.value);
+      const scriptureVisible=scripture.required;
+      scripture.hidden=!scriptureVisible;
+      suggestionForm.querySelector('label[for="ideaScripture"]').hidden=!scriptureVisible;
+    };
+    kind.addEventListener('change',configureFields);
+    suggestionForm.addEventListener('reset',()=>queueMicrotask(configureFields));
+    suggestionForm.addEventListener('submit',sendSuggestion);
+    configureFields();
+  }
   document.getElementById('heroSearch')?.addEventListener('submit',e=>{e.preventDefault();currentSearch=document.getElementById('heroInput').value;location.hash='#browse';if(location.hash==='#browse') render();});
   if(document.getElementById('filteredResults')){
     for(const [id,setter] of [['searchFilter',v=>currentSearch=v],['verdictFilter',v=>currentVerdict=v],['ageFilter',v=>currentAge=v],['genreFilter',v=>currentGenre=v]]){

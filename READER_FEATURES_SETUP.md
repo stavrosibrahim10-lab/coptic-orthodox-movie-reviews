@@ -10,7 +10,7 @@
 
 **The SQL migration must be applied before enabling visitor submissions.**
 
-1. Review and run `supabase/migrations/20261125_reader_suggestions.sql` in the **existing** Supabase project's SQL Editor. It creates `studio_suggestions` with RLS, denies browser-side database access, and permits only service-role access from the existing Netlify function. No changes to existing movie review records are made.
+1. Review and run `supabase/migrations/20261125_reader_suggestions.sql` and then `supabase/migrations/20261126_reader_suggestions_title_only.sql` in the **existing** Supabase project's SQL Editor. The second migration enables title-only requests and refreshes the REST schema cache. It creates `studio_suggestions` with RLS, denies browser-side database access, and permits only service-role access from the existing Netlify function. No changes to existing movie review records are made.
 2. Merge the GitHub PR after CI and Netlify Deploy Preview pass.
 3. Sign in at `/studio/`, open **Reader suggestions** in the left navigation, and confirm the empty moderation queue loads.
 4. On the public site, follow **Suggest an idea** and submit a short test idea. Confirm it appears as **pending** in Studio and is *not* public.
