@@ -1,13 +1,19 @@
 import test from 'node:test';import assert from 'node:assert/strict';import fs from 'node:fs';
 import handler from '../netlify/functions/studio.mjs';
 import publishedHandler from '../netlify/functions/reviews.mjs';
+import {withLgbtqTheme,getLgbtqTheme,LGBTQ_THEME_NAME,lgbtqImpact,LGBTQ_VERIFIED_STARTERS} from '../public/lgbtq-audit.js';
+import {validateReview,requireLgbtqVerification} from '../netlify/functions/_shared/core.mjs';
 const seed=JSON.parse(fs.readFileSync(new URL('../bootstrap/studio-import.json',import.meta.url),'utf8'));
 const originalFetch=globalThis.fetch;
 const configKeys=['SUPABASE_URL','SUPABASE_PUBLISHABLE_KEY','SUPABASE_SECRET_KEY'];
 const originalEnv=Object.fromEntries(configKeys.map(k=>[k,process.env[k]]));
 for(const [k,v] of Object.entries({SUPABASE_URL:'https://fake-project.supabase.co',SUPABASE_PUBLISHABLE_KEY:'sb_publishable_mock',SUPABASE_SECRET_KEY:'sb_secret_mock'}))process.env[k]=v;
 const movieId=seed.reviews[0].id;
-const draft=JSON.parse(JSON.stringify(seed.reviews[0]));
+const draft=withLgbtqTheme(JSON.parse(JSON.stringify(seed.reviews[0])));
+// Synthetic verified-test fixture; not a real claim about this film.
+getLgbtqTheme(draft).score=0;
+getLgbtqTheme(draft).evidence='Synthetic test-only screening note; not used in the actual movie catalog.';
+getLgbtqTheme(draft).references=[{label:'Fixture',url:'https://example.com/test-fixture'}];
 let working={movie_id:movieId,title:draft.title,release_year:draft.year,revision:1,draft,workflow:'draft',facts_by:null,age_by:null,spiritual_by:null,published:null};
 let issue={id:'7b05fbbe-c324-4d80-a9d6-a47dc1315159',movie_id:movieId,kind:'source',state:'open',title:'Issue',detail:'Must verify'};
 let role='owner';
@@ -140,3 +146,65 @@ test('saving an advisory requires an HTTPS source',async()=>{
  assert.match(r.body.error,/HTTPS source/);
 });
 process.on('exit',()=>{globalThis.fetch=originalFetch;for(const [k,v] of Object.entries(originalEnv))if(v===undefined)delete process.env[k];else process.env[k]=v});
+
+test('201 library entries have one non-invented LGBTQ rating, seven sourced and the remainder Not Verified', async()=>{
+ const all=[...seed.reviews,...(await import('../public/family-review-ratings.js')).supplementalReviews];
+ assert.equal(all.length,201);
+ assert.equal(Object.keys(LGBTQ_VERIFIED_STARTERS).length,7);
+ let verified=0,pending=0;
+ for(const raw of all){
+   const review=withLgbtqTheme(raw,{proposeVerdict:true});
+   const themes=review.themes.filter(t=>t.name===LGBTQ_THEME_NAME);
+   assert.equal(themes.length,1);
+   const t=themes[0];
+   if(t.score===null){pending++;assert.equal(t.references.length,0)}
+   else {verified++;assert.equal(t.references.length,1);assert.ok(t.references[0].url.startsWith('https://'))}
+   validateReview(review);
+ }
+ assert.equal(verified,7); assert.equal(pending,194);
+ assert.equal(lgbtqImpact(0),'not_applicable');
+ assert.equal(lgbtqImpact(1),'neutral');
+ for(let i=2;i<=5;i++)assert.equal(lgbtqImpact(i),'destructive');
+ assert.equal(lgbtqImpact(null),'not_verified');
+});
+test('LGBTQ 2–5 forces a destructive verdict, and unverified cannot be signed off',()=>{
+ const notVerified=withLgbtqTheme(JSON.parse(JSON.stringify(seed.reviews[1])));
+ assert.equal(getLgbtqTheme(notVerified).score,null);
+ assert.doesNotThrow(()=>validateReview(notVerified));
+ assert.throws(()=>requireLgbtqVerification(notVerified),/Complete the film-specific LGBTQ/);
+ const sourceTheme=getLgbtqTheme(notVerified);
+ sourceTheme.score=2;sourceTheme.portrayal='descriptive';sourceTheme.evidence='Synthetic film scene evidence for this test only.';
+ sourceTheme.references=[{label:'Fixture',url:'https://example.com/test-fixture'}];
+ notVerified.verdict='neutral';
+ assert.throws(()=>validateReview(notVerified),/rating 2–5 requires Destructive/);
+ notVerified.verdict='destructive';assert.doesNotThrow(()=>validateReview(notVerified));
+ assert.doesNotThrow(()=>requireLgbtqVerification(notVerified));
+});
+test('owner batch initialization preserves editor text and the published version, and can be retried',async()=>{
+ const originalPublished=structuredClone(working.published);
+ const userText='Pre-existing editorial observations must survive this new category.';
+ working.draft.editorNote=userText;
+ working.draft.themes=working.draft.themes.filter(t=>t.name!==LGBTQ_THEME_NAME);
+ const previousRevision=working.revision;
+ const response=await status('lgbtq_initialize',{movie_ids:[movieId]});
+ assert.equal(response.status,200);
+ assert.deepEqual(response.body.results.map(r=>r.state),['saved']);
+ assert.equal(working.revision,previousRevision+1);
+ assert.equal(working.draft.editorNote,userText);
+ assert.equal(getLgbtqTheme(working.draft).score,null);
+ assert.equal(working.workflow,'draft');
+ assert.equal(working.facts_by,null);
+ assert.deepEqual(working.published,originalPublished);
+ const second=await status('lgbtq_initialize',{movie_ids:[movieId]});
+ assert.equal(second.status,200);
+ assert.deepEqual(second.body.results.map(r=>r.state),['already_present']);
+ assert.equal(working.revision,previousRevision+1);
+});
+test('only the owner can batch-initialize and batches are size limited',async()=>{
+ role='editor';
+ const forbidden=await status('lgbtq_initialize',{movie_ids:[movieId]});
+ assert.equal(forbidden.status,403);
+ role='owner';
+ const oversized=await status('lgbtq_initialize',{movie_ids:Array.from({length:11},(_,i)=>'test-'+i)});
+ assert.equal(oversized.status,400);
+});
