@@ -1,0 +1,103 @@
+[
+  {
+    "movie_id": "review-wicked-2024",
+    "title": "Wicked",
+    "year": 2024,
+    "recommended_score": 1,
+    "observation": "GLAAD identifies Pfannee, one of Glinda’s school friends, as briefly showing attraction to Prince Fiyero when he arrives. The scene is incidental. The digital bonus scene in which Pfannee introduces himself is outside the theatrical cut.",
+    "sources": [
+      "https://assets.glaad.org/m/619bf8f01c5e27d7/original/GLAAD-2025-Studio-Responsibility-Index.pdf"
+    ],
+    "studio_status": "proposed"
+  },
+  {
+    "movie_id": "catalog-2022-sonicthehedgehog2",
+    "title": "Sonic the Hedgehog 2",
+    "year": 2022,
+    "recommended_score": null,
+    "observation": "Agent Stone makes latte art of himself and Robotnik and appears pleased when Robotnik arrives at the café. Common Sense Media reads his portrayal as signaling that he is gay. The scene itself does not explicitly identify a romantic relationship.",
+    "sources": [
+      "https://www.commonsensemedia.org/movie-reviews/sonic-the-hedgehog-2",
+      "https://www.scripts.com/script-pdf-body.php?id=26853"
+    ],
+    "studio_status": "proposed"
+  },
+  {
+    "movie_id": "film-elio-2025",
+    "title": "Elio",
+    "year": 2025,
+    "recommended_score": null,
+    "observation": "Pixar chief creative officer Pete Docter described removing LGBTQ-related material during development. Reports about those earlier drafts should not be attributed to the released film.",
+    "sources": [
+      "https://ew.com/pixar-cut-lgbtq-storyline-from-elio-because-studio-making-movie-not-therapy-peter-docter-says-11921674"
+    ],
+    "studio_status": "proposed"
+  },
+  {
+    "movie_id": "bbfc-2017-the-lego-batman-movie",
+    "title": "The Lego Batman Movie",
+    "year": 2017,
+    "recommended_score": null,
+    "observation": "Batman and the Joker repeatedly use breakup-style language to describe their rivalry. The gag borrows the language of romance while the story presents them as enemies.",
+    "sources": [
+      "https://media.glaad.org/wp-content/uploads/2018/05/25203349/2018-GLAAD-Studio-Responsibility-Index-11f.pdf"
+    ],
+    "studio_status": "proposed"
+  },
+  {
+    "movie_id": "catalog-2024-thelordoftheringsthewaroftherohirrim",
+    "title": "The Lord of the Rings: The War of the Rohirrim",
+    "year": 2024,
+    "recommended_score": null,
+    "observation": "Héra leaves to seek adventure with a longtime female companion. The guide identifies their departure and reports no explicit romantic dialogue or portrayal between them.",
+    "sources": [
+      "https://www.pluggedin.com/movie-reviews/lord-of-the-rings-war-of-the-rohirrim-2024/"
+    ],
+    "studio_status": "proposed"
+  },
+  {
+    "movie_id": "catalog-1989-thelittlemermaid",
+    "title": "The Little Mermaid",
+    "year": 1989,
+    "recommended_score": null,
+    "observation": "Animator accounts identify drag performer Divine as a visual inspiration for Ursula. This is background about the character design, not a statement of Ursula’s identity in the animated film.",
+    "sources": [
+      "https://time.com/6282514/little-mermaid-ursula-drag-queen-divine/"
+    ],
+    "studio_status": "proposed"
+  },
+  {
+    "movie_id": "review-kpopdemonhunters-2025",
+    "title": "KPop Demon Hunters",
+    "year": 2025,
+    "recommended_score": null,
+    "observation": "Co-writer Hannah McMechan discussed her own experience and the film’s reception among LGBTQ audiences. Her interview supplies context about the writer and viewers, without identifying a scene that confirms an LGBTQ relationship in the film.",
+    "sources": [
+      "https://people.com/kpop-demon-hunters-writer-hannah-mcmechan-coming-out-bisexual-exclusive-11995277"
+    ],
+    "studio_status": "proposed"
+  },
+  {
+    "movie_id": "film-the-colors-within-2025",
+    "title": "The Colors Within",
+    "year": 2025,
+    "recommended_score": null,
+    "observation": "GKIDS describes Totsuko forming a band with Kimi and Rui. This synopsis does not establish a romantic relationship between the girls. Commentary about the director’s other films does not establish a scene in this release.",
+    "sources": [
+      "https://gkids.com/films/the-colors-within/"
+    ],
+    "studio_status": "proposed"
+  },
+  {
+    "movie_id": "catalog-2020-hamilton",
+    "title": "Hamilton",
+    "year": 2020,
+    "recommended_score": null,
+    "observation": "This entry covers the filmed Broadway production released in 2020. Historical speculation about Hamilton and Laurens does not establish a relationship in this filmed performance. The reviewed film guide did not substantiate the specific claim.",
+    "sources": [
+      "https://movies.disney.com/hamilton",
+      "https://www.imdb.com/title/tt8503618/parentalguide/"
+    ],
+    "studio_status": "proposed"
+  }
+]
