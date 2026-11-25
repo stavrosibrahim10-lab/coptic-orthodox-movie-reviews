@@ -1,6 +1,8 @@
 // Authenticated TMDB poster lookup for the Coptic Orthodox Movie Reviews frontend.
 // Exposed at /api/poster by Netlify's function route configuration.
 const normalize = value => String(value ?? '').toLowerCase().normalize('NFKD').replace(/[\u0300-\u036f]/g, '').replace(/&/g, ' and ').replace(/[^a-z0-9]+/g, ' ').trim();
+// The streaming release predates the theatrical date returned by TMDB.
+const movieIds = new Map([['hamilton|2020', 556574]]);
 const response = (payload, status=200) => new Response(JSON.stringify(payload), {
   status, headers: {'Content-Type':'application/json; charset=utf-8','Cache-Control':'public, max-age=86400','X-Content-Type-Options':'nosniff'}
 });
@@ -13,9 +15,13 @@ export default async function handler(request) {
   if (!title || title.length>150 || !Number.isInteger(year) || year<1880 || year>2100) return response({error:'Invalid title/year'},400);
   const credential=(globalThis.Netlify?.env?.get('TMDB_API_KEY') || process.env.TMDB_API_KEY || '').trim();
   if (!credential) return response({posterUrl:null,reason:'TMDB_API_KEY not configured'},503);
-  const endpoint=new URL('https://api.themoviedb.org/3/search/movie');
-  endpoint.searchParams.set('query',title);
-  endpoint.searchParams.set('include_adult','false');
+  const normalizedTitle=normalize(title);
+  const movieId=movieIds.get(`${normalizedTitle}|${year}`);
+  const endpoint=new URL(`https://api.themoviedb.org/3/${movieId?`movie/${movieId}`:'search/movie'}`);
+  if (!movieId){
+    endpoint.searchParams.set('query',title);
+    endpoint.searchParams.set('include_adult','false');
+  }
   endpoint.searchParams.set('language','en-US');
   const isToken=credential.startsWith('eyJ') || credential.includes('.');
   if (!isToken) endpoint.searchParams.set('api_key',credential);
@@ -27,9 +33,10 @@ export default async function handler(request) {
     if (!result.ok) return response({posterUrl:null,reason:'TMDB request failed'},502);
     const body=await result.json();
     // Require a matching title and a year within one year for alternate release dates.
-    const matches=(body.results||[]).filter(m=>m.poster_path &&
-      (normalize(m.title)===normalize(title) || normalize(m.original_title)===normalize(title)) &&
-      Math.abs(Number((m.release_date||'').slice(0,4))-year)<=1);
+    const candidates=movieId && body.id===movieId?[body]:body.results||[];
+    const matches=candidates.filter(m=>m.poster_path &&
+      (normalize(m.title)===normalizedTitle || normalize(m.original_title)===normalizedTitle) &&
+      (movieId?m.id===movieId:Math.abs(Number((m.release_date||'').slice(0,4))-year)<=1));
     matches.sort((a,b)=>{
       const exactA=Number((a.release_date||'').slice(0,4))===year?1:0;
       const exactB=Number((b.release_date||'').slice(0,4))===year?1:0;
