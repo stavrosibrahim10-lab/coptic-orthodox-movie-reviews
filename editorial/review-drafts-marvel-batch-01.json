@@ -1,0 +1,2367 @@
+[
+  {
+    "id": "marvel-2008-iron-man",
+    "title": "Iron Man",
+    "year": 2008,
+    "genre": "Marvel · Live action",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/ironman/"
+      },
+      {
+        "label": "Common Sense Media",
+        "url": "https://www.commonsensemedia.org/movie-reviews/iron-man"
+      },
+      {
+        "label": "Released-film clip with transcript",
+        "url": "https://clip.cafe/iron-man-2008/hello-sir-speaking-of-manned-unmanned/"
+      }
+    ],
+    "officialRating": "PG-13",
+    "synopsis": "After captors use weapons made by his company, Tony Stark escapes and reconsiders what he owes the people his business has injured.",
+    "verdict": "neutral",
+    "age": "13+",
+    "verdictRationale": "Yinsen’s sacrifice and Tony’s decision to stop building weapons give the story moral weight. Its sexual humor and sustained spectacle make the overall recommendation Neutral.",
+    "ageRationale": "Gunfire, captivity and injuries are intense. There is a brief implied sexual encounter and drinking.",
+    "themes": [
+      {
+        "name": "Responsibility",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "Tony halts arms production after seeing his weapons in the hands of his captors.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/ironman/"
+          }
+        ]
+      },
+      {
+        "name": "Sacrificial love",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Yinsen gives Tony time to escape at terrible personal cost.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/ironman/"
+          }
+        ]
+      },
+      {
+        "name": "Pride",
+        "type": "harmful",
+        "score": 4,
+        "portrayal": "criticized",
+        "evidence": "Tony’s confidence in his company’s work is shaken by what he sees during captivity.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/ironman/"
+          }
+        ]
+      },
+      {
+        "name": "Sexual content",
+        "type": "harmful",
+        "score": 3,
+        "portrayal": "mixed",
+        "evidence": "Tony and a reporter kiss and tumble into bed, with sex implied.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/ironman/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": 1,
+        "portrayal": "descriptive",
+        "evidence": "On the jet, Tony makes a brief joke about Rhodey mistaking someone’s gender during a spring-break encounter. The clip establishes the dialogue, with no identity established for the person mentioned.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/ironman/"
+          },
+          {
+            "label": "Released-film clip with transcript",
+            "url": "https://clip.cafe/iron-man-2008/hello-sir-speaking-of-manned-unmanned/"
+          }
+        ]
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "severity": "Moderate",
+        "details": "Tony and a reporter kiss and roll in bed together, with sex implied."
+      },
+      {
+        "name": "Language",
+        "severity": "Moderate",
+        "details": "The parental guide lists profanity and religious exclamations."
+      },
+      {
+        "name": "Violence and peril",
+        "severity": "Strong",
+        "details": "Militants capture Tony and use gunfire. Yinsen is fatally wounded during the escape."
+      },
+      {
+        "name": "Drinking and substance use",
+        "severity": "Moderate",
+        "details": "Tony and Rhodes drink on a private jet."
+      }
+    ],
+    "reflection": "Repentance begins with seeing whose burdens we have ignored. Tony’s decision to halt production gives a family room to discuss what making amends would mean beyond a public announcement.",
+    "scripture": [
+      "Philippians 2:4"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 2:4",
+      "url": "https://www.biblegateway.com/passage/?search=Philippians%202%3A4&version=KJV",
+      "connection": "Paul calls Christians to consider the interests of others. Tony’s change invites us to ask who bears the cost of our choices and what repair asks of us.",
+      "translation": "KJV",
+      "text": "Look not every man on his own things, but every man also on the things of others."
+    },
+    "patristic": {
+      "author": "St. Basil the Great",
+      "work": "Address to Young Men on the Right Use of Greek Literature",
+      "section": "On selecting what to take from pagan literature",
+      "url": "https://www.tertullian.org/fathers/basil_litterature01.htm",
+      "text": "So we, if wise, shall take from heathen books whatever befits us and is allied to the truth, and shall pass over the rest."
+    },
+    "biblicalParallels": [
+      {
+        "title": "A change in what we make",
+        "filmMoment": "Tony uses the resources that helped earn him a fortune to fight those exploiting his weapons.",
+        "scriptureReference": "Philippians 2:4",
+        "reflection": "Paul calls Christians to consider the interests of others. Tony’s change invites us to ask who bears the cost of our choices and what repair asks of us.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/ironman/"
+      }
+    ],
+    "questions": [
+      "Who helps Tony recognize the cost of his choices?",
+      "What does Yinsen give up to help Tony escape?",
+      "How could Tony make amends to people hurt by his weapons?",
+      "When does the film make weapons look appealing?",
+      "What is one responsibility you could take more seriously this week?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Tony and a reporter kiss and roll in bed together, with sex implied."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/ironman/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The parental guide lists profanity and religious exclamations."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/ironman/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Militants capture Tony and use gunfire. Yinsen is fatally wounded during the escape."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/ironman/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A dying man expresses hope that he will see his family, and the film presents the suit as advanced technology."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/ironman/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Tony and Rhodes drink on a private jet."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/ironman/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Tony recognizes the harm done with his company’s weapons and changes the company’s direction."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/ironman/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2008-the-incredible-hulk",
+    "title": "The Incredible Hulk",
+    "year": 2008,
+    "genre": "Marvel · Live action",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/incrediblehulk/"
+      },
+      {
+        "label": "New Zealand Classification Office",
+        "url": "https://www.classificationoffice.govt.nz/find-a-rating/quick-takes/the-incredible-hulk/"
+      }
+    ],
+    "officialRating": "PG-13",
+    "synopsis": "Bruce Banner tries to contain the Hulk while the military pursues him and a new monster threatens civilians.",
+    "verdict": "neutral",
+    "age": "13+",
+    "verdictRationale": "Betty’s care and the Hulk’s final restraint give families something to discuss. Prolonged destructive combat competes with that emphasis.",
+    "ageRationale": "Monster fights, bloody wounds, loud explosions and a passionate hotel-room scene make this more suitable for teens.",
+    "themes": [
+      {
+        "name": "Mercy",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "The Hulk spares an opponent at Betty’s pleading.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/incrediblehulk/"
+          }
+        ]
+      },
+      {
+        "name": "Self-control",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Bruce monitors his stress and practices ways to manage his anger.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/incrediblehulk/"
+          }
+        ]
+      },
+      {
+        "name": "Loyalty",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Betty gives Bruce shelter and tries to protect him.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/incrediblehulk/"
+          }
+        ]
+      },
+      {
+        "name": "Abuse of power",
+        "type": "harmful",
+        "score": 4,
+        "portrayal": "criticized",
+        "evidence": "The military’s pursuit and Blonsky’s escalation lead to a new threat.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/incrediblehulk/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Available sources establish the listed findings. Comprehensive screening for this category remains open.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "severity": "Moderate",
+        "details": "Bruce and Betty kiss and begin a sexual encounter in a hotel room before Bruce stops."
+      },
+      {
+        "name": "Language",
+        "severity": "Moderate",
+        "details": "The guide documents strong words, insults and religious exclamations."
+      },
+      {
+        "name": "Violence and peril",
+        "severity": "Strong",
+        "details": "Gunfire, explosions and hand-to-hand combat cause bloodied monster injuries."
+      },
+      {
+        "name": "Drinking and substance use",
+        "severity": "Moderate",
+        "details": "General Ross smokes cigars and drinks shots in a bar."
+      }
+    ],
+    "reflection": "The Orthodox practice of watchfulness asks us to notice anger before it rules us. Betty’s appeal opens a discussion about speaking for mercy when another person has power over someone vulnerable.",
+    "scripture": [
+      "Proverbs 16:32"
+    ],
+    "themeScripture": {
+      "reference": "Proverbs 16:32",
+      "url": "https://www.biblegateway.com/passage/?search=Proverbs%2016%3A32&version=KJV",
+      "connection": "Proverbs prizes governing anger above taking a city. The moment when the Hulk stops gives a family a way to distinguish restraint from the thrill of winning.",
+      "translation": "KJV",
+      "text": "He that is slow to anger is better than the mighty; and he that ruleth his spirit than he that taketh a city."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 49 on Matthew",
+      "section": "On Matthew 14",
+      "url": "https://www.newadvent.org/fathers/200149.htm",
+      "text": "He was teaching them humility, and temperance, and charity, and to be of like mind one towards another, and to account all things common."
+    },
+    "biblicalParallels": [
+      {
+        "title": "Strength enough to stop",
+        "filmMoment": "At Betty’s pleading the Hulk stops short of killing a defeated opponent.",
+        "scriptureReference": "Proverbs 16:32",
+        "reflection": "Proverbs prizes governing anger above taking a city. The moment when the Hulk stops gives a family a way to distinguish restraint from the thrill of winning.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/incrediblehulk/"
+      }
+    ],
+    "questions": [
+      "How does Betty help Bruce calm down?",
+      "Why does Blonsky want more power?",
+      "What makes the Hulk’s choice to stop fighting important?",
+      "When might stepping away help someone govern their anger?",
+      "How can a friend show mercy while still setting limits?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Bruce and Betty kiss and begin a sexual encounter in a hotel room before Bruce stops."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/incrediblehulk/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The guide documents strong words, insults and religious exclamations."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/incrediblehulk/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Gunfire, explosions and hand-to-hand combat cause bloodied monster injuries."
+          ],
+          "evidence": [
+            {
+              "provider": "New Zealand Classification Office",
+              "url": "https://www.classificationoffice.govt.nz/find-a-rating/quick-takes/the-incredible-hulk/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Bruce practices meditation and controlled breathing as anger management. A character describes a transformation in religious terms."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/incrediblehulk/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "General Ross smokes cigars and drinks shots in a bar."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/incrediblehulk/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Betty appeals to the Hulk to spare a defeated enemy, and he does."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/incrediblehulk/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2010-iron-man-2",
+    "title": "Iron Man 2",
+    "year": 2010,
+    "genre": "Marvel · Live action",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/ironman2/"
+      }
+    ],
+    "officialRating": "PG-13",
+    "synopsis": "A failing power source and Ivan Vanko’s revenge threaten Stark as tensions grow between Tony and his friends.",
+    "verdict": "neutral",
+    "age": "13+",
+    "verdictRationale": "Tony’s growth toward cooperation matters, while the swagger, innuendo and extended combat give the film a mixed example.",
+    "ageRationale": "Frequent combat, injured guards, suggestive dialogue and a prominent episode of intoxication support a teen recommendation.",
+    "themes": [
+      {
+        "name": "Friendship",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Rhodey confronts Tony and later fights alongside him.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/ironman2/"
+          }
+        ]
+      },
+      {
+        "name": "Pride",
+        "type": "harmful",
+        "score": 5,
+        "portrayal": "criticized",
+        "evidence": "Tony disregards others’ safety during his birthday party in the suit.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/ironman2/"
+          }
+        ]
+      },
+      {
+        "name": "Revenge",
+        "type": "harmful",
+        "score": 4,
+        "portrayal": "condemned",
+        "evidence": "Vanko devotes his technology to retaliation against the Stark family.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/ironman2/"
+          }
+        ]
+      },
+      {
+        "name": "Intoxication",
+        "type": "harmful",
+        "score": 3,
+        "portrayal": "criticized",
+        "evidence": "Tony gets drunk and fires at party objects while wearing armor.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/ironman2/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Available sources establish the listed findings. Comprehensive screening for this category remains open.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "severity": "Moderate",
+        "details": "The guide cites suggestive banter and a romantic kiss."
+      },
+      {
+        "name": "Language",
+        "severity": "Moderate",
+        "details": "Profanity and religious exclamations occur."
+      },
+      {
+        "name": "Violence and peril",
+        "severity": "Strong",
+        "details": "Whip-like weapons cut through vehicles, and guards are bloodied during attacks."
+      },
+      {
+        "name": "Drinking and substance use",
+        "severity": "Moderate",
+        "details": "Tony becomes intoxicated at his birthday party. Tony and Pepper also have champagne."
+      }
+    ],
+    "reflection": "A friend can speak firmly and remain loyal. Rhodey’s intervention can help a family discuss how to name harm, ask for help and accept correction without humiliation.",
+    "scripture": [
+      "Galatians 6:2"
+    ],
+    "themeScripture": {
+      "reference": "Galatians 6:2",
+      "url": "https://www.biblegateway.com/passage/?search=Galatians%206%3A2&version=KJV",
+      "connection": "Paul asks Christians to bear one another’s burdens. Rhodey’s intervention suggests that a friend may need to confront us to keep us and others safe.",
+      "translation": "KJV",
+      "text": "Bear ye one another’s burdens, and so fulfil the law of Christ."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 11 on Ephesians",
+      "section": "On Ephesians 4:15–16",
+      "url": "https://www.newadvent.org/fathers/230111.htm",
+      "text": "Each one edifies, each one perfects, each one ministers."
+    },
+    "biblicalParallels": [
+      {
+        "title": "A friend carries a burden",
+        "filmMoment": "During his birthday party Tony fires the suit’s weapons while intoxicated, prompting Rhodey to intervene.",
+        "scriptureReference": "Galatians 6:2",
+        "reflection": "Paul asks Christians to bear one another’s burdens. Rhodey’s intervention suggests that a friend may need to confront us to keep us and others safe.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/ironman2/"
+      }
+    ],
+    "questions": [
+      "What makes Rhodey’s intervention an act of friendship?",
+      "What could Tony have told Pepper earlier?",
+      "How does Vanko’s grievance become an excuse for harming others?",
+      "What happens when Tony treats the armor as a toy?",
+      "When has asking for help made a difficult job safer?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The guide cites suggestive banter and a romantic kiss."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/ironman2/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Profanity and religious exclamations occur."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/ironman2/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Whip-like weapons cut through vehicles, and guards are bloodied during attacks."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/ironman2/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Justin Hammer invokes God at a congressional hearing. Ivan invokes a god bleeding as an analogy about Iron Man’s vulnerability."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/ironman2/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Tony becomes intoxicated at his birthday party. Tony and Pepper also have champagne."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/ironman2/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Rhodey acts to limit the harm Tony is doing and later works with him against the drones."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/ironman2/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2011-thor",
+    "title": "Thor",
+    "year": 2011,
+    "genre": "Marvel · Live action",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/thor/"
+      }
+    ],
+    "officialRating": "PG-13",
+    "synopsis": "Odin exiles Thor after a reckless attack. Stranded on Earth, Thor must learn what it means to be worthy of power.",
+    "verdict": "edifying",
+    "age": "13+",
+    "verdictRationale": "The story explicitly corrects Thor’s arrogance by having him offer his own safety to protect others. The fantasy cosmology calls for context.",
+    "ageRationale": "Fantasy battles, threatening creatures, some profanity and bar drinking support a teen recommendation.",
+    "themes": [
+      {
+        "name": "Humility",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "Thor learns to accept help after his banishment strips him of power.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/thor/"
+          }
+        ]
+      },
+      {
+        "name": "Sacrificial love",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "Thor faces the Destroyer without his powers to protect others.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/thor/"
+          }
+        ]
+      },
+      {
+        "name": "Pride",
+        "type": "harmful",
+        "score": 5,
+        "portrayal": "criticized",
+        "evidence": "Thor leads a retaliatory expedition after an attempted theft, bringing his friends into danger.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/thor/"
+          }
+        ]
+      },
+      {
+        "name": "Mythological cosmology",
+        "type": "context",
+        "score": 4,
+        "portrayal": "descriptive",
+        "evidence": "Odin, Thor and Loki are adapted from Norse mythology in a fantasy setting.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/thor/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Available sources establish the listed findings. Comprehensive screening for this category remains open.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "severity": "Moderate",
+        "details": "Thor and Jane kiss."
+      },
+      {
+        "name": "Language",
+        "severity": "Moderate",
+        "details": "The guide records mild profanity and religious expressions."
+      },
+      {
+        "name": "Violence and peril",
+        "severity": "Strong",
+        "details": "The Frost Giant fight and the Destroyer’s attack put people and structures in danger."
+      },
+      {
+        "name": "Spiritual material",
+        "severity": "Moderate",
+        "details": "The Asgardian characters are drawn from Norse mythology and travel between realms by supernatural-style means."
+      },
+      {
+        "name": "Drinking and substance use",
+        "severity": "Moderate",
+        "details": "Thor and Selvig drink together in a bar."
+      }
+    ],
+    "reflection": "Thor’s exile strips away the power he relied on. In an Orthodox reading, his later choice gives families a chance to ask how humility can change the way we use power.",
+    "scripture": [
+      "John 15:13"
+    ],
+    "themeScripture": {
+      "reference": "John 15:13",
+      "url": "https://www.biblegateway.com/passage/?search=John%2015%3A13&version=KJV",
+      "connection": "Jesus speaks of laying down one’s life for friends. Thor’s act offers a limited comparison about willingness to suffer for others within a story shaped by Norse mythology.",
+      "translation": "KJV",
+      "text": "Greater love hath no man than this, that a man lay down his life for his friends."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 77 on the Gospel of John",
+      "section": "On John 15:12–13",
+      "url": "https://www.newadvent.org/fathers/240177.htm",
+      "text": "Because this is the mark of the disciples, this the bond of virtue."
+    },
+    "biblicalParallels": [
+      {
+        "title": "What makes strength worthy?",
+        "filmMoment": "Thor faces the Destroyer without his powers and offers himself to spare the people around him.",
+        "scriptureReference": "John 15:13",
+        "reflection": "Jesus speaks of laying down one’s life for friends. Thor’s act offers a limited comparison about willingness to suffer for others within a story shaped by Norse mythology.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/thor/"
+      }
+    ],
+    "questions": [
+      "How does Thor’s first decision endanger his friends?",
+      "What does Jane offer Thor when he needs help?",
+      "How does the powerless Thor respond to the Destroyer?",
+      "What differences do you see between the film’s mythology and the Christian understanding of God?",
+      "What kind of strength helps someone admit a mistake?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Thor and Jane kiss."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/thor/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The guide records mild profanity and religious expressions."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/thor/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The Frost Giant fight and the Destroyer’s attack put people and structures in danger."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/thor/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The Asgardian characters are drawn from Norse mythology and travel between realms by supernatural-style means."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/thor/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Thor and Selvig drink together in a bar."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/thor/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Thor’s first response to offense is retaliation. He later accepts personal danger to protect the town."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/thor/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2011-captain-america-the-first-avenger",
+    "title": "Captain America: The First Avenger",
+    "year": 2011,
+    "genre": "Marvel · Live action",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/captainamericathefirstavenger/"
+      }
+    ],
+    "officialRating": "PG-13",
+    "synopsis": "Erskine chooses Steve Rogers for a wartime experiment after seeing the character Steve already possesses.",
+    "verdict": "edifying",
+    "age": "13+",
+    "verdictRationale": "Steve repeatedly risks himself for others, including before gaining strength. Wartime violence and the dishonesty of falsifying records deserve discussion.",
+    "ageRationale": "Shootings, the death of a mentor and intense wartime peril make this more suitable for teens.",
+    "themes": [
+      {
+        "name": "Courage",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "Steve moves toward an apparent grenade while the other recruits scatter.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/captainamericathefirstavenger/"
+          }
+        ]
+      },
+      {
+        "name": "Humility",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Erskine chooses Steve for his character before he receives enhanced strength.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/captainamericathefirstavenger/"
+          }
+        ]
+      },
+      {
+        "name": "Loyalty",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Steve risks an unauthorized rescue to recover captured soldiers.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/captainamericathefirstavenger/"
+          }
+        ]
+      },
+      {
+        "name": "Dishonesty",
+        "type": "harmful",
+        "score": 2,
+        "portrayal": "mixed",
+        "evidence": "Steve falsifies information while trying to enlist.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/captainamericathefirstavenger/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Available sources establish the listed findings. Comprehensive screening for this category remains open.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "severity": "Moderate",
+        "details": "Steve and Peggy share a kiss. The guide also describes an advance from another woman."
+      },
+      {
+        "name": "Language",
+        "severity": "Moderate",
+        "details": "Wartime dialogue includes profanity and misuse of religious language."
+      },
+      {
+        "name": "Violence and peril",
+        "severity": "Strong",
+        "details": "The spy shoots several people, including Erskine, and wartime battles include gunfire and explosions."
+      },
+      {
+        "name": "Spiritual material",
+        "severity": "Moderate",
+        "details": "Hydra seeks power through the fictional Tesseract, an artifact associated with Asgard."
+      },
+      {
+        "name": "Drinking and substance use",
+        "severity": "Moderate",
+        "details": "The guide reports wartime drinking. The serum is presented as a fictional military experiment."
+      }
+    ],
+    "reflection": "Steve already has an opportunity to serve while others see his body as weak. Families can ask how a culture that celebrates victory might learn to praise an unnoticed protective act.",
+    "scripture": [
+      "John 15:13"
+    ],
+    "themeScripture": {
+      "reference": "John 15:13",
+      "url": "https://www.biblegateway.com/passage/?search=John%2015%3A13&version=KJV",
+      "connection": "Jesus speaks of laying down one’s life for friends. Steve’s response to the apparent grenade illustrates a willingness to bear danger on behalf of others.",
+      "translation": "KJV",
+      "text": "Greater love hath no man than this, that a man lay down his life for his friends."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 77 on the Gospel of John",
+      "section": "On John 15:12–13",
+      "url": "https://www.newadvent.org/fathers/240177.htm",
+      "text": "Because this is the mark of the disciples, this the bond of virtue."
+    },
+    "biblicalParallels": [
+      {
+        "title": "Courage before the serum",
+        "filmMoment": "Steve throws himself on what he believes is a live grenade to protect the other recruits.",
+        "scriptureReference": "John 15:13",
+        "reflection": "Jesus speaks of laying down one’s life for friends. Steve’s response to the apparent grenade illustrates a willingness to bear danger on behalf of others.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/captainamericathefirstavenger/"
+      }
+    ],
+    "questions": [
+      "What does Erskine see in Steve before the experiment?",
+      "Why is the grenade scene important even though the grenade is a test?",
+      "Why is falsifying papers worth discussing despite Steve’s motive?",
+      "How does Steve use the strength he receives?",
+      "How could someone with little authority stand up for a classmate being bullied?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Steve and Peggy share a kiss. The guide also describes an advance from another woman."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/captainamericathefirstavenger/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Wartime dialogue includes profanity and misuse of religious language."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/captainamericathefirstavenger/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The spy shoots several people, including Erskine, and wartime battles include gunfire and explosions."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/captainamericathefirstavenger/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Hydra seeks power through the fictional Tesseract, an artifact associated with Asgard."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/captainamericathefirstavenger/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The guide reports wartime drinking. The serum is presented as a fictional military experiment."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/captainamericathefirstavenger/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Steve’s willingness to protect others is established before the serum changes his body."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/captainamericathefirstavenger/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2012-the-avengers",
+    "title": "The Avengers",
+    "year": 2012,
+    "genre": "Marvel · Live action",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/avengers/"
+      }
+    ],
+    "officialRating": "PG-13",
+    "synopsis": "Loki brings an alien invasion to Earth. Several heroes have to set aside rivalries to defend civilians.",
+    "verdict": "edifying",
+    "age": "13+",
+    "verdictRationale": "The team’s willingness to protect others and Stark’s decision to risk his life support an Edifying draft verdict. The battle spectacle remains intense.",
+    "ageRationale": "Sustained city destruction, a character’s death and monster attacks make the film more appropriate for teens.",
+    "themes": [
+      {
+        "name": "Cooperation",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "The heroes move past rivalry to fight in coordinated roles during the attack on New York.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/avengers/"
+          }
+        ]
+      },
+      {
+        "name": "Sacrificial love",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "Stark knowingly risks his life in the final defense of the city.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/avengers/"
+          }
+        ]
+      },
+      {
+        "name": "Domination",
+        "type": "harmful",
+        "score": 4,
+        "portrayal": "condemned",
+        "evidence": "Loki demands that people kneel and uses the scepter to control minds.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/avengers/"
+          }
+        ]
+      },
+      {
+        "name": "Fantasy violence",
+        "type": "context",
+        "score": 5,
+        "portrayal": "descriptive",
+        "evidence": "The alien attack brings sustained fighting, property destruction and civilian peril.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/avengers/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Available sources establish the listed findings. Comprehensive screening for this category remains open.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "severity": "Moderate",
+        "details": "The guide reports suggestive costuming and brief innuendo."
+      },
+      {
+        "name": "Language",
+        "severity": "Moderate",
+        "details": "The guide reports profanity and religious exclamations."
+      },
+      {
+        "name": "Violence and peril",
+        "severity": "Strong",
+        "details": "Loki stabs Coulson, and an extended alien attack endangers people across New York."
+      },
+      {
+        "name": "Spiritual material",
+        "severity": "Moderate",
+        "details": "Loki and Thor draw on Norse mythology. Loki’s scepter can control minds."
+      },
+      {
+        "name": "Drinking and substance use",
+        "severity": "Moderate",
+        "details": "Stark offers Loki a drink and pours himself one."
+      }
+    ],
+    "reflection": "In the Church, gifts are given for service. The heroes’ movement from rivalry to cooperation can help families discuss how to use different strengths for someone else’s benefit.",
+    "scripture": [
+      "1 Corinthians 12:25-26"
+    ],
+    "themeScripture": {
+      "reference": "1 Corinthians 12:25-26",
+      "url": "https://www.biblegateway.com/passage/?search=1%20Corinthians%2012%3A25-26&version=KJV",
+      "connection": "Paul describes members of one body caring for each other. The team’s coordinated defense gives families an illustration of gifts serving a shared good.",
+      "translation": "KJV",
+      "text": "That there should be no schism in the body; but that the members should have the same care one for another. And whether one member suffer, all the members suffer with it; or one member be honoured, all the members rejoice with it."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 11 on Ephesians",
+      "section": "On Ephesians 4:15–16",
+      "url": "https://www.newadvent.org/fathers/230111.htm",
+      "text": "Each one edifies, each one perfects, each one ministers."
+    },
+    "biblicalParallels": [
+      {
+        "title": "Different gifts, shared care",
+        "filmMoment": "Stark accepts a dangerous mission at the height of the attack, while the team keeps fighting to protect New York.",
+        "scriptureReference": "1 Corinthians 12:25-26",
+        "reflection": "Paul describes members of one body caring for each other. The team’s coordinated defense gives families an illustration of gifts serving a shared good.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/avengers/"
+      }
+    ],
+    "questions": [
+      "What keeps the heroes from trusting each other at first?",
+      "How does Loki try to persuade people to surrender their freedom?",
+      "What can each hero do for the team that the others cannot?",
+      "What does Stark risk at the end of the battle?",
+      "How can family members help each other without needing the same gifts?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The guide reports suggestive costuming and brief innuendo."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/avengers/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The guide reports profanity and religious exclamations."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/avengers/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Loki stabs Coulson, and an extended alien attack endangers people across New York."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/avengers/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Loki and Thor draw on Norse mythology. Loki’s scepter can control minds."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/avengers/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Stark offers Loki a drink and pours himself one."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/avengers/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The heroes exchange distrust for coordinated protection of civilians."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/avengers/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2013-iron-man-3",
+    "title": "Iron Man 3",
+    "year": 2013,
+    "genre": "Marvel · Live action",
+    "sources": [
+      {
+        "label": "Common Sense Media",
+        "url": "https://www.commonsensemedia.org/movie-reviews/iron-man-3"
+      }
+    ],
+    "officialRating": "PG-13",
+    "synopsis": "After the New York attack, Tony struggles with anxiety and responds to a string of bombings tied to a dangerous technology.",
+    "verdict": "neutral",
+    "age": "13+",
+    "verdictRationale": "The film gives families an opening to talk about human limits and responsibility. The terrorism imagery, vengeance and suggestive material leave a mixed overall recommendation.",
+    "ageRationale": "Public bombings, an implied execution, gunfire and suggestive scenes warrant a teen recommendation.",
+    "themes": [
+      {
+        "name": "Humility",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Tony is forced to act with limited equipment after his home is attacked.",
+        "references": [
+          {
+            "label": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/iron-man-3"
+          }
+        ]
+      },
+      {
+        "name": "Care for others",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Tony responds after Pepper is kidnapped and public attacks injure civilians.",
+        "references": [
+          {
+            "label": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/iron-man-3"
+          }
+        ]
+      },
+      {
+        "name": "Revenge",
+        "type": "harmful",
+        "score": 4,
+        "portrayal": "criticized",
+        "evidence": "Killian uses violent schemes after Tony dismisses him years earlier.",
+        "references": [
+          {
+            "label": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/iron-man-3"
+          }
+        ]
+      },
+      {
+        "name": "Terrorism imagery",
+        "type": "context",
+        "score": 5,
+        "portrayal": "descriptive",
+        "evidence": "The film depicts staged executions and damaging public bombings.",
+        "references": [
+          {
+            "label": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/iron-man-3"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Available sources establish the listed findings. Comprehensive screening for this category remains open.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "severity": "Moderate",
+        "details": "A flashback implies a one-night stand, and the guide reports scenes with bikini- or lingerie-clad women."
+      },
+      {
+        "name": "Language",
+        "severity": "Moderate",
+        "details": "The guide lists profanity and misuse of God’s name."
+      },
+      {
+        "name": "Violence and peril",
+        "severity": "Strong",
+        "details": "The Mandarin claims responsibility for public bombings, and the film features gunfire and an implied on-camera execution."
+      },
+      {
+        "name": "Drinking and substance use",
+        "severity": "Moderate",
+        "details": "Characters drink at a party and a bar. One character speaks of a past substance problem."
+      }
+    ],
+    "reflection": "When a person experiences fear after danger, kindness can begin with listening. Tony’s isolation can invite families to ask what it would look like to make room for honest need.",
+    "scripture": [
+      "Galatians 6:2"
+    ],
+    "themeScripture": {
+      "reference": "Galatians 6:2",
+      "url": "https://www.biblegateway.com/passage/?search=Galatians%206%3A2&version=KJV",
+      "connection": "Paul asks believers to help carry others’ burdens. Tony’s anxiety and reliance on machinery can prompt a discussion about receiving support from people.",
+      "translation": "KJV",
+      "text": "Bear ye one another’s burdens, and so fulfil the law of Christ."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 11 on Ephesians",
+      "section": "On Ephesians 4:15–16",
+      "url": "https://www.newadvent.org/fathers/230111.htm",
+      "text": "Each one edifies, each one perfects, each one ministers."
+    },
+    "biblicalParallels": [
+      {
+        "title": "When equipment cannot carry the burden",
+        "filmMoment": "Tony has to respond to a threat while his suits and familiar supports are unavailable or unreliable.",
+        "scriptureReference": "Galatians 6:2",
+        "reflection": "Paul asks believers to help carry others’ burdens. Tony’s anxiety and reliance on machinery can prompt a discussion about receiving support from people.",
+        "sourceUrl": "https://www.commonsensemedia.org/movie-reviews/iron-man-3"
+      }
+    ],
+    "questions": [
+      "How has Tony changed after the New York battle?",
+      "What does Tony rely on to feel safe at first?",
+      "What do Killian’s choices show about nursing an old grievance?",
+      "When could Tony have reached out for help?",
+      "What can you do when a friend is frightened but reluctant to talk?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A flashback implies a one-night stand, and the guide reports scenes with bikini- or lingerie-clad women."
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media",
+              "url": "https://www.commonsensemedia.org/movie-reviews/iron-man-3",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The guide lists profanity and misuse of God’s name."
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media",
+              "url": "https://www.commonsensemedia.org/movie-reviews/iron-man-3",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The Mandarin claims responsibility for public bombings, and the film features gunfire and an implied on-camera execution."
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media",
+              "url": "https://www.commonsensemedia.org/movie-reviews/iron-man-3",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "not_verified",
+          "findings": [],
+          "evidence": [],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Characters drink at a party and a bar. One character speaks of a past substance problem."
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media",
+              "url": "https://www.commonsensemedia.org/movie-reviews/iron-man-3",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Tony’s experiences expose the limits of his armor and force him to confront his dependence on it."
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media",
+              "url": "https://www.commonsensemedia.org/movie-reviews/iron-man-3",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2013-thor-the-dark-world",
+    "title": "Thor: The Dark World",
+    "year": 2013,
+    "genre": "Marvel · Live action",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/thor-the-dark-world/"
+      }
+    ],
+    "officialRating": "PG-13",
+    "synopsis": "An ancient weapon enters Jane’s body and brings Thor into conflict with the Dark Elves.",
+    "verdict": "neutral",
+    "age": "13+",
+    "verdictRationale": "Protecting Jane and resisting evil are commendable, while vengeance, deception and intense fantasy violence leave more mixed material for discussion.",
+    "ageRationale": "Frigga’s death, battlefield corpses and apparent dismemberment can be disturbing even within the fantasy setting.",
+    "themes": [
+      {
+        "name": "Loyalty",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Thor acts to protect Jane as the Aether endangers her.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/thor-the-dark-world/"
+          }
+        ]
+      },
+      {
+        "name": "Sacrificial protection",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Frigga defends Jane when Malekith comes for her.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/thor-the-dark-world/"
+          }
+        ]
+      },
+      {
+        "name": "Deception",
+        "type": "harmful",
+        "score": 3,
+        "portrayal": "mixed",
+        "evidence": "Thor and Loki use a staged betrayal to deceive Malekith.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/thor-the-dark-world/"
+          }
+        ]
+      },
+      {
+        "name": "Fantasy violence",
+        "type": "context",
+        "score": 5,
+        "portrayal": "descriptive",
+        "evidence": "The battles show corpses, stabbing and the appearance of a severed hand.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/thor-the-dark-world/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Available sources establish the listed findings. Comprehensive screening for this category remains open.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "severity": "Moderate",
+        "details": "The guide documents kisses, suggestive remarks and brief flirting."
+      },
+      {
+        "name": "Language",
+        "severity": "Moderate",
+        "details": "The guide documents some profanity and misuse of God’s name."
+      },
+      {
+        "name": "Violence and peril",
+        "severity": "Strong",
+        "details": "Frigga is stabbed, battlefields are strewn with bodies, and a hand appears to be severed."
+      },
+      {
+        "name": "Spiritual material",
+        "severity": "Moderate",
+        "details": "Asgardian characters and interrealm travel draw on fantasy mythology. The Aether has reality-altering effects."
+      },
+      {
+        "name": "Drinking and substance use",
+        "severity": "Moderate",
+        "details": "Asgardians drink alcohol at a gathering, and human diners order wine."
+      }
+    ],
+    "reflection": "Care for someone in danger can call for patience and difficult cooperation. Thor’s reliance on Loki can prompt families to distinguish extending a chance from giving someone unrestricted trust.",
+    "scripture": [
+      "Philippians 2:4"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 2:4",
+      "url": "https://www.biblegateway.com/passage/?search=Philippians%202%3A4&version=KJV",
+      "connection": "Paul asks Christians to look to the needs of others. Thor’s decision to take a risk for Jane opens a discussion about attentiveness and the limits of trust.",
+      "translation": "KJV",
+      "text": "Look not every man on his own things, but every man also on the things of others."
+    },
+    "patristic": {
+      "author": "St. Basil the Great",
+      "work": "Address to Young Men on the Right Use of Greek Literature",
+      "section": "On selecting what to take from pagan literature",
+      "url": "https://www.tertullian.org/fathers/basil_litterature01.htm",
+      "text": "So we, if wise, shall take from heathen books whatever befits us and is allied to the truth, and shall pass over the rest."
+    },
+    "biblicalParallels": [
+      {
+        "title": "Care amid mistrust",
+        "filmMoment": "Knowing that Jane is in danger, Thor seeks help from Loki despite the damage Loki has caused.",
+        "scriptureReference": "Philippians 2:4",
+        "reflection": "Paul asks Christians to look to the needs of others. Thor’s decision to take a risk for Jane opens a discussion about attentiveness and the limits of trust.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/thor-the-dark-world/"
+      }
+    ],
+    "questions": [
+      "What does Frigga risk when she protects Jane?",
+      "Why does Thor ask Loki for help?",
+      "Does giving someone another chance require ignoring what they did before?",
+      "What does grief lead each brother to do?",
+      "Where should a family draw the line between a clever plan and dishonest behavior?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The guide documents kisses, suggestive remarks and brief flirting."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/thor-the-dark-world/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The guide documents some profanity and misuse of God’s name."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/thor-the-dark-world/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Frigga is stabbed, battlefields are strewn with bodies, and a hand appears to be severed."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/thor-the-dark-world/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Asgardian characters and interrealm travel draw on fantasy mythology. The Aether has reality-altering effects."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/thor-the-dark-world/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Asgardians drink alcohol at a gathering, and human diners order wine."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/thor-the-dark-world/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Thor entrusts a limited task to Loki despite past betrayals, and the two stage a deception."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/thor-the-dark-world/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2014-captain-america-the-winter-soldier",
+    "title": "Captain America: The Winter Soldier",
+    "year": 2014,
+    "genre": "Marvel · Live action",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/captain-america-the-winter-soldier/"
+      },
+      {
+        "label": "New Zealand Classification Office",
+        "url": "https://www.classificationoffice.govt.nz/find-a-rating/quick-takes/captain-america-the-winter-soldier/"
+      },
+      {
+        "label": "Common Sense Media",
+        "url": "https://www.commonsensemedia.org/movie-reviews/captain-america-the-winter-soldier"
+      }
+    ],
+    "officialRating": "PG-13",
+    "synopsis": "Steve Rogers and Natasha Romanoff uncover a conspiracy inside the institution they serve and encounter a weaponized figure from Steve’s past.",
+    "verdict": "edifying",
+    "age": "13+",
+    "verdictRationale": "Steve rejects the use of fear to justify killing and treats his enemy as a person he still owes loyalty. The thriller’s violence is heavier than in the first film.",
+    "ageRationale": "Close-range shootings, hand-to-hand combat and mass-casualty threats support a teen recommendation.",
+    "themes": [
+      {
+        "name": "Moral courage",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "Steve resists a targeting program even though powerful people support it.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/captain-america-the-winter-soldier/"
+          }
+        ]
+      },
+      {
+        "name": "Loyalty",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "Steve refuses to abandon Bucky after learning his identity.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/captain-america-the-winter-soldier/"
+          }
+        ]
+      },
+      {
+        "name": "Coercion",
+        "type": "harmful",
+        "score": 5,
+        "portrayal": "condemned",
+        "evidence": "Hydra conditions the Winter Soldier and uses him as a weapon.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/captain-america-the-winter-soldier/"
+          }
+        ]
+      },
+      {
+        "name": "Abuse of authority",
+        "type": "harmful",
+        "score": 5,
+        "portrayal": "condemned",
+        "evidence": "Hydra infiltrates S.H.I.E.L.D. to turn its machinery against civilians.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/captain-america-the-winter-soldier/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Available sources establish the listed findings. Comprehensive screening for this category remains open.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "severity": "Moderate",
+        "details": "Steve and Natasha kiss as part of an attempt to avoid detection."
+      },
+      {
+        "name": "Language",
+        "severity": "Moderate",
+        "details": "The film contains some profanity and misuse of God’s name."
+      },
+      {
+        "name": "Violence and peril",
+        "severity": "Strong",
+        "details": "Frequent fighting, shooting and crashes include relatively realistic close-range violence."
+      },
+      {
+        "name": "Drinking and substance use",
+        "severity": "Moderate",
+        "details": "The guide reports champagne at a meeting."
+      }
+    ],
+    "reflection": "Steve can oppose Hydra’s actions while still appealing to Bucky as a friend. Families can discuss how to resist an injustice without letting the offender’s actions determine how they see the offender’s humanity.",
+    "scripture": [
+      "Romans 12:21"
+    ],
+    "themeScripture": {
+      "reference": "Romans 12:21",
+      "url": "https://www.biblegateway.com/passage/?search=Romans%2012%3A21&version=KJV",
+      "connection": "Paul calls Christians to overcome evil with good. Steve’s treatment of Bucky illustrates the decision to resist wrongdoing while remembering the person before him.",
+      "translation": "KJV",
+      "text": "Be not overcome of evil, but overcome evil with good."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 77 on the Gospel of John",
+      "section": "On John 15:12–13",
+      "url": "https://www.newadvent.org/fathers/240177.htm",
+      "text": "Because this is the mark of the disciples, this the bond of virtue."
+    },
+    "biblicalParallels": [
+      {
+        "title": "Remembering a person in an enemy",
+        "filmMoment": "Steve recognizes Bucky and appeals to their friendship even when Bucky attacks him.",
+        "scriptureReference": "Romans 12:21",
+        "reflection": "Paul calls Christians to overcome evil with good. Steve’s treatment of Bucky illustrates the decision to resist wrongdoing while remembering the person before him.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/captain-america-the-winter-soldier/"
+      }
+    ],
+    "questions": [
+      "What leads Steve to question the people giving him orders?",
+      "What false promise does Project Insight make about safety?",
+      "How does Sam help people facing difficult memories?",
+      "Why does Steve keep speaking to Bucky when Bucky attacks him?",
+      "When could loyalty to a friend require courage in your own life?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Steve and Natasha kiss as part of an attempt to avoid detection."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/captain-america-the-winter-soldier/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The film contains some profanity and misuse of God’s name."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/captain-america-the-winter-soldier/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Frequent fighting, shooting and crashes include relatively realistic close-range violence."
+          ],
+          "evidence": [
+            {
+              "provider": "New Zealand Classification Office",
+              "url": "https://www.classificationoffice.govt.nz/find-a-rating/quick-takes/captain-america-the-winter-soldier/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A tombstone bears an Ezekiel 25:17 reference, and a bust of Buddha appears."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/captain-america-the-winter-soldier/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The guide reports champagne at a meeting."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/captain-america-the-winter-soldier/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Steve challenges the use of institutional authority to target civilians and appeals to his history with Bucky."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/captain-america-the-winter-soldier/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2014-guardians-of-the-galaxy",
+    "title": "Guardians of the Galaxy",
+    "year": 2014,
+    "genre": "Marvel · Live action",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy/"
+      }
+    ],
+    "officialRating": "PG-13",
+    "synopsis": "A group of outlaws comes together when an artifact they hoped to sell threatens an inhabited world.",
+    "verdict": "neutral",
+    "age": "13+",
+    "verdictRationale": "Groot’s protective action and the group’s decision to share danger are generous. Profanity, sexual humor and a glamorous treatment of outlaw behavior make the overall verdict Neutral.",
+    "ageRationale": "Creature combat, killings, crude humor and drunkenness support a teen recommendation.",
+    "themes": [
+      {
+        "name": "Solidarity",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "The Guardians share the danger when Quill takes hold of the Stone.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy/"
+          }
+        ]
+      },
+      {
+        "name": "Sacrificial love",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "Groot shields the others when their ship is crashing.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy/"
+          }
+        ]
+      },
+      {
+        "name": "Revenge",
+        "type": "harmful",
+        "score": 4,
+        "portrayal": "criticized",
+        "evidence": "Drax acts on his desire to avenge his family and brings greater danger to the group.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy/"
+          }
+        ]
+      },
+      {
+        "name": "Dishonesty",
+        "type": "harmful",
+        "score": 3,
+        "portrayal": "mixed",
+        "evidence": "The group repeatedly evades authorities and double-crosses others.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Available sources establish the listed findings. Comprehensive screening for this category remains open.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "severity": "Moderate",
+        "details": "The guide documents suggestive banter and references to Quill’s sexual relationships."
+      },
+      {
+        "name": "Language",
+        "severity": "Moderate",
+        "details": "The film includes profanity, insults and crude jokes."
+      },
+      {
+        "name": "Violence and peril",
+        "severity": "Strong",
+        "details": "A parent dies in the opening, and the story includes shootings, creature combat and mass peril."
+      },
+      {
+        "name": "Spiritual material",
+        "severity": "Moderate",
+        "details": "The Infinity Stone has destructive powers within the invented cosmic setting."
+      },
+      {
+        "name": "Drinking and substance use",
+        "severity": "Moderate",
+        "details": "Drax drinks heavily while gambling with Rocket."
+      }
+    ],
+    "reflection": "The Guardians gradually learn to share a burden. In Orthodox family life, the most dependable care often develops through the small choices to stay with another person and bear difficulty together.",
+    "scripture": [
+      "Galatians 6:2"
+    ],
+    "themeScripture": {
+      "reference": "Galatians 6:2",
+      "url": "https://www.biblegateway.com/passage/?search=Galatians%206%3A2&version=KJV",
+      "connection": "Paul’s command to bear one another’s burdens gives families language for the moment when the team shares a danger no member can endure alone.",
+      "translation": "KJV",
+      "text": "Bear ye one another’s burdens, and so fulfil the law of Christ."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 11 on Ephesians",
+      "section": "On Ephesians 4:15–16",
+      "url": "https://www.newadvent.org/fathers/230111.htm",
+      "text": "Each one edifies, each one perfects, each one ministers."
+    },
+    "biblicalParallels": [
+      {
+        "title": "Holding a burden together",
+        "filmMoment": "The team joins hands to share the danger of holding the Infinity Stone.",
+        "scriptureReference": "Galatians 6:2",
+        "reflection": "Paul’s command to bear one another’s burdens gives families language for the moment when the team shares a danger no member can endure alone.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy/"
+      }
+    ],
+    "questions": [
+      "What does Drax hope revenge will accomplish?",
+      "How has Quill’s view of the orb changed by the end?",
+      "What does Groot give up to shield his friends?",
+      "When does humor help the group and when does it excuse cruelty?",
+      "How might your family share a burden one person cannot carry alone?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The guide documents suggestive banter and references to Quill’s sexual relationships."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The film includes profanity, insults and crude jokes."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A parent dies in the opening, and the story includes shootings, creature combat and mass peril."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The Infinity Stone has destructive powers within the invented cosmic setting."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Drax drinks heavily while gambling with Rocket."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The outlaws choose to forgo a sale and use their abilities together to protect others."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  }
+]
