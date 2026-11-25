@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-     viewBox="0 0 64 64">
-  <rect width="64" height="64"
-        rx="12" fill="#101c1e"/>
-  <text x="32" y="45"
-        text-anchor="middle"
-        font-size="46"
-        fill="#d4b77b">✣</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96">
+  <rect width="96" height="96" rx="18" fill="#101c1e"/>
+  <g fill="#d4b77b">
+    <path d="M45 22h6v52h-6zM22 45h52v6H22z"/>
+    <circle cx="48" cy="48" r="8"/>
+    <circle cx="48" cy="22" r="11"/><circle cx="48" cy="74" r="11"/>
+    <circle cx="22" cy="48" r="11"/><circle cx="74" cy="48" r="11"/>
+  </g>
 </svg>
