@@ -66,7 +66,6 @@ function allMovies(){
   return [...reviewed,...catalog];
 }
 
-function reviewedCount(){return reviewedItems().length;}
 function pendingCount(){return normalizedCatalog().filter(c=>!reviewedItems().some(r=>filmKey(r)===filmKey(c))).length;}
 
 function renderCover(r,{large=false}={}){
@@ -129,7 +128,7 @@ function home(){
   ${howToUse()}
   ${summaryStrip()}
   <section class="section recent-section"><div class="container"><div class="section-header"><div><div class="eyebrow">Fresh recommendations</div><h2>Best recent movies</h2><p>Explore recent releases and see what families can discuss together.</p></div><a href="#browse" class="text-link">Browse all movies →</a></div><div class="movie-grid recent-feature">${recent.map(card).join('')}</div><p class="recent-note">We display authentic published movie posters when available through our verified poster sources. If a poster is unavailable, a text cover is shown instead; no AI-generated substitute is used.</p></div></section>
-  <section class="section"><div class="container"><div class="section-header"><div><div class="eyebrow">Actively reviewed</div><h2>The Orthodox Lens review library</h2><p>${reviewedCount()} reviews with age guidance, Scripture references, family questions, and source links.</p></div><a href="#about/approach" class="text-link">Read our framework →</a></div><div class="movie-grid">${reviewed.map(card).join('')}</div></div></section>
+  <section class="section"><div class="container"><div class="section-header"><div><div class="eyebrow">Actively reviewed</div><h2>The Orthodox Lens review library</h2><p>${allMovies().length} films in the catalog. Explore reviews with age guidance, Scripture references, and family discussion questions.</p></div><a href="#about/approach" class="text-link">Read our framework →</a></div><div class="movie-grid">${reviewed.map(card).join('')}</div></div></section>
   `;
 }
 
