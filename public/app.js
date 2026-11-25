@@ -125,7 +125,7 @@ function howToUse(){
 function home(){
   const recent=featuredRecent();
   const reviewed=reviewedHighlights();
-  return `<section class="hero"><div class="hero-inner"><div class="eyebrow">✣ &nbsp; Faithful discernment for the whole family</div><h1>Stories shape us.<br><em>Choose them wisely.</em></h1><p class="hero-lede">Explore movies through a Christian perspective informed by the historic Orthodox tradition, with thoughtful spiritual guidance, clear content warnings, and practical advice for Christian families.</p><div class="theme-verse"><span class="theme-verse-ref">PHILIPPIANS 4:8</span><span>${esc(scriptureQuotes["Philippians 4:8"])}</span><small>World English Bible</small></div><form class="hero-search" id="heroSearch"><span class="search-ico">⌕</span><input id="heroInput" placeholder="Search movies, genres, and themes..." aria-label="Search movies" autocomplete="off"><button class="btn gold" type="submit">Explore movies →</button></form><div class="hero-note"><span class="dot"></span> Independent guidance for Christian families</div></div></section>
+  return `<section class="hero"><div class="hero-inner"><div class="eyebrow">✣ &nbsp; Faithful discernment for the whole family</div><h1>Stories shape us.<br><em>Choose them wisely.</em></h1><p class="hero-lede">Explore movies through a Christian perspective informed by the historic Orthodox tradition, with thoughtful spiritual guidance, clear content warnings, and practical advice for Christian families.</p><div class="theme-verse"><span class="theme-verse-ref">PHILIPPIANS 4:8</span><span>${esc(scriptureQuotes["Philippians 4:8"])}</span><small>King James Version (KJV)</small></div><form class="hero-search" id="heroSearch"><span class="search-ico">⌕</span><input id="heroInput" placeholder="Search movies, genres, and themes..." aria-label="Search movies" autocomplete="off"><button class="btn gold" type="submit">Explore movies →</button></form><div class="hero-note"><span class="dot"></span> Independent guidance for Christian families</div></div></section>
   ${howToUse()}
   ${summaryStrip()}
   <section class="section recent-section"><div class="container"><div class="section-header"><div><div class="eyebrow">Fresh recommendations</div><h2>Best recent movies</h2><p>A selection of recent releases to research and discuss. Inclusion is not an endorsement; reviews and age suggestions are provisional.</p></div><a href="#browse" class="text-link">Browse all movies →</a></div><div class="movie-grid recent-feature">${recent.map(card).join('')}</div><p class="recent-note">We display authentic published movie posters when available through our verified poster sources. If a poster is unavailable, a text cover is shown instead; no AI-generated substitute is used.</p></div></section>
@@ -265,10 +265,14 @@ const patristicQuotes = {
   "ccel.org/ccel/athanasius/incarnation/incarnation.iv.html": "His bodily acts still declare Him to be not man only, but the Power and Word of God."
 };
 
+function scriptureUrl(reference){
+  return 'https://www.biblegateway.com/passage/?search='+encodeURIComponent(reference)+'&version=KJV';
+}
+
 function scriptureQuotation(reference){
   const text=scriptureQuotes[reference?.replaceAll('–','-')];
   if(!text)return '';
-  const quote=`<blockquote><p>${esc(text)}</p><cite>World English Bible</cite></blockquote>`;
+  const quote=`<blockquote><p>${esc(text)}</p><cite>King James Version (KJV)</cite></blockquote>`;
   return text.length>700?`<details><summary>Read ${esc(reference)}</summary>${quote}</details>`:quote;
 }
 
@@ -279,9 +283,7 @@ function faithReferences(r){
   const patristicQuote=patristicQuotes[patristicKey];
   const patristicUrl=patristicKey==='ccel.org/ccel/athanasius/incarnation/incarnation.iv.html'
     ?'https://ccel.org/ccel/athanasius/incarnation/formats/On_the_Incarnation.pdf':fathers?.url;
-  const verseUrl=verse?.reference
-    ?'https://www.biblegateway.com/passage/?search='+encodeURIComponent(verse.reference)+'&version=WEB':'';
-  return `${verse?`<div class="faith-panel"><div class="eyebrow">Guiding Scripture</div><h3><a href="${esc(verseUrl)}" target="_blank" rel="noopener noreferrer">${esc(verse.reference)}</a></h3>${scriptureQuotation(verse.reference)}<p>${esc(verse.connection||'Read this passage in context and consider how it relates to the film.')}</p></div>`:''}
+  return `${verse?`<div class="faith-panel"><div class="eyebrow">Guiding Scripture</div><h3><a href="${esc(scriptureUrl(verse.reference))}" target="_blank" rel="noopener noreferrer">${esc(verse.reference)}</a></h3>${scriptureQuotation(verse.reference)}<p>${esc(verse.connection||'Read this passage in context and consider how it relates to the film.')}</p></div>`:''}
   ${patristicQuote?`<div class="faith-panel patristic"><div class="eyebrow">Wisdom from the Church Fathers</div><h3>${esc(fathers.author)}</h3><blockquote><p>${esc(patristicQuote)}</p><cite><a href="${esc(patristicUrl)}" rel="noopener noreferrer" target="_blank">${esc(fathers.work)}${fathers.section?' ('+esc(fathers.section)+')':''}</a></cite></blockquote></div>`:''}`;
 }
 
@@ -329,7 +331,7 @@ function renderBiblicalParallels(r){
   }] : []);
   const items=material.map(p=>`<article class="gospel-parallel"><h3>${esc(p.title)}</h3>
     ${p.filmMoment?`<p><strong>In the story:</strong> ${esc(p.filmMoment)}</p>`:''}
-    <p><strong>Biblical connection:</strong> ${/^https:\/\//i.test(p.scriptureUrl||'')?`<a href="${esc(p.scriptureUrl)}" target="_blank" rel="noopener noreferrer">${esc(p.scriptureReference)}</a>`:esc(p.scriptureReference)}</p>
+    <p><strong>Biblical connection:</strong> <a href="${esc(scriptureUrl(p.scriptureReference))}" target="_blank" rel="noopener noreferrer">${esc(p.scriptureReference)}</a></p>
     ${scriptureQuotation(p.scriptureReference)}<p>${esc(p.reflection)}</p>${/^https:\/\//i.test(p.sourceUrl||'')?`<small><a href="${esc(p.sourceUrl)}" target="_blank" rel="noopener noreferrer">Film-specific supporting source</a></small>`:''}
   </article>`).join('');
   return `<section class="paper-panel detail-section gospel-parallels" aria-labelledby="gospel-parallels-title"><h2 id="gospel-parallels-title">Biblical Parallels &amp; Gospel Reflections</h2><p class="muted">These are editorial comparisons for family discussion, not claims that the filmmakers intended to teach the Gospel. Read passages in context.</p>
