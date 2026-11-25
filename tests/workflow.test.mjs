@@ -1,7 +1,7 @@
-import test from 'node:test';import assert from 'node:assert/strict';import fs from 'node:fs';
+import test from 'node:test';import assert from 'node:assert/strict';import fs from 'node:fs';import vm from 'node:vm';
 import handler from '../netlify/functions/studio.mjs';
 import publishedHandler from '../netlify/functions/reviews.mjs';
-import {withLgbtqTheme,getLgbtqTheme,LGBTQ_THEME_NAME,lgbtqImpact,LGBTQ_VERIFIED_STARTERS} from '../public/lgbtq-audit.js';
+import {withLgbtqTheme,getLgbtqTheme,LGBTQ_THEME_NAME,lgbtqImpact,LGBTQ_VERIFIED_STARTERS,isLgbtqRelatedAdvisory} from '../public/lgbtq-audit.js';
 import {validateReview,requireLgbtqVerification} from '../netlify/functions/_shared/core.mjs';
 const seed=JSON.parse(fs.readFileSync(new URL('../bootstrap/studio-import.json',import.meta.url),'utf8'));
 const originalFetch=globalThis.fetch;
@@ -207,4 +207,35 @@ test('only the owner can batch-initialize and batches are size limited',async()=
  role='owner';
  const oversized=await status('lgbtq_initialize',{movie_ids:Array.from({length:11},(_,i)=>'test-'+i)});
  assert.equal(oversized.status,400);
+});
+
+
+test('LGBTQ-related interpretation displays below the LGBTQ score without becoming a numeric finding',()=>{
+ const interpretation={details:'The director said growing up gay informed a broader allegory about belonging.',url:'https://example.com/director-interview'};
+ assert.equal(isLgbtqRelatedAdvisory('interpretation',interpretation),true);
+ assert.equal(isLgbtqRelatedAdvisory('interpretation',{details:'The director compares the story to a classic fable.'}),false);
+ assert.equal(isLgbtqRelatedAdvisory('advocacy',{details:'The film encourages habitat preservation.'}),false);
+ assert.equal(isLgbtqRelatedAdvisory('representation',{details:'A brief relationship is introduced.'}),true);
+ const app=fs.readFileSync(new URL('../public/app.js',import.meta.url),'utf8');
+ const start=app.indexOf('const advisoryTypesByTheme = new Map([');
+ const end=app.indexOf('function renderReviewRatings(',start);
+ assert.ok(start>=0&&end>start);
+ const context={LGBTQ_THEME_NAME,lgbtqImpact,isLgbtqRelatedAdvisory,
+   familyAdvisoryLabels:{representation:'LGBTQ characters & relationships',interpretation:'Interpretive note',advocacy:'Explicit advocacy'},
+   esc:x=>String(x??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])),
+   renderAdvisoryText:(note)=>`<p>${note.details}</p><a href="${note.url}">Supporting source</a>`};
+ vm.runInNewContext(`${app.slice(start,end)}\nthis.renderForTest=renderRatings`,context);
+ const review={themes:[
+   {name:'Self-expression and belonging',type:'context',score:5,portrayal:'affirmed',evidence:'A character seeks acceptance.',references:[]},
+   {name:LGBTQ_THEME_NAME,type:'context',score:null,portrayal:'unverified',evidence:'Screening is pending.',references:[]}]};
+ const html=context.renderForTest(review,'context',new Map([['interpretation',interpretation]]));
+ assert.ok(html.indexOf('<strong>'+LGBTQ_THEME_NAME.replace('&','&amp;')+'</strong>')<html.indexOf('The director said growing up gay'));
+ assert.equal(html.split('The director said growing up gay').length-1,1);
+ assert.match(html,/not a verified on-screen LGBTQ depiction/);
+ assert.match(html,/Not Verified/);
+ assert.ok(html.indexOf('The director said growing up gay')>html.indexOf('Editorial category: Screening pending'));
+ assert.doesNotMatch(html,/Editorial category: Destructive under site policy/);
+ const notes=new Map([['interpretation',{details:'The director compares the story to a classic fable.',url:'https://example.com/film'}]]);
+ const unrelated=context.renderForTest(review,'context',notes);
+ assert.ok(unrelated.indexOf('The director compares the story')<unrelated.indexOf('<strong>'+LGBTQ_THEME_NAME.replace('&','&amp;')+'</strong>'));
 });
