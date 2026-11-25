@@ -1,5 +1,5 @@
 import {applyFamilyReviewRecommendation, supplementalReviews, supplementalContentEvidenceById} from './family-review-ratings.js';
-import {LGBTQ_THEME_NAME,withLgbtqTheme,lgbtqImpact,starterLgbtqTheme,getLgbtqTheme} from './lgbtq-audit.js';
+import {LGBTQ_THEME_NAME,withLgbtqTheme,lgbtqImpact,starterLgbtqTheme,getLgbtqTheme,isLgbtqRelatedAdvisory} from './lgbtq-audit.js';
 
 const provisionalReviews = [...seedReviews, ...supplementalReviews].map(applyFamilyReviewRecommendation).map(r=>withLgbtqTheme(r,{proposeVerdict:true}));
 let published=[];
@@ -162,6 +162,19 @@ const advisoryTypesByTheme = new Map([
   ['Explicit advocacy for habitat protection', 'advocacy']
 ]);
 
+function renderLgbtqContextNotes(remainingAdvisories,sources){
+  return ['representation','interpretation','advocacy'].map(type=>{
+    const note=remainingAdvisories.get(type);
+    if(!isLgbtqRelatedAdvisory(type,note))return '';
+    remainingAdvisories.delete(type);
+    const label=familyAdvisoryLabels[type];
+    const qualifier=type==='interpretation'
+      ? '<small>Attributed interpretation or creator background, not a verified on-screen LGBTQ depiction. This note does not set the 0–5 score.</small>'
+      : '';
+    return `<div class="rating-note"><strong>${esc(label)}</strong>${renderAdvisoryText(note,label,sources)}${qualifier}</div>`;
+  }).join('');
+}
+
 function renderRatings(r,type,remainingAdvisories){
   const list=(r.themes||[]).filter(t=>t.type===type);
   if(!list.length) return `<p class="muted">No ${type==='positive'?'positive':'harmful'} theme ratings have been published yet.</p>`;
@@ -173,13 +186,18 @@ function renderRatings(r,type,remainingAdvisories){
       .map(source => `<a href="${esc(source.url)}" target="_blank" rel="noopener noreferrer">${esc(source.label)}</a>`)
       .join(' · ');
     const impact=t.name===LGBTQ_THEME_NAME?lgbtqImpact(t.score):null;
-    const impactNote=impact==='not_verified'?'Screening pending; no claim of absence':impact==='not_applicable'?'N/A for this category':impact==='neutral'?'Neutral under this criterion':'Destructive under site policy';
+    const impactNote=t.name!==LGBTQ_THEME_NAME?null:(impact==='not_verified'?'Screening pending; no claim of absence':impact==='not_applicable'?'N/A for this category':impact==='neutral'?'Neutral under this criterion':'Destructive under site policy');
     const advisoryType = advisoryTypesByTheme.get(t.name);
-    const advisory = remainingAdvisories.get(advisoryType);
+    const candidate = remainingAdvisories.get(advisoryType);
+    const groupUnderLgbtq = (r.themes||[]).some(theme=>theme.name===LGBTQ_THEME_NAME)
+      && isLgbtqRelatedAdvisory(advisoryType,candidate);
+    const advisory = groupUnderLgbtq ? null : candidate;
     const label = familyAdvisoryLabels[advisoryType];
     if (advisory) remainingAdvisories.delete(advisoryType);
+    const lgbtqNotes=t.name===LGBTQ_THEME_NAME?renderLgbtqContextNotes(remainingAdvisories,sources):'';
     return `<div class="rating-row"><div><strong>${esc(t.name)}</strong><small>${esc(t.portrayal||'unverified')} · ${esc(t.evidence||'Evidence note pending')}${refs ? `<br>${refs}` : ''}</small></div><div class="rating-track"><div class="rating-fill ${esc(type)}" style="width:${fill}%"></div></div><div class="score">${esc(score)}</div>
       ${impactNote?`<div class="rating-note"><strong>Editorial category: ${esc(impactNote)}</strong><small>Prominence score and source note above; other content is assessed separately.</small></div>`:''}
+      ${lgbtqNotes}
       ${advisory ? `<div class="rating-note"><strong>${esc(label)}</strong>${renderAdvisoryText(advisory, label, sources)}</div>` : ''}</div>`;
   }).join('');
 }

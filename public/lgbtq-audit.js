@@ -60,6 +60,16 @@ export const LGBTQ_VERIFIED_STARTERS = Object.freeze({
   }
 });
 
+// Place only film-specific LGBTQ-related notes alongside the LGBTQ rating.
+// Creator inspiration and allegorical interpretation are context, not proof of
+// an on-screen depiction, and never set the 0–5 score by themselves.
+export function isLgbtqRelatedAdvisory(type, note){
+  if(!note || typeof note.details!=='string' || !note.details.trim())return false;
+  if(type==='representation')return true;
+  if(type!=='interpretation' && type!=='advocacy')return false;
+  return /\b(?:LGBTQ(?:IA)?\+?|LGBT|gay|lesbian|bisexual|queer|transgender|non[- ]?binary|same[- ]sex|sexual orientation|gender identity|coming[- ]out)\b/i.test(note.details);
+}
+
 export function getLgbtqTheme(review){
   return (review?.themes||[]).find(t=>t.name===LGBTQ_THEME_NAME);
 }
