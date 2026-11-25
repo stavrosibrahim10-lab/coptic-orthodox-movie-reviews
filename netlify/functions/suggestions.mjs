@@ -19,7 +19,7 @@ export function validateSuggestion(body){
   const url=str(body.source_url,1001);
   if(!kinds.includes(kind))throw new ApiError('Choose a suggestion type');
   if(!id && (title.length<2 || title.length>160))throw new ApiError('Enter a movie title of 2–160 characters');
-  if(details.length<25 || details.length>1800)throw new ApiError('Describe your suggestion in 25–1800 characters');
+  if((kind!=='film_request' && details.length<25) || details.length>1800)throw new ApiError('Describe your suggestion in 25–1800 characters');
   if((kind==='biblical_parallel'||kind==='gospel_reflection') && scripture.length<3)throw new ApiError('Provide the Bible passage for this reflection');
   if(url&&!sourceUrl(url))throw new ApiError('Source links must use HTTPS');
   return {kind,details,movie_id:id||null,movie_title:title,scripture_reference:scripture,source_url:url};
@@ -89,5 +89,10 @@ export default async function handler(req){
     if(req.method==='GET'&&action==='queue')return reply(await pendingQueue());
     if(req.method==='POST'&&action==='moderate')return reply(await moderate(body,user.id,member.role));
     throw new ApiError('Unknown action',404);
-  }catch(error){return safeError(error)}
+  }catch(error){
+    if(error instanceof ApiError && /studio_suggestions.*schema cache/i.test(error.message)){
+      return reply({error:'Reader suggestions are temporarily unavailable. Please try again later.'},503);
+    }
+    return safeError(error);
+  }
 }

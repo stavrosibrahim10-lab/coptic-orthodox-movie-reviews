@@ -111,3 +111,12 @@ test('homepage onboarding, review connection editor and navigation routes exist'
  assert.match(html,/href="#suggest"/);
 });
 process.on('exit',()=>{globalThis.fetch=originalFetch;for(const [k,v] of Object.entries(saved)){if(v===undefined)delete process.env[k];else process.env[k]=v}});
+
+test('a film review request only needs its title', async () => {
+ const request = {kind:'film_request',movie_title:'A film not in the catalog'};
+ assert.equal(validateSuggestion(request).details, '');
+ const result = await send(call('POST','submit',request));
+ assert.equal(result.status,202);
+ assert.equal(submissions.at(-1).state,'pending');
+ assert.equal(submissions.at(-1).movie_title,request.movie_title);
+});
