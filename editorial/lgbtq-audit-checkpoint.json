@@ -1,0 +1,154 @@
+{
+  "schema_version": 1,
+  "baseline_pull_requests": [
+    13,
+    14
+  ],
+  "baseline_catalog_count": 202,
+  "batches": [
+    {
+      "number": 1,
+      "date": "2026-11-25",
+      "films": [
+        {
+          "movie_id": "film-toy-story-5",
+          "title": "Toy Story 5",
+          "year": 2026,
+          "observation": "The romance subsection identifies the Buzz–Jessie proposal and Bonnie staging toy weddings. Bonnie also casts Rex as a princess-like rescue role and asks Buzz to revive Rex with a kiss. The guide describes this as pretend play; it does not establish a romantic relationship between Buzz and Rex.",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/toy-story-5-2026/",
+            "https://movies.disney.com/Toy-Story-5"
+          ],
+          "proposed_score": null,
+          "verdict_effect": "No verdict recommendation from scoped evidence",
+          "studio_status": "not_saved_no_authenticated_access",
+          "status": "scoped_review_needs_film_wide_evidence"
+        },
+        {
+          "movie_id": "film-hoppers",
+          "title": "Hoppers",
+          "year": 2026,
+          "observation": "George mistakenly assumes Mabel, piloting a robotic beaver body, is interested in him. Mabel rejects the misunderstanding. This gag does not establish a relationship or an identity.",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/hoppers-2026/"
+          ],
+          "proposed_score": null,
+          "verdict_effect": "No verdict recommendation from scoped evidence",
+          "studio_status": "not_saved_no_authenticated_access",
+          "status": "scoped_review_needs_film_wide_evidence"
+        },
+        {
+          "movie_id": "film-king-of-kings",
+          "title": "The King of Kings",
+          "year": 2025,
+          "observation": "The guide's romance/sexual-content section identifies the retelling of the woman caught in adultery and discreet imagery of Adam and Eve. These establish the scope of the documented scenes, with no category determination from the guide alone.",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/king-of-kings-2025/",
+            "https://www.commonsensemedia.org/movie-reviews/the-king-of-kings"
+          ],
+          "proposed_score": null,
+          "verdict_effect": "No verdict recommendation from scoped evidence",
+          "studio_status": "not_saved_no_authenticated_access",
+          "status": "scoped_review_needs_film_wide_evidence"
+        },
+        {
+          "movie_id": "film-minecraft-movie",
+          "title": "A Minecraft Movie",
+          "year": 2025,
+          "observation": "Marlene dates a male villager. The guide separately describes physical proximity and suggestive joking during an airborne action sequence. It does not establish the men are a couple or that the film identifies their orientation.",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/minecraft-movie-2025/",
+            "https://www.commonsensemedia.org/movie-reviews/a-minecraft-movie"
+          ],
+          "proposed_score": null,
+          "verdict_effect": "No verdict recommendation from scoped evidence",
+          "studio_status": "not_saved_no_authenticated_access",
+          "status": "scoped_review_needs_film_wide_evidence"
+        },
+        {
+          "movie_id": "film-wild-robot",
+          "title": "The Wild Robot",
+          "year": 2024,
+          "observation": "The story follows Roz raising Brightbill as a parent. Plugged In explicitly reports no sexual or romantic content and Common Sense Media independently assesses its sex, romance and nudity category as absent. Propose 0 for this screened scope. Neither guide constitutes an exhaustive check of every background frame.",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/wild-robot-2024/",
+            "https://www.commonsensemedia.org/movie-reviews/the-wild-robot",
+            "https://assets.scriptslug.com/live/pdf/scripts/the-wild-robot-2024.pdf?v=1738546645"
+          ],
+          "proposed_score": 0,
+          "verdict_effect": "No change under the category rubric",
+          "studio_status": "not_saved_no_authenticated_access",
+          "status": "numeric_proposal"
+        },
+        {
+          "movie_id": "film-paddington-peru",
+          "title": "Paddington in Peru",
+          "year": 2024,
+          "observation": "Mrs. Brown finds Hunter Cabot handsome. In a separate gag, Mr. Brown mistakes an anteater licking his face for a kiss from his wife. The U.S. parental guide covers the same film classified in Australia in November 2024. The scoped scenes do not settle the film-wide category.",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/paddington-in-peru-2025/",
+            "https://www.classification.gov.au/titles/paddington-peru"
+          ],
+          "proposed_score": null,
+          "verdict_effect": "No verdict recommendation from scoped evidence",
+          "studio_status": "not_saved_no_authenticated_access",
+          "status": "scoped_review_needs_film_wide_evidence"
+        },
+        {
+          "movie_id": "film-the-forge",
+          "title": "The Forge",
+          "year": 2024,
+          "observation": "The BBFC identifies a young man persistently flirting with a female barista until her supervisor intervenes. This is a verified harassment scene and does not establish a finding in this screening category.",
+          "sources": [
+            "https://www.bbfc.co.uk/release/the-forge-q29sbgvjdglvbjpwwc0xmdizodmx",
+            "https://www.pluggedin.com/movie-reviews/forge-2024/"
+          ],
+          "proposed_score": null,
+          "verdict_effect": "No verdict recommendation from scoped evidence",
+          "studio_status": "not_saved_no_authenticated_access",
+          "status": "scoped_review_needs_film_wide_evidence"
+        },
+        {
+          "movie_id": "researched-moana-2",
+          "title": "Moana 2",
+          "year": 2024,
+          "observation": "A boy from Moana’s village winks at her and she is uncomfortable. The guide’s discussion of Matangi involves Maui’s captivity and Moana’s quest. These are scoped plot and content checks, not grounds to certify absence film-wide.",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/moana-2-2024/"
+          ],
+          "proposed_score": null,
+          "verdict_effect": "No verdict recommendation from scoped evidence",
+          "studio_status": "not_saved_no_authenticated_access",
+          "status": "scoped_review_needs_film_wide_evidence"
+        },
+        {
+          "movie_id": "researched-sonic-the-hedgehog-3",
+          "title": "Sonic the Hedgehog 3",
+          "year": 2024,
+          "observation": "When Sonic asks Robotnik about starting a family, Robotnik makes a self-deprecating remark about being undesirable to all genders. GLAAD distinguishes this line from an explicit statement of orientation. Separately, an interview with the director discusses Robotnik’s emotional farewell to Agent Stone as a character relationship and does not establish a romance. Record attributed interpretation with numeric rating open.",
+          "sources": [
+            "https://assets.glaad.org/m/619bf8f01c5e27d7/original/GLAAD-2025-Studio-Responsibility-Index.pdf",
+            "https://www.commonsensemedia.org/movie-reviews/sonic-the-hedgehog-3"
+          ],
+          "proposed_score": null,
+          "verdict_effect": "No verdict recommendation from scoped evidence",
+          "studio_status": "not_saved_no_authenticated_access",
+          "status": "context_proposal"
+        },
+        {
+          "movie_id": "researched-zootopia-2",
+          "title": "Zootopia 2",
+          "year": 2025,
+          "observation": "Bucky and Pronk can be heard arguing through Judy’s wall. Plugged In reports the co-director’s confirmation that they are a couple and says the sequel’s dialogue does not signal the relationship. The filmmaker confirmation supplies character context. Numeric rating remains open for explicit onscreen depiction in this cut.",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/zootopia-2-2025/"
+          ],
+          "proposed_score": null,
+          "verdict_effect": "No verdict recommendation from scoped evidence",
+          "studio_status": "not_saved_no_authenticated_access",
+          "status": "context_proposal"
+        }
+      ]
+    }
+  ]
+}
