@@ -8,8 +8,8 @@ const escapeHtml=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;'
 const h=escapeHtml;
 const years=new Date().getFullYear();
 const verdictLabels={edifying:'Edifying',neutral:'Neutral',destructive:'Destructive to Spiritual Wellness'};
-const tabs=[['overview','◫','Overview'],['queue','☷','Approval queue'],['library','▦','Movie library'],['sources','♧','Research & sources'],['analytics','▥','Analytics'],['assistant','✦','AI assistant'],['team','♙','Settings & team']];
-let S={connected:false,demo:false,token:sessionStorage.getItem('tol_access')||'',refresh:sessionStorage.getItem('tol_refresh')||'',role:'',email:'',member:null,tab:'overview',data:{reviews:[],issues:[],members:[],activity:[]},selected:null,metric:null,metricDays:30,filter:'',status:'all',issueFilter:'open',notice:null,proposal:null,aiEvidence:'',lastSaved:''};
+const tabs=[['overview','◫','Overview'],['queue','☷','Approval queue'],['library','▦','Movie library'],['suggestions','✉','Reader suggestions'],['sources','♧','Research & sources'],['analytics','▥','Analytics'],['assistant','✦','AI assistant'],['team','♙','Settings & team']];
+let S={connected:false,demo:false,token:sessionStorage.getItem('tol_access')||'',refresh:sessionStorage.getItem('tol_refresh')||'',role:'',email:'',member:null,tab:'overview',data:{reviews:[],issues:[],members:[],activity:[]},selected:null,metric:null,metricDays:30,filter:'',status:'all',issueFilter:'open',suggestions:[],suggestionError:'',notice:null,proposal:null,aiEvidence:'',lastSaved:''};
 function note(text,kind='info'){S.notice={text,kind};const old=document.querySelector('#banner');if(old)old.outerHTML=noticeHtml();}
 function noticeHtml(){return S.notice?`<div id="banner" class="alert ${h(S.notice.kind)}">${h(S.notice.text)}</div>`:'<div id="banner"></div>'}
 async function api(action,payload=null,method='GET',auth=true){
@@ -23,6 +23,25 @@ async function api(action,payload=null,method='GET',auth=true){
   }
   if(!response.ok)throw Error(result.error||`Request failed (${response.status})`);
   return result;
+}
+async function suggestionApi(action,payload=null,method='GET'){
+ const url='/api/suggestions'+(method==='GET'?'?action='+encodeURIComponent(action):'');
+ let init={method,headers:{Authorization:'Bearer '+S.token,...(method==='POST'?{'Content-Type':'application/json'}:{})},cache:'no-store'};
+ if(method==='POST')init.body=JSON.stringify({action,...payload});
+ let response=await fetch(url,init);
+ if(response.status===401 && S.refresh){
+   const refreshed=await api('refresh',{refresh_token:S.refresh},'POST',false).catch(()=>null);
+   if(refreshed?.access_token){setSession(refreshed);init.headers.Authorization='Bearer '+S.token;response=await fetch(url,init)}
+ }
+ const data=await response.json().catch(()=>({}));
+ if(!response.ok)throw Error(data.error||`Suggestion request failed (${response.status})`);
+ return data;
+}
+async function loadSuggestions(){
+ if(S.demo){S.suggestions=[];S.suggestionError='This feature needs the connected Editorial Studio.';render();return}
+ try{const data=await suggestionApi('queue');S.suggestions=data.suggestions||[];S.suggestionError='';}
+ catch(e){S.suggestions=[];S.suggestionError=e.message;}
+ render();
 }
 function setSession(x){S.token=x.access_token||'';S.refresh=x.refresh_token||'';sessionStorage.setItem('tol_access',S.token);sessionStorage.setItem('tol_refresh',S.refresh);S.role=x.member?.role||S.role;S.email=x.email||S.email;}
 function clearSession(){S.token='';S.refresh='';S.role='';S.demo=false;S.selected=null;sessionStorage.removeItem('tol_access');sessionStorage.removeItem('tol_refresh');}
@@ -62,6 +81,26 @@ function tableReviewRows(list){
 function listMatches(r){const q=cleanTitle(S.filter.trim());return (!q||cleanTitle(r.title).includes(q)||cleanTitle(r.movie_id).includes(q))&&(S.status==='all'||r.workflow===S.status||(S.status==='flagged'&&outstanding(r.movie_id).length>0)||(S.status==='pending'&&r.workflow!=='published'));}
 function movieTable(rows){return `<div class="table-scroll"><table class="data-table"><thead><tr><th>Movie</th><th>Workflow</th><th>Facts / Age / Spirit</th><th>Open issues</th><th>Modified</th><th></th></tr></thead><tbody id="movieRows">${tableReviewRows(rows)}</tbody></table></div>`}
 function statusFilters(){return `<div class="filter-row"><input id="movieSearch" class="control" placeholder="Search movie titles…" value="${h(S.filter)}"><select id="statusFilter" class="control"><option value="all">All statuses</option>${[['pending','Unpublished'],['draft','Draft'],['in_review','In review'],['ready','Ready'],['published','Published'],['flagged','With open issues']].map(([v,t])=>`<option value="${v}" ${v===S.status?'selected':''}>${t}</option>`).join('')}</select><span class="muted tiny" id="visibleCount">${S.data.reviews.filter(listMatches).length} movies</span></div>`}
+function readerSuggestions(){
+ const items=S.suggestions||[];
+ const pending=items.filter(x=>x.state==='pending');
+ const history=items.filter(x=>x.state!=='pending');
+ const kindLabel={film_request:'Movie request',biblical_parallel:'Biblical parallel',gospel_reflection:'Gospel reflection',review_correction:'Review correction',general_feedback:'Other feedback'};
+ const itemCard=x=>`<article class="box suggestion-moderation sectiongap"><div class="title-row"><h2>${h(kindLabel[x.kind]||'Reader suggestion')} · ${h(x.movie_title)}</h2>${issueChip(x.state)}</div>
+   <p class="note">Received ${x.created_at?new Date(x.created_at).toLocaleString():'recently'} · ${h(x.state)}</p>
+   ${x.scripture_reference?`<p><strong>Scripture:</strong> ${h(x.scripture_reference)}</p>`:''}
+   <p class="suggestion-copy">${h(x.details)}</p>
+   ${/^https:\/\//i.test(x.source_url||'')?`<p><a href="${h(x.source_url)}" target="_blank" rel="noopener noreferrer">Supporting source ↗</a></p>`:''}
+   ${x.movie_id?smallBtn('Open movie draft','open',`data-id="${h(x.movie_id)}"`):''}
+   ${x.state==='pending'&&!S.demo&&['owner','editor'].includes(S.role)?`<div class="field"><label for="suggestion-note-${h(x.id)}">Editorial note / reason if declined</label><textarea class="control" id="suggestion-note-${h(x.id)}" placeholder="Verification notes or reason for declining"></textarea></div><div class="actions">${smallBtn('Approve for public display','moderate-approve',`data-id="${h(x.id)}"`)}${smallBtn('Decline suggestion','moderate-reject',`data-id="${h(x.id)}"`,'danger')}</div>`:''}
+   ${x.moderator_note?`<p class="note">Editorial note: ${h(x.moderator_note)}</p>`:''}
+  </article>`;
+ return header('Reader suggestions','Community submissions remain private until an editor approves them. Approving a suggestion does not change a film’s editorial verdict or publish its review.',smallBtn('Refresh queue','refresh-suggestions'))+
+ `<div class="stats-grid">${stat('Awaiting moderation',pending.length,'Editorial action required')}${stat('Recently processed',history.length,'Shown in latest 200 submissions')}</div>`+
+ (S.suggestionError?`<div class="alert bad">${h(S.suggestionError)}. If this feature is newly deployed, run supabase/migrations/20261125_reader_suggestions.sql before accepting submissions.</div>`:'')+
+ (pending.length?pending.map(itemCard).join(''):'<div class="box sectiongap"><p class="note">No pending reader suggestions in the loaded queue.</p></div>')+
+ (history.length?'<div class="sectiongap"><h2>Recently reviewed</h2>'+history.slice(0,40).map(itemCard).join('')+'</div>':'');
+}
 function overview(){
   const total=S.data.reviews.length;const done=countBy('published');const needs=S.data.reviews.filter(r=>r.workflow!=='published'&&outstanding(r.movie_id).length).sort((a,b)=>outstanding(b.movie_id).length-outstanding(a.movie_id).length).slice(0,7);
   const verdicts=S.data.reviews.reduce((acc,r)=>{if(r.verdict)acc[r.verdict]=(acc[r.verdict]||0)+1;return acc},{edifying:0,neutral:0,destructive:0});
@@ -114,6 +153,15 @@ function stage3Panel(id){const ev=stage3({movie_id:id});if(!ev)return '<p class=
 }
 function issueEditor(i){return `<div class="issue ${h(i.state)}"><div class="title-row" style="margin:0"><h4>${h(i.kind.toUpperCase())} · ${h(i.title)}</h4>${issueChip(i.state)}</div><p>${h(i.detail)}</p>${i.source_url&&/^https:\/\//.test(i.source_url)?`<a class="tiny" href="${h(i.source_url)}" target="_blank" rel="noopener noreferrer">Open supporting source ↗</a>`:''}${i.state!=='open'?`<p><strong>Disposition:</strong> ${h(i.resolution_note)}</p>`:''}${S.demo?'':`<textarea id="issue-note-${h(i.id)}" class="control" placeholder="Describe what you verified or why the issue is being waived…">${h(i.resolution_note||'')}</textarea><div class="actions">${i.state==='open'?smallBtn('Mark resolved','issue-resolve',`data-id="${h(i.id)}"`):smallBtn('Reopen','issue-reopen',`data-id="${h(i.id)}"`)}${S.role==='owner'&&i.state==='open'?smallBtn('Waive with reason','issue-waive',`data-id="${h(i.id)}"`):''}</div>`}</div>`}
 function historyEditor(hist){return hist.map(x=>`<div class="history-row"><span><strong>Revision ${h(x.revision)}</strong><br><span class="muted">${h(x.action)} · ${new Date(x.created_at).toLocaleString()}</span></span>${smallBtn('Restore draft','restore',`data-history="${h(x.id)}"`, 'secondary')}</div>`).join('')||'<p class="note">History will appear after the first saved edit.</p>'}
+function parallelEditor(p={},i=0,canWrite=true){
+ return `<article class="mini-theme" data-parallel-row><div class="title-row"><strong>Biblical connection ${i+1}</strong>${canWrite?smallBtn('Remove','remove-parallel',`data-index="${i}"`,'secondary'):''}</div>
+ ${field('Connection title','parallelTitle'+i,p.title,'text','parallel-title')}
+ ${field('Moment in the film (describe the scene accurately)','parallelScene'+i,p.filmMoment,'textarea','parallel-scene')}
+ ${field('Bible passage (e.g., Luke 15:11–32)','parallelVerse'+i,p.scriptureReference,'text','parallel-verse')}
+ ${field('Gospel reflection (explain the parallel, not an unverified filmmaker intention)','parallelReflection'+i,p.reflection,'textarea','parallel-reflection')}
+ ${field('Film-specific supporting source URL (HTTPS)','parallelSource'+i,p.sourceUrl,'text','parallel-source')}
+ </article>`;
+}
 function reviewEditor(){
  const selected=S.selected;if(!selected)return overview();
  const r=withLgbtqTheme(selected.workingDraft||selected.row.draft||{});const meta=selected.row;const issuesList=selected.issues||[];
@@ -127,6 +175,7 @@ function reviewEditor(){
  <div class="review-layout"><div><section class="box"><div class="title-row"><h2>Edit review</h2>${stateChip(meta.workflow)}</div><div class="callout" style="margin-bottom:20px">Edits invalidate all three earlier approvals. Save first, then review and approve the updated text. Movie identity is locked to keep the Stage 3 content guide attached to the correct title.</div>
  <div class="review-fields"><div class="field"><label>Spiritual verdict</label><select id="fVerdict" class="control" ${canWrite?'':'disabled'}>${[['edifying','Edifying'],['neutral','Neutral'],['destructive','Destructive to Spiritual Wellness']].map(([x,label])=>`<option value="${x}" ${r.verdict===x?'selected':''}>${label}</option>`).join('')}</select></div><div class="field"><label>Suggested viewing age (independent)</label><select id="fAge" class="control" ${canWrite?'':'disabled'}>${options(['All Ages','7+','10+','13+','16+','18+','Not Recommended'],r.age)}</select></div>
  ${field('Why this spiritual verdict?','fVerdictReason',r.verdictRationale,'textarea','full')}${field('Why this age? Explain violence, language, sexual content, fear, maturity.','fAgeReason',r.ageRationale,'textarea','full')}${field('Spiritual reflection','fReflection',r.reflection,'textarea','full')}${field('Scripture references (one per line)','fScripture',(r.scripture||[]).join('\n'),'textarea','full')}${field('Five family discussion questions (one per line)','fQuestions',(r.questions||[]).join('\n'),'textarea','full')}</div>
+ <div class="divider"></div><div class="title-row"><h2>Biblical parallels &amp; Gospel reflections</h2>${canWrite?smallBtn('+ Add biblical connection','add-parallel'):''}</div><p class="note">Describe the actual film moment and cite a source, identify a biblical passage, and explain the connection without attributing a message to the filmmaker without evidence. Saved entries require spiritual sign-off before publication.</p><div id="parallelRows">${(r.biblicalParallels||[]).map((p,i)=>parallelEditor(p,i,canWrite)).join('')}</div>
  <div class="divider"></div><div class="title-row"><h2>Theme ratings</h2>${canWrite?smallBtn('+ Add theme','add-theme'):''}</div><p class="note">Use 0–5 for prominence. LGBTQ Themes &amp; Messaging: 0 = N/A; 1 = Neutral under this criterion; 2–5 = Destructive to Spiritual Wellness; Not Verified = research still required. A verified score needs a film-specific source. The score measures prominence, not moral worth. A saved draft is not an approval.</p>${canWrite&&applyFamilyReviewRecommendation(r)!==r?smallBtn('Load suggested review updates','apply-family-ratings'):''}<div id="themeRows">${(r.themes||[]).map(themeEditor).join('')}</div>
  <div class="divider"></div><h2>Sources, content notes & warnings</h2><p class="note">Each source on its own line: <code>Label | https://link | Notes</code>. Content warnings appear under Before you watch after publication. Use <code>Category | Severity | Details</code>.</p>
  ${field('Film-specific source links','fSources',(r.sources||[]).map(s=>`${s.label||''} | ${s.url||''} | ${s.notes||''}`).join('\n'))}${field('Content warnings','fWarnings',(r.warnings||[]).map(w=>`${w.name||''} | ${w.severity||''} | ${w.details||''}`).join('\n'))}${field('Editor notes','fEditorNote',r.editorNote)}
@@ -156,6 +205,8 @@ function collectDraft(){
  const v=id=>document.getElementById(id)?.value||'';
  r.verdict=v('fVerdict');r.age=v('fAge');r.verdictRationale=v('fVerdictReason').trim();r.ageRationale=v('fAgeReason').trim();r.reflection=v('fReflection').trim();r.scripture=v('fScripture').split('\n').map(x=>x.trim()).filter(Boolean);r.questions=v('fQuestions').split('\n').map(x=>x.trim()).filter(Boolean);
  r.editorNote=v('fEditorNote').trim();
+ const collectedParallels=[...document.querySelectorAll('[data-parallel-row]')].map(row=>({title:row.querySelector('.parallel-title input')?.value.trim()||'',filmMoment:row.querySelector('.parallel-scene textarea')?.value.trim()||'',scriptureReference:row.querySelector('.parallel-verse input')?.value.trim()||'',reflection:row.querySelector('.parallel-reflection textarea')?.value.trim()||'',sourceUrl:row.querySelector('.parallel-source input')?.value.trim()||''}));
+ if(collectedParallels.length||baseDraft.biblicalParallels!==undefined)r.biblicalParallels=collectedParallels;
  r.sources=v('fSources').split('\n').map(line=>{const [label,url,...notes]=line.split('|').map(x=>x.trim());return {label,url,notes:notes.join(' | ')}}).filter(s=>s.url);
  r.warnings=v('fWarnings').split('\n').map(line=>{const [name,severity,...detail]=line.split('|').map(x=>x.trim());return {name,severity,details:detail.join(' | ')}}).filter(s=>s.name);
  const currentAdvisories = getFamilyAdvisories(r);
@@ -194,7 +245,7 @@ async function openFilm(id){
 }
 function render(){
   let content;
-  switch(S.tab){case 'overview':content=overview();break;case 'queue':content=library(true);break;case 'library':content=library(false);break;case 'sources':content=sources();break;case 'analytics':content=analytics();break;case 'team':content=team();break;case 'assistant':content=assistant();break;case 'review':content=reviewEditor();break;default:content=overview();}
+  switch(S.tab){case 'overview':content=overview();break;case 'queue':content=library(true);break;case 'library':content=library(false);break;case 'suggestions':content=readerSuggestions();break;case 'sources':content=sources();break;case 'analytics':content=analytics();break;case 'team':content=team();break;case 'assistant':content=assistant();break;case 'review':content=reviewEditor();break;default:content=overview();}
   shell(content);
 }
 function loginPage(message=''){
@@ -231,7 +282,7 @@ async function handle(action,node){
   if(action==='nav'){
     if(S.tab==='review'&&S.selected&&!S.demo){try{if(JSON.stringify(collectDraft())!==JSON.stringify(withLgbtqTheme(S.selected.row.draft))&&!confirm('You have unsaved edits. Leave this review?'))return}catch{}}
     S.tab=node.dataset.tab;S.notice=null;
-    if(S.tab==='analytics'&&!S.demo)S.metric=await api('metrics',{days:S.metricDays});render();return;
+    if(S.tab==='analytics'&&!S.demo)S.metric=await api('metrics',{days:S.metricDays});if(S.tab==='suggestions'){await loadSuggestions();return;}render();return;
   }
   if(action==='lgbtq-init'){
     if(S.role!=='owner'||S.demo)throw Error('Sign in as the owner to initialize ratings');
@@ -254,6 +305,22 @@ async function handle(action,node){
   }
   if(action==='open'){await openFilm(node.dataset.id);return}
   if(action==='public-review'){window.open('/#review/'+encodeURIComponent(node.dataset.id),'_blank','noopener');return}
+  if(action==='refresh-suggestions'){await loadSuggestions();return}
+  if(action==='moderate-approve'||action==='moderate-reject'){
+    if(S.demo||!['owner','editor'].includes(S.role))throw Error('Sign in as an editor');
+    const id=node.dataset.id;const decision=action==='moderate-approve'?'approved':'rejected';
+    const moderator_note=document.getElementById('suggestion-note-'+id)?.value.trim()||'';
+    if(decision==='approved'&&!confirm('Approve this reader contribution for public display where the movie appears? It will not change the editorial review.'))return;
+    await suggestionApi('moderate',{id,decision,moderator_note},'POST');
+    await loadSuggestions();note('Reader suggestion '+decision+'.','good');return;
+  }
+  if(action==='add-parallel'){
+    if(S.demo||!['owner','editor'].includes(S.role))throw Error('Editorial access required');
+    const draft=collectDraft();draft.biblicalParallels ||= [];draft.biblicalParallels.push({title:'',filmMoment:'',scriptureReference:'',reflection:'',sourceUrl:''});S.selected.workingDraft=draft;render();return;
+  }
+  if(action==='remove-parallel'){
+    const draft=collectDraft();draft.biblicalParallels.splice(Number(node.dataset.index),1);S.selected.workingDraft=draft;render();return;
+  }
   if(action==='add-theme'){
     const r=collectDraft();r.themes.push({name:'',type:'positive',score:1,portrayal:'affirmed',evidence:'',references:[]});S.selected.workingDraft=r;render();return;
   }
