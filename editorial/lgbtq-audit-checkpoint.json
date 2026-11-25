@@ -172,5 +172,815 @@
       "remaining_missing_reviews": 93,
       "studio_status": "unauthenticated_repository_proposals_verified"
     }
+  ],
+  "stage4_batches": [
+    {
+      "number": 1,
+      "date": "2026-11-25",
+      "review_completion_branch": "editorial/review-completion",
+      "review_completion_baseline": "4aeb4417f171ca969a098184b2a586e344452666",
+      "review_completion_ledger": "editorial/review-completion.tsv",
+      "studio_export_http_status": 401,
+      "films": [
+        {
+          "movie_id": "batch1-1991-beauty-and-the-beast",
+          "title": "Beauty and the Beast",
+          "year": 1991,
+          "review_baseline": "repository_baseline",
+          "status": "proposal_saved",
+          "studio_status": "not_saved_sign_in_required",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/beauty-and-the-beast-1991/",
+            "https://www.bbfc.co.uk/release/beauty-and-the-beast-q29sbgvjdglvbjpwwc0zmta1njk"
+          ],
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Belle offers to take her father’s place and eventually receives her freedom from the Beast. The film makes room for change, while the captivity and Gaston’s mob deserve direct discussion.",
+            "age": "10+",
+            "age_rationale": "Keep 10+ for wolf attacks, imprisonment, a stabbing and Gaston’s fall. The Beast’s fearsome appearance can intensify the wolf scenes for younger children.",
+            "theme_ratings": [
+              {
+                "name": "Love and self-sacrifice",
+                "score": 4,
+                "evidence": "Belle offers herself in exchange for her father’s release.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/beauty-and-the-beast-1991/",
+                  "https://www.bbfc.co.uk/release/beauty-and-the-beast-q29sbgvjdglvbjpwwc0zmta1njk"
+                ],
+                "type": "positive"
+              },
+              {
+                "name": "Humility and repentance",
+                "score": 4,
+                "evidence": "The Beast eventually releases Belle even though it costs him.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/beauty-and-the-beast-1991/",
+                  "https://www.bbfc.co.uk/release/beauty-and-the-beast-q29sbgvjdglvbjpwwc0zmta1njk"
+                ],
+                "type": "positive"
+              },
+              {
+                "name": "Pride and self-glorification",
+                "score": 4,
+                "evidence": "Gaston organizes an armed crowd against the Beast.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/beauty-and-the-beast-1991/",
+                  "https://www.bbfc.co.uk/release/beauty-and-the-beast-q29sbgvjdglvbjpwwc0zmta1njk"
+                ],
+                "type": "harmful"
+              },
+              {
+                "name": "Violence and cruelty",
+                "score": 3,
+                "evidence": "Gaston stabs the Beast from behind.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/beauty-and-the-beast-1991/",
+                  "https://www.bbfc.co.uk/release/beauty-and-the-beast-q29sbgvjdglvbjpwwc0zmta1njk"
+                ],
+                "type": "harmful"
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The 1991 guide describes LeFou as Gaston’s sidekick. The ballroom beat with a male partner is documented for the separate 2017 live-action remake.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/beauty-and-the-beast-1991/",
+              "https://www.bbfc.co.uk/release/beauty-and-the-beast-q29sbgvjdglvbjpwwc0zmta1njk",
+              "https://time.com/4702119/beauty-and-the-beast-differences-original-version/"
+            ],
+            "context": {
+              "note": "The 2017 director’s statements address his adaptation. Do not attach them to the animated release.",
+              "source": "https://time.com/4702119/beauty-and-the-beast-differences-original-version/"
+            },
+            "open_reason": "Available evidence supports the documented scenes only. It does not establish a qualifying on-screen finding or comprehensive absence."
+          },
+          "stage5_status": {
+            "kjv_reference_present_in_repository": true,
+            "patristic_status": "open",
+            "proposed_changes": "deferred_to_stage5_audit"
+          }
+        },
+        {
+          "movie_id": "batch1-2022-turning-red",
+          "title": "Turning Red",
+          "year": 2022,
+          "review_baseline": "repository_baseline",
+          "status": "proposal_saved",
+          "studio_status": "not_saved_sign_in_required",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/turning-red-2022/",
+            "https://www.bbfc.co.uk/release/turning-red-q29sbgvjdglvbjpwwc01mzixody"
+          ],
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Mei and Ming retain affection while learning to address embarrassment and expectations more honestly. The story also centers a fictional ancestral ritual and treats some adolescent impulses comically.",
+            "age": "13+",
+            "age_rationale": "Keep 13+ for animated peril, arena destruction, innuendo and a ritual involving spirit-pandas. Puberty and menstruation are normal maturation topics and are distinct from suggestive humor.",
+            "theme_ratings": [
+              {
+                "name": "Family and responsibility",
+                "score": 4,
+                "evidence": "Mei’s relationship with Ming remains central even when she relies on her friends.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/turning-red-2022/",
+                  "https://www.bbfc.co.uk/release/turning-red-q29sbgvjdglvbjpwwc01mzixody"
+                ],
+                "type": "positive"
+              },
+              {
+                "name": "Forgiveness and reconciliation",
+                "score": 4,
+                "evidence": "Mei and Ming reach a more honest understanding after the arena crisis.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/turning-red-2022/",
+                  "https://www.bbfc.co.uk/release/turning-red-q29sbgvjdglvbjpwwc01mzixody"
+                ],
+                "type": "positive"
+              },
+              {
+                "name": "Dishonesty and betrayal",
+                "score": 3,
+                "evidence": "Mei’s secret plans to raise money strain her relationship with her parents.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/turning-red-2022/",
+                  "https://www.bbfc.co.uk/release/turning-red-q29sbgvjdglvbjpwwc01mzixody"
+                ],
+                "type": "harmful"
+              },
+              {
+                "name": "Occult or misleading spirituality",
+                "score": 4,
+                "evidence": "The family’s inherited panda transformation and a ritual to contain it organize the story.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/turning-red-2022/",
+                  "https://www.bbfc.co.uk/release/turning-red-q29sbgvjdglvbjpwwc01mzixody"
+                ],
+                "type": "harmful"
+              },
+              {
+                "name": "Sexual content and immodesty",
+                "score": 2,
+                "evidence": "Mei draws romantic fantasies about Devon, and some dialogue is suggestive.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/turning-red-2022/",
+                  "https://www.bbfc.co.uk/release/turning-red-q29sbgvjdglvbjpwwc01mzixody"
+                ],
+                "type": "harmful"
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "Priya dances with a girl at a party. The scene leaves the nature of their relationship unstated.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/turning-red-2022/",
+              "https://www.bbfc.co.uk/release/turning-red-q29sbgvjdglvbjpwwc01mzixody",
+              "https://www.thepinknews.com/2022/03/21/turning-red-priya-queer-lgbt/"
+            ],
+            "context": {
+              "note": "A crew member discussed the scene as potentially queer. Keep this interpretive context separate from the released images.",
+              "source": "https://www.thepinknews.com/2022/03/21/turning-red-priya-queer-lgbt/"
+            },
+            "open_reason": "Available evidence supports the documented scenes only. It does not establish a qualifying on-screen finding or comprehensive absence."
+          },
+          "stage5_status": {
+            "kjv_reference_present_in_repository": true,
+            "patristic_status": "attribution_requires_exact_text_check",
+            "proposed_changes": "deferred_to_stage5_audit"
+          }
+        },
+        {
+          "movie_id": "film-the-bad-guys-2022",
+          "title": "The Bad Guys",
+          "year": 2022,
+          "review_baseline": "repository_baseline",
+          "status": "proposal_saved",
+          "studio_status": "not_saved_sign_in_required",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/bad-guys-2022/",
+            "https://www.bbfc.co.uk/release/the-bad-guys-q29sbgvjdglvbjpwwc0xmdazntu4"
+          ],
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Wolf changes direction after finding pleasure in a good deed, and the film gives the crew choices about whom they want to become. The heist comedy still makes stealing look clever.",
+            "age": "7+",
+            "age_rationale": "Keep 7+ for vehicle crashes in pursuit, a brief electrocution, threats and slapstick, including a guinea pig apparently run over before it gets up.",
+            "theme_ratings": [
+              {
+                "name": "Humility and repentance",
+                "score": 4,
+                "evidence": "Wolf rethinks his identity after helping someone.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/bad-guys-2022/",
+                  "https://www.bbfc.co.uk/release/the-bad-guys-q29sbgvjdglvbjpwwc0xmdazntu4"
+                ],
+                "type": "positive"
+              },
+              {
+                "name": "Truthfulness and integrity",
+                "score": 3,
+                "evidence": "The crew has to choose whether to make its apparent reform real.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/bad-guys-2022/",
+                  "https://www.bbfc.co.uk/release/the-bad-guys-q29sbgvjdglvbjpwwc0xmdazntu4"
+                ],
+                "type": "positive"
+              },
+              {
+                "name": "Violence and cruelty",
+                "score": 2,
+                "evidence": "Exaggerated chases and impacts mostly leave characters unharmed.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/bad-guys-2022/",
+                  "https://www.bbfc.co.uk/release/the-bad-guys-q29sbgvjdglvbjpwwc0xmdazntu4"
+                ],
+                "type": "harmful"
+              },
+              {
+                "name": "Dishonesty and betrayal",
+                "score": 4,
+                "evidence": "The crew sets out to steal the Golden Dolphin.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/bad-guys-2022/",
+                  "https://www.bbfc.co.uk/release/the-bad-guys-q29sbgvjdglvbjpwwc0xmdazntu4"
+                ],
+                "type": "harmful"
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "Shark wears a dress and pretends to be in labor as a heist distraction. The documented gag concerns a disguise; it does not establish identity.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/bad-guys-2022/",
+              "https://www.bbfc.co.uk/release/the-bad-guys-q29sbgvjdglvbjpwwc0xmdazntu4",
+              "https://thebadguysfyc.dreamworks.com/wp-content/uploads/2023/01/TBG_Script-clean.pdf"
+            ],
+            "context": {
+              "note": "The released scene and final conform script concern the 2022 first film.",
+              "source": "https://thebadguysfyc.dreamworks.com/wp-content/uploads/2023/01/TBG_Script-clean.pdf"
+            },
+            "open_reason": "Available evidence supports the documented scenes only. It does not establish a qualifying on-screen finding or comprehensive absence."
+          },
+          "stage5_status": {
+            "kjv_reference_present_in_repository": true,
+            "patristic_status": "open",
+            "proposed_changes": "deferred_to_stage5_audit"
+          }
+        },
+        {
+          "movie_id": "catalog-2018-ralphbreakstheinternet",
+          "title": "Ralph Breaks the Internet",
+          "year": 2018,
+          "review_baseline": "repository_baseline",
+          "status": "proposal_saved",
+          "studio_status": "not_saved_sign_in_required",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/ralph-breaks-the-internet-2018/",
+            "https://www.bbfc.co.uk/release/ralph-breaks-the-internet-q29sbgvjdglvbjpwwc00mda1odk"
+          ],
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Ralph recognizes the harm caused by trying to control a friend, takes responsibility, and allows Vanellope to make her own choice.",
+            "age": "10+",
+            "age_rationale": "Keep 10+ for frightening giant virus imagery, explosive racing and online cruelty. The age also gives families room to discuss manipulation and hurtful comments.",
+            "theme_ratings": [
+              {
+                "name": "Friendship and making room for change",
+                "score": 5,
+                "evidence": "Vanellope wants to stay in Slaughter Race, and Ralph eventually accepts her decision.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/ralph-breaks-the-internet-2018/",
+                  "https://www.bbfc.co.uk/release/ralph-breaks-the-internet-q29sbgvjdglvbjpwwc00mda1odk"
+                ],
+                "type": "positive"
+              },
+              {
+                "name": "Taking responsibility and repairing harm",
+                "score": 4,
+                "evidence": "Ralph acts to contain the crisis he caused.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/ralph-breaks-the-internet-2018/",
+                  "https://www.bbfc.co.uk/release/ralph-breaks-the-internet-q29sbgvjdglvbjpwwc00mda1odk"
+                ],
+                "type": "positive"
+              },
+              {
+                "name": "Jealousy and control",
+                "score": 5,
+                "evidence": "Ralph tries to stop Vanellope from wanting to stay in the game.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/ralph-breaks-the-internet-2018/",
+                  "https://www.bbfc.co.uk/release/ralph-breaks-the-internet-q29sbgvjdglvbjpwwc00mda1odk"
+                ],
+                "type": "harmful"
+              },
+              {
+                "name": "Digital fantasy peril",
+                "score": 4,
+                "evidence": "A virus multiplies Ralph into a threatening creature.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/ralph-breaks-the-internet-2018/",
+                  "https://www.bbfc.co.uk/release/ralph-breaks-the-internet-q29sbgvjdglvbjpwwc00mda1odk"
+                ],
+                "type": "harmful"
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The guides establish Shank as a racer who helps Vanellope with the new game. Do not turn their mentorship or the princess sequence into a claim about a relationship.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/ralph-breaks-the-internet-2018/",
+              "https://www.bbfc.co.uk/release/ralph-breaks-the-internet-q29sbgvjdglvbjpwwc00mda1odk",
+              "https://www.motionpictures.org/2018/11/ralph-breaks-the-internet-co-directors-on-harnessing-disney-princess-power/"
+            ],
+            "context": {
+              "note": "The directors’ interview describes the princess sequence as a play on franchise conventions.",
+              "source": "https://www.motionpictures.org/2018/11/ralph-breaks-the-internet-co-directors-on-harnessing-disney-princess-power/"
+            },
+            "open_reason": "Available evidence supports the documented scenes only. It does not establish a qualifying on-screen finding or comprehensive absence."
+          },
+          "stage5_status": {
+            "kjv_reference_present_in_repository": true,
+            "patristic_status": "open",
+            "proposed_changes": "deferred_to_stage5_audit"
+          }
+        },
+        {
+          "movie_id": "catalog-1989-thelittlemermaid",
+          "title": "The Little Mermaid",
+          "year": 1989,
+          "review_baseline": "repository_baseline",
+          "status": "proposal_saved",
+          "studio_status": "not_saved_sign_in_required",
+          "sources": [
+            "https://d23.com/a-to-z/little-mermaid-the-film/",
+            "https://www.bbfc.co.uk/release/the-little-mermaid-q29sbgvjdglvbjpwwc0yotq3ndi"
+          ],
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Ariel’s bravery and her friends’ help offer constructive discussion. Her impulsive bargain exposes her to a villain who exploits her desire for a different life.",
+            "age": "10+",
+            "age_rationale": "Keep 10+ for shark pursuit, Ursula’s frightening transformation, storms and the magical bargain. The BBFC documents mild suggestiveness in Ursula’s song. Any nudity claim needs its own exact scene source.",
+            "theme_ratings": [
+              {
+                "name": "Courage and curiosity",
+                "score": 3,
+                "evidence": "Ariel ventures into the human world despite many risks.",
+                "sources": [
+                  "https://d23.com/a-to-z/little-mermaid-the-film/",
+                  "https://www.bbfc.co.uk/release/the-little-mermaid-q29sbgvjdglvbjpwwc0yotq3ndi"
+                ],
+                "type": "positive"
+              },
+              {
+                "name": "Friendship and rescue",
+                "score": 4,
+                "evidence": "Ariel rescues Eric, and her friends rally to her aid.",
+                "sources": [
+                  "https://d23.com/a-to-z/little-mermaid-the-film/",
+                  "https://www.bbfc.co.uk/release/the-little-mermaid-q29sbgvjdglvbjpwwc0yotq3ndi"
+                ],
+                "type": "positive"
+              },
+              {
+                "name": "Reckless romantic choice",
+                "score": 4,
+                "evidence": "Ariel trades her voice for the chance to live on land.",
+                "sources": [
+                  "https://d23.com/a-to-z/little-mermaid-the-film/",
+                  "https://www.bbfc.co.uk/release/the-little-mermaid-q29sbgvjdglvbjpwwc0yotq3ndi"
+                ],
+                "type": "harmful"
+              },
+              {
+                "name": "Witchcraft and coercive bargain",
+                "score": 4,
+                "evidence": "Ursula uses her magic and the contract to obtain leverage.",
+                "sources": [
+                  "https://d23.com/a-to-z/little-mermaid-the-film/",
+                  "https://www.bbfc.co.uk/release/the-little-mermaid-q29sbgvjdglvbjpwwc0yotq3ndi"
+                ],
+                "type": "harmful"
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "Ursula is portrayed as a sea witch who bargains with Ariel. The character design reference alone does not establish an on-screen identity, relationship or message.",
+            "sources": [
+              "https://d23.com/a-to-z/little-mermaid-the-film/",
+              "https://www.bbfc.co.uk/release/the-little-mermaid-q29sbgvjdglvbjpwwc0yotq3ndi",
+              "https://time.com/6282514/little-mermaid-ursula-drag-queen-divine/"
+            ],
+            "context": {
+              "note": "TIME documents Divine as inspiration for the 1989 character design. That is a production note.",
+              "source": "https://time.com/6282514/little-mermaid-ursula-drag-queen-divine/"
+            },
+            "open_reason": "Available evidence supports the documented scenes only. It does not establish a qualifying on-screen finding or comprehensive absence."
+          },
+          "stage5_status": {
+            "kjv_reference_present_in_repository": true,
+            "patristic_status": "open",
+            "proposed_changes": "deferred_to_stage5_audit"
+          }
+        },
+        {
+          "movie_id": "researched-the-bad-guys-2",
+          "title": "The Bad Guys 2",
+          "year": 2025,
+          "review_baseline": "repository_baseline",
+          "status": "proposal_saved",
+          "studio_status": "not_saved_sign_in_required",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/bad-guys-2-2025/",
+            "https://www.bbfc.co.uk/release/the-bad-guys-2-q29sbgvjdglvbjpwwc0xmdi2mtyy"
+          ],
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "The crew chooses to keep doing good even after the public doubts its reform. The film’s theft set pieces complicate discussion about how changed habits earn trust.",
+            "age": "10+",
+            "age_rationale": "Keep 10+ for slapstick injury, some characters being knocked unconscious, crude language and mild suggestiveness. The content rating is separate from the moral verdict.",
+            "theme_ratings": [
+              {
+                "name": "Humility and repentance",
+                "score": 4,
+                "evidence": "The former thieves seek normal work and continue trying to reform after rejection.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/bad-guys-2-2025/",
+                  "https://www.bbfc.co.uk/release/the-bad-guys-2-q29sbgvjdglvbjpwwc0xmdi2mtyy"
+                ],
+                "type": "positive"
+              },
+              {
+                "name": "Truthfulness and integrity",
+                "score": 4,
+                "evidence": "The crew wants to clear its name after the Phantom Bandit frames it.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/bad-guys-2-2025/",
+                  "https://www.bbfc.co.uk/release/the-bad-guys-2-q29sbgvjdglvbjpwwc0xmdi2mtyy"
+                ],
+                "type": "positive"
+              },
+              {
+                "name": "Dishonesty and betrayal",
+                "score": 4,
+                "evidence": "The Phantom Bandit crew frames the former thieves.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/bad-guys-2-2025/",
+                  "https://www.bbfc.co.uk/release/the-bad-guys-2-q29sbgvjdglvbjpwwc0xmdi2mtyy"
+                ],
+                "type": "harmful"
+              },
+              {
+                "name": "Violence and cruelty",
+                "score": 2,
+                "evidence": "Cartoon attacks occasionally leave characters unconscious.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/bad-guys-2-2025/",
+                  "https://www.bbfc.co.uk/release/the-bad-guys-2-q29sbgvjdglvbjpwwc0xmdi2mtyy"
+                ],
+                "type": "harmful"
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "Wolf briefly uses a wedding dress and veil as cover to approach a target. The guide describes a theft disguise.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/bad-guys-2-2025/",
+              "https://www.bbfc.co.uk/release/the-bad-guys-2-q29sbgvjdglvbjpwwc0xmdi2mtyy"
+            ],
+            "context": {
+              "note": "This is the 2025 sequel, separate from Shark’s 2022 disguise.",
+              "source": "https://www.pluggedin.com/movie-reviews/bad-guys-2-2025/"
+            },
+            "open_reason": "Available evidence supports the documented scenes only. It does not establish a qualifying on-screen finding or comprehensive absence."
+          },
+          "stage5_status": {
+            "kjv_reference_present_in_repository": true,
+            "patristic_status": "open",
+            "proposed_changes": "deferred_to_stage5_audit"
+          }
+        },
+        {
+          "movie_id": "batch1-2017-coco",
+          "title": "Coco",
+          "year": 2017,
+          "review_baseline": "repository_baseline",
+          "status": "proposal_saved",
+          "studio_status": "not_saved_sign_in_required",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/coco-2017/",
+            "https://www.bbfc.co.uk/release/coco-q29sbgvjdglvbjpwwc00mzq4ode"
+          ],
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Miguel uncovers the harm done by an admired performer and helps restore his family’s memory. The fictional Land of the Dead is important to the plot and calls for clear spiritual context.",
+            "age": "10+",
+            "age_rationale": "Keep 10+ for an on-screen character disappearing after being forgotten, skeleton imagery, implied murder and grief.",
+            "theme_ratings": [
+              {
+                "name": "Family and responsibility",
+                "score": 5,
+                "evidence": "Miguel learns why the family remembers certain relatives and restores a missing part of their story.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/coco-2017/",
+                  "https://www.bbfc.co.uk/release/coco-q29sbgvjdglvbjpwwc00mzq4ode"
+                ],
+                "type": "positive"
+              },
+              {
+                "name": "Truthfulness and integrity",
+                "score": 4,
+                "evidence": "The revelation about Ernesto changes whom Miguel trusts and admires.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/coco-2017/",
+                  "https://www.bbfc.co.uk/release/coco-q29sbgvjdglvbjpwwc00mzq4ode"
+                ],
+                "type": "positive"
+              },
+              {
+                "name": "Love and self-sacrifice",
+                "score": 4,
+                "evidence": "Héctor longs to reach his daughter and shows care for Miguel.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/coco-2017/",
+                  "https://www.bbfc.co.uk/release/coco-q29sbgvjdglvbjpwwc00mzq4ode"
+                ],
+                "type": "positive"
+              },
+              {
+                "name": "Fantasy afterlife",
+                "score": 4,
+                "evidence": "Remembering the dead determines their continued presence in the fictional realm.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/coco-2017/",
+                  "https://www.bbfc.co.uk/release/coco-q29sbgvjdglvbjpwwc00mzq4ode"
+                ],
+                "type": "context"
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "Héctor wears a Frida Kahlo disguise. The disguise and Frida’s appearance as an artist are concrete events; the reviewed scenes do not establish a relationship.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/coco-2017/",
+              "https://www.bbfc.co.uk/release/coco-q29sbgvjdglvbjpwwc00mzq4ode",
+              "https://bluecatscreenplay.com/wp-content/uploads/2024/04/Coco-Script.pdf"
+            ],
+            "context": {
+              "note": "Frida Kahlo’s biography is separate from the scenes featuring the fictionalized historical figure.",
+              "source": "https://bluecatscreenplay.com/wp-content/uploads/2024/04/Coco-Script.pdf"
+            },
+            "open_reason": "Available evidence supports the documented scenes only. It does not establish a qualifying on-screen finding or comprehensive absence."
+          },
+          "stage5_status": {
+            "kjv_reference_present_in_repository": true,
+            "patristic_status": "attribution_requires_exact_text_check",
+            "proposed_changes": "deferred_to_stage5_audit"
+          }
+        },
+        {
+          "movie_id": "batch1-2021-encanto",
+          "title": "Encanto",
+          "year": 2021,
+          "review_baseline": "repository_baseline",
+          "status": "proposal_saved",
+          "studio_status": "not_saved_sign_in_required",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/encanto-2021/",
+            "https://www.bbfc.co.uk/release/encanto-q29sbgvjdglvbjpwwc01mziwntc"
+          ],
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Mirabel helps the family face what pressure and fear have done to it, and the resolution values family members beyond their gifts.",
+            "age": "7+",
+            "age_rationale": "Keep 7+ for a flashback in which attackers threaten fleeing civilians, an implied death and a collapsing home.",
+            "theme_ratings": [
+              {
+                "name": "Family and responsibility",
+                "score": 5,
+                "evidence": "Mirabel continues to help relatives even when the family doubts her.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/encanto-2021/",
+                  "https://www.bbfc.co.uk/release/encanto-q29sbgvjdglvbjpwwc01mziwntc"
+                ],
+                "type": "positive"
+              },
+              {
+                "name": "Forgiveness and reconciliation",
+                "score": 5,
+                "evidence": "Alma faces the effect of her demands, and the family begins rebuilding together.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/encanto-2021/",
+                  "https://www.bbfc.co.uk/release/encanto-q29sbgvjdglvbjpwwc01mziwntc"
+                ],
+                "type": "positive"
+              },
+              {
+                "name": "Humility and repentance",
+                "score": 4,
+                "evidence": "Family members acknowledge fears and admit they need help.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/encanto-2021/",
+                  "https://www.bbfc.co.uk/release/encanto-q29sbgvjdglvbjpwwc01mziwntc"
+                ],
+                "type": "positive"
+              },
+              {
+                "name": "Fantasy magic",
+                "score": 4,
+                "evidence": "A magical candle, individual gifts and the living house are central to the story.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/encanto-2021/",
+                  "https://www.bbfc.co.uk/release/encanto-q29sbgvjdglvbjpwwc01mziwntc"
+                ],
+                "type": "context"
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "Camilo takes on the appearance of male and female relatives. The source describes these changes as fantasy powers, leaving identity or relationship claims unsupported.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/encanto-2021/",
+              "https://www.bbfc.co.uk/release/encanto-q29sbgvjdglvbjpwwc01mziwntc"
+            ],
+            "context": {
+              "note": "The guide’s account of Camilo’s shapeshifting is evidence of disguise, not creator confirmation of an identity.",
+              "source": "https://www.pluggedin.com/movie-reviews/encanto-2021/"
+            },
+            "open_reason": "Available evidence supports the documented scenes only. It does not establish a qualifying on-screen finding or comprehensive absence."
+          },
+          "stage5_status": {
+            "kjv_reference_present_in_repository": true,
+            "patristic_status": "open",
+            "proposed_changes": "deferred_to_stage5_audit"
+          }
+        },
+        {
+          "movie_id": "marvel-2018-black-panther",
+          "title": "Black Panther",
+          "year": 2018,
+          "review_baseline": "review-drafts-marvel-batch-02.json",
+          "status": "proposal_saved",
+          "studio_status": "not_saved_sign_in_required",
+          "sources": [
+            "https://www.bbfc.co.uk/release/black-panther-q29sbgvjdglvbjpwwc00mdi4mde",
+            "https://www.pluggedin.com/movie-reviews/black-panther-2018/"
+          ],
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Retain the proposal. T’Challa eventually acts on Nakia’s concern for people outside Wakanda and has to answer the harm caused by isolation.",
+            "age": "13+",
+            "age_rationale": "Keep 13+ for a cut throat, a broken arm, ritual fighting and wound detail. Record the fictional ritual potion separately from casino alcohol.",
+            "theme_ratings": [
+              {
+                "name": "Stewardship",
+                "score": 5,
+                "evidence": "T’Challa eventually begins sharing Wakanda’s resources.",
+                "sources": [
+                  "https://www.bbfc.co.uk/release/black-panther-q29sbgvjdglvbjpwwc00mdi4mde",
+                  "https://www.pluggedin.com/movie-reviews/black-panther-2018/"
+                ],
+                "type": "positive"
+              },
+              {
+                "name": "Compassion",
+                "score": 4,
+                "evidence": "Nakia frees captives and urges Wakanda to support people beyond its borders.",
+                "sources": [
+                  "https://www.bbfc.co.uk/release/black-panther-q29sbgvjdglvbjpwwc00mdi4mde",
+                  "https://www.pluggedin.com/movie-reviews/black-panther-2018/"
+                ],
+                "type": "positive"
+              },
+              {
+                "name": "Revenge",
+                "score": 5,
+                "evidence": "Killmonger turns his father’s death into a motive for violence.",
+                "sources": [
+                  "https://www.bbfc.co.uk/release/black-panther-q29sbgvjdglvbjpwwc00mdi4mde",
+                  "https://www.pluggedin.com/movie-reviews/black-panther-2018/"
+                ],
+                "type": "harmful"
+              },
+              {
+                "name": "Fictional ritual practice",
+                "score": 4,
+                "evidence": "Ceremonial preparation and visions of ancestors shape the coronation.",
+                "sources": [
+                  "https://www.bbfc.co.uk/release/black-panther-q29sbgvjdglvbjpwwc00mdi4mde",
+                  "https://www.pluggedin.com/movie-reviews/black-panther-2018/"
+                ],
+                "type": "context"
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The guide identifies T’Challa and Nakia’s kisses. The Okoye and Ayo moment in press coverage refers to an early cut; keep it out of the released-film finding.",
+            "sources": [
+              "https://www.bbfc.co.uk/release/black-panther-q29sbgvjdglvbjpwwc00mdi4mde",
+              "https://www.pluggedin.com/movie-reviews/black-panther-2018/",
+              "https://www.metroweekly.com/2018/02/black-panther-screenwriter-discusses-rumored-lesbian-scene/"
+            ],
+            "context": {
+              "note": "Screenwriter reporting discusses an early cut and the scene’s ambiguity. Neither an early cut nor later appearances establish the contents of the 2018 theatrical release.",
+              "source": "https://www.metroweekly.com/2018/02/black-panther-screenwriter-discusses-rumored-lesbian-scene/"
+            },
+            "open_reason": "Available evidence supports the documented scenes only. It does not establish a qualifying on-screen finding or comprehensive absence."
+          },
+          "stage5_status": {
+            "kjv_reference_present_in_repository": true,
+            "patristic_status": "quotation_proposed",
+            "proposed_changes": "deferred_to_stage5_audit"
+          }
+        },
+        {
+          "movie_id": "marvel-2017-spider-man-homecoming",
+          "title": "Spider-Man: Homecoming",
+          "year": 2017,
+          "review_baseline": "review-drafts-marvel-batch-02.json",
+          "status": "proposal_saved",
+          "studio_status": "not_saved_sign_in_required",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/spider-man-homecoming/",
+            "https://www.bbfc.co.uk/release/spider-man-homecoming-q29sbgvjdglvbjpwwc00odq4mdi"
+          ],
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Retain the proposal. Peter’s rescue of Toomes makes mercy concrete and completes his movement from impressing his mentor to doing what a threatened person needs.",
+            "age": "13+",
+            "age_rationale": "Keep 13+ for violent fantasy, the elevator rescue, sexual references including Ned’s explicit excuse, and obscured strong language. The guide’s red cups at the party do not establish alcohol consumption.",
+            "theme_ratings": [
+              {
+                "name": "Mercy",
+                "score": 5,
+                "evidence": "Peter rescues Toomes from the wreckage after their fight.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/spider-man-homecoming/",
+                  "https://www.bbfc.co.uk/release/spider-man-homecoming-q29sbgvjdglvbjpwwc00odq4mdi"
+                ],
+                "type": "positive"
+              },
+              {
+                "name": "Humility",
+                "score": 4,
+                "evidence": "Peter continues to help after losing the Stark suit.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/spider-man-homecoming/",
+                  "https://www.bbfc.co.uk/release/spider-man-homecoming-q29sbgvjdglvbjpwwc00odq4mdi"
+                ],
+                "type": "positive"
+              },
+              {
+                "name": "Responsibility",
+                "score": 5,
+                "evidence": "Peter acts to rescue trapped schoolmates and ferry passengers.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/spider-man-homecoming/",
+                  "https://www.bbfc.co.uk/release/spider-man-homecoming-q29sbgvjdglvbjpwwc00odq4mdi"
+                ],
+                "type": "positive"
+              },
+              {
+                "name": "Dishonesty",
+                "score": 3,
+                "evidence": "Peter lies to protect the secret of his superhero activities.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/spider-man-homecoming/",
+                  "https://www.bbfc.co.uk/release/spider-man-homecoming-q29sbgvjdglvbjpwwc00odq4mdi"
+                ],
+                "type": "harmful"
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The BBFC documents sexual references such as Ned’s excuse and a crude game. These do not provide a qualifying LGBTQ scene or a film-wide clearance.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/spider-man-homecoming/",
+              "https://www.bbfc.co.uk/release/spider-man-homecoming-q29sbgvjdglvbjpwwc00odq4mdi",
+              "https://comicbook.com/marvel/news/spider-man-homecoming-transgender-peter-parker/"
+            ],
+            "context": {
+              "note": "The cast’s later comments about possible future casting were hypothetical and do not describe the released film.",
+              "source": "https://comicbook.com/marvel/news/spider-man-homecoming-transgender-peter-parker/"
+            },
+            "open_reason": "Available evidence supports the documented scenes only. It does not establish a qualifying on-screen finding or comprehensive absence."
+          },
+          "stage5_status": {
+            "kjv_reference_present_in_repository": true,
+            "patristic_status": "quotation_proposed",
+            "proposed_changes": "deferred_to_stage5_audit"
+          }
+        }
+      ]
+    }
   ]
 }
