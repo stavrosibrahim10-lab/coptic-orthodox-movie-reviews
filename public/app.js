@@ -1,8 +1,11 @@
+import {catalogFilmKey, marvelCatalog} from './marvel-catalog.js';
 import {scriptureQuotes} from './scripture-quotes.js';
 import {applyFamilyReviewRecommendation, supplementalReviews, supplementalContentEvidenceById} from './family-review-ratings.js';
 import {LGBTQ_THEME_NAME,withLgbtqTheme,lgbtqImpact,starterLgbtqTheme,getLgbtqTheme,isLgbtqRelatedAdvisory} from './lgbtq-audit.js';
 
 const provisionalReviews = [...seedReviews, ...supplementalReviews].map(applyFamilyReviewRecommendation).map(r=>withLgbtqTheme(r,{proposeVerdict:true}));
+const catalogEntries=[...movieCatalog, ...marvelCatalog];
+const marvelKeys=new Set(marvelCatalog.map(catalogFilmKey));
 let published=[];
 let adminReviews=[];
 let currentDraft=null;
@@ -35,7 +38,7 @@ function sourceSearchLinks(r){
 }
 
 function normalizedCatalog(){
-  return (movieCatalog||[]).map((m,i)=>({
+  return catalogEntries.map((m,i)=>({
     ...m,
     genre:m.genre||'Film',
     posterClass:coverClass(m,i),
@@ -45,50 +48,47 @@ function normalizedCatalog(){
 }
 
 function reviewedItems(){
-  const catalogIds = new Map([...provisionalReviews, ...movieCatalog].map(movie => [filmKey(movie), movie.id]));
+  const catalogIds = new Map([...provisionalReviews, ...catalogEntries].map(movie => [filmKey(movie), movie.id]));
   const pub=(published||[]).map((r,i)=>({...((getLgbtqTheme(r)||!Array.isArray(r.themes))?r:{...r,themes:[starterLgbtqTheme('unreviewed-published'),...r.themes]}),contentEvidenceId:catalogIds.get(filmKey(r)),posterClass:coverClass(r,i),sourceLinks:r.sourceLinks||sourceSearchLinks(r),reviewType:'published'}));
   const seeded=provisionalReviews
-    .filter(r=>!pub.some(p=>p.title.toLowerCase()===r.title.toLowerCase()&&p.year===r.year))
+    .filter(r=>!pub.some(p=>filmKey(p)===filmKey(r)))
     .map((r,i)=>({...r,posterClass:coverClass(r,i),sourceLinks:r.sourceLinks||sourceSearchLinks(r),reviewType:'seed'}));
   return [...pub,...seeded];
 }
 
 function filmKey(movie) {
-  return `${movie.title.toLowerCase()}|${movie.year}`;
+  return catalogFilmKey(movie);
 }
 
 function allMovies(){
   const reviewed=reviewedItems();
-  const catalog=normalizedCatalog().filter(c=>!reviewed.some(r=>r.title.toLowerCase()===c.title.toLowerCase()&&r.year===c.year));
+  const catalog=normalizedCatalog().filter(c=>!reviewed.some(r=>filmKey(r)===filmKey(c)));
   return [...reviewed,...catalog];
 }
 
 function reviewedCount(){return reviewedItems().length;}
-function pendingCount(){return normalizedCatalog().filter(c=>!reviewedItems().some(r=>r.title.toLowerCase()===c.title.toLowerCase()&&r.year===c.year)).length;}
+function pendingCount(){return normalizedCatalog().filter(c=>!reviewedItems().some(r=>filmKey(r)===filmKey(c))).length;}
 
 function renderCover(r,{large=false}={}){
   const sizeClass=large?' large':'';
   const cls=coverClass(r);
   const genre=((r.genre||'Film').split('·')[0]||'Film').trim();
-  const statusBadge=r.verdict?verdictLabel(r.verdict):'Research Queue';
+  const statusBadge=r.verdict?verdictLabel(r.verdict):'';
   const imageUrl=r.posterUrl||((typeof posterManifest!=='undefined')?posterManifest[`${r.title}|${r.year}`]:null);
   return `<div data-poster-title="${esc(r.title)}" data-poster-year="${esc(r.year)}" class="poster ${cls}${sizeClass}${imageUrl?' poster-image':''}">
     ${imageUrl?`<img loading="lazy" src="${esc(imageUrl)}" alt="${esc(r.title)} published movie poster" onerror="this.parentNode.classList.remove('poster-image');this.remove()">`: ''}
-    <div class="poster-meta"><small>${esc(r.year||'')}</small><span>${esc(r.title)}</span><em>${esc(genre)} · ${esc(statusBadge)}</em></div>
+    <div class="poster-meta"><small>${esc(r.year||'')}</small><span>${esc(r.title)}</span><em>${esc(genre)}${statusBadge?' · '+esc(statusBadge):''}</em></div>
   </div>`;
 }
 
 function card(r){
   const reviewed=!!r.verdict;
-  const label=reviewed?(r.reviewType==='published'?'EDITORIALLY APPROVED':r.reviewType==='seed'?'SOURCE-BASED · PROVISIONAL':'PROVISIONAL · CHECK SOURCES'):'SPIRITUAL REVIEW PENDING';
-  const labelClass=reviewed?(r.reviewType==='seed'?'seed-flag':'tiny'):'catalog-flag';
   return `<a class="movie-card" href="${routeLink(r)}">
     ${renderCover(r)}
     <div class="movie-card-body">
-      <div class="card-topline">${pill(r.verdict)}<span class="age-chip">${esc(r.age||'—')}</span></div>
+      ${reviewed?'<div class="card-topline">'+pill(r.verdict)+(r.age?'<span class="age-chip">'+esc(r.age)+'</span>':'')+'</div>':''}
       <h3>${esc(r.title)}</h3>
       <p>${esc(r.year)} · ${esc(r.genre||'Film')}</p>
-      <span class="${labelClass}">${esc(label)}</span>
     </div>
   </a>`;
 }
@@ -118,7 +118,7 @@ function summaryStrip(){
 function howToUse(){
   return `<section class="quickstart-section section" aria-labelledby="quickstart-title"><div class="container"><div class="section-header"><div><div class="eyebrow">New here? Start here</div><h2 id="quickstart-title">How to use The Orthodox Lens</h2><p>Find a film and learn how to read its review.</p></div></div>
   <div class="quickstart-grid"><article class="quickstart-step"><span>01</span><h3>Find your movie</h3><p>Search above or browse the library to open a movie review.</p><a href="#browse" class="text-link">Browse movies →</a></article>
-  <article class="quickstart-step"><span>02</span><h3>Read the verdict and scores</h3><p>Edifying, Neutral, or Destructive describes the site's spiritual judgment. A 0–5 theme score describes how prominent that theme is—not a vote from visitors. “Not Verified” means research is still pending.</p><a href="#about/approach" class="text-link">How we evaluate films →</a></article>
+  <article class="quickstart-step"><span>02</span><h3>Read the verdict and scores</h3><p>Edifying, Neutral, or Destructive describes the site's spiritual judgment. A 0–5 theme score describes how prominent that theme is—not a vote from visitors.</p><a href="#about/approach" class="text-link">How we evaluate films →</a></article>
   <article class="quickstart-step"><span>03</span><h3>Check the details and discuss</h3><p>Review age guidance, “Before you watch,” Bible connections, and family questions.</p></article></div></div></section>`;
 }
 
@@ -128,25 +128,26 @@ function home(){
   return `<section class="hero"><div class="hero-inner"><div class="eyebrow">✣ &nbsp; Faithful discernment for the whole family</div><h1>Stories shape us.<br><em>Choose them wisely.</em></h1><p class="hero-lede">Explore movies through a Christian perspective informed by the historic Orthodox tradition, with thoughtful spiritual guidance, clear content warnings, and practical advice for Christian families.</p><div class="theme-verse"><span class="theme-verse-ref">PHILIPPIANS 4:8</span><span>${esc(scriptureQuotes["Philippians 4:8"])}</span><small>King James Version (KJV)</small></div><form class="hero-search" id="heroSearch"><span class="search-ico">⌕</span><input id="heroInput" placeholder="Search movies, genres, and themes..." aria-label="Search movies" autocomplete="off"><button class="btn gold" type="submit">Explore movies →</button></form><div class="hero-note"><span class="dot"></span> Independent guidance for Christian families</div></div></section>
   ${howToUse()}
   ${summaryStrip()}
-  <section class="section recent-section"><div class="container"><div class="section-header"><div><div class="eyebrow">Fresh recommendations</div><h2>Best recent movies</h2><p>A selection of recent releases to research and discuss. Inclusion is not an endorsement; reviews and age suggestions are provisional.</p></div><a href="#browse" class="text-link">Browse all movies →</a></div><div class="movie-grid recent-feature">${recent.map(card).join('')}</div><p class="recent-note">We display authentic published movie posters when available through our verified poster sources. If a poster is unavailable, a text cover is shown instead; no AI-generated substitute is used.</p></div></section>
-  <section class="section"><div class="container"><div class="section-header"><div><div class="eyebrow">Actively reviewed</div><h2>The Orthodox Lens review library</h2><p>${reviewedCount()} provisional reviews with age guidance, Scripture references, family questions, and source links. Unapproved assessments remain labeled provisional.</p></div><a href="#about/approach" class="text-link">Read our framework →</a></div><div class="movie-grid">${reviewed.map(card).join('')}</div></div></section>
+  <section class="section recent-section"><div class="container"><div class="section-header"><div><div class="eyebrow">Fresh recommendations</div><h2>Best recent movies</h2><p>Explore recent releases and see what families can discuss together.</p></div><a href="#browse" class="text-link">Browse all movies →</a></div><div class="movie-grid recent-feature">${recent.map(card).join('')}</div><p class="recent-note">We display authentic published movie posters when available through our verified poster sources. If a poster is unavailable, a text cover is shown instead; no AI-generated substitute is used.</p></div></section>
+  <section class="section"><div class="container"><div class="section-header"><div><div class="eyebrow">Actively reviewed</div><h2>The Orthodox Lens review library</h2><p>${reviewedCount()} reviews with age guidance, Scripture references, family questions, and source links.</p></div><a href="#about/approach" class="text-link">Read our framework →</a></div><div class="movie-grid">${reviewed.map(card).join('')}</div></div></section>
   `;
 }
 
 function browse(){
   const genres=[...new Set(allMovies().map(x=>(x.genre||'Film').split('·')[0].trim()))].sort();
-  return `<section class="page-hero"><div class="container"><div class="eyebrow">Search the catalog</div><h1>Browse movies</h1><p>Filter movies by verdict, age guidance, genre, or title. Every title has a source-linked content guide and a provisional spiritual review. All verdicts await independent editorial approval.</p></div></section><section class="section"><div class="container"><div class="filters"><input id="searchFilter" class="field" placeholder="Search title or genre..." value="${esc(currentSearch)}"><select id="verdictFilter"><option value="all">All verdicts</option><option value="edifying" ${currentVerdict==='edifying'?'selected':''}>Edifying</option><option value="neutral" ${currentVerdict==='neutral'?'selected':''}>Neutral</option><option value="destructive" ${currentVerdict==='destructive'?'selected':''}>Destructive</option><option value="pending" ${currentVerdict==='pending'?'selected':''}>Review pending</option></select><select id="ageFilter"><option value="all">All ages</option>${officialAges.map(a=>`<option value="${esc(a)}" ${currentAge===a?'selected':''}>${esc(a)}</option>`).join('')}</select><select id="genreFilter"><option value="all">All genres</option>${genres.map(g=>`<option value="${esc(g)}" ${currentGenre===g?'selected':''}>${esc(g)}</option>`).join('')}</select></div><div id="filteredResults"></div></div></section>`;
+  return `<section class="page-hero"><div class="container"><div class="eyebrow">Search the catalog</div><h1>Browse movies</h1><p>Find a film by title, age guidance, verdict, genre, or collection.</p></div></section><section class="section"><div class="container"><div class="filters"><input id="searchFilter" class="field" placeholder="Search title or genre..." value="${esc(currentSearch)}"><select id="verdictFilter"><option value="all">All verdicts</option><option value="edifying" ${currentVerdict==='edifying'?'selected':''}>Edifying</option><option value="neutral" ${currentVerdict==='neutral'?'selected':''}>Neutral</option><option value="destructive" ${currentVerdict==='destructive'?'selected':''}>Destructive</option><option value="pending" ${currentVerdict==='pending'?'selected':''}>No verdict</option></select><select id="ageFilter"><option value="all">All ages</option>${officialAges.map(a=>`<option value="${esc(a)}" ${currentAge===a?'selected':''}>${esc(a)}</option>`).join('')}</select><select id="genreFilter"><option value="all">All genres</option>${genres.map(g=>`<option value="${esc(g)}" ${currentGenre===g?'selected':''}>${esc(g)}</option>`).join('')}</select></div><div id="filteredResults"></div></div></section>`;
 }
 
 function matchesFilters(r){
   const alternateTitle=r.id==='film-minecraft-movie'?'The Minecraft Movie':'';
-  const hay=`${r.title} ${alternateTitle} ${r.genre||''} ${r.synopsis||''}`.toLowerCase();
+  const hay=`${r.title} ${alternateTitle} ${r.genre||''} ${r.synopsis||''} ${marvelKeys.has(filmKey(r))?'Marvel':''}`.toLowerCase();
   const genre=((r.genre||'Film').split('·')[0]||'Film').trim();
+  const isMarvel=marvelKeys.has(filmKey(r));
   if(currentSearch && !hay.includes(currentSearch.toLowerCase())) return false;
   if(currentVerdict==='pending' && r.verdict) return false;
   if(currentVerdict!=='all' && currentVerdict!=='pending' && r.verdict!==currentVerdict) return false;
   if(currentAge!=='all' && (r.age||'')!==currentAge) return false;
-  if(currentGenre!=='all' && genre!==currentGenre) return false;
+  if(currentGenre==='Marvel' ? !isMarvel : currentGenre!=='all' && genre!==currentGenre) return false;
   return true;
 }
 
@@ -185,47 +186,48 @@ function renderLgbtqContextNotes(remainingAdvisories,sources){
 }
 
 function renderRatings(r,type,remainingAdvisories){
-  const list=(r.themes||[]).filter(t=>t.type===type);
-  if(!list.length) return `<p class="muted">No ${type==='positive'?'positive':'harmful'} theme ratings have been published yet.</p>`;
+  const list=(r.themes||[]).filter(t=>t.type===type&&Number.isFinite(t.score));
+  if(!list.length) return '';
   return list.map(t=>{
-    const score=(t.score===null||t.score===undefined)?'Not Verified':`${t.score}/5`;
+    const score=`${t.score}/5`;
     const fill=(typeof t.score==='number'&&t.score>=0)?(t.score/5)*100:0;
     const sources = (t.references || []).filter(source => /^https:\/\//i.test(source?.url));
     const refs = sources
       .map(source => `<a href="${esc(source.url)}" target="_blank" rel="noopener noreferrer">${esc(source.label)}</a>`)
       .join(' · ');
     const impact=t.name===LGBTQ_THEME_NAME?lgbtqImpact(t.score):null;
-    const impactNote=t.name!==LGBTQ_THEME_NAME?null:(impact==='not_verified'?'Screening pending; no claim of absence':impact==='not_applicable'?'N/A for this category':impact==='neutral'?'Neutral under this criterion':'Destructive under site policy');
+    const impactNote=t.name!==LGBTQ_THEME_NAME?null:(impact==='not_applicable'?'N/A for this category':impact==='neutral'?'Neutral under this criterion':'Destructive under site policy');
     const advisoryType = advisoryTypesByTheme.get(t.name);
     const candidate = remainingAdvisories.get(advisoryType);
-    const groupUnderLgbtq = (r.themes||[]).some(theme=>theme.name===LGBTQ_THEME_NAME)
+    const groupUnderLgbtq = (r.themes||[]).some(theme=>theme.name===LGBTQ_THEME_NAME&&Number.isFinite(theme.score))
       && isLgbtqRelatedAdvisory(advisoryType,candidate);
     const advisory = groupUnderLgbtq ? null : candidate;
     const label = familyAdvisoryLabels[advisoryType];
     if (advisory) remainingAdvisories.delete(advisoryType);
     const lgbtqNotes=t.name===LGBTQ_THEME_NAME?renderLgbtqContextNotes(remainingAdvisories,sources):'';
-    return `<div class="rating-row"><div><strong>${esc(t.name)}</strong><small>${esc(t.portrayal||'unverified')} · ${esc(t.evidence||'Evidence note pending')}${refs ? `<br>${refs}` : ''}</small></div><div class="rating-track"><div class="rating-fill ${esc(type)}" style="width:${fill}%"></div></div><div class="score">${esc(score)}</div>
+    return `<div class="rating-row"><div><strong>${esc(t.name)}</strong><small>${esc(t.portrayal||'unverified')} · ${esc(t.evidence||'')}${refs ? `<br>${refs}` : ''}</small></div><div class="rating-track"><div class="rating-fill ${esc(type)}" style="width:${fill}%"></div></div><div class="score">${esc(score)}</div>
       ${impactNote?`<div class="rating-note"><strong>Editorial category: ${esc(impactNote)}</strong><small>Prominence score and source note above; other content is assessed separately.</small></div>`:''}
       ${lgbtqNotes}
       ${advisory ? `<div class="rating-note"><strong>${esc(label)}</strong>${renderAdvisoryText(advisory, label, sources)}</div>` : ''}</div>`;
   }).join('');
 }
 
-function renderReviewRatings(review){
+function reviewGuidance(review){
   const advisories = new Map(Object.entries(getFamilyAdvisories(review))
     .filter(([type, note]) => Object.hasOwn(familyAdvisoryLabels, type) && note?.details));
-  const ratings = review.verdict ? `
-    <p class="muted">Scores show prominence, not moral worth. For LGBTQ Themes &amp; Messaging, 0/5 = N/A, 1/5 = Neutral under this criterion, 2–5/5 = Destructive under this site's editorial policy; Not Verified means screening remains open. Portrayal describes how the film treats a theme.</p>
-    <div class="rating-header">Virtues & positive themes</div>${renderRatings(review,'positive',advisories)}
-    <div class="rating-header">Content & harmful themes</div>${renderRatings(review,'harmful',advisories)}
-    ${(review.themes||[]).some(t=>t.type==='context')
-      ? '<div class="rating-header">Family and cultural themes</div>'+renderRatings(review,'context',advisories) : ''}`
-    : '<p class="muted">Theme ratings and age guidance are pending.</p>';
+  const hasRatings=(review.themes||[]).some(theme=>Number.isFinite(theme.score));
+  const ratings = hasRatings ? `
+    <p class="muted">Scores show prominence, not moral worth. For LGBTQ Themes &amp; Messaging, 0/5 = N/A, 1/5 = Neutral under this criterion, 2–5/5 = Destructive under this site's editorial policy; each category is assessed separately. Portrayal describes how the film treats a theme.</p>
+    ${[['positive','Virtues & positive themes'],['harmful','Content & harmful themes'],['context','Family and cultural themes']]
+      .map(([type,label])=>{
+        const rows=renderRatings(review,type,advisories);
+        return rows?`<div class="rating-header">${label}</div>${rows}`:'';
+      }).join('')}` : '';
   const otherNotes = [...advisories].map(([type, note]) => {
     const label = familyAdvisoryLabels[type];
     return `<div class="evidence-category"><strong>${esc(label)}</strong>${renderAdvisoryText(note,label)}</div>`;
   }).join('');
-  const evidence = renderContentEvidence(review);
+  const {details:evidence, highlights}=renderContentEvidence(review);
   const warnings = review.reviewType === 'published' && Array.isArray(review.warnings)
     ? review.warnings.filter(warning => warning?.name).map(warning => `
       <div class="warning-item">
@@ -233,18 +235,25 @@ function renderReviewRatings(review){
         ${warning.details ? `<p>${esc(warning.details)}</p>` : ''}
       </div>`).join('')
     : '';
-  return `<section class="paper-panel detail-section" aria-labelledby="theme-ratings-title">
-    <h2 id="theme-ratings-title">Spiritual theme ratings (0–5)</h2>
-    ${ratings}
-    <section class="viewing-notes" aria-labelledby="viewing-notes-title">
-      <h3 id="viewing-notes-title">Before you watch</h3>
-      ${otherNotes}
-      ${warnings ? `<div class="content-evidence"><h4>Editorial content notes</h4>${warnings}</div>` : ''}
-      ${evidence}
-      ${review.age ? '<p class="muted viewing-age-note">The suggested age reflects content maturity. Consider your child’s individual sensitivities.</p>' : ''}
-      <div class="pastoral-guidance">For personal spiritual discernment, seek the guidance of your father of confession or parish priest.</div>
-    </section>
-  </section>`;
+  const warningHighlights=(review.reviewType==='published'?review.warnings||[]:[])
+    .filter(warning=>warning?.name).slice(0,3).map(warning=>({
+      label:warning.name, finding:warning.details||warning.severity
+    }));
+  const highlightsToShow=warningHighlights.length?warningHighlights:highlights;
+  const before=(otherNotes||warnings||evidence||review.age)?`<section id="before-watch" class="paper-panel detail-section review-target" tabindex="-1">
+    <h2>Before you watch</h2>
+    ${highlightsToShow.length?`<ul class="review-highlights">${highlightsToShow.map(({label,finding})=>
+      `<li><strong>${esc(label)}</strong>${finding?' · '+esc(finding):''}</li>`).join('')}</ul>`:''}
+    ${otherNotes||warnings||evidence?`<details class="review-details"><summary>Content details and sources</summary>
+      ${otherNotes}${warnings ? `<div class="content-evidence"><h3>Editorial content notes</h3>${warnings}</div>` : ''}${evidence}
+    </details>`:''}
+    ${review.age?'<p class="muted viewing-age-note">Consider your child’s individual sensitivities alongside the suggested age.</p>':''}
+    <div class="pastoral-guidance">For personal spiritual discernment, seek the guidance of your father of confession or parish priest.</div>
+  </section>`:'';
+  const themes=ratings?`<section id="theme-ratings" class="paper-panel detail-section review-target" tabindex="-1">
+    <details class="review-details"><summary>Spiritual theme ratings (0–5)</summary>${ratings}</details>
+  </section>`:'';
+  return {before,themes};
 }
 
 function researchLinksBlock(r){
@@ -252,8 +261,21 @@ function researchLinksBlock(r){
   return `<div class="source-buttons">${links.map(s=>`<a class="small-btn" target="_blank" rel="noopener noreferrer" href="${esc(s.url)}">${esc(s.label)}</a>`).join('')}</div>`;
 }
 
+function reviewBanner(r){
+  const metadata=[r.year,r.genre||'Film',r.runtime,r.officialRating].filter(value=>value&&!/unverified/i.test(String(value)));
+  return `<div class="paper-panel"><div class="review-banner">${renderCover(r,{large:true})}<div>
+    <h1>${esc(r.title)}</h1><p class="meta">${metadata.map(esc).join(' · ')}</p>
+    ${r.verdict?pill(r.verdict):''}
+    ${r.age?`<div class="tag-row"><span class="tag">Suggested age: ${esc(r.age)}</span></div>`:''}
+    ${r.synopsis?`<p>${esc(r.synopsis)}</p>`:''}
+  </div></div></div>`;
+}
+
 function pendingDetail(r){
-  return `<div class="container review-back"><a class="back-link" href="#browse">← Back to movies</a><div class="review-layout"><div><div class="paper-panel"><div class="review-banner">${renderCover(r,{large:true})}<div><div class="eyebrow">independent Christian movie research page</div><h1>${esc(r.title)}</h1><div class="meta">${esc(r.year)} · ${esc(r.genre||'Film')}</div>${pill(null)}<div class="tag-row"><span class="tag">Full verdict pending</span></div><p>This movie’s spiritual verdict, theme scores, and age guidance are pending. See Before you watch in the theme ratings panel for available findings and sources.</p>${researchLinksBlock(r)}</div></div></div><div class="paper-panel detail-section"><div class="eyebrow">Editorial review</div><h2>What the full review considers</h2><div class="check-grid"><div class="check-item">Violence, peril, and disturbing imagery</div><div class="check-item">Language and blasphemy</div><div class="check-item">Sexual content and immodesty</div><div class="check-item">Occult, superstition, or spiritual confusion</div><div class="check-item">Family themes, sacrifice, forgiveness, repentance</div><div class="check-item">What the story ultimately asks viewers to admire</div></div><p class="muted">The ratings panel links to sources for checked findings. Unlisted concerns may still be present.</p></div>${renderReviewRatings(r)}<div class="paper-panel detail-section"><div class="eyebrow">After watching · discussion starter</div><h2>Five questions for families</h2><p class="muted">Use these prompts after watching together. <a href="#suggest/${encodeURIComponent(r.id)}">Suggest a Gospel parallel</a> for editorial review.</p>${(r.questions||[]).map((q,i)=>`<div class="q-item"><strong>${i+1}.</strong> ${esc(q)}</div>`).join('')}<div class="faith-panel"><div class="eyebrow">A starting Scripture</div><h3>Philippians 4:8</h3>${scriptureQuotation("Philippians 4:8")}<p>Reflect together on what the story asks viewers to admire, and consider that message alongside this passage.</p></div></div></div><aside><div class="paper-panel"><div class="eyebrow">Quick links</div><h3 class="side-title">Research sources</h3>${researchLinksBlock(r)}<p class="muted" style="margin-top:12px">IMDb helps with basic film identity and credits. Common Sense Media and Dove can help with parental concerns and content direction. Use them as inputs, not as substitutes for your own independent Christian assessment.</p></div></aside></div></div>`;
+  return `<div class="container review-back"><a class="back-link" href="#browse">← Back to movies</a>
+    <div class="review-layout"><div>${reviewBanner(r)}${reviewGuidance(r).before}</div>
+    <aside>${reviewSources(r)}</aside></div>
+  </div>`;
 }
 
 const patristicQuotes = {
@@ -290,7 +312,7 @@ function faithReferences(r){
 function renderContentEvidence(r){
   const id = r.contentEvidenceId || r.id;
   const rec = supplementalContentEvidenceById[id] || contentEvidenceById[id];
-  if(!rec)return '';
+  if(!rec)return {details:'',highlights:[]};
   const labels={sexual_content:'Sexual content',language:'Language & blasphemy',violence:'Violence & peril',spiritual_material:'Occult / spiritual material',substance_use:'Alcohol, drugs & smoking',moral_themes:'Moral themes'};
   const renderSources = (sources = []) => [...new Map(sources
     .filter(source => /^https:\/\//i.test(source?.url))
@@ -299,12 +321,11 @@ function renderContentEvidence(r){
     .join(' · ');
   const advisories = (rec.special_advisories || []).map(advisory =>
     `<div class="evidence-category"><strong>${esc(advisory.name)}</strong><small>Source-checked advisory</small><p>${esc(advisory.details)}</p>${renderSources(advisory.sources || [advisory.evidence])}</div>`).join('');
+  const highlights=[];
   const cells = Object.entries(labels).map(([key, label]) => {
     const cell = rec.content_categories[key];
-    const notes = cell?.research_note ? `<p>${esc(cell.research_note)}</p>${renderSources(cell.sources_consulted)}` : '';
-    if (!cell || cell.status === 'not_verified') {
-      return `<div class="evidence-category"><strong>${esc(label)}</strong><small>Not verified</small>${notes}</div>`;
-    }
+    if(!cell || cell.status==='not_verified')return '';
+    if(cell.status!=='source_reports_not_present'&&cell.findings?.[0])highlights.push({label,finding:cell.findings[0]});
     const labelText = cell.status === 'source_reports_not_present'
       ? 'Guide reports no flagged content in its scope' : 'Specific findings checked';
     const categorySources = renderSources(cell.evidence.filter(source => !source.supports));
@@ -312,9 +333,10 @@ function renderContentEvidence(r){
       const sources = cell.evidence.filter(source => source.supports === finding);
       return `<li>${esc(finding)}${sources.length ? `<br>${renderSources(sources)}` : ''}</li>`;
     }).join('');
-    return `<div class="evidence-category"><strong>${esc(label)}</strong><small>${labelText}</small><ul>${findings}</ul>${categorySources}${notes}</div>`;
+    return `<div class="evidence-category"><strong>${esc(label)}</strong><small>${labelText}</small><ul>${findings}</ul>${categorySources}</div>`;
   }).join('');
-  return `<div class="content-evidence"><h4>Checked content findings</h4><p class="muted">Findings reflect the scenes, themes, and dialogue covered by the cited guides.</p>${advisories}${cells}</div>`;
+  const details=advisories||cells?`<div class="content-evidence"><h3>Content findings</h3><p class="muted">Findings reflect the scenes and dialogue covered by the cited guides.</p>${advisories}${cells}</div>`:'';
+  return {details,highlights:highlights.slice(0,3)};
 }
 function renderAdvisoryText(note,label,listedSources=[]){
   const source = /^https:\/\//i.test(note.url || '') && !listedSources.some(item=>item.url===note.url)
@@ -334,8 +356,9 @@ function renderBiblicalParallels(r){
     <p><strong>Biblical connection:</strong> <a href="${esc(scriptureUrl(p.scriptureReference))}" target="_blank" rel="noopener noreferrer">${esc(p.scriptureReference)}</a></p>
     ${scriptureQuotation(p.scriptureReference)}<p>${esc(p.reflection)}</p>${/^https:\/\//i.test(p.sourceUrl||'')?`<small><a href="${esc(p.sourceUrl)}" target="_blank" rel="noopener noreferrer">Film-specific supporting source</a></small>`:''}
   </article>`).join('');
-  return `<section class="paper-panel detail-section gospel-parallels" aria-labelledby="gospel-parallels-title"><h2 id="gospel-parallels-title">Biblical Parallels &amp; Gospel Reflections</h2><p class="muted">These are editorial comparisons for family discussion, not claims that the filmmakers intended to teach the Gospel. Read passages in context.</p>
-    ${items||'<p class="muted">Film-specific connections are awaiting editorial research.</p>'}
+  if(!items)return '';
+  return `<section id="gospel-parallels" class="paper-panel detail-section gospel-parallels review-target" tabindex="-1" aria-labelledby="gospel-parallels-title"><h2 id="gospel-parallels-title">Biblical Parallels &amp; Gospel Reflections</h2><p class="muted">These are editorial comparisons for family discussion, not claims that the filmmakers intended to teach the Gospel. Read passages in context.</p>
+    ${items}
   </section>`;
 }
 function renderCommunityIdeas(items){
@@ -368,11 +391,60 @@ function suggestionPage(preselectedId=''){
    </form></div><aside class="paper-panel"><div class="eyebrow">How suggestions work</div><h2>Reviewed before publication</h2><p><strong>1.</strong> You send your idea.</p><p><strong>2.</strong> The editorial team checks evidence, Scripture context, and the review's existing findings.</p><p><strong>3.</strong> Editors approve or decline it. Approved ideas may be shared with readers, separately labeled from the site's own assessments.</p><p class="muted">Submitting does not change a film's rating or verdict. Editorial sign-offs remain separate.</p></aside></div></section>`;
 }
 
+function reviewSources(r){
+  const links=(r.sources||[]).filter(source=>/^https:\/\//i.test(source?.url||''));
+  return `<section id="review-sources" class="paper-panel detail-section review-target" tabindex="-1">
+    <h2>Sources</h2>
+    ${links.length?`<ul class="source-list">${links.map(source=>
+      `<li><a href="${esc(source.url)}" rel="noopener noreferrer" target="_blank">${esc(source.label||source.url)}</a></li>`).join('')}</ul>`:''}
+    ${researchLinksBlock(r)}
+  </section>`;
+}
+
+function publicReviewText(value){
+  return String(value||'')
+    .replace(/^Provisional(?: Coptic Orthodox interpretation)?:\s*/i,'')
+    .replace(/^Conservative provisional site suggestion/i,'Conservative age suggestion')
+    .replace(/\s*This classification is based on the documented premise and major themes, not a full scene-by-scene verification; further content research could change it\./g,
+      ' The assessment draws on the documented premise and major themes.')
+    .replace(/\s*Complete content verification may require a different age recommendation\./g,'');
+}
+
 function reviewedDetail(r){
-  return `<div class="container review-back"><a href="#browse" class="back-link">← Back to all movies</a><div class="review-layout"><div><div class="paper-panel"><div class="review-banner">${renderCover(r,{large:true})}<div><div class="eyebrow">independent Christian movie review</div><h1>${esc(r.title)}</h1><div class="meta">${esc(r.year)} · ${esc(r.genre||'Film')} · ${esc(r.runtime||'Runtime unverified')} · ${esc(r.officialRating||'Rating unverified')}</div>${pill(r.verdict)}<div class="tag-row"><span class="tag">Suggested age: ${esc(r.age||'Not verified')}</span><span class="tag">${r.theologicalApproval==='approved'?'Theologically reviewed':'Provisional · theology pending'}</span></div><p>${esc(r.synopsis||'Synopsis unavailable.')}</p>${researchLinksBlock(r)}</div></div></div><div class="paper-panel detail-section"><div class="eyebrow">The spiritual assessment</div><h2>Our independent Christian verdict</h2><p>${esc(r.verdictRationale||'Editorial review pending.')}</p><h3 style="margin:28px 0 8px">Why this age guidance?</h3><p>${esc(r.ageRationale||'Age guidance not verified.')}</p></div>${renderReviewRatings(r)}<div class="paper-panel detail-section"><div class="eyebrow">For thoughtful conversation</div><h2>Orthodox spiritual reflection</h2><p>${esc(r.reflection||'Reflection pending editorial review.')}</p>${r.scripture?.length?`<div class="tag-row">${r.scripture.map(s=>`<span class="tag">${esc(s)}</span>`).join('')}</div>`:''}${faithReferences(r)}<h3 style="margin:27px 0 12px">${r.verdict==='neutral'?'After watching: Discuss as a family':'Discuss as a family'}</h3>${r.verdict==='neutral'?'<p class="muted">A Neutral classification does not mean every message is spiritually beneficial. If you choose to watch, use these questions afterward to discuss the story through Christian spiritual discernment.</p>':''}${r.questions?.length?r.questions.map((q,i)=>`<div class="q-item"><strong>${i+1}.</strong> ${esc(q)}</div>`).join(''):'<p class="muted">Questions pending review.</p>'}</div>
-    ${renderBiblicalParallels(r)}
-    <div id="communityIdeas" data-movie="${esc(r.id)}" aria-live="polite"></div>
-    </div><aside><div class="paper-panel"><div class="eyebrow">Editorial transparency</div><h3 class="side-title">Evidence & sources</h3>${r.sources?.length?`<ul class="source-list">${r.sources.map(s=>`<li>${s.url&&/^https?:\/\//.test(s.url)?`<a href="${esc(s.url)}" rel="noopener noreferrer" target="_blank">${esc(s.label||s.url)}</a>`:esc(s.label||'Unlinked source')}${s.notes?`<br><span class="muted">${esc(s.notes)}</span>`:''}</li>`).join('')}</ul>`:'<p class="muted">Source list unavailable.</p>'}<div class="disclaimer"><strong>Verification status:</strong> ${esc(r.contentVerification||'Limited external guidance')}; theological review: ${esc(r.theologicalApproval||'pending')}. Content warnings reflect reported findings and do not constitute an exhaustive absence check.<br><br>${r.reviewType==='published'?'This review has completed the editorial approval process.':'Provisional spiritual assessment. The verdict and age guidance are The Orthodox Lens’s editorial judgments.'}</div></div><div class="paper-panel detail-section"><h3 class="side-title">The meaning behind the verdict</h3><p class="muted">A film's depiction of wrongdoing is not the same as an endorsement of it. We evaluate the full moral message, the presentation of virtue and sin, the severity of content, and opportunities for spiritual growth.</p><a class="text-link" href="#about/approach">Read our methodology →</a></div></aside></div></div>`;
+  const {before,themes}=reviewGuidance(r);
+  const parallels=renderBiblicalParallels(r);
+  const reflection=r.reflection||r.themeScripture||r.patristic?`<section id="spiritual-reflection" class="paper-panel detail-section review-target" tabindex="-1">
+    <h2>Orthodox spiritual reflection</h2>
+    ${r.reflection?`<p>${esc(publicReviewText(r.reflection))}</p>`:''}
+    ${faithReferences(r)}
+  </section>`:'';
+  const discussion=r.questions?.length?`<section id="family-discussion" class="paper-panel detail-section review-target" tabindex="-1">
+    <h2>After watching: Discuss as a family</h2>
+    <ol class="review-questions">${r.questions.map(question=>`<li>${esc(question)}</li>`).join('')}</ol>
+  </section>`:'';
+  const destinations=[
+    [before,'before-watch','Before you watch'],[reflection,'spiritual-reflection','Spiritual reflection'],
+    [parallels,'gospel-parallels','Biblical parallels'],[discussion,'family-discussion','Family discussion'],
+    [themes,'theme-ratings','Theme ratings'],[true,'review-sources','Sources']
+  ];
+  return `<div class="container review-back">
+    <a href="#browse" class="back-link">← Back to all movies</a>
+    <div class="review-layout review-page"><div>
+      ${reviewBanner(r)}
+      <nav class="review-jump" aria-label="Jump to a review section">
+        <span>Jump to</span>
+        ${destinations.filter(([exists])=>exists).map(([,id,label])=>
+          `<button type="button" class="small-btn" data-review-jump="${id}">${label}</button>`).join('')}
+      </nav>
+      <section class="paper-panel detail-section">
+        <h2>Our independent Christian verdict</h2>
+        ${r.verdictRationale?`<p>${esc(publicReviewText(r.verdictRationale))}</p>`:''}
+        ${r.ageRationale?`<h3>Why this age guidance?</h3><p>${esc(publicReviewText(r.ageRationale))}</p>`:''}
+      </section>
+      ${reflection}${parallels}${discussion}${themes}
+      <div id="communityIdeas" data-movie="${esc(r.id)}" aria-live="polite"></div>
+    </div><aside class="review-sidebar">${before}${reviewSources(r)}</aside></div>
+  </div>`;
 }
 
 function detail(id){
@@ -436,6 +508,12 @@ async function sendSuggestion(event){
   finally{button.disabled=false}
 }
 function wire(){
+  app.querySelectorAll('[data-review-jump]').forEach(button=>button.addEventListener('click',()=>{
+    const section=document.getElementById(button.dataset.reviewJump);
+    if(!section)return;
+    section.focus({preventScroll:true});
+    section.scrollIntoView({block:'start'});
+  }));
   const suggestionForm=document.getElementById('suggestionForm');
   if(suggestionForm){
     const kind=document.getElementById('ideaKind');

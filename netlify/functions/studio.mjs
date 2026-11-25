@@ -1,3 +1,4 @@
+import {catalogFilmKey, marvelCatalog} from '../../public/marvel-catalog.js';
 import {environment,ApiError,reply,safeError,originAllowed,jsonBody,supabase,rows,patch,insert,authenticate,validateReview,str,sourceUrl,canEdit,canPublish,canSpiritual,requireLgbtqVerification} from './_shared/core.mjs';
 import {applyFamilyReviewRecommendation,supplementalReviews} from '../../public/family-review-ratings.js';
 import {withLgbtqTheme,getLgbtqTheme} from '../../public/lgbtq-audit.js';
@@ -15,8 +16,10 @@ function dashboardReviews(){
 }
 async function registerReleaseDrafts(list){
   const existingIds=new Set(list.map(row=>row.movie_id));
+  const existingFilms=new Set(list.map(row=>catalogFilmKey({title:row.title,year:row.release_year})));
   const missing=supplementalReviews.filter(review=>!existingIds.has(review.id));
-  if(!missing.length)return list;
+  const missingMarvel=marvelCatalog.filter(film=>!existingIds.has(film.id)&&!existingFilms.has(catalogFilmKey(film)));
+  if(!missing.length&&!missingMarvel.length)return list;
   const drafts=missing.map(review=>{
     const draft=validateReview(withLgbtqTheme(applyFamilyReviewRecommendation(review),{proposeVerdict:true}));
     return {
@@ -30,6 +33,10 @@ async function registerReleaseDrafts(list){
       revision:1
     };
   });
+  for(const film of missingMarvel){
+    drafts.push({movie_id:film.id,title:film.title,release_year:film.year,verdict:null,suggested_age:null,
+      draft:withLgbtqTheme({...film,themes:[],warnings:[],questions:[]}),workflow:'draft',revision:1});
+  }
   // Only released files supply new drafts. A concurrent import preserves the saved copy.
   await insert('studio_reviews',drafts,{ignore:true});
   return dashboardReviews();
