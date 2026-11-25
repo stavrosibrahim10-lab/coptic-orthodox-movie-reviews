@@ -150,5 +150,27 @@
         }
       ]
     }
+  ],
+  "review_completion_batches": [
+    {
+      "date": "2026-11-25",
+      "batch_file": "editorial/review-drafts-marvel-batch-02.json",
+      "branch": "editorial/review-completion",
+      "commit": "4aeb4417f171ca969a098184b2a586e344452666",
+      "film_ids": [
+        "marvel-2015-ant-man",
+        "marvel-2015-avengers-age-of-ultron",
+        "marvel-2016-captain-america-civil-war",
+        "marvel-2016-doctor-strange",
+        "marvel-2017-guardians-of-the-galaxy-vol-2",
+        "marvel-2017-spider-man-homecoming",
+        "marvel-2017-thor-ragnarok",
+        "marvel-2018-ant-man-and-the-wasp",
+        "marvel-2018-avengers-infinity-war",
+        "marvel-2018-black-panther"
+      ],
+      "remaining_missing_reviews": 93,
+      "studio_status": "unauthenticated_repository_proposals_verified"
+    }
   ]
 }
