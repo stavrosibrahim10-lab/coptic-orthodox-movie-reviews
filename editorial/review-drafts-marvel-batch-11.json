@@ -1,0 +1,504 @@
+[
+  {
+    "id": "marvel-2022-morbius",
+    "title": "Morbius",
+    "year": 2022,
+    "genre": "Marvel · Live action",
+    "edition": "Original 2022 theatrical feature",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/morbius-2022/"
+      },
+      {
+        "label": "BBFC",
+        "url": "https://www.bbfc.co.uk/release/morbius-q29sbgvjdglvbjpwwc00otmzmja"
+      },
+      {
+        "label": "Entertainment Weekly",
+        "url": "https://ew.com/movies/morbius-reactions-jared-leto-matt-smith-abs/"
+      }
+    ],
+    "officialRating": "PG-13",
+    "age": "16+",
+    "verdict": "neutral",
+    "synopsis": "Michael and Milo grow up depending on transfusions. Michael becomes a doctor, but his experimental treatment leaves him craving blood and puts others in danger.",
+    "verdictRationale": "As a child, Michael repairs Milo’s medical equipment with a pen spring. As a doctor, he must face a harder question: who bears the cost of his own recovery? His wish to heal is understandable. The deaths following his experiment make the price of pursuing it impossible to dismiss.",
+    "ageRationale": "The film dwells on a child losing access to a transfusion, transformed faces, neck wounds and people being stalked for blood. These images may be especially difficult for teens familiar with hospital treatment.",
+    "reflection": "Michael’s earliest act of healing is also his least spectacular. He sees the boy beside him in danger and uses what he has. Families can ask what it takes to keep that same attention on the patient when the promise of a discovery becomes more exciting.",
+    "themes": [
+      {
+        "name": "Resourcefulness in service",
+        "score": 5,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Michael repairs a failing machine with a pen spring.",
+        "references": [
+          {
+            "label": "Entertainment Weekly",
+            "url": "https://ew.com/movies/morbius-reactions-jared-leto-matt-smith-abs/"
+          }
+        ]
+      },
+      {
+        "name": "Care for the sick",
+        "score": 4,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "A physician opens an educational opportunity for young Michael.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/morbius-2022/"
+          }
+        ]
+      },
+      {
+        "name": "Predation",
+        "score": 5,
+        "type": "harmful",
+        "portrayal": "criticized",
+        "evidence": "People are stalked and drained of blood.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/morbius-2022/"
+          }
+        ]
+      },
+      {
+        "name": "Cruelty",
+        "score": 3,
+        "type": "harmful",
+        "portrayal": "criticized",
+        "evidence": "Michael breaks the bones in a man's hand.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/morbius-2022/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Available scene descriptions do not establish a film-wide prominence score.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual and romantic content",
+        "details": "Michael and Martine kiss passionately.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/morbius-2022/"
+      },
+      {
+        "name": "Language",
+        "details": "Dialogue includes an F-word and religious exclamations.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/morbius-2022/"
+      },
+      {
+        "name": "Violence and distress",
+        "details": "Vampire attacks leave visible neck injuries. A child nearly dies during a machine failure.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/morbius-2022/"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "A detective brings holy water to question Michael. Another transformed character calls himself the resurrection.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/morbius-2022/"
+      },
+      {
+        "name": "Substance use",
+        "details": "Milo downs tequila at a bar. Michael receives an experimental injection.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/morbius-2022/"
+      }
+    ],
+    "scripture": [
+      "Galatians 6:2"
+    ],
+    "themeScripture": {
+      "reference": "Galatians 6:2",
+      "translation": "KJV",
+      "text": "Bear ye one another's burdens, and so fulfil the law of Christ.",
+      "url": "https://www.biblegateway.com/passage/?search=Galatians+6%3A2&version=KJV",
+      "connection": "Paul describes bearing another person’s burden. Both boys depend on treatment, yet Michael can still notice his friend’s need and offer practical help."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 11 on Ephesians",
+      "section": "On Ephesians 4:12",
+      "text": "Each one edifies, each one perfects, each one ministers.",
+      "url": "https://www.newadvent.org/fathers/230111.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "One boy beside another",
+        "filmMoment": "Young Michael repairs the equipment keeping his friend alive.",
+        "scriptureReference": "Galatians 6:2",
+        "reflection": "Paul describes bearing another person’s burden. Both boys depend on treatment, yet Michael can still notice his friend’s need and offer practical help.",
+        "sourceUrl": "https://ew.com/movies/morbius-reactions-jared-leto-matt-smith-abs/"
+      }
+    ],
+    "questions": [
+      "What does the broken machine tell us about Michael and Milo before either has powers?",
+      "What does the doctor see in Michael that a medical chart could miss?",
+      "When the artificial blood begins to lose its effect, whom does Michael have a duty to protect?",
+      "How do Milo’s choices change the meaning of the cure they once wanted together?",
+      "Where do you see a difference between Michael protecting Martine and Michael deciding what risks she should take?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Michael and Martine kiss passionately."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/morbius-2022/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Dialogue includes an F-word and religious exclamations."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/morbius-2022/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Vampire attacks leave visible neck injuries. A child nearly dies during a machine failure."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/morbius-2022/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A detective brings holy water to question Michael. Another transformed character calls himself the resurrection."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/morbius-2022/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Milo downs tequila at a bar. Michael receives an experimental injection."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/morbius-2022/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A doctor's investment in Michael's education opens a path for him to help other patients."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/morbius-2022/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2024-madame-web",
+    "title": "Madame Web",
+    "year": 2024,
+    "genre": "Marvel · Live action",
+    "edition": "Original 2024 theatrical feature",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/madame-web-2024/"
+      },
+      {
+        "label": "BBFC",
+        "url": "https://www.bbfc.co.uk/release/madame-web-q29sbgvjdglvbjpwwc0xmde3mzex"
+      },
+      {
+        "label": "High On Films",
+        "url": "https://www.highonfilms.com/madame-web-2024-movie-ending-explained/"
+      }
+    ],
+    "officialRating": "PG-13",
+    "age": "16+",
+    "verdict": "edifying",
+    "synopsis": "A paramedic begins seeing possible futures. When a stranger hunts three teenage girls because of what he believes they will do, Cassie takes them into her care.",
+    "verdictRationale": "Cassie gives the girls something her visions alone cannot give them: a skill they can use for someone else. The rescue at the end pays off that quiet lesson. Her growing willingness to depend on the three girls makes her care for them credible.",
+    "ageRationale": "A man repeatedly attacks teenagers in visions, including a neck-breaking assault. Knowing that Cassie can sometimes change the outcome may offer little comfort while a child is watching. Drowning and attempted resuscitation recur.",
+    "reflection": "Cassie has every reason to think of herself as the rescuer. By teaching the girls, she makes room for a different kind of family, one in which she can receive care as well as give it.",
+    "themes": [
+      {
+        "name": "Service",
+        "score": 5,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Cassie teaches the girls a skill they later use to revive her.",
+        "references": [
+          {
+            "label": "High On Films",
+            "url": "https://www.highonfilms.com/madame-web-2024-movie-ending-explained/"
+          }
+        ]
+      },
+      {
+        "name": "Solidarity",
+        "score": 4,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Julia, Anya and Mattie work together when Cassie is helpless.",
+        "references": [
+          {
+            "label": "High On Films",
+            "url": "https://www.highonfilms.com/madame-web-2024-movie-ending-explained/"
+          }
+        ]
+      },
+      {
+        "name": "Preemptive violence",
+        "score": 5,
+        "type": "harmful",
+        "portrayal": "criticized",
+        "evidence": "Sims hunts teenagers after seeing a possible future death.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/madame-web-2024/"
+          }
+        ]
+      },
+      {
+        "name": "Betrayal",
+        "score": 4,
+        "type": "harmful",
+        "portrayal": "criticized",
+        "evidence": "Sims turns on Cassie’s mother during the expedition.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/madame-web-2024/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Available scene descriptions do not establish a film-wide prominence score.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual and romantic content",
+        "details": "Sims kisses a woman and the scene cuts to the two in bed. Sexual activity is implied.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/madame-web-2024/"
+      },
+      {
+        "name": "Language",
+        "details": "Dialogue includes swearing and irreverent uses of the names of God and Jesus.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/madame-web-2024/"
+      },
+      {
+        "name": "Violence and distress",
+        "details": "Visions show a teenager's neck being broken. A crash leaves an ambulance driver bleeding.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/madame-web-2024/"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "Cassie encounters her deceased mother in a vision and later projects multiple forms of herself.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/madame-web-2024/"
+      },
+      {
+        "name": "Substance use",
+        "details": "Guests drink beer at a baby shower.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/madame-web-2024/"
+      }
+    ],
+    "scripture": [
+      "Galatians 6:2"
+    ],
+    "themeScripture": {
+      "reference": "Galatians 6:2",
+      "translation": "KJV",
+      "text": "Bear ye one another's burdens, and so fulfil the law of Christ.",
+      "url": "https://www.biblegateway.com/passage/?search=Galatians+6%3A2&version=KJV",
+      "connection": "Bearing someone’s burden can mean letting others take a turn. The skill Cassie passed on becomes the very thing she needs from the girls."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 11 on Ephesians",
+      "section": "On Ephesians 4:12",
+      "text": "Each one edifies, each one perfects, each one ministers.",
+      "url": "https://www.newadvent.org/fathers/230111.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "When the students become the rescuers",
+        "filmMoment": "Julia, Anya and Mattie revive Cassie using the CPR she taught them.",
+        "scriptureReference": "Galatians 6:2",
+        "reflection": "Bearing someone’s burden can mean letting others take a turn. The skill Cassie passed on becomes the very thing she needs from the girls.",
+        "sourceUrl": "https://www.highonfilms.com/madame-web-2024-movie-ending-explained/"
+      }
+    ],
+    "questions": [
+      "Why does Sims treat his vision as sufficient reason to hunt the girls?",
+      "What does Cassie learn about her mother that changes how she understands the trip to Peru?",
+      "How is the CPR lesson different from Cassie telling the teenagers where to hide?",
+      "What would the final rescue lose if Cassie could simply foresee her own way out?",
+      "Which experience gives Julia, Anya and Mattie a reason to trust one another?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Sims kisses a woman and the scene cuts to the two in bed. Sexual activity is implied."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/madame-web-2024/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Dialogue includes swearing and irreverent uses of the names of God and Jesus."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/madame-web-2024/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Visions show a teenager's neck being broken. A crash leaves an ambulance driver bleeding."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/madame-web-2024/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Cassie encounters her deceased mother in a vision and later projects multiple forms of herself."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/madame-web-2024/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Guests drink beer at a baby shower."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/madame-web-2024/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Cassie shares her training with the teenagers. They later use it when she cannot save herself."
+          ],
+          "evidence": [
+            {
+              "provider": "High On Films",
+              "url": "https://www.highonfilms.com/madame-web-2024-movie-ending-explained/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  }
+]

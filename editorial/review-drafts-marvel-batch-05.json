@@ -1,0 +1,1011 @@
+[
+  {
+    "id": "marvel-1997-men-in-black",
+    "title": "Men in Black",
+    "year": 1997,
+    "genre": "Marvel · Live action",
+    "edition": "Original theatrical feature",
+    "sources": [
+      {
+        "label": "Sony Pictures",
+        "url": "https://www.sonypictures.com/movies/meninblack"
+      },
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/meninblack/"
+      },
+      {
+        "label": "Common Sense Media",
+        "url": "https://www.commonsensemedia.org/movie-reviews/men-in-black"
+      },
+      {
+        "label": "Film synopsis",
+        "url": "https://en.wikipedia.org/wiki/Men_in_Black_(1997_film)"
+      }
+    ],
+    "officialRating": "PG-13",
+    "age": "13+",
+    "verdict": "neutral",
+    "synopsis": "A New York officer joins K to stop a creature wearing a farmer’s skin from seizing a galaxy small enough to carry.",
+    "verdictRationale": "J learns to protect neighbors whose faces he used to find frightening. The agency’s habit of erasing witnesses’ memories also raises a question about what protectors owe the people they serve.",
+    "ageRationale": "A creature takes a farmer’s skin, men are stabbed through the neck, and an agent is swallowed. Comedy sits alongside images of bodies being used and discarded.",
+    "reflection": "When J takes over K’s duties, the older man can finally lay them down. Families might recognize a quiet form of service here: learning someone else’s work well enough to give that person rest.",
+    "themes": [
+      {
+        "name": "Compassion and service",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "J accepts responsibility for defending the city alongside K.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/meninblack/"
+          }
+        ]
+      },
+      {
+        "name": "Cooperation",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "The veteran and the newcomer work together to recover the stolen galaxy.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/meninblack/"
+          }
+        ]
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": 4,
+        "portrayal": "criticized",
+        "evidence": "The invader kills the pest controller with his equipment.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/meninblack/"
+          }
+        ]
+      },
+      {
+        "name": "Domination",
+        "type": "harmful",
+        "score": 3,
+        "portrayal": "criticized",
+        "evidence": "The bug treats Edgar’s body as a disguise and threatens others to get the galaxy.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/meninblack/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "No numeric prominence finding established from the available scene evidence.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "details": "J and the coroner exchange sexual innuendo.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/meninblack/"
+      },
+      {
+        "name": "Language",
+        "details": "Frequent profanity includes sexual insults and religious exclamations.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.commonsensemedia.org/movie-reviews/men-in-black"
+      },
+      {
+        "name": "Violence and peril",
+        "details": "The bug kills humans and wears a victim’s skin. A giant insect swallows one agent.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/meninblack/"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "The final image places Earth inside a much larger inhabited universe; it is a science-fiction image.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/meninblack/"
+      },
+      {
+        "name": "Drinking and substance use",
+        "details": "Alien insects repeatedly smoke.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.commonsensemedia.org/movie-reviews/men-in-black"
+      }
+    ],
+    "scripture": [
+      "Galatians 6:2"
+    ],
+    "themeScripture": {
+      "reference": "Galatians 6:2",
+      "url": "https://www.biblegateway.com/passage/?search=Galatians%206%3A2&version=KJV",
+      "translation": "KJV",
+      "text": "Bear ye one another's burdens, and so fulfil the law of Christ.",
+      "connection": "Paul tells Christians to bear each other’s burdens. J can do that for K because he has listened, learned the work and become someone K can trust."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 11 on Ephesians",
+      "section": "Commentary on Ephesians 4:12",
+      "url": "https://www.newadvent.org/fathers/230111.htm",
+      "text": "Each one edifies, each one perfects, each one ministers."
+    },
+    "biblicalParallels": [
+      {
+        "title": "Taking over K’s watch",
+        "filmMoment": "K entrusts his work to J as he retires.",
+        "scriptureReference": "Galatians 6:2",
+        "reflection": "Paul tells Christians to bear each other’s burdens. J can do that for K because he has listened, learned the work and become someone K can trust.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Men_in_Black_(1997_film)"
+      }
+    ],
+    "questions": [
+      "What has K given up to protect people who will never know his name?",
+      "How does meeting the aliens in New York change what J thinks a neighbor looks like?",
+      "What is the difference between Edgar before the attack and the creature wearing his skin?",
+      "When might a witness want to remember what K erases?",
+      "What does J take on when K asks to retire?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "J and the coroner exchange sexual innuendo."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/meninblack/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Frequent profanity includes sexual insults and religious exclamations."
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media",
+              "url": "https://www.commonsensemedia.org/movie-reviews/men-in-black",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The bug kills humans and wears a victim’s skin. A giant insect swallows one agent."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/meninblack/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The final image places Earth inside a much larger inhabited universe; it is a science-fiction image."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/meninblack/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Alien insects repeatedly smoke."
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media",
+              "url": "https://www.commonsensemedia.org/movie-reviews/men-in-black",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "K trains J and leaves the task of protecting Earth to his successor."
+          ],
+          "evidence": [
+            {
+              "provider": "Film synopsis",
+              "url": "https://en.wikipedia.org/wiki/Men_in_Black_(1997_film)",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2002-men-in-black-ii",
+    "title": "Men in Black II",
+    "year": 2002,
+    "genre": "Marvel · Live action",
+    "edition": "Original theatrical feature",
+    "sources": [
+      {
+        "label": "Sony Pictures",
+        "url": "https://www.sonypictures.com/movies/meninblackii"
+      },
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/meninblackii/"
+      },
+      {
+        "label": "Screenfinity — Laura’s departure (film excerpt)",
+        "url": "https://www.youtube.com/watch?v=eSdP5LJpKw8"
+      }
+    ],
+    "officialRating": "PG-13",
+    "age": "13+",
+    "verdict": "neutral",
+    "synopsis": "Agent J finds his former partner working for the postal service. A threat to Earth forces them to recover K’s memories and discover what the Light of Zartha is.",
+    "verdictRationale": "J has spent years wanting his partner back, yet his most generous decision concerns someone else leaving. His attachment to Laura makes letting her go genuinely costly. The sexual threat played for a gross-out joke deserves its own conversation.",
+    "ageRationale": "A man drags Serleena behind bushes at knifepoint in an attempted sexual assault. She devours him. Other scenes combine sexual jokes with threatening tentacles and prolonged creature attacks.",
+    "reflection": "When Laura learns what her departure means for two worlds, J cannot make loving her mean keeping her beside him. Orthodox families might discuss the freedom of someone whose good we claim to seek.",
+    "themes": [
+      {
+        "name": "Love and self-sacrifice",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "J lets Laura leave when keeping her on Earth would put two worlds at risk.",
+        "references": [
+          {
+            "label": "Screenfinity — Laura’s departure (film excerpt)",
+            "url": "https://www.youtube.com/watch?v=eSdP5LJpKw8"
+          }
+        ]
+      },
+      {
+        "name": "Loyalty",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "J seeks out K when the knowledge lost from his memory is needed.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/meninblackii/"
+          }
+        ]
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": 4,
+        "portrayal": "criticized",
+        "evidence": "Serleena restrains victims with tendrils and attacks a witness.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/meninblackii/"
+          }
+        ]
+      },
+      {
+        "name": "Coercion",
+        "type": "harmful",
+        "score": 3,
+        "portrayal": "mixed",
+        "evidence": "A family’s memories are erased and the agents give the family a suggestion about its future.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/meninblackii/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "No numeric prominence finding established from the available scene evidence.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "details": "Serleena imitates a lingerie advertisement. A mugger attempts sexual assault.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/meninblackii/"
+      },
+      {
+        "name": "Language",
+        "details": "Profanity accompanies repeated jokes about pornography and anatomy.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/meninblackii/"
+      },
+      {
+        "name": "Violence and peril",
+        "details": "A giant worm bites through a subway train. A knife-wielding attacker is devoured.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/meninblackii/"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "Tiny inhabitants of a locker worship agents who bring them watches.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/meninblackii/"
+      },
+      {
+        "name": "Drinking and substance use",
+        "details": "The talking pug and worm characters smoke cigars and drink martinis.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/meninblackii/"
+      }
+    ],
+    "scripture": [
+      "Philippians 2:4"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 2:4",
+      "url": "https://www.biblegateway.com/passage/?search=Philippians%202%3A4&version=KJV",
+      "translation": "KJV",
+      "text": "Look not every man on his own things, but every man also on the things of others.",
+      "connection": "Paul asks believers to attend to another person’s good. Laura has a calling beyond the future J imagines with her. His farewell gives her room to answer it."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 77 on the Gospel of John",
+      "section": "On John 15:12–13",
+      "url": "https://www.newadvent.org/fathers/240177.htm",
+      "text": "Because this is the mark of the disciples, this the bond of virtue."
+    },
+    "biblicalParallels": [
+      {
+        "title": "Letting Laura go",
+        "filmMoment": "J allows Laura to leave even though he wants her to stay.",
+        "scriptureReference": "Philippians 2:4",
+        "reflection": "Paul asks believers to attend to another person’s good. Laura has a calling beyond the future J imagines with her. His farewell gives her room to answer it.",
+        "sourceUrl": "https://www.youtube.com/watch?v=eSdP5LJpKw8"
+      }
+    ],
+    "questions": [
+      "What does J miss about K that a replacement partner cannot give him?",
+      "What does it cost K to recover his memories?",
+      "Why does the locker community treat a gift of watches as a reason for worship?",
+      "What changes when J learns the Light is Laura herself?",
+      "How could the agents encourage the family to cherish one another while respecting their freedom?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Serleena imitates a lingerie advertisement. A mugger attempts sexual assault."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/meninblackii/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Profanity accompanies repeated jokes about pornography and anatomy."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/meninblackii/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A giant worm bites through a subway train. A knife-wielding attacker is devoured."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/meninblackii/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Tiny inhabitants of a locker worship agents who bring them watches."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/meninblackii/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The talking pug and worm characters smoke cigars and drink martinis."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/meninblackii/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "J must relinquish his hope of keeping Laura with him."
+          ],
+          "evidence": [
+            {
+              "provider": "Screenfinity — Laura’s departure (film excerpt)",
+              "url": "https://www.youtube.com/watch?v=eSdP5LJpKw8",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2012-men-in-black-3",
+    "title": "Men in Black 3",
+    "year": 2012,
+    "genre": "Marvel · Live action",
+    "edition": "Original theatrical feature",
+    "sources": [
+      {
+        "label": "Sony Pictures",
+        "url": "https://www.sonypictures.com/movies/meninblack3"
+      },
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/men-in-black-3/"
+      },
+      {
+        "label": "Kids-In-Mind",
+        "url": "https://kids-in-mind.com/m/meninblack3.htm"
+      }
+    ],
+    "officialRating": "PG-13",
+    "age": "13+",
+    "verdict": "neutral",
+    "synopsis": "When K disappears from the present, J travels to 1969 to protect his partner’s younger self from Boris.",
+    "verdictRationale": "J risks losing his own future to save the friend whose silence he has found frustrating. That loyalty gives the story weight, while the agents’ violent interrogation methods deserve scrutiny.",
+    "ageRationale": "Boris fires spikes into victims and exposes prisoners to the vacuum of space. A prolonged prison kiss and sexual jokes are additional considerations.",
+    "reflection": "J goes back hoping to change what happened to K. The journey changes what J can see about the man who has quietly cared for him. Gratitude comes late, but J still has time to express it.",
+    "themes": [
+      {
+        "name": "Loyalty",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "J goes into the past after K disappears.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/men-in-black-3/"
+          }
+        ]
+      },
+      {
+        "name": "Compassion and service",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "J tries to spare the younger K an emotionally painful experience.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/men-in-black-3/"
+          }
+        ]
+      },
+      {
+        "name": "Vengeance",
+        "type": "harmful",
+        "score": 4,
+        "portrayal": "criticized",
+        "evidence": "Boris pursues the agent responsible for his imprisonment.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/men-in-black-3/"
+          }
+        ]
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": 4,
+        "portrayal": "criticized",
+        "evidence": "The agents strike aliens repeatedly during questioning.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/men-in-black-3/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "The guide describes a male model in feminine clothing on a runway. Costume alone cannot establish an identity or relationship.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/men-in-black-3/"
+          }
+        ]
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "details": "Boris kisses his prison visitor with an elongated tongue. Models wear revealing outfits.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/men-in-black-3/"
+      },
+      {
+        "name": "Language",
+        "details": "Dialogue includes profanity, anatomical insults and religious exclamations.",
+        "severity": "Moderate",
+        "sourceUrl": "https://kids-in-mind.com/m/meninblack3.htm"
+      },
+      {
+        "name": "Violence and peril",
+        "details": "Boris shoots spikes at people and breaches a prison wall, sending others into space.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/men-in-black-3/"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "Aliens sing part of Amazing Grace during a memorial.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/men-in-black-3/"
+      },
+      {
+        "name": "Drinking and substance use",
+        "details": "Guests drink alcohol at a party and in a bar.",
+        "severity": "Mild",
+        "sourceUrl": "https://kids-in-mind.com/m/meninblack3.htm"
+      }
+    ],
+    "scripture": [
+      "Galatians 6:2"
+    ],
+    "themeScripture": {
+      "reference": "Galatians 6:2",
+      "url": "https://www.biblegateway.com/passage/?search=Galatians%206%3A2&version=KJV",
+      "translation": "KJV",
+      "text": "Bear ye one another's burdens, and so fulfil the law of Christ.",
+      "connection": "Paul writes of sharing burdens. J’s trip to 1969 puts him alongside K in a history his friend once carried alone."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 11 on Ephesians",
+      "section": "Commentary on Ephesians 4:12",
+      "url": "https://www.newadvent.org/fathers/230111.htm",
+      "text": "Each one edifies, each one perfects, each one ministers."
+    },
+    "biblicalParallels": [
+      {
+        "title": "Going back for K",
+        "filmMoment": "J goes back to 1969 for K despite the personal risk.",
+        "scriptureReference": "Galatians 6:2",
+        "reflection": "Paul writes of sharing burdens. J’s trip to 1969 puts him alongside K in a history his friend once carried alone.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/men-in-black-3/"
+      }
+    ],
+    "questions": [
+      "Why is J willing to risk his future for a partner who tells him so little?",
+      "How does meeting the younger K change the way J hears his older partner’s silence?",
+      "What does Boris do to the visitor who helped him escape?",
+      "Can the agents justify hurting someone during questioning because they need information?",
+      "Why does J’s thank-you matter when he returns?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Boris kisses his prison visitor with an elongated tongue. Models wear revealing outfits."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/men-in-black-3/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Dialogue includes profanity, anatomical insults and religious exclamations."
+          ],
+          "evidence": [
+            {
+              "provider": "Kids-In-Mind",
+              "url": "https://kids-in-mind.com/m/meninblack3.htm",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Boris shoots spikes at people and breaches a prison wall, sending others into space."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/men-in-black-3/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Aliens sing part of Amazing Grace during a memorial."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/men-in-black-3/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Guests drink alcohol at a party and in a bar."
+          ],
+          "evidence": [
+            {
+              "provider": "Kids-In-Mind",
+              "url": "https://kids-in-mind.com/m/meninblack3.htm",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "J risks his own life to find and defend K in the past."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/men-in-black-3/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2019-men-in-black-international",
+    "title": "Men in Black: International",
+    "year": 2019,
+    "genre": "Marvel · Live action",
+    "edition": "Original theatrical feature",
+    "sources": [
+      {
+        "label": "Sony Pictures",
+        "url": "https://www.sonypictures.com/movies/meninblackinternational"
+      },
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/men-in-black-international-2019/"
+      }
+    ],
+    "officialRating": "PG-13",
+    "age": "13+",
+    "verdict": "neutral",
+    "synopsis": "Molly pursues the agency she encountered as a child. As Agent M she joins H to investigate the death of an alien under their protection.",
+    "verdictRationale": "M’s willingness to shelter a frightened creature and the agents’ defense of Pawny show care for vulnerable strangers. H’s conduct around Vungus also invites families to ask where a work assignment crosses a personal boundary.",
+    "ageRationale": "Two people are liquefied, and Pawny threatens his own life after his queen dies. A bedroom gag and an extended nightclub sequence add sexual and substance references.",
+    "reflection": "Pawny believes loyalty to his queen requires his death. His companions offer him a way to honor her by living. Grief can narrow what a person imagines is possible; staying near a grieving friend is itself an act of mercy.",
+    "themes": [
+      {
+        "name": "Compassion and service",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "As a child Molly helps an alien escape from her house.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/men-in-black-international-2019/"
+          }
+        ]
+      },
+      {
+        "name": "Loyalty",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Pawny stays with M after losing his queen.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/men-in-black-international-2019/"
+          }
+        ]
+      },
+      {
+        "name": "Deception",
+        "type": "harmful",
+        "score": 4,
+        "portrayal": "criticized",
+        "evidence": "An insider conceals the betrayal that endangered the agents.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/men-in-black-international-2019/"
+          }
+        ]
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": 4,
+        "portrayal": "criticized",
+        "evidence": "The assassins liquefy two people and take their identities.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/men-in-black-international-2019/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "No numeric prominence finding established from the available scene evidence.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "details": "H wakes beside a tentacled alien after implied sex. M objects to sexually entertaining a dignitary.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/men-in-black-international-2019/"
+      },
+      {
+        "name": "Language",
+        "details": "Profanity and religious exclamations recur, including during action sequences.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/men-in-black-international-2019/"
+      },
+      {
+        "name": "Violence and peril",
+        "details": "A dignitary dies after a vehicle attack. Pawny holds a knife to his throat while speaking of his queen.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/men-in-black-international-2019/"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "T suggests the universe directs people to places that need them. This is a character’s belief.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/men-in-black-international-2019/"
+      },
+      {
+        "name": "Drinking and substance use",
+        "details": "H drinks a potent blue substance associated with a long-lasting party effect.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/men-in-black-international-2019/"
+      }
+    ],
+    "scripture": [
+      "Philippians 2:4"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 2:4",
+      "url": "https://www.biblegateway.com/passage/?search=Philippians%202%3A4&version=KJV",
+      "translation": "KJV",
+      "text": "Look not every man on his own things, but every man also on the things of others.",
+      "connection": "Paul directs attention to the needs of a neighbor. Seeing Pawny’s grief requires the agents to take his words seriously despite his tiny size."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 77 on the Gospel of John",
+      "section": "On John 15:12–13",
+      "url": "https://www.newadvent.org/fathers/240177.htm",
+      "text": "Because this is the mark of the disciples, this the bond of virtue."
+    },
+    "biblicalParallels": [
+      {
+        "title": "Staying with Pawny",
+        "filmMoment": "After Pawny loses his queen, the agents help him imagine serving her memory by staying alive.",
+        "scriptureReference": "Philippians 2:4",
+        "reflection": "Paul directs attention to the needs of a neighbor. Seeing Pawny’s grief requires the agents to take his words seriously despite his tiny size.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/men-in-black-international-2019/"
+      }
+    ],
+    "questions": [
+      "Why does the young Molly help the creature in her house?",
+      "What boundary does M set when H asks her to keep Vungus happy?",
+      "What does Pawny think loyalty demands after the queen dies?",
+      "How can H’s reputation get in the way of investigating the mole?",
+      "What would it mean for Pawny to remember his queen while building a new friendship?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "H wakes beside a tentacled alien after implied sex. M objects to sexually entertaining a dignitary."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/men-in-black-international-2019/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Profanity and religious exclamations recur, including during action sequences."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/men-in-black-international-2019/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A dignitary dies after a vehicle attack. Pawny holds a knife to his throat while speaking of his queen."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/men-in-black-international-2019/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "T suggests the universe directs people to places that need them. This is a character’s belief."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/men-in-black-international-2019/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "H drinks a potent blue substance associated with a long-lasting party effect."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/men-in-black-international-2019/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Pawny is persuaded that living can honor his dead queen."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/men-in-black-international-2019/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,514 @@
+[
+  {
+    "id": "marvel-2022-black-panther-wakanda-forever",
+    "title": "Black Panther: Wakanda Forever",
+    "year": 2022,
+    "genre": "Marvel · Live action",
+    "edition": "Original US theatrical release (2022)",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/black-panther-wakanda-forever-2022/"
+      },
+      {
+        "label": "BBFC",
+        "url": "https://www.bbfc.co.uk/release/black-panther-wakanda-forever-q29sbgvjdglvbjpwwc0xmda2mzq0"
+      },
+      {
+        "label": "Time",
+        "url": "https://time.com/6232539/black-panther-wakanda-forever-post-credits-scene/"
+      }
+    ],
+    "officialRating": "PG-13",
+    "age": "13+",
+    "verdict": "neutral",
+    "synopsis": "A device built by an MIT student can locate vibranium. Namor wants its inventor killed to protect Talokan. Shuri and Ramonda offer Riri protection as Wakanda mourns its king.",
+    "verdictRationale": "Riri has no army and little say in what others do with her invention. Shuri’s refusal to surrender her is a reason to admire the princess. Grief also makes retaliation tempting. The story invites sympathy for that struggle while framing it through encounters with ancestors and Wakandan deities that call for discernment.",
+    "ageRationale": "A drowning and two family bereavements give the battles lasting consequences. A child grieving someone close may find the quiet beach scene harder than the combat.",
+    "reflection": "Shuri once bargains for her brother’s life. On the beach she finally allows herself to grieve him. An Orthodox family might remember someone by name in prayer and leave room for the person who finds it hard to speak.",
+    "themes": [
+      {
+        "name": "Protection of the vulnerable",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "Shuri and her mother take responsibility for Riri when Namor demands her life.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/black-panther-wakanda-forever-2022/"
+          }
+        ]
+      },
+      {
+        "name": "Loyalty",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Okoye continues to serve Wakanda after losing her position.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/black-panther-wakanda-forever-2022/"
+          }
+        ]
+      },
+      {
+        "name": "Coercion",
+        "type": "harmful",
+        "score": 4,
+        "portrayal": "criticized",
+        "evidence": "Namor makes a young inventor’s death the price of security.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/black-panther-wakanda-forever-2022/"
+          }
+        ]
+      },
+      {
+        "name": "Retaliation",
+        "type": "harmful",
+        "score": 4,
+        "portrayal": "criticized",
+        "evidence": "Shuri’s confidants urge compassion as her grief hardens into anger.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/black-panther-wakanda-forever-2022/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": 1,
+        "portrayal": "descriptive",
+        "evidence": "One woman kisses another on the head and receives an affectionate form of address. This brief exchange supports the incidental-scene rating.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/black-panther-wakanda-forever-2022/"
+          }
+        ]
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Romantic content",
+        "details": "One woman kisses another on the head and receives an affectionate form of address.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/black-panther-wakanda-forever-2022/"
+      },
+      {
+        "name": "Language",
+        "details": "The dialogue includes profanity and religious exclamations.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/black-panther-wakanda-forever-2022/"
+      },
+      {
+        "name": "Violence and distress",
+        "details": "Singers draw sailors overboard. Floodwater engulfs buildings with civilians inside.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/black-panther-wakanda-forever-2022/"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "Shuri prays to Bast during her brother’s illness and later experiences an ancestral vision.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/black-panther-wakanda-forever-2022/"
+      },
+      {
+        "name": "Substance use",
+        "details": "A fictional herb is drunk as part of becoming the Black Panther. It brings on a vision.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/black-panther-wakanda-forever-2022/"
+      }
+    ],
+    "scripture": [
+      "Romans 12:21"
+    ],
+    "themeScripture": {
+      "reference": "Romans 12:21",
+      "translation": "KJV",
+      "text": "Be not overcome of evil, but overcome evil with good.",
+      "url": "https://www.biblegateway.com/passage/?search=Romans%2012%3A21&version=KJV",
+      "connection": "Paul’s words give a family a way to judge Shuri’s response. Riri’s machine may be dangerous, yet its maker is still a neighbor to whom Shuri can do good."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 22 on Romans",
+      "section": "On Romans 12:20–21",
+      "text": "For I even insist upon your doing kindness.",
+      "url": "https://www.newadvent.org/fathers/210222.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "Protecting the inventor",
+        "filmMoment": "Shuri risks herself for the inventor whose work has exposed her country to danger.",
+        "scriptureReference": "Romans 12:21",
+        "reflection": "Paul’s words give a family a way to judge Shuri’s response. Riri’s machine may be dangerous, yet its maker is still a neighbor to whom Shuri can do good.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/black-panther-wakanda-forever-2022/"
+      }
+    ],
+    "questions": [
+      "What does Namor assume about Riri’s responsibility for the use of her detector?",
+      "What would handing Riri over have taught other young people about Wakanda?",
+      "How does losing her rank test what Okoye means by loyalty?",
+      "Why do Ramonda and Shuri speak so differently about T’Challa after his death?",
+      "On the beach in Haiti, what changes for Shuri when Nakia introduces the child?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "One woman kisses another on the head and receives an affectionate form of address."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/black-panther-wakanda-forever-2022/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The dialogue includes profanity and religious exclamations."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/black-panther-wakanda-forever-2022/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Singers draw sailors overboard. Floodwater engulfs buildings with civilians inside."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/black-panther-wakanda-forever-2022/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Shuri prays to Bast during her brother’s illness and later experiences an ancestral vision."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/black-panther-wakanda-forever-2022/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A fictional herb is drunk as part of becoming the Black Panther. It brings on a vision."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/black-panther-wakanda-forever-2022/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Namor demands that Riri be killed to conceal Talokan's resources."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/black-panther-wakanda-forever-2022/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2023-guardians-of-the-galaxy-vol-3",
+    "title": "Guardians of the Galaxy Vol. 3",
+    "year": 2023,
+    "genre": "Marvel · Live action",
+    "edition": "Original US theatrical release (2023)",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-vol-3-2023/"
+      },
+      {
+        "label": "BBFC",
+        "url": "https://www.bbfc.co.uk/release/guardians-of-the-galaxy-vol-3-q29sbgvjdglvbjpwwc0xmda5ode4"
+      },
+      {
+        "label": "Time",
+        "url": "https://time.com/6277241/guardians-of-the-galaxy-vol-3-post-credits-explained/"
+      }
+    ],
+    "officialRating": "PG-13",
+    "age": "16+",
+    "verdict": "edifying",
+    "synopsis": "Rocket is gravely wounded, and a device inside him prevents ordinary treatment. His friends search for the code that will let them help him. Flashbacks show why that device is there.",
+    "verdictRationale": "The High Evolutionary values creatures according to how well they fit his design. Rocket’s friends risk themselves for someone who cannot repay them. When Drax stays to care for the rescued children, the story gives ordinary, lasting care the same dignity as the rescue.",
+    "ageRationale": "Experiments on frightened animals, a mutilated face and the destruction of an inhabited world can be especially distressing. Strong profanity and a prolonged portrayal of animal suffering inform the older-teen recommendation.",
+    "reflection": "Drax has spent years being praised for what he can destroy. On Knowhere the children need someone who will stay. A gift can become clear when someone asks who needs us tomorrow, after the emergency has passed.",
+    "themes": [
+      {
+        "name": "Loyalty",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "The team seeks the code that could save Rocket’s life.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-vol-3-2023/"
+          }
+        ]
+      },
+      {
+        "name": "Care for children",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Drax and Nebula stay on Knowhere to care for the rescued children.",
+        "references": [
+          {
+            "label": "Time",
+            "url": "https://time.com/6277241/guardians-of-the-galaxy-vol-3-post-credits-explained/"
+          }
+        ]
+      },
+      {
+        "name": "Cruelty",
+        "type": "harmful",
+        "score": 5,
+        "portrayal": "criticized",
+        "evidence": "The High Evolutionary subjects captive animals to painful transformations.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-vol-3-2023/"
+          }
+        ]
+      },
+      {
+        "name": "Manipulation",
+        "type": "harmful",
+        "score": 3,
+        "portrayal": "mixed",
+        "evidence": "Mantis alters a guard’s feelings for her own amusement and convenience.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-vol-3-2023/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": 1,
+        "portrayal": "descriptive",
+        "evidence": "Mantis makes a male guard flirt with Drax by altering his feelings. Drax is uncomfortable. The brief flirtation is induced by Mantis. The scene establishes neither man's orientation.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-vol-3-2023/"
+          }
+        ]
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Romantic content",
+        "details": "Mantis makes a male guard flirt with Drax by altering his feelings. Drax is uncomfortable.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-vol-3-2023/"
+      },
+      {
+        "name": "Language",
+        "details": "There is a spoken F-word alongside other profanity.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-vol-3-2023/"
+      },
+      {
+        "name": "Violence and distress",
+        "details": "Animal experimentation is shown in flashback. A character’s damaged face is exposed.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-vol-3-2023/"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "The High Evolutionary denies God and claims the role of creator. Rocket experiences a reunion with deceased friends.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-vol-3-2023/"
+      },
+      {
+        "name": "Substance use",
+        "details": "Quill drinks until he loses consciousness. Drax’s reaction suggests this has happened before.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-vol-3-2023/"
+      }
+    ],
+    "scripture": [
+      "Galatians 6:2"
+    ],
+    "themeScripture": {
+      "reference": "Galatians 6:2",
+      "translation": "KJV",
+      "text": "Bear ye one another's burdens, and so fulfil the law of Christ.",
+      "url": "https://www.biblegateway.com/passage/?search=Galatians%206%3A2&version=KJV",
+      "connection": "Paul asks Christians to carry one another’s burdens. For the children, rescue leaves a practical question about where they will live and who will look after them. Drax and Nebula answer by staying."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 11 on Ephesians",
+      "section": "On Ephesians 4:12",
+      "text": "Each one edifies, each one perfects, each one ministers.",
+      "url": "https://www.newadvent.org/fathers/230111.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "Who stays after the rescue?",
+        "filmMoment": "Drax and Nebula stay on Knowhere with children rescued from the High Evolutionary.",
+        "scriptureReference": "Galatians 6:2",
+        "reflection": "Paul asks Christians to carry one another’s burdens. For the children, rescue leaves a practical question about where they will live and who will look after them. Drax and Nebula answer by staying.",
+        "sourceUrl": "https://time.com/6277241/guardians-of-the-galaxy-vol-3-post-credits-explained/"
+      }
+    ],
+    "questions": [
+      "What does Gamora initially miss when she asks why the team would do so much for Rocket?",
+      "What difference did companionship make for the animals in captivity?",
+      "Why is Drax’s discomfort with the guard worth taking seriously even though Mantis laughs?",
+      "What does Mantis know about grief that helps Quill reconsider his grandfather?",
+      "What might the rescued children need from Drax on their second day on Knowhere?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Mantis makes a male guard flirt with Drax by altering his feelings. Drax is uncomfortable."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-vol-3-2023/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "There is a spoken F-word alongside other profanity."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-vol-3-2023/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Animal experimentation is shown in flashback. A character’s damaged face is exposed."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-vol-3-2023/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The High Evolutionary denies God and claims the role of creator. Rocket experiences a reunion with deceased friends."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-vol-3-2023/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Quill drinks until he loses consciousness. Drax’s reaction suggests this has happened before."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-vol-3-2023/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The Guardians risk their lives to get Rocket treatment that his captor made inaccessible."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-vol-3-2023/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  }
+]

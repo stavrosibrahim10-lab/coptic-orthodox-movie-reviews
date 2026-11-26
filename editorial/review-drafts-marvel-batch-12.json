@@ -1,0 +1,498 @@
+[
+  {
+    "id": "marvel-2025-captain-america-brave-new-world",
+    "title": "Captain America: Brave New World",
+    "year": 2025,
+    "genre": "Marvel · Live action",
+    "edition": "Original 2025 theatrical feature",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/captain-america-brave-new-world-2025/"
+      },
+      {
+        "label": "Raising Children Network",
+        "url": "https://raisingchildren.net.au/guides/movie-reviews/captain-america-brave-new-world"
+      },
+      {
+        "label": "BBFC",
+        "url": "https://www.bbfc.co.uk/release/captain-america-brave-new-world-q29sbgvjdglvbjpwwc0xmdiyodmz"
+      }
+    ],
+    "officialRating": "PG-13",
+    "age": "16+",
+    "verdict": "edifying",
+    "synopsis": "Sam invites Isaiah Bradley to the White House. When Isaiah attacks the president and cannot remember doing it, Sam investigates.",
+    "verdictRationale": "Sam protects the people at the reception and takes Isaiah’s account seriously. Knowing how his friend was treated in the past gives him reason to ask who took away Isaiah’s freedom to choose.",
+    "ageRationale": "An apparent suicide occurs off camera. Burn injuries, bloody aftermaths and sustained combat make this a choice for older teens.",
+    "reflection": "Betty visits Ross in prison after he gives up the presidency. Reconciliation begins with a daughter sitting beside her father while he answers for the harm he did.",
+    "themes": [
+      {
+        "name": "Loyalty",
+        "score": 5,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Sam investigates after Isaiah says he cannot recall the attack.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/captain-america-brave-new-world-2025/"
+          }
+        ]
+      },
+      {
+        "name": "Accountability",
+        "score": 4,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Ross resigns and accepts imprisonment.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/captain-america-brave-new-world-2025/"
+          }
+        ]
+      },
+      {
+        "name": "Coercion",
+        "score": 5,
+        "type": "harmful",
+        "portrayal": "criticized",
+        "evidence": "People are mentally compelled to attack others.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/captain-america-brave-new-world-2025/"
+          }
+        ]
+      },
+      {
+        "name": "Abuse of power",
+        "score": 4,
+        "type": "harmful",
+        "portrayal": "criticized",
+        "evidence": "Isaiah endured government experimentation and unjust imprisonment.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/captain-america-brave-new-world-2025/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Available scene descriptions do not establish a film-wide prominence score.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Partial nudity",
+        "details": "Ross's clothing tears during his transformation and exposes his torso.",
+        "severity": "Mild",
+        "sourceUrl": "https://raisingchildren.net.au/guides/movie-reviews/captain-america-brave-new-world"
+      },
+      {
+        "name": "Language",
+        "details": "Dialogue includes repeated profanity and religious exclamations.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/captain-america-brave-new-world-2025/"
+      },
+      {
+        "name": "Violence and distress",
+        "details": "A mind-controlled assailant apparently dies by suicide off camera. Joaquin suffers burns.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/captain-america-brave-new-world-2025/"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "A priest and two nuns bless Sam after he frees them.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/captain-america-brave-new-world-2025/"
+      },
+      {
+        "name": "Substance use",
+        "details": "Sam drinks champagne in a limousine.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/captain-america-brave-new-world-2025/"
+      }
+    ],
+    "scripture": [
+      "Matthew 5:9"
+    ],
+    "themeScripture": {
+      "reference": "Matthew 5:9",
+      "translation": "KJV",
+      "text": "Blessed are the peacemakers: for they shall be called the children of God.",
+      "url": "https://www.biblegateway.com/passage/?search=Matthew%205%3A9&version=KJV",
+      "connection": "Christ’s blessing on peacemakers invites a question about Betty’s visit. What can she offer her father while leaving him responsible for repairing the harm he did?"
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 15 on Matthew",
+      "section": "Section 7, on Matthew 5:9",
+      "text": "Yea, for this became the work of the Only Begotten, to unite the divided, and to reconcile the alienated.",
+      "url": "https://www.newadvent.org/fathers/200115.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "Betty visits her father",
+        "filmMoment": "Betty visits Ross in prison after he accepts responsibility.",
+        "scriptureReference": "Matthew 5:9",
+        "reflection": "Christ’s blessing on peacemakers invites a question about Betty’s visit. What can she offer her father while leaving him responsible for repairing the harm he did?",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/captain-america-brave-new-world-2025/"
+      }
+    ],
+    "questions": [
+      "Why does Sam bring Isaiah to the White House?",
+      "What does Sam know about Isaiah that the other witnesses do not?",
+      "How does Bucky’s encouragement shape what Sam can offer Joaquin?",
+      "What does Ross give up when he accepts responsibility?",
+      "What can Betty’s visit accomplish that an official pardon could never do?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Ross's clothing tears during his transformation and exposes his torso."
+          ],
+          "evidence": [
+            {
+              "provider": "Raising Children Network",
+              "url": "https://raisingchildren.net.au/guides/movie-reviews/captain-america-brave-new-world",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Dialogue includes repeated profanity and religious exclamations."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/captain-america-brave-new-world-2025/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A mind-controlled assailant apparently dies by suicide off camera. Joaquin suffers burns."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/captain-america-brave-new-world-2025/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A priest and two nuns bless Sam after he frees them."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/captain-america-brave-new-world-2025/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Sam drinks champagne in a limousine."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/captain-america-brave-new-world-2025/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Betty visits Ross in prison after he accepts responsibility."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/captain-america-brave-new-world-2025/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2025-thunderbolts",
+    "title": "Thunderbolts*",
+    "year": 2025,
+    "genre": "Marvel · Live action",
+    "edition": "Original 2025 theatrical feature",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/thunderbolts-2025/"
+      },
+      {
+        "label": "Raising Children Network",
+        "url": "https://raisingchildren.net.au/guides/movie-reviews/thunderbolts"
+      },
+      {
+        "label": "BBFC",
+        "url": "https://www.bbfc.co.uk/release/thunderbolts-q29sbgvjdglvbjpwwc0xmdi0njqz"
+      }
+    ],
+    "officialRating": "PG-13",
+    "age": "16+",
+    "verdict": "edifying",
+    "synopsis": "Yelena crosses paths with other operatives sent into a trap and with Bob, a survivor of a secret experiment. The group must decide what they owe one another.",
+    "verdictRationale": "Yelena remembers playing goalkeeper on a team that never won. What she loved was being there when someone made a mistake. Her decision to stay with Bob carries that childhood understanding of loyalty into the hardest encounter in the film.",
+    "ageRationale": "A child is led to her death in a recurring memory. Other memories involve domestic abuse and addiction. The shadow consuming New York may distress viewers who identify with Bob’s despair.",
+    "reflection": "Yelena knows how to finish a mission and hide what it costs her. Being present for Bob asks something different of her. She has to tell the truth about her own loneliness and allow others to stay with her, too.",
+    "themes": [
+      {
+        "name": "Companionship",
+        "score": 5,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Yelena promises to stay with Bob in his distress.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/thunderbolts-2025/"
+          }
+        ]
+      },
+      {
+        "name": "Cooperation",
+        "score": 4,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "The former operatives work together to protect civilians.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/thunderbolts-2025/"
+          }
+        ]
+      },
+      {
+        "name": "Exploitation",
+        "score": 5,
+        "type": "harmful",
+        "portrayal": "criticized",
+        "evidence": "Val treats human subjects as expendable in pursuit of a superpowered asset.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/thunderbolts-2025/"
+          }
+        ]
+      },
+      {
+        "name": "Cruelty",
+        "score": 4,
+        "type": "harmful",
+        "portrayal": "criticized",
+        "evidence": "Yelena remembers the Red Room punishing children during training.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/thunderbolts-2025/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Available scene descriptions do not establish a film-wide prominence score.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Language",
+        "details": "Characters swear repeatedly and use religious names as exclamations.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/thunderbolts-2025/"
+      },
+      {
+        "name": "Violence and distress",
+        "details": "Yelena remembers leading another girl into the woods before an off-camera shooting.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/thunderbolts-2025/"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "The enhanced subject claims that his superior strength makes him a god.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/thunderbolts-2025/"
+      },
+      {
+        "name": "Substance use",
+        "details": "Bob describes methamphetamine addiction. Yelena drinks alone after work.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/thunderbolts-2025/"
+      }
+    ],
+    "scripture": [
+      "Galatians 6:2"
+    ],
+    "themeScripture": {
+      "reference": "Galatians 6:2",
+      "translation": "KJV",
+      "text": "Bear ye one another's burdens, and so fulfil the law of Christ.",
+      "url": "https://www.biblegateway.com/passage/?search=Galatians%206%3A2&version=KJV",
+      "connection": "Paul’s command to carry each other’s burdens describes something the team can actually do. Yelena cannot promise Bob that he will never hurt again. She can promise him company."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 11 on Ephesians",
+      "section": "On Ephesians 4:12",
+      "text": "Each one edifies, each one perfects, each one ministers.",
+      "url": "https://www.newadvent.org/fathers/230111.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "Staying with Bob",
+        "filmMoment": "Yelena offers to remain with Bob when she cannot take his suffering away.",
+        "scriptureReference": "Galatians 6:2",
+        "reflection": "Paul’s command to carry each other’s burdens describes something the team can actually do. Yelena cannot promise Bob that he will never hurt again. She can promise him company.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/thunderbolts-2025/"
+      }
+    ],
+    "questions": [
+      "Why does Alexei remember Yelena’s losing soccer team so fondly?",
+      "What does the Red Room flashback help you understand about Yelena’s evenings alone?",
+      "What does Val assume power entitles her to do to Bob?",
+      "How does the team’s response change when attacking the Void cannot reach Bob?",
+      "What might keeping Yelena’s promise look like after the fight?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "source_reports_not_present",
+          "findings": [
+            "The parental guide reports no nudity or sexual activity within its reviewed categories."
+          ],
+          "evidence": [
+            {
+              "provider": "Raising Children Network",
+              "url": "https://raisingchildren.net.au/guides/movie-reviews/thunderbolts",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Characters swear repeatedly and use religious names as exclamations."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/thunderbolts-2025/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Yelena remembers leading another girl into the woods before an off-camera shooting."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/thunderbolts-2025/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The enhanced subject claims that his superior strength makes him a god."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/thunderbolts-2025/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Bob describes methamphetamine addiction. Yelena drinks alone after work."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/thunderbolts-2025/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Yelena offers to remain with Bob when she cannot take his suffering away."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/thunderbolts-2025/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  }
+]
