@@ -219,6 +219,20 @@
       ],
       "remaining_missing_reviews": 76,
       "studio_status": "Private export timed out; no authenticated Studio session available. GitHub proposal readback verified."
+    },
+    {
+      "date": "2026-11-26",
+      "batch_file": "editorial/review-drafts-marvel-batch-06.json",
+      "branch": "editorial/review-completion",
+      "commit": "e84c714d4db793e71dc0e00530bfdf06a065bcf3",
+      "ledger_commit": "47a82cec3e98700e540dcd0a38aa1e6368cb2b65",
+      "film_ids": [
+        "marvel-2005-fantastic-four",
+        "marvel-2007-fantastic-four-rise-of-the-silver-surfer",
+        "marvel-2015-fantastic-four"
+      ],
+      "remaining_missing_reviews": 73,
+      "studio_status": "No authenticated private Studio session available. GitHub proposals and ledger verified by readback."
     }
   ],
   "stage4_batches": [
