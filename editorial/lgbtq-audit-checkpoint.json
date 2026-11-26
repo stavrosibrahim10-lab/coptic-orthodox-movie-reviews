@@ -6687,6 +6687,858 @@
           "studio_status": "repository_proposal_only_private_export_timed_out"
         }
       ]
+    },
+    {
+      "number": 9,
+      "date": "2026-11-26",
+      "review_completion_branch": "editorial/review-completion",
+      "review_completion_ledger": "editorial/review-completion.tsv",
+      "review_completion_ledger_blob": "625ecdc47c1d0ba670aa0b4a068a2e2ad38a9da6",
+      "films": [
+        {
+          "movie_id": "batch1-2005-the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe",
+          "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+          "year": 2005,
+          "version": "Original 2005 feature",
+          "review_baseline": "public/seed-reviews.js",
+          "review_baseline_blob": "65cf4053ad16b37541068fb57362e212670115b7",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/chroniclesofnarniathelionthewitchandthewardrobe/"
+          ],
+          "on_screen": "Aslan gives himself to the Witch in Edmund’s place. Susan and Lucy witness the humiliation and killing at the Stone Table.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/chroniclesofnarniathelionthewitchandthewardrobe/",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Aslan bears a cost Edmund could never repay. Edmund can return to his family because mercy takes a concrete form.",
+            "age": "10+",
+            "age_rationale": "The sisters watch someone they love die at the hands of a jeering crowd. The later return of Aslan does not shorten that vigil for a young viewer.",
+            "age_source": "https://www.pluggedin.com/movie-reviews/chroniclesofnarniathelionthewitchandthewardrobe/",
+            "theme_ratings": [
+              {
+                "name": "Sacrificial love",
+                "score": 5,
+                "evidence": "Aslan goes to the Stone Table for Edmund.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/chroniclesofnarniathelionthewitchandthewardrobe/"
+                ]
+              },
+              {
+                "name": "Betrayal",
+                "score": 4,
+                "evidence": "Edmund gives the Witch information about his siblings.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/chroniclesofnarniathelionthewitchandthewardrobe/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "Reviewed scenes establish no film-wide prominence score.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/chroniclesofnarniathelionthewitchandthewardrobe/"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "John 15:13",
+            "translation": "KJV",
+            "scripture_text": "Greater love hath no man than this, that a man lay down his life for his friends.",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=John%2015%3A13&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 15 on Matthew",
+            "patristic_section": "Section 7, on Matthew 5:9",
+            "patristic_text": "Yea, for this became the work of the Only Begotten, to unite the divided, and to reconcile the alienated.",
+            "patristic_source": "https://www.newadvent.org/fathers/200115.htm",
+            "biblical_parallel": {
+              "filmMoment": "Aslan gives himself to the Witch in Edmund’s place. Susan and Lucy witness the humiliation and killing at the Stone Table.",
+              "scriptureReference": "John 15:13",
+              "reflection": "Aslan’s free choice to stand in Edmund’s place invites reflection on Christ’s words about laying down one’s life. The sisters’ vigil also gives children a way to speak about grief before they speak about victory.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/chroniclesofnarniathelionthewitchandthewardrobe/",
+              "title": "Aslan at the Stone Table"
+            },
+            "proposed_family_questions": [
+              "What makes the Witch’s first offer attractive to Edmund?",
+              "When does Edmund realize what his bargain has cost others?",
+              "What does Aslan ask the siblings to do when Edmund comes back?",
+              "Why do Susan and Lucy stay near the Stone Table?",
+              "How does Aslan’s return change what the sisters can tell their brothers?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_private_export_timed_out"
+        },
+        {
+          "movie_id": "batch1-2021-luca",
+          "title": "Luca",
+          "year": 2021,
+          "version": "Original 2021 feature",
+          "review_baseline": "public/seed-reviews.js",
+          "review_baseline_blob": "65cf4053ad16b37541068fb57362e212670115b7",
+          "status": "proposal_saved",
+          "sources": [
+            "https://raisingchildren.net.au/guides/movie-reviews/luca"
+          ],
+          "on_screen": "Alberto collects objects discarded from a boat and introduces Luca to life on land. The boys can pass as human while dry.",
+          "on_screen_source": "https://raisingchildren.net.au/guides/movie-reviews/luca",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Luca’s freedom to explore begins with someone willing to show him an unfamiliar world. His fear of what the town thinks tests whether he will extend that same welcome to Alberto.",
+            "age": "7+",
+            "age_rationale": "Threats against sea monsters and the discovery that Alberto has been left alone may need explanation for younger children.",
+            "age_source": "https://raisingchildren.net.au/guides/movie-reviews/luca",
+            "theme_ratings": [
+              {
+                "name": "Friendship",
+                "score": 5,
+                "evidence": "Alberto takes Luca onto land and shows him how to live there.",
+                "sources": [
+                  "https://raisingchildren.net.au/guides/movie-reviews/luca"
+                ]
+              },
+              {
+                "name": "Fear of rejection",
+                "score": 4,
+                "evidence": "The boys hide their sea-monster forms in town.",
+                "sources": [
+                  "https://raisingchildren.net.au/guides/movie-reviews/luca"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "Reviewed scenes establish no film-wide prominence score.",
+            "sources": [
+              "https://raisingchildren.net.au/guides/movie-reviews/luca"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "Galatians 6:2",
+            "translation": "KJV",
+            "scripture_text": "Bear ye one another's burdens, and so fulfil the law of Christ.",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Galatians%206%3A2&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 11 on Ephesians",
+            "patristic_section": "On Ephesians 4:12",
+            "patristic_text": "Each one edifies, each one perfects, each one ministers.",
+            "patristic_source": "https://www.newadvent.org/fathers/230111.htm",
+            "biblical_parallel": {
+              "filmMoment": "Alberto collects objects discarded from a boat and introduces Luca to life on land. The boys can pass as human while dry.",
+              "scriptureReference": "Galatians 6:2",
+              "reflection": "The two friends share a secret in Portorosso. Sharing another’s burden becomes difficult precisely when helping means risking discovery yourself.",
+              "sourceUrl": "https://raisingchildren.net.au/guides/movie-reviews/luca",
+              "title": "Sharing a secret in Portorosso"
+            },
+            "proposed_family_questions": [
+              "Why does Alberto collect things from the human world?",
+              "What does Luca learn on his first trip onto land that he could never learn by watching?",
+              "Why does getting wet mean something different to Giulia than it does to the boys?",
+              "How does learning about Alberto’s father change the way you understand his confidence?",
+              "When does being a friend require Luca to risk what the town thinks of him?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_private_export_timed_out",
+          "creator_context": {
+            "note": "Casarosa discussed the possibility of romance during development. The interview also describes a childhood friendship as inspiration. Neither fact establishes an on-screen romantic scene.",
+            "source": "https://www.independent.co.uk/arts-entertainment/films/news/luca-disney-pixar-gay-b1988266.html"
+          }
+        },
+        {
+          "movie_id": "batch1-2019-klaus",
+          "title": "Klaus",
+          "year": 2019,
+          "version": "Original 2019 feature",
+          "review_baseline": "public/seed-reviews.js",
+          "review_baseline_blob": "65cf4053ad16b37541068fb57362e212670115b7",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/klaus-2019/"
+          ],
+          "on_screen": "Klaus finds a child’s drawing and has Jesper deliver a toy. Alva later spends her own savings to equip a school.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/klaus-2019/",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "A gift to one lonely child begins to undo a feud adults have taught for generations. Alva’s decision to spend her savings shows how far the change travels beyond the original pair.",
+            "age": "10+",
+            "age_rationale": "The two families’ violent feud and Klaus’s grief for his wife give the comedy a current of menace and loss.",
+            "age_source": "https://www.pluggedin.com/movie-reviews/klaus-2019/",
+            "theme_ratings": [
+              {
+                "name": "Generosity",
+                "score": 5,
+                "evidence": "Alva buys supplies for village children from her savings.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/klaus-2019/"
+                ]
+              },
+              {
+                "name": "Self-interest",
+                "score": 4,
+                "evidence": "Jesper initially wants letters so he can regain his comfortable life.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/klaus-2019/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "Reviewed scenes establish no film-wide prominence score.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/klaus-2019/"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "Romans 12:21",
+            "translation": "KJV",
+            "scripture_text": "Be not overcome of evil, but overcome evil with good.",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Romans%2012%3A21&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 22 on Romans",
+            "patristic_section": "On Romans 12:20–21",
+            "patristic_text": "For I even insist upon your doing kindness.",
+            "patristic_source": "https://www.newadvent.org/fathers/210222.htm",
+            "biblical_parallel": {
+              "filmMoment": "Klaus finds a child’s drawing and has Jesper deliver a toy. Alva later spends her own savings to equip a school.",
+              "scriptureReference": "Romans 12:21",
+              "reflection": "Klaus has good reason to keep away from the feuding village. Giving a child a toy is one piece of good he can do before anyone agrees to make peace.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/klaus-2019/",
+              "title": "The first toy delivery"
+            },
+            "proposed_family_questions": [
+              "What does Klaus see in the drawing that Jesper overlooks?",
+              "What does Jesper hope to get from the first letters?",
+              "Why do the children start helping one another?",
+              "What changes for the town when Alva spends her savings?",
+              "How could Jesper repair trust once his reason for delivering the toys is known?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_private_export_timed_out"
+        },
+        {
+          "movie_id": "batch1-2008-kung-fu-panda",
+          "title": "Kung Fu Panda",
+          "year": 2008,
+          "version": "Original 2008 feature",
+          "review_baseline": "public/seed-reviews.js",
+          "review_baseline_blob": "65cf4053ad16b37541068fb57362e212670115b7",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/kungfupanda/"
+          ],
+          "on_screen": "Shifu first tries to drive Po away. Later he trains him, asks the Five to protect the villagers, and faces Tai Lung himself.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/kungfupanda/",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Shifu’s hardest lesson is to teach the student in front of him. He also acknowledges to Tai Lung that his pride as a teacher contributed to the harm.",
+            "age": "10+",
+            "age_rationale": "The prison escape and prolonged martial-arts fights include frightening threats and blows that children may be tempted to imitate.",
+            "age_source": "https://www.pluggedin.com/movie-reviews/kungfupanda/",
+            "theme_ratings": [
+              {
+                "name": "Humility",
+                "score": 4,
+                "evidence": "Shifu apologizes to Tai Lung for what his pride did.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/kungfupanda/"
+                ]
+              },
+              {
+                "name": "Service",
+                "score": 5,
+                "evidence": "The Five put the safety of villagers ahead of fighting Tai Lung.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/kungfupanda/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "Reviewed scenes establish no film-wide prominence score.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/kungfupanda/"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "Galatians 6:2",
+            "translation": "KJV",
+            "scripture_text": "Bear ye one another's burdens, and so fulfil the law of Christ.",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Galatians%206%3A2&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 11 on Ephesians",
+            "patristic_section": "On Ephesians 4:12",
+            "patristic_text": "Each one edifies, each one perfects, each one ministers.",
+            "patristic_source": "https://www.newadvent.org/fathers/230111.htm",
+            "biblical_parallel": {
+              "filmMoment": "Shifu first tries to drive Po away. Later he trains him, asks the Five to protect the villagers, and faces Tai Lung himself.",
+              "scriptureReference": "Galatians 6:2",
+              "reflection": "The Five have trained to fight, yet carrying their neighbors’ burden now means escorting them to safety. A gift can serve people in a quieter way than its owner imagines.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/kungfupanda/",
+              "title": "The Five protect the villagers"
+            },
+            "proposed_family_questions": [
+              "Why do the Five see Po as an insult when he first arrives?",
+              "What does Shifu have to change before Po can learn from him?",
+              "What does Mr. Ping give his son when he accepts Po’s calling?",
+              "Why send the Five to help villagers when they could fight?",
+              "What can Shifu’s apology to Tai Lung repair, and what damage still remains?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_private_export_timed_out"
+        },
+        {
+          "movie_id": "marvel-2022-black-panther-wakanda-forever",
+          "title": "Black Panther: Wakanda Forever",
+          "year": 2022,
+          "version": "Original US theatrical release (2022)",
+          "review_baseline": "editorial/review-drafts-marvel-batch-10.json",
+          "review_baseline_blob": "150dae1625f1dc714b70ff0df8965d84c217ccc0",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/black-panther-wakanda-forever-2022/",
+            "https://www.bbfc.co.uk/release/black-panther-wakanda-forever-q29sbgvjdglvbjpwwc0xmda2mzq0",
+            "https://time.com/6232539/black-panther-wakanda-forever-post-credits-scene/",
+            "https://www.vanityfair.com/hollywood/2022/11/black-panther-kuwait-lgbtq-cut"
+          ],
+          "on_screen": "Aneka kisses Ayo on the forehead; their brief exchange was removed for release in Kuwait.",
+          "on_screen_source": "https://www.vanityfair.com/hollywood/2022/11/black-panther-kuwait-lgbtq-cut",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Riri has no army and little say in what others do with her invention. Shuri’s refusal to surrender her is a reason to admire the princess. Grief also makes retaliation tempting. The story invites sympathy for that struggle while framing it through encounters with ancestors and Wakandan deities that call for discernment.",
+            "age": "13+",
+            "age_rationale": "A drowning and two family bereavements give the battles lasting consequences. A child grieving someone close may find the quiet beach scene harder than the combat.",
+            "age_source": "https://www.pluggedin.com/movie-reviews/black-panther-wakanda-forever-2022/",
+            "theme_ratings": [
+              {
+                "name": "Protection of the vulnerable",
+                "score": 5,
+                "evidence": "Shuri and her mother take responsibility for Riri when Namor demands her life.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/black-panther-wakanda-forever-2022/"
+                ]
+              },
+              {
+                "name": "Loyalty",
+                "score": 4,
+                "evidence": "Okoye continues to serve Wakanda after losing her position.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/black-panther-wakanda-forever-2022/"
+                ]
+              },
+              {
+                "name": "Coercion",
+                "score": 4,
+                "evidence": "Namor makes a young inventor’s death the price of security.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/black-panther-wakanda-forever-2022/"
+                ]
+              },
+              {
+                "name": "Retaliation",
+                "score": 4,
+                "evidence": "Shuri’s confidants urge compassion as her grief hardens into anger.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/black-panther-wakanda-forever-2022/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": 1,
+            "observation": "One brief affectionate exchange in the US theatrical feature. The Kuwait cut omits this scene; its omission does not establish a separate film-wide zero.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/black-panther-wakanda-forever-2022/",
+              "https://www.vanityfair.com/hollywood/2022/11/black-panther-kuwait-lgbtq-cut"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "Romans 12:21",
+            "translation": "KJV",
+            "scripture_text": "Be not overcome of evil, but overcome evil with good.",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Romans%2012%3A21&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 22 on Romans",
+            "patristic_section": "On Romans 12:20–21",
+            "patristic_text": "For I even insist upon your doing kindness.",
+            "patristic_source": "https://www.newadvent.org/fathers/210222.htm",
+            "biblical_parallel": {
+              "title": "Protecting the inventor",
+              "filmMoment": "Shuri risks herself for the inventor whose work has exposed her country to danger.",
+              "scriptureReference": "Romans 12:21",
+              "reflection": "Paul’s words give a family a way to judge Shuri’s response. Riri’s machine may be dangerous, yet its maker is still a neighbor to whom Shuri can do good.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/black-panther-wakanda-forever-2022/"
+            },
+            "proposed_family_questions": [
+              "What does Namor assume about Riri’s responsibility for the use of her detector?",
+              "What would handing Riri over have taught other young people about Wakanda?",
+              "How does losing her rank test what Okoye means by loyalty?",
+              "Why do Ramonda and Shuri speak so differently about T’Challa after his death?",
+              "On the beach in Haiti, what changes for Shuri when Nakia introduces the child?"
+            ],
+            "verification": "Checked quotation wording and the five questions against the saved proposal. Original draft preserved."
+          },
+          "studio_status": "repository_proposal_only_private_export_timed_out"
+        },
+        {
+          "movie_id": "marvel-2023-guardians-of-the-galaxy-vol-3",
+          "title": "Guardians of the Galaxy Vol. 3",
+          "year": 2023,
+          "version": "Original US theatrical release (2023)",
+          "review_baseline": "editorial/review-drafts-marvel-batch-10.json",
+          "review_baseline_blob": "150dae1625f1dc714b70ff0df8965d84c217ccc0",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-vol-3-2023/",
+            "https://www.bbfc.co.uk/release/guardians-of-the-galaxy-vol-3-q29sbgvjdglvbjpwwc0xmda5ode4",
+            "https://time.com/6277241/guardians-of-the-galaxy-vol-3-post-credits-explained/",
+            "https://www.commonsensemedia.org/movie-reviews/guardians-of-the-galaxy-vol-3"
+          ],
+          "on_screen": "Rocket and other captive animals are subjected to painful experiments. Mantis separately causes a male guard to flirt with Drax.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-vol-3-2023/",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "The High Evolutionary values creatures according to how well they fit his design. Rocket’s friends risk themselves for someone who cannot repay them. When Drax stays to care for the rescued children, the story gives ordinary, lasting care the same dignity as the rescue.",
+            "age": "16+",
+            "age_rationale": "Experiments on frightened animals, a mutilated face and the destruction of an inhabited world can be especially distressing. Strong profanity and a prolonged portrayal of animal suffering inform the older-teen recommendation.",
+            "age_source": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-vol-3-2023/",
+            "theme_ratings": [
+              {
+                "name": "Loyalty",
+                "score": 5,
+                "evidence": "The team seeks the code that could save Rocket’s life.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-vol-3-2023/"
+                ]
+              },
+              {
+                "name": "Care for children",
+                "score": 4,
+                "evidence": "Drax and Nebula stay on Knowhere to care for the rescued children.",
+                "sources": [
+                  "https://time.com/6277241/guardians-of-the-galaxy-vol-3-post-credits-explained/"
+                ]
+              },
+              {
+                "name": "Cruelty",
+                "score": 5,
+                "evidence": "The High Evolutionary subjects captive animals to painful transformations.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-vol-3-2023/"
+                ]
+              },
+              {
+                "name": "Manipulation",
+                "score": 3,
+                "evidence": "Mantis alters a guard’s feelings for her own amusement and convenience.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-vol-3-2023/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": 1,
+            "observation": "Mantis makes a male guard flirt with Drax by altering his feelings. Drax is uncomfortable. The brief flirtation is induced by Mantis. The scene establishes neither man's orientation.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-vol-3-2023/"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "Galatians 6:2",
+            "translation": "KJV",
+            "scripture_text": "Bear ye one another's burdens, and so fulfil the law of Christ.",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Galatians%206%3A2&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 11 on Ephesians",
+            "patristic_section": "On Ephesians 4:12",
+            "patristic_text": "Each one edifies, each one perfects, each one ministers.",
+            "patristic_source": "https://www.newadvent.org/fathers/230111.htm",
+            "biblical_parallel": {
+              "title": "Who stays after the rescue?",
+              "filmMoment": "Drax and Nebula stay on Knowhere with children rescued from the High Evolutionary.",
+              "scriptureReference": "Galatians 6:2",
+              "reflection": "Paul asks Christians to carry one another’s burdens. For the children, rescue leaves a practical question about where they will live and who will look after them. Drax and Nebula answer by staying.",
+              "sourceUrl": "https://time.com/6277241/guardians-of-the-galaxy-vol-3-post-credits-explained/"
+            },
+            "proposed_family_questions": [
+              "What does Gamora initially miss when she asks why the team would do so much for Rocket?",
+              "What difference did companionship make for the animals in captivity?",
+              "Why is Drax’s discomfort with the guard worth taking seriously even though Mantis laughs?",
+              "What does Mantis know about grief that helps Quill reconsider his grandfather?",
+              "What might the rescued children need from Drax on their second day on Knowhere?"
+            ],
+            "verification": "Checked quotation wording and the five questions against the saved proposal. Original draft preserved."
+          },
+          "studio_status": "repository_proposal_only_private_export_timed_out"
+        },
+        {
+          "movie_id": "marvel-2022-morbius",
+          "title": "Morbius",
+          "year": 2022,
+          "version": "Original 2022 theatrical feature",
+          "review_baseline": "editorial/review-drafts-marvel-batch-11.json",
+          "review_baseline_blob": "cf80537972beba79446204c560c0e6008e5e9b2c",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/morbius-2022/",
+            "https://www.bbfc.co.uk/release/morbius-q29sbgvjdglvbjpwwc00otmzmja",
+            "https://ew.com/movies/morbius-reactions-jared-leto-matt-smith-abs/",
+            "https://raisingchildren.net.au/guides/movie-reviews/morbius"
+          ],
+          "on_screen": "Michael uses a pen to repair the failing equipment keeping Milo alive. Dr Nicholas then arranges a scholarship for Michael.",
+          "on_screen_source": "https://raisingchildren.net.au/guides/movie-reviews/morbius",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "As a child, Michael repairs Milo’s medical equipment with a pen spring. As a doctor, he must face a harder question: who bears the cost of his own recovery? His wish to heal is understandable. The deaths following his experiment make the price of pursuing it impossible to dismiss.",
+            "age": "16+",
+            "age_rationale": "The film dwells on a child losing access to a transfusion, transformed faces, neck wounds and people being stalked for blood. These images may be especially difficult for teens familiar with hospital treatment.",
+            "age_source": "https://www.pluggedin.com/movie-reviews/morbius-2022/",
+            "theme_ratings": [
+              {
+                "name": "Resourcefulness in service",
+                "score": 5,
+                "evidence": "Michael repairs a failing machine with a pen spring.",
+                "sources": [
+                  "https://ew.com/movies/morbius-reactions-jared-leto-matt-smith-abs/"
+                ]
+              },
+              {
+                "name": "Care for the sick",
+                "score": 4,
+                "evidence": "A physician opens an educational opportunity for young Michael.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/morbius-2022/"
+                ]
+              },
+              {
+                "name": "Predation",
+                "score": 5,
+                "evidence": "People are stalked and drained of blood.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/morbius-2022/"
+                ]
+              },
+              {
+                "name": "Cruelty",
+                "score": 3,
+                "evidence": "Michael breaks the bones in a man's hand.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/morbius-2022/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "Available scene descriptions do not establish a film-wide prominence score.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/morbius-2022/"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "Galatians 6:2",
+            "translation": "KJV",
+            "scripture_text": "Bear ye one another's burdens, and so fulfil the law of Christ.",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Galatians+6%3A2&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 11 on Ephesians",
+            "patristic_section": "On Ephesians 4:12",
+            "patristic_text": "Each one edifies, each one perfects, each one ministers.",
+            "patristic_source": "https://www.newadvent.org/fathers/230111.htm",
+            "biblical_parallel": {
+              "title": "One boy beside another",
+              "filmMoment": "Young Michael repairs the equipment keeping his friend alive.",
+              "scriptureReference": "Galatians 6:2",
+              "reflection": "Paul describes bearing another person’s burden. Both boys depend on treatment, yet Michael can still notice his friend’s need and offer practical help.",
+              "sourceUrl": "https://ew.com/movies/morbius-reactions-jared-leto-matt-smith-abs/"
+            },
+            "proposed_family_questions": [
+              "What does the broken machine tell us about Michael and Milo before either has powers?",
+              "What does the doctor see in Michael that a medical chart could miss?",
+              "When the artificial blood begins to lose its effect, whom does Michael have a duty to protect?",
+              "How do Milo’s choices change the meaning of the cure they once wanted together?",
+              "Where do you see a difference between Michael protecting Martine and Michael deciding what risks she should take?"
+            ],
+            "verification": "Checked quotation wording and the five questions against the saved proposal. Original draft preserved."
+          },
+          "studio_status": "repository_proposal_only_private_export_timed_out"
+        },
+        {
+          "movie_id": "marvel-2024-madame-web",
+          "title": "Madame Web",
+          "year": 2024,
+          "version": "Original 2024 theatrical feature",
+          "review_baseline": "editorial/review-drafts-marvel-batch-11.json",
+          "review_baseline_blob": "cf80537972beba79446204c560c0e6008e5e9b2c",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/madame-web-2024/",
+            "https://www.bbfc.co.uk/release/madame-web-q29sbgvjdglvbjpwwc0xmde3mzex",
+            "https://www.highonfilms.com/madame-web-2024-movie-ending-explained/",
+            "https://raisingchildren.net.au/guides/movie-reviews/madame-web"
+          ],
+          "on_screen": "Cassie’s near-drowning precedes the onset of her visions. The teen girls are targeted for events that Sims foresees.",
+          "on_screen_source": "https://raisingchildren.net.au/guides/movie-reviews/madame-web",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Cassie gives the girls something her visions alone cannot give them: a skill they can use for someone else. The rescue at the end pays off that quiet lesson. Her growing willingness to depend on the three girls makes her care for them credible.",
+            "age": "16+",
+            "age_rationale": "A man repeatedly attacks teenagers in visions, including a neck-breaking assault. Knowing that Cassie can sometimes change the outcome may offer little comfort while a child is watching. Drowning and attempted resuscitation recur.",
+            "age_source": "https://www.pluggedin.com/movie-reviews/madame-web-2024/",
+            "theme_ratings": [
+              {
+                "name": "Service",
+                "score": 5,
+                "evidence": "Cassie teaches the girls a skill they later use to revive her.",
+                "sources": [
+                  "https://www.highonfilms.com/madame-web-2024-movie-ending-explained/"
+                ]
+              },
+              {
+                "name": "Solidarity",
+                "score": 4,
+                "evidence": "Julia, Anya and Mattie work together when Cassie is helpless.",
+                "sources": [
+                  "https://www.highonfilms.com/madame-web-2024-movie-ending-explained/"
+                ]
+              },
+              {
+                "name": "Preemptive violence",
+                "score": 5,
+                "evidence": "Sims hunts teenagers after seeing a possible future death.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/madame-web-2024/"
+                ]
+              },
+              {
+                "name": "Betrayal",
+                "score": 4,
+                "evidence": "Sims turns on Cassie’s mother during the expedition.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/madame-web-2024/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "Available scene descriptions do not establish a film-wide prominence score.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/madame-web-2024/"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "Galatians 6:2",
+            "translation": "KJV",
+            "scripture_text": "Bear ye one another's burdens, and so fulfil the law of Christ.",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Galatians+6%3A2&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 11 on Ephesians",
+            "patristic_section": "On Ephesians 4:12",
+            "patristic_text": "Each one edifies, each one perfects, each one ministers.",
+            "patristic_source": "https://www.newadvent.org/fathers/230111.htm",
+            "biblical_parallel": {
+              "title": "When the students become the rescuers",
+              "filmMoment": "Julia, Anya and Mattie revive Cassie using the CPR she taught them.",
+              "scriptureReference": "Galatians 6:2",
+              "reflection": "Bearing someone’s burden can mean letting others take a turn. The skill Cassie passed on becomes the very thing she needs from the girls.",
+              "sourceUrl": "https://www.highonfilms.com/madame-web-2024-movie-ending-explained/"
+            },
+            "proposed_family_questions": [
+              "Why does Sims treat his vision as sufficient reason to hunt the girls?",
+              "What does Cassie learn about her mother that changes how she understands the trip to Peru?",
+              "How is the CPR lesson different from Cassie telling the teenagers where to hide?",
+              "What would the final rescue lose if Cassie could simply foresee her own way out?",
+              "Which experience gives Julia, Anya and Mattie a reason to trust one another?"
+            ],
+            "verification": "Checked quotation wording and the five questions against the saved proposal. Original draft preserved."
+          },
+          "studio_status": "repository_proposal_only_private_export_timed_out"
+        },
+        {
+          "movie_id": "marvel-2025-captain-america-brave-new-world",
+          "title": "Captain America: Brave New World",
+          "year": 2025,
+          "version": "Original 2025 theatrical feature",
+          "review_baseline": "editorial/review-drafts-marvel-batch-12.json",
+          "review_baseline_blob": "74d085c60eea19de8b6ae22d2a5d57f1d86f7581",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/captain-america-brave-new-world-2025/",
+            "https://raisingchildren.net.au/guides/movie-reviews/captain-america-brave-new-world",
+            "https://www.bbfc.co.uk/release/captain-america-brave-new-world-q29sbgvjdglvbjpwwc0xmdiyodmz"
+          ],
+          "on_screen": "Isaiah attacks during the White House gathering and recalls nothing afterward. Sam investigates who controlled him.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/captain-america-brave-new-world-2025/",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Sam protects the people at the reception and takes Isaiah’s account seriously. Knowing how his friend was treated in the past gives him reason to ask who took away Isaiah’s freedom to choose.",
+            "age": "16+",
+            "age_rationale": "An apparent suicide occurs off camera. Burn injuries, bloody aftermaths and sustained combat make this a choice for older teens.",
+            "age_source": "https://www.pluggedin.com/movie-reviews/captain-america-brave-new-world-2025/",
+            "theme_ratings": [
+              {
+                "name": "Loyalty",
+                "score": 5,
+                "evidence": "Sam investigates after Isaiah says he cannot recall the attack.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/captain-america-brave-new-world-2025/"
+                ]
+              },
+              {
+                "name": "Accountability",
+                "score": 4,
+                "evidence": "Ross resigns and accepts imprisonment.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/captain-america-brave-new-world-2025/"
+                ]
+              },
+              {
+                "name": "Coercion",
+                "score": 5,
+                "evidence": "People are mentally compelled to attack others.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/captain-america-brave-new-world-2025/"
+                ]
+              },
+              {
+                "name": "Abuse of power",
+                "score": 4,
+                "evidence": "Isaiah endured government experimentation and unjust imprisonment.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/captain-america-brave-new-world-2025/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "Available scene descriptions do not establish a film-wide prominence score.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/captain-america-brave-new-world-2025/"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "Matthew 5:9",
+            "translation": "KJV",
+            "scripture_text": "Blessed are the peacemakers: for they shall be called the children of God.",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Matthew%205%3A9&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 15 on Matthew",
+            "patristic_section": "Section 7, on Matthew 5:9",
+            "patristic_text": "Yea, for this became the work of the Only Begotten, to unite the divided, and to reconcile the alienated.",
+            "patristic_source": "https://www.newadvent.org/fathers/200115.htm",
+            "biblical_parallel": {
+              "title": "Betty visits her father",
+              "filmMoment": "Betty visits Ross in prison after he accepts responsibility.",
+              "scriptureReference": "Matthew 5:9",
+              "reflection": "Christ’s blessing on peacemakers invites a question about Betty’s visit. What can she offer her father while leaving him responsible for repairing the harm he did?",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/captain-america-brave-new-world-2025/"
+            },
+            "proposed_family_questions": [
+              "Why does Sam bring Isaiah to the White House?",
+              "What does Sam know about Isaiah that the other witnesses do not?",
+              "How does Bucky’s encouragement shape what Sam can offer Joaquin?",
+              "What does Ross give up when he accepts responsibility?",
+              "What can Betty’s visit accomplish that an official pardon could never do?"
+            ],
+            "verification": "Checked quotation wording and the five questions against the saved proposal. Original draft preserved."
+          },
+          "studio_status": "repository_proposal_only_private_export_timed_out"
+        },
+        {
+          "movie_id": "marvel-2025-thunderbolts",
+          "title": "Thunderbolts*",
+          "year": 2025,
+          "version": "Original 2025 theatrical feature",
+          "review_baseline": "editorial/review-drafts-marvel-batch-12.json",
+          "review_baseline_blob": "74d085c60eea19de8b6ae22d2a5d57f1d86f7581",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/thunderbolts-2025/",
+            "https://raisingchildren.net.au/guides/movie-reviews/thunderbolts",
+            "https://www.bbfc.co.uk/release/thunderbolts-q29sbgvjdglvbjpwwc0xmdi0njqz"
+          ],
+          "on_screen": "The group tries to escape the vault. Bob draws fire so the others can get away, and Val captures him.",
+          "on_screen_source": "https://raisingchildren.net.au/guides/movie-reviews/thunderbolts",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Yelena remembers playing goalkeeper on a team that never won. What she loved was being there when someone made a mistake. Her decision to stay with Bob carries that childhood understanding of loyalty into the hardest encounter in the film.",
+            "age": "16+",
+            "age_rationale": "A child is led to her death in a recurring memory. Other memories involve domestic abuse and addiction. The shadow consuming New York may distress viewers who identify with Bob’s despair.",
+            "age_source": "https://www.pluggedin.com/movie-reviews/thunderbolts-2025/",
+            "theme_ratings": [
+              {
+                "name": "Companionship",
+                "score": 5,
+                "evidence": "Yelena promises to stay with Bob in his distress.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/thunderbolts-2025/"
+                ]
+              },
+              {
+                "name": "Cooperation",
+                "score": 4,
+                "evidence": "The former operatives work together to protect civilians.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/thunderbolts-2025/"
+                ]
+              },
+              {
+                "name": "Exploitation",
+                "score": 5,
+                "evidence": "Val treats human subjects as expendable in pursuit of a superpowered asset.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/thunderbolts-2025/"
+                ]
+              },
+              {
+                "name": "Cruelty",
+                "score": 4,
+                "evidence": "Yelena remembers the Red Room punishing children during training.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/thunderbolts-2025/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "Available scene descriptions do not establish a film-wide prominence score.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/thunderbolts-2025/"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "Galatians 6:2",
+            "translation": "KJV",
+            "scripture_text": "Bear ye one another's burdens, and so fulfil the law of Christ.",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Galatians%206%3A2&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 11 on Ephesians",
+            "patristic_section": "On Ephesians 4:12",
+            "patristic_text": "Each one edifies, each one perfects, each one ministers.",
+            "patristic_source": "https://www.newadvent.org/fathers/230111.htm",
+            "biblical_parallel": {
+              "title": "Staying with Bob",
+              "filmMoment": "Yelena offers to remain with Bob when she cannot take his suffering away.",
+              "scriptureReference": "Galatians 6:2",
+              "reflection": "Paul’s command to carry each other’s burdens describes something the team can actually do. Yelena cannot promise Bob that he will never hurt again. She can promise him company.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/thunderbolts-2025/"
+            },
+            "proposed_family_questions": [
+              "Why does Alexei remember Yelena’s losing soccer team so fondly?",
+              "What does the Red Room flashback help you understand about Yelena’s evenings alone?",
+              "What does Val assume power entitles her to do to Bob?",
+              "How does the team’s response change when attacking the Void cannot reach Bob?",
+              "What might keeping Yelena’s promise look like after the fight?"
+            ],
+            "verification": "Checked quotation wording and the five questions against the saved proposal. Original draft preserved."
+          },
+          "studio_status": "repository_proposal_only_private_export_timed_out"
+        }
+      ]
     }
   ]
 }
