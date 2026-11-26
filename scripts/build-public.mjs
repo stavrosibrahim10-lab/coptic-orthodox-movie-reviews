@@ -27,8 +27,7 @@ function meta(html,key,value,attribute='name'){
   const pattern=new RegExp('<meta '+attribute+'="'+key+'" content="[^"]*"\\s*/?>');
   return html.replace(pattern,()=>'<meta '+attribute+'="'+key+'" content="'+esc(value)+'">');
 }
-const directory='<section class="section"><div class="container"><h2>All movie pages</h2><details><summary>Open the full alphabetical movie directory ('+movies.length+')</summary><ul class="film-directory">'+[...movies].sort((a,b)=>a.title.localeCompare(b.title)||a.year-b.year).map(m=>'<li><a href="'+esc(moviePath(m))+'">'+esc(m.title)+' ('+esc(m.year)+')</a></li>').join('')+'</ul></details></div></section>';
-const homeHtml=main(template,home()+directory);
+const homeHtml=main(template,home());
 await fs.writeFile(path.join(root,'index.html'),homeHtml);
 const seen=new Set(),indexable=[SITE+'/'];
 for(const movie of movies){
