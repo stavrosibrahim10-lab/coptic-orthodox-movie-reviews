@@ -1,0 +1,2407 @@
+[
+  {
+    "id": "marvel-2015-ant-man",
+    "title": "Ant-Man",
+    "year": 2015,
+    "genre": "Marvel · Live action",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/ant-man/"
+      }
+    ],
+    "officialRating": "PG-13",
+    "age": "13+",
+    "verdict": "neutral",
+    "synopsis": "Scott Lang takes on a dangerous assignment from Hank Pym while trying to rebuild his relationship with his daughter Cassie.",
+    "verdictRationale": "Scott’s willingness to risk his life for Cassie is admirable. The film also makes burglaries entertaining and gives Scott’s crew little accountability.",
+    "ageRationale": "A man is reduced to a small mass by experimental technology, and the film includes gunfire, profanity and a sedative reference.",
+    "reflection": "A father’s repentance takes shape through choices he makes after the promise to change. Ask what Scott can do to rebuild trust through daily reliability as well as extraordinary courage.",
+    "themes": [
+      {
+        "name": "Second chances",
+        "score": 4,
+        "evidence": "Hank invites Scott to take responsibility after prison.",
+        "type": "positive",
+        "portrayal": "affirmed",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/ant-man/"
+          }
+        ]
+      },
+      {
+        "name": "Sacrificial love",
+        "score": 5,
+        "evidence": "Scott risks being trapped while trying to save Cassie.",
+        "type": "positive",
+        "portrayal": "affirmed",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/ant-man/"
+          }
+        ]
+      },
+      {
+        "name": "Family responsibility",
+        "score": 4,
+        "evidence": "Scott wants to become a dependable father to Cassie.",
+        "type": "harmful",
+        "portrayal": "mixed",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/ant-man/"
+          }
+        ]
+      },
+      {
+        "name": "Theft",
+        "score": 4,
+        "evidence": "Burglaries drive the story, and Scott’s crew faces little accountability.",
+        "type": "harmful",
+        "portrayal": "mixed",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/ant-man/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "No numeric assessment is supported by the available screening scope. Additional film-specific review is needed.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "severity": "Moderate",
+        "details": "Scott and Hope kiss, and Luis makes a sexual remark.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/ant-man/"
+      },
+      {
+        "name": "Language",
+        "severity": "Moderate",
+        "details": "Profanity and uses of God’s name as an exclamation occur.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/ant-man/"
+      },
+      {
+        "name": "Violence and peril",
+        "severity": "Strong",
+        "details": "Cross uses an experimental device to kill a man. Fights include gunfire and visible injury.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/ant-man/"
+      },
+      {
+        "name": "Spiritual material",
+        "severity": "Moderate",
+        "details": "Cross mentions his morning meditation.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/ant-man/"
+      },
+      {
+        "name": "Drinking and substance use",
+        "severity": "Moderate",
+        "details": "Hope says she has given several people part of a Xanax tablet, and people drink alcohol.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/ant-man/"
+      }
+    ],
+    "scripture": [
+      "John 15:13"
+    ],
+    "themeScripture": {
+      "reference": "John 15:13",
+      "url": "https://www.biblegateway.com/passage/?search=John%2015%3A13&version=KJV",
+      "connection": "Scott’s rescue can start a conversation about freely taking on a cost for someone else. Christ’s words point families toward the ordinary sacrifices that allow others to feel safe and loved.",
+      "translation": "KJV",
+      "text": "Greater love hath no man than this, that a man lay down his life for his friends."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 77 on the Gospel of John",
+      "section": "John 15:12–13",
+      "url": "https://www.newadvent.org/fathers/240177.htm",
+      "text": "Because this is the mark of the disciples, this the bond of virtue."
+    },
+    "biblicalParallels": [
+      {
+        "title": "Protecting someone at personal cost",
+        "filmMoment": "Scott enters the Quantum Realm to stop Cross and save Cassie.",
+        "scriptureReference": "John 15:13",
+        "reflection": "Scott’s rescue can start a conversation about freely taking on a cost for someone else. Christ’s words point families toward the ordinary sacrifices that allow others to feel safe and loved.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/ant-man/"
+      }
+    ],
+    "questions": [
+      "Why does Cassie want Scott in her life?",
+      "What does Hank see in Scott that others overlook?",
+      "How does Scott’s old crew affect his choices?",
+      "How could Scott make amends for earlier choices?",
+      "What does the final rescue tell us about Scott’s priorities?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Scott and Hope kiss, and Luis makes a sexual remark."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/ant-man/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Profanity and uses of God’s name as an exclamation occur."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/ant-man/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Cross uses an experimental device to kill a man. Fights include gunfire and visible injury."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/ant-man/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Cross mentions his morning meditation."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/ant-man/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Hope says she has given several people part of a Xanax tablet, and people drink alcohol."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/ant-man/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Hank offers Scott another chance, and Scott risks himself to protect Cassie."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/ant-man/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2015-avengers-age-of-ultron",
+    "title": "Avengers: Age of Ultron",
+    "year": 2015,
+    "genre": "Marvel · Live action",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/avengers-age-of-ultron/"
+      }
+    ],
+    "officialRating": "PG-13",
+    "age": "13+",
+    "verdict": "neutral",
+    "synopsis": "Tony Stark and Bruce Banner help create Ultron, whose plan to save humanity places civilians in danger.",
+    "verdictRationale": "Civilians matter to the Avengers even when rescue complicates their mission. The film also puts much of its energy into violent spectacle and leaves its heroes’ accountability unsettled.",
+    "ageRationale": "Large-scale destruction, an arm torn off, a major death, profanity and innuendo merit teen guidance.",
+    "reflection": "Tony’s fear helps explain why he acts without patience or consultation. A family can ask what humility would look like when a powerful person is motivated by real danger.",
+    "themes": [
+      {
+        "name": "Protecting the vulnerable",
+        "score": 5,
+        "evidence": "The team works to evacuate Sokovia.",
+        "type": "positive",
+        "portrayal": "affirmed",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/avengers-age-of-ultron/"
+          }
+        ]
+      },
+      {
+        "name": "Cooperation",
+        "score": 4,
+        "evidence": "The Avengers coordinate the rescue while under attack.",
+        "type": "positive",
+        "portrayal": "affirmed",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/avengers-age-of-ultron/"
+          }
+        ]
+      },
+      {
+        "name": "Recklessness",
+        "score": 5,
+        "evidence": "Tony pursues a technological solution without the team’s consent.",
+        "type": "harmful",
+        "portrayal": "criticized",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/avengers-age-of-ultron/"
+          }
+        ]
+      },
+      {
+        "name": "Domination",
+        "score": 4,
+        "evidence": "Ultron treats people’s lives as expendable in his plan.",
+        "type": "harmful",
+        "portrayal": "condemned",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/avengers-age-of-ultron/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "No numeric assessment is supported by the available screening scope. Additional film-specific review is needed.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "severity": "Moderate",
+        "details": "There are suggestive jokes and an intimate conversation between Natasha and Bruce.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/avengers-age-of-ultron/"
+      },
+      {
+        "name": "Language",
+        "severity": "Moderate",
+        "details": "The dialogue contains profanity, and Steve objects to Tony’s language early in the film.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/avengers-age-of-ultron/"
+      },
+      {
+        "name": "Violence and peril",
+        "severity": "Strong",
+        "details": "The fighting endangers civilians, a hero dies and Ultron tears off a man’s arm.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/avengers-age-of-ultron/"
+      },
+      {
+        "name": "Spiritual material",
+        "severity": "Moderate",
+        "details": "Ultron discusses God and a church, and Thor experiences visions connected to Asgard.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/avengers-age-of-ultron/"
+      },
+      {
+        "name": "Drinking and substance use",
+        "severity": "Moderate",
+        "details": "The Avengers celebrate at a party where alcohol is served.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/avengers-age-of-ultron/"
+      }
+    ],
+    "scripture": [
+      "Philippians 2:4"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 2:4",
+      "url": "https://www.biblegateway.com/passage/?search=Philippians%202%3A4&version=KJV",
+      "connection": "Paul calls believers to attend to others’ interests. The rescue invites families to see how people most exposed to a decision can be overlooked by those making it.",
+      "translation": "KJV",
+      "text": "Look not every man on his own things, but every man also on the things of others."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 11 on Ephesians",
+      "section": "Ephesians 4:11–12",
+      "url": "https://www.newadvent.org/fathers/230111.htm",
+      "text": "Each one edifies, each one perfects, each one ministers."
+    },
+    "biblicalParallels": [
+      {
+        "title": "Putting civilians first",
+        "filmMoment": "The Avengers prioritize evacuating civilians as Ultron raises part of Sokovia.",
+        "scriptureReference": "Philippians 2:4",
+        "reflection": "Paul calls believers to attend to others’ interests. The rescue invites families to see how people most exposed to a decision can be overlooked by those making it.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/avengers-age-of-ultron/"
+      }
+    ],
+    "questions": [
+      "What was Tony afraid would happen if he did nothing?",
+      "Who pays the price for his decision?",
+      "Why does the evacuation matter to the Avengers?",
+      "What does Hawkeye’s family reveal about his priorities?",
+      "How could the team have challenged Tony while staying united?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "There are suggestive jokes and an intimate conversation between Natasha and Bruce."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/avengers-age-of-ultron/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The dialogue contains profanity, and Steve objects to Tony’s language early in the film."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/avengers-age-of-ultron/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The fighting endangers civilians, a hero dies and Ultron tears off a man’s arm."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/avengers-age-of-ultron/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Ultron discusses God and a church, and Thor experiences visions connected to Asgard."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/avengers-age-of-ultron/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The Avengers celebrate at a party where alcohol is served."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/avengers-age-of-ultron/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The team protects civilians, even as Tony’s unilateral decisions strain its trust."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/avengers-age-of-ultron/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2016-captain-america-civil-war",
+    "title": "Captain America: Civil War",
+    "year": 2016,
+    "genre": "Marvel · Live action",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/captain-america-civil-war/"
+      }
+    ],
+    "officialRating": "PG-13",
+    "age": "13+",
+    "verdict": "neutral",
+    "synopsis": "A plan to regulate the Avengers divides the team while a hidden adversary exploits old grief.",
+    "verdictRationale": "The film takes accountability and conscience seriously. Grief and revenge push friends toward violence, and the split remains painful.",
+    "ageRationale": "Intense combat, drowning, and a violent revelation about a family death make this better suited to teens.",
+    "reflection": "People can owe accountability and still deserve mercy. Tony’s grief and Steve’s loyalty give families a place to talk about truthfulness before a conflict hardens.",
+    "themes": [
+      {
+        "name": "Accountability",
+        "score": 5,
+        "evidence": "Tony supports oversight after the consequences of earlier missions.",
+        "type": "positive",
+        "portrayal": "affirmed",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/captain-america-civil-war/"
+          }
+        ]
+      },
+      {
+        "name": "Loyalty",
+        "score": 5,
+        "evidence": "Steve repeatedly acts to protect Bucky.",
+        "type": "positive",
+        "portrayal": "affirmed",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/captain-america-civil-war/"
+          }
+        ]
+      },
+      {
+        "name": "Revenge",
+        "score": 5,
+        "evidence": "Zemo seeks to break the Avengers in response to his loss.",
+        "type": "harmful",
+        "portrayal": "condemned",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/captain-america-civil-war/"
+          }
+        ]
+      },
+      {
+        "name": "Violence between friends",
+        "score": 4,
+        "evidence": "Former allies injure one another rather than resolve the dispute.",
+        "type": "harmful",
+        "portrayal": "mixed",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/captain-america-civil-war/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "No numeric assessment is supported by the available screening scope. Additional film-specific review is needed.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "severity": "Moderate",
+        "details": "Steve kisses Sharon, and there is brief flirtatious banter.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/captain-america-civil-war/"
+      },
+      {
+        "name": "Language",
+        "severity": "Moderate",
+        "details": "Profanity and religious exclamations are frequent in the guide’s account.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/captain-america-civil-war/"
+      },
+      {
+        "name": "Violence and peril",
+        "severity": "Strong",
+        "details": "People are drowned or found dead, and the heroes inflict serious injuries while fighting one another.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/captain-america-civil-war/"
+      },
+      {
+        "name": "Spiritual material",
+        "severity": "Moderate",
+        "details": "T’Challa describes his culture’s view of the afterlife, and a funeral takes place in a church.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/captain-america-civil-war/"
+      }
+    ],
+    "scripture": [
+      "Romans 12:21"
+    ],
+    "themeScripture": {
+      "reference": "Romans 12:21",
+      "url": "https://www.biblegateway.com/passage/?search=Romans%2012%3A21&version=KJV",
+      "connection": "Paul calls Christians to overcome evil with good. T’Challa’s intervention invites families to consider how mercy can interrupt a cycle of revenge.",
+      "translation": "KJV",
+      "text": "Be not overcome of evil, but overcome evil with good."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 77 on the Gospel of John",
+      "section": "John 15:12–13",
+      "url": "https://www.newadvent.org/fathers/240177.htm",
+      "text": "Because this is the mark of the disciples, this the bond of virtue."
+    },
+    "biblicalParallels": [
+      {
+        "title": "Resisting the pull of revenge",
+        "filmMoment": "T’Challa ultimately gives up vengeance and stops Zemo from taking his own life.",
+        "scriptureReference": "Romans 12:21",
+        "reflection": "Paul calls Christians to overcome evil with good. T’Challa’s intervention invites families to consider how mercy can interrupt a cycle of revenge.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/captain-america-civil-war/"
+      }
+    ],
+    "questions": [
+      "Why does Tony believe the team needs oversight?",
+      "What obligation does Steve see toward Bucky?",
+      "When should Steve have shared what he knew about Tony’s parents?",
+      "How does Zemo use another person’s grief?",
+      "What could reconciliation require from both Tony and Steve?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Steve kisses Sharon, and there is brief flirtatious banter."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/captain-america-civil-war/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Profanity and religious exclamations are frequent in the guide’s account."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/captain-america-civil-war/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "People are drowned or found dead, and the heroes inflict serious injuries while fighting one another."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/captain-america-civil-war/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "T’Challa describes his culture’s view of the afterlife, and a funeral takes place in a church."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/captain-america-civil-war/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "source_reports_not_present",
+          "findings": [
+            "The guide explicitly lists no drug or alcohol content."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/captain-america-civil-war/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The team divides over oversight, and Zemo exploits personal loss to turn its members against each other."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/captain-america-civil-war/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2016-doctor-strange",
+    "title": "Doctor Strange",
+    "year": 2016,
+    "genre": "Marvel · Live action",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/doctor-strange/"
+      }
+    ],
+    "officialRating": "PG-13",
+    "age": "13+",
+    "verdict": "destructive",
+    "synopsis": "A surgeon seeks healing after a crash and becomes a sorcerer defending Earth against a threat from another dimension.",
+    "verdictRationale": "Stephen’s growth in humility has value. This draft weighs the film’s sustained presentation of sorcery as a path to healing, power and saving others as the dominant spiritual concern.",
+    "ageRationale": "An implied beheading, surgical peril, repeated attacks and frightening supernatural imagery warrant teen guidance apart from the spiritual verdict.",
+    "reflection": "Stephen starts out evaluating people by what they can do for him. Families can reflect on the change from pride to service and discuss why spiritual healing in Christian life is grounded in Christ.",
+    "themes": [
+      {
+        "name": "Humility",
+        "score": 4,
+        "evidence": "Strange’s self-importance is challenged by his teachers and circumstances.",
+        "type": "positive",
+        "portrayal": "affirmed",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/doctor-strange/"
+          }
+        ]
+      },
+      {
+        "name": "Service",
+        "score": 4,
+        "evidence": "Strange continues facing Dormammu despite repeated personal danger.",
+        "type": "positive",
+        "portrayal": "affirmed",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/doctor-strange/"
+          }
+        ]
+      },
+      {
+        "name": "Sorcery",
+        "score": 5,
+        "evidence": "Spellcasting and astral projection are central to the hero’s development.",
+        "type": "harmful",
+        "portrayal": "mixed",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/doctor-strange/"
+          }
+        ]
+      },
+      {
+        "name": "Pride",
+        "score": 4,
+        "evidence": "Stephen begins by disregarding Christine’s perspective and dismissing others.",
+        "type": "harmful",
+        "portrayal": "mixed",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/doctor-strange/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "No numeric assessment is supported by the available screening scope. Additional film-specific review is needed.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "severity": "Moderate",
+        "details": "Stephen makes a suggestive inquiry about Christine and another doctor.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/doctor-strange/"
+      },
+      {
+        "name": "Language",
+        "severity": "Moderate",
+        "details": "Profanity and religious exclamations are noted in the guide.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/doctor-strange/"
+      },
+      {
+        "name": "Violence and peril",
+        "severity": "Strong",
+        "details": "An implied beheading, a serious car crash and violent confrontations appear.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/doctor-strange/"
+      },
+      {
+        "name": "Spiritual material",
+        "severity": "Strong",
+        "details": "Kamar-Taj teaches spells and astral projection, and characters open dimensional portals. The guide identifies a grimoire in the library.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/doctor-strange/"
+      },
+      {
+        "name": "Drinking and substance use",
+        "severity": "Moderate",
+        "details": "A character quickly drinks a large mug of beer.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/doctor-strange/"
+      }
+    ],
+    "scripture": [
+      "Philippians 2:4"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 2:4",
+      "url": "https://www.biblegateway.com/passage/?search=Philippians%202%3A4&version=KJV",
+      "connection": "Paul’s instruction to look to the interests of others illuminates Stephen’s change of motive. In an Orthodox discussion, that comparison concerns service and gives families a way to discuss the film’s magical means separately.",
+      "translation": "KJV",
+      "text": "Look not every man on his own things, but every man also on the things of others."
+    },
+    "patristic": {
+      "author": "St. Basil the Great",
+      "work": "Address to Young Men on the Right Use of Greek Literature",
+      "section": "Selecting what to take from pagan literature",
+      "url": "https://www.tertullian.org/fathers/basil_litterature01.htm",
+      "text": "So we, if wise, shall take from heathen books whatever befits us and is allied to the truth, and shall pass over the rest."
+    },
+    "biblicalParallels": [
+      {
+        "title": "Using ability for others",
+        "filmMoment": "Strange confronts Dormammu by repeatedly accepting danger in a time loop.",
+        "scriptureReference": "Philippians 2:4",
+        "reflection": "Paul’s instruction to look to the interests of others illuminates Stephen’s change of motive. In an Orthodox discussion, that comparison concerns service and gives families a way to discuss the film’s magical means separately.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/doctor-strange/"
+      }
+    ],
+    "questions": [
+      "How did Stephen treat Christine before the crash?",
+      "What does his injury change about his sense of control?",
+      "Why does Stephen accept repeated danger near the end?",
+      "Which achievements does the film associate with magic?",
+      "How would our family explain Christian prayer and healing after watching this story?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Stephen makes a suggestive inquiry about Christine and another doctor."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/doctor-strange/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Profanity and religious exclamations are noted in the guide."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/doctor-strange/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "An implied beheading, a serious car crash and violent confrontations appear."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/doctor-strange/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Kamar-Taj teaches spells and astral projection, and characters open dimensional portals. The guide identifies a grimoire in the library."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/doctor-strange/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A character quickly drinks a large mug of beer."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/doctor-strange/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Strange moves from seeking a cure for himself to defending others."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/doctor-strange/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2017-guardians-of-the-galaxy-vol-2",
+    "title": "Guardians of the Galaxy Vol. 2",
+    "year": 2017,
+    "genre": "Marvel · Live action",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-2/"
+      }
+    ],
+    "officialRating": "PG-13",
+    "age": "13+",
+    "verdict": "neutral",
+    "synopsis": "Peter Quill meets his biological father while the Guardians confront old wounds and loyalties.",
+    "verdictRationale": "Yondu’s protective act and the sisters’ growing honesty are moving. Crude sexual humor, mass killings and a fictional claim to divine power complicate the recommendation.",
+    "ageRationale": "A brothel scene, explicit innuendo, repeated killings and profanity warrant teen guidance.",
+    "reflection": "Peter’s hunger to know his father makes him vulnerable to Ego. Families can talk with compassion about that longing and consider who consistently bears the cost of caring for someone.",
+    "themes": [
+      {
+        "name": "Sacrificial love",
+        "score": 5,
+        "evidence": "Yondu saves Peter at the cost of his life.",
+        "type": "positive",
+        "portrayal": "affirmed",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-2/"
+          }
+        ]
+      },
+      {
+        "name": "Family reconciliation",
+        "score": 4,
+        "evidence": "Gamora and Nebula begin to acknowledge their shared injuries.",
+        "type": "positive",
+        "portrayal": "affirmed",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-2/"
+          }
+        ]
+      },
+      {
+        "name": "Exploitation",
+        "score": 5,
+        "evidence": "Ego uses Peter to pursue a plan that subordinates other lives.",
+        "type": "harmful",
+        "portrayal": "condemned",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-2/"
+          }
+        ]
+      },
+      {
+        "name": "Sexual humor",
+        "score": 3,
+        "evidence": "The film includes a brothel sequence and recurring innuendo.",
+        "type": "harmful",
+        "portrayal": "mixed",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-2/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "No numeric assessment is supported by the available screening scope. Additional film-specific review is needed.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "severity": "Moderate",
+        "details": "A scene takes place in a robot-staffed brothel, and Drax makes anatomical and sexual remarks.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-2/"
+      },
+      {
+        "name": "Language",
+        "severity": "Moderate",
+        "details": "The guide records strong profanity and crude sexual jokes.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-2/"
+      },
+      {
+        "name": "Violence and peril",
+        "severity": "Strong",
+        "details": "Yondu’s arrow kills many people, and a cave contains the remains of numerous victims.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-2/"
+      },
+      {
+        "name": "Spiritual material",
+        "severity": "Moderate",
+        "details": "Ego calls himself a god in a limited sense and claims extraordinary creative powers.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-2/"
+      },
+      {
+        "name": "Drinking and substance use",
+        "severity": "Moderate",
+        "details": "A character recalls being drunk. Liquid poured on Groot is described as possibly alcoholic.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-2/"
+      }
+    ],
+    "scripture": [
+      "John 15:13"
+    ],
+    "themeScripture": {
+      "reference": "John 15:13",
+      "url": "https://www.biblegateway.com/passage/?search=John%2015%3A13&version=KJV",
+      "connection": "Christ speaks about freely laying down one’s life for friends. Yondu’s decision opens a conversation about love expressed through responsibility and presence.",
+      "translation": "KJV",
+      "text": "Greater love hath no man than this, that a man lay down his life for his friends."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 77 on the Gospel of John",
+      "section": "John 15:12–13",
+      "url": "https://www.newadvent.org/fathers/240177.htm",
+      "text": "Because this is the mark of the disciples, this the bond of virtue."
+    },
+    "biblicalParallels": [
+      {
+        "title": "Love made visible through a choice",
+        "filmMoment": "Yondu gives Peter his means of surviving in space and dies saving him.",
+        "scriptureReference": "John 15:13",
+        "reflection": "Christ speaks about freely laying down one’s life for friends. Yondu’s decision opens a conversation about love expressed through responsibility and presence.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-2/"
+      }
+    ],
+    "questions": [
+      "What makes Ego’s promises attractive to Peter?",
+      "What do Gamora and Nebula finally understand about each other?",
+      "How does Yondu’s last choice change Peter’s understanding of family?",
+      "When does joking come at someone else’s expense?",
+      "What daily choices help a parent or trusted adult earn a child’s trust?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A scene takes place in a robot-staffed brothel, and Drax makes anatomical and sexual remarks."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-2/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The guide records strong profanity and crude sexual jokes."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-2/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Yondu’s arrow kills many people, and a cave contains the remains of numerous victims."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-2/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Ego calls himself a god in a limited sense and claims extraordinary creative powers."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-2/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A character recalls being drunk. Liquid poured on Groot is described as possibly alcoholic."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-2/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Peter comes to recognize what Yondu has done for him, and Gamora and Nebula begin facing their shared wounds."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-2/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2017-spider-man-homecoming",
+    "title": "Spider-Man: Homecoming",
+    "year": 2017,
+    "genre": "Marvel · Live action",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/spider-man-homecoming/"
+      }
+    ],
+    "officialRating": "PG-13",
+    "age": "13+",
+    "verdict": "edifying",
+    "synopsis": "Peter Parker wants to prove himself to Tony Stark while an arms dealer’s operations endanger his neighborhood.",
+    "verdictRationale": "Peter’s decision to use his abilities in service, including saving Toomes, gives the film a strong pattern of responsibility and mercy. Some deception and crude teen humor still warrant discussion.",
+    "ageRationale": "A near-fatal elevator incident, a violent plane crash, an accidental killing and sexual jokes support teen guidance.",
+    "reflection": "Peter learns to serve without an audience or a prestigious role. This invites a conversation about humility and about practicing mercy even when no one would require it.",
+    "themes": [
+      {
+        "name": "Mercy",
+        "score": 5,
+        "evidence": "Peter rescues Toomes after their fight.",
+        "type": "positive",
+        "portrayal": "affirmed",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/spider-man-homecoming/"
+          }
+        ]
+      },
+      {
+        "name": "Humility",
+        "score": 4,
+        "evidence": "Peter must act without Stark’s advanced suit.",
+        "type": "positive",
+        "portrayal": "affirmed",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/spider-man-homecoming/"
+          }
+        ]
+      },
+      {
+        "name": "Responsibility",
+        "score": 5,
+        "evidence": "Schoolmates and ferry passengers become immediate rescue priorities.",
+        "type": "positive",
+        "portrayal": "affirmed",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/spider-man-homecoming/"
+          }
+        ]
+      },
+      {
+        "name": "Dishonesty",
+        "score": 3,
+        "evidence": "Peter conceals his activities and lies to people who care about him.",
+        "type": "harmful",
+        "portrayal": "mixed",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/spider-man-homecoming/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "No numeric assessment is supported by the available screening scope. Additional film-specific review is needed.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "severity": "Moderate",
+        "details": "Peter has a crush on Liz, and Ned makes a crude sexual excuse after being caught in the computer lab.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/spider-man-homecoming/"
+      },
+      {
+        "name": "Language",
+        "severity": "Moderate",
+        "details": "The guide describes repeated profanity and an unfinished strong expletive.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/spider-man-homecoming/"
+      },
+      {
+        "name": "Violence and peril",
+        "severity": "Strong",
+        "details": "Toomes accidentally vaporizes a man. Students face elevator danger, and a plane crashes.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/spider-man-homecoming/"
+      }
+    ],
+    "scripture": [
+      "Romans 12:21"
+    ],
+    "themeScripture": {
+      "reference": "Romans 12:21",
+      "url": "https://www.biblegateway.com/passage/?search=Romans%2012%3A21&version=KJV",
+      "connection": "Paul’s command to overcome evil with good helps families ask why Peter’s rescue matters. An enemy’s wrongdoing does not erase that person’s life or dignity.",
+      "translation": "KJV",
+      "text": "Be not overcome of evil, but overcome evil with good."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 77 on the Gospel of John",
+      "section": "John 15:12–13",
+      "url": "https://www.newadvent.org/fathers/240177.htm",
+      "text": "Because this is the mark of the disciples, this the bond of virtue."
+    },
+    "biblicalParallels": [
+      {
+        "title": "Protecting someone who harmed you",
+        "filmMoment": "Peter saves Toomes after their fight, although Toomes has threatened him.",
+        "scriptureReference": "Romans 12:21",
+        "reflection": "Paul’s command to overcome evil with good helps families ask why Peter’s rescue matters. An enemy’s wrongdoing does not erase that person’s life or dignity.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/spider-man-homecoming/"
+      }
+    ],
+    "questions": [
+      "What does Peter want Tony to see in him?",
+      "What changes after Tony takes away the suit?",
+      "What is the cost of Peter’s secrecy for Aunt May or Ned?",
+      "Why does Peter save Toomes?",
+      "What responsibility can you take on without anyone noticing?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Peter has a crush on Liz, and Ned makes a crude sexual excuse after being caught in the computer lab."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/spider-man-homecoming/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The guide describes repeated profanity and an unfinished strong expletive."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/spider-man-homecoming/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Toomes accidentally vaporizes a man. Students face elevator danger, and a plane crashes."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/spider-man-homecoming/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "source_reports_not_present",
+          "findings": [
+            "The guide notes no explicit spiritual material and separately offers a visual interpretation of the ferry rescue."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/spider-man-homecoming/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "not_verified",
+          "findings": [
+            "Red cups appear at a teen party. Their contents are unclear."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/spider-man-homecoming/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Peter acts to protect his classmates and later saves the man who threatened him."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/spider-man-homecoming/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2017-thor-ragnarok",
+    "title": "Thor: Ragnarok",
+    "year": 2017,
+    "genre": "Marvel · Live action",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/thor-ragnarok/"
+      },
+      {
+        "label": "Released-cut and deleted-scene reporting",
+        "url": "https://www.attitude.co.uk/culture/film-tv/thor-ragnarok-scene-confirming-valkyries-sexuality-was-cut-from-film-294220/"
+      }
+    ],
+    "officialRating": "PG-13",
+    "age": "13+",
+    "verdict": "neutral",
+    "synopsis": "Thor tries to return to Asgard before Hela destroys its people. Escaping Sakaar requires help from allies with their own histories.",
+    "verdictRationale": "Thor’s rescue of his people and his willingness to face Asgard’s history invite discussion. Heavy violence, mythic divinity and crude humor remain prominent.",
+    "ageRationale": "Undead attacks, mutilation, rear nudity, sexual jokes and heavy drinking support teen guidance.",
+    "reflection": "A beloved community can carry both honorable traditions and grave wrongs. Thor’s discovery about Odin opens a discussion about inherited responsibility and truthful memory.",
+    "themes": [
+      {
+        "name": "Stewardship",
+        "score": 5,
+        "evidence": "Thor puts the safety of Asgard’s people ahead of the realm’s survival.",
+        "type": "positive",
+        "portrayal": "affirmed",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/thor-ragnarok/"
+          }
+        ]
+      },
+      {
+        "name": "Cooperation",
+        "score": 4,
+        "evidence": "Thor needs allies with very different loyalties to get home.",
+        "type": "positive",
+        "portrayal": "affirmed",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/thor-ragnarok/"
+          }
+        ]
+      },
+      {
+        "name": "Domination",
+        "score": 5,
+        "evidence": "Hela uses conquest and fear to reclaim rule.",
+        "type": "harmful",
+        "portrayal": "condemned",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/thor-ragnarok/"
+          }
+        ]
+      },
+      {
+        "name": "Excessive drinking",
+        "score": 3,
+        "evidence": "Valkyrie’s repeated drinking is often played for comedy.",
+        "type": "harmful",
+        "portrayal": "mixed",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/thor-ragnarok/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "The released flashback depicts Valkyrie grieving a fallen warrior. The suggested romantic reading comes from actor commentary, and a separate bedroom scene was cut. Film-wide screening remains open.",
+        "references": [
+          {
+            "label": "Released-cut and deleted-scene reporting",
+            "url": "https://www.attitude.co.uk/culture/film-tv/thor-ragnarok-scene-confirming-valkyries-sexuality-was-cut-from-film-294220/"
+          }
+        ]
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "severity": "Moderate",
+        "details": "The Hulk drops his towel, showing his bare backside. A pleasure ship prompts an orgy reference.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/thor-ragnarok/"
+      },
+      {
+        "name": "Language",
+        "severity": "Moderate",
+        "details": "The film uses profanity, religious exclamations and crude jokes.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/thor-ragnarok/"
+      },
+      {
+        "name": "Violence and peril",
+        "severity": "Strong",
+        "details": "Hela kills soldiers, raises an undead army and injures Thor. A creature is gruesomely decapitated.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/thor-ragnarok/"
+      },
+      {
+        "name": "Spiritual material",
+        "severity": "Moderate",
+        "details": "Norse-derived gods, an apocalyptic prophecy and an undead army drive the plot.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/thor-ragnarok/"
+      },
+      {
+        "name": "Drinking and substance use",
+        "severity": "Moderate",
+        "details": "Valkyrie drinks heavily in several scenes.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/thor-ragnarok/"
+      }
+    ],
+    "scripture": [
+      "Philippians 2:4"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 2:4",
+      "url": "https://www.biblegateway.com/passage/?search=Philippians%202%3A4&version=KJV",
+      "connection": "Paul’s call to consider others’ interests gives families a way to assess Thor’s decision when protecting lives requires losing a place he loves.",
+      "translation": "KJV",
+      "text": "Look not every man on his own things, but every man also on the things of others."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 11 on Ephesians",
+      "section": "Ephesians 4:11–12",
+      "url": "https://www.newadvent.org/fathers/230111.htm",
+      "text": "Each one edifies, each one perfects, each one ministers."
+    },
+    "biblicalParallels": [
+      {
+        "title": "What a ruler owes his people",
+        "filmMoment": "Thor and his allies prioritize rescuing Asgard’s people as their homeland falls.",
+        "scriptureReference": "Philippians 2:4",
+        "reflection": "Paul’s call to consider others’ interests gives families a way to assess Thor’s decision when protecting lives requires losing a place he loves.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/thor-ragnarok/"
+      }
+    ],
+    "questions": [
+      "What did Odin conceal about Asgard’s past?",
+      "What changes Valkyrie’s willingness to help?",
+      "How does the gladiator arena treat people as objects?",
+      "What does Thor give up to save his people?",
+      "How would you respond if your community learned an uncomfortable truth about itself?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The Hulk drops his towel, showing his bare backside. A pleasure ship prompts an orgy reference."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/thor-ragnarok/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The film uses profanity, religious exclamations and crude jokes."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/thor-ragnarok/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Hela kills soldiers, raises an undead army and injures Thor. A creature is gruesomely decapitated."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/thor-ragnarok/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Norse-derived gods, an apocalyptic prophecy and an undead army drive the plot."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/thor-ragnarok/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Valkyrie drinks heavily in several scenes."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/thor-ragnarok/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Thor learns of Asgard’s history of conquest and helps evacuate its population."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/thor-ragnarok/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2018-ant-man-and-the-wasp",
+    "title": "Ant-Man and the Wasp",
+    "year": 2018,
+    "genre": "Marvel · Live action",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-2018/"
+      }
+    ],
+    "officialRating": "PG-13",
+    "age": "13+",
+    "verdict": "edifying",
+    "synopsis": "Hope and Hank find a chance to rescue Janet while Ava seeks relief from a dangerous condition.",
+    "verdictRationale": "Janet’s willingness to aid Ava and Bill’s refusal to harm innocents strongly support an Edifying draft verdict. The characters also face conflicting duties and use questionable means.",
+    "ageRationale": "Chases, fight scenes, frightening bodily effects and profanity support a teen recommendation.",
+    "reflection": "Ava’s fear is understandable, and her choices can harm others. Families can explore the difference between excusing those choices and offering help that protects everyone involved.",
+    "themes": [
+      {
+        "name": "Mercy",
+        "score": 5,
+        "evidence": "Janet helps Ava after Ava has threatened her family.",
+        "type": "positive",
+        "portrayal": "affirmed",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-2018/"
+          }
+        ]
+      },
+      {
+        "name": "Family loyalty",
+        "score": 5,
+        "evidence": "Hope and Hank continue searching for Janet.",
+        "type": "positive",
+        "portrayal": "affirmed",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-2018/"
+          }
+        ]
+      },
+      {
+        "name": "Moral limits",
+        "score": 4,
+        "evidence": "Bill refuses to let Ava hurt innocent people.",
+        "type": "positive",
+        "portrayal": "affirmed",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-2018/"
+          }
+        ]
+      },
+      {
+        "name": "Desperation",
+        "score": 4,
+        "evidence": "Ava’s painful condition fuels choices that threaten the rescue.",
+        "type": "harmful",
+        "portrayal": "mixed",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-2018/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "No numeric assessment is supported by the available screening scope. Additional film-specific review is needed.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "severity": "Moderate",
+        "details": "Scott and Hope exchange romantic gestures, and the guide documents brief innuendo.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-2018/"
+      },
+      {
+        "name": "Language",
+        "severity": "Moderate",
+        "details": "The guide reports profanity and misuses of religious language.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-2018/"
+      },
+      {
+        "name": "Violence and peril",
+        "severity": "Strong",
+        "details": "Ava attacks people by phasing through solid matter, and pursuits involve crashes and fights.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-2018/"
+      },
+      {
+        "name": "Spiritual material",
+        "severity": "Moderate",
+        "details": "Janet temporarily speaks through Scott via a fictional Quantum Realm connection. Characters also mention Baba Yaga.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-2018/"
+      },
+      {
+        "name": "Drinking and substance use",
+        "severity": "Moderate",
+        "details": "Several people are injected with a fictional truth serum, and Scott is sedated by a dart.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-2018/"
+      }
+    ],
+    "scripture": [
+      "Galatians 6:2"
+    ],
+    "themeScripture": {
+      "reference": "Galatians 6:2",
+      "url": "https://www.biblegateway.com/passage/?search=Galatians%206%3A2&version=KJV",
+      "connection": "Paul’s call to bear one another’s burdens helps families consider Janet’s response to Ava. Compassion addresses the suffering behind a conflict while leaving room for firm boundaries.",
+      "translation": "KJV",
+      "text": "Bear ye one another’s burdens, and so fulfil the law of Christ."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 11 on Ephesians",
+      "section": "Ephesians 4:11–12",
+      "url": "https://www.newadvent.org/fathers/230111.htm",
+      "text": "Each one edifies, each one perfects, each one ministers."
+    },
+    "biblicalParallels": [
+      {
+        "title": "Bearing a rival’s burden",
+        "filmMoment": "Janet helps ease Ava’s pain after Ava has threatened Janet’s family and their rescue plan.",
+        "scriptureReference": "Galatians 6:2",
+        "reflection": "Paul’s call to bear one another’s burdens helps families consider Janet’s response to Ava. Compassion addresses the suffering behind a conflict while leaving room for firm boundaries.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-2018/"
+      }
+    ],
+    "questions": [
+      "Why does Ava think she has run out of options?",
+      "How does Bill help Ava while setting a boundary?",
+      "What do Hope and Hank risk for Janet?",
+      "How does Janet’s response to Ava change the conflict?",
+      "What would a responsible way of asking for help have looked like for Ava?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Scott and Hope exchange romantic gestures, and the guide documents brief innuendo."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-2018/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The guide reports profanity and misuses of religious language."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-2018/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Ava attacks people by phasing through solid matter, and pursuits involve crashes and fights."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-2018/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Janet temporarily speaks through Scott via a fictional Quantum Realm connection. Characters also mention Baba Yaga."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-2018/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Several people are injected with a fictional truth serum, and Scott is sedated by a dart."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-2018/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Bill opposes harming bystanders, and Janet later eases Ava’s suffering."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-2018/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2018-avengers-infinity-war",
+    "title": "Avengers: Infinity War",
+    "year": 2018,
+    "genre": "Marvel · Live action",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/avengers-infinity-war/"
+      }
+    ],
+    "officialRating": "PG-13",
+    "age": "13+",
+    "verdict": "neutral",
+    "synopsis": "Thanos pursues the Infinity Stones as several groups of heroes try to prevent mass killing.",
+    "verdictRationale": "The heroes’ courage and care for others coexist with unusually bleak outcomes and a villain who rationalizes mass murder as mercy.",
+    "ageRationale": "Executions, torture, a crushed throat, shocking deaths and the bleak ending make this especially intense for young viewers.",
+    "reflection": "Thanos presents cruelty as compassion. Families can ask how Christian love protects the person in front of us, even when someone claims a harmful act serves an impressive goal.",
+    "themes": [
+      {
+        "name": "Sacrificial courage",
+        "score": 5,
+        "evidence": "Several heroes risk their lives to protect others.",
+        "type": "positive",
+        "portrayal": "affirmed",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/avengers-infinity-war/"
+          }
+        ]
+      },
+      {
+        "name": "Cooperation",
+        "score": 4,
+        "evidence": "The defenders of Wakanda unite with the Avengers.",
+        "type": "positive",
+        "portrayal": "affirmed",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/avengers-infinity-war/"
+          }
+        ]
+      },
+      {
+        "name": "Domination",
+        "score": 5,
+        "evidence": "Thanos decides who may live without their consent.",
+        "type": "harmful",
+        "portrayal": "condemned",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/avengers-infinity-war/"
+          }
+        ]
+      },
+      {
+        "name": "Violence justified as mercy",
+        "score": 5,
+        "evidence": "Thanos claims taking lives will improve everyone else’s future.",
+        "type": "harmful",
+        "portrayal": "condemned",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/avengers-infinity-war/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "No numeric assessment is supported by the available screening scope. Additional film-specific review is needed.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "severity": "Moderate",
+        "details": "Vision and Wanda kiss, and dialogue includes crude anatomical humor.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/avengers-infinity-war/"
+      },
+      {
+        "name": "Language",
+        "severity": "Moderate",
+        "details": "The guide records repeated profanity and a joking reference to Jesus elsewhere.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/avengers-infinity-war/"
+      },
+      {
+        "name": "Violence and peril",
+        "severity": "Strong",
+        "details": "Thanos’s forces carry out executions. Characters are tortured, killed or disappear during the ending.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/avengers-infinity-war/"
+      },
+      {
+        "name": "Spiritual material",
+        "severity": "Moderate",
+        "details": "The plot involves mythical gods and a Soul Stone obtained through a death.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/avengers-infinity-war/"
+      }
+    ],
+    "scripture": [
+      "John 15:13"
+    ],
+    "themeScripture": {
+      "reference": "John 15:13",
+      "url": "https://www.biblegateway.com/passage/?search=John%2015%3A13&version=KJV",
+      "connection": "Jesus speaks about laying down one’s own life for others. The Soul Stone scene raises a question about the moral difference between freely giving of oneself and forcing a vulnerable person to pay.",
+      "translation": "KJV",
+      "text": "Greater love hath no man than this, that a man lay down his life for his friends."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 77 on the Gospel of John",
+      "section": "John 15:12–13",
+      "url": "https://www.newadvent.org/fathers/240177.htm",
+      "text": "Because this is the mark of the disciples, this the bond of virtue."
+    },
+    "biblicalParallels": [
+      {
+        "title": "Who bears the cost?",
+        "filmMoment": "Thanos kills Gamora to obtain the Soul Stone, treating another person’s death as the cost of his goal.",
+        "scriptureReference": "John 15:13",
+        "reflection": "Jesus speaks about laying down one’s own life for others. The Soul Stone scene raises a question about the moral difference between freely giving of oneself and forcing a vulnerable person to pay.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/avengers-infinity-war/"
+      }
+    ],
+    "questions": [
+      "Why does Thanos believe his plan is merciful?",
+      "Whose voice is absent when he makes that decision?",
+      "What does Wanda risk when Vision asks for help?",
+      "When do the heroes cooperate well despite disagreeing?",
+      "How can you tell whether someone is giving of themselves or taking from others?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Vision and Wanda kiss, and dialogue includes crude anatomical humor."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/avengers-infinity-war/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The guide records repeated profanity and a joking reference to Jesus elsewhere."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/avengers-infinity-war/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Thanos’s forces carry out executions. Characters are tortured, killed or disappear during the ending."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/avengers-infinity-war/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The plot involves mythical gods and a Soul Stone obtained through a death."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/avengers-infinity-war/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "source_reports_not_present",
+          "findings": [
+            "The guide explicitly reports no drinking or drug content."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/avengers-infinity-war/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The heroes risk themselves for others while Thanos argues that mass killing serves the common good."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/avengers-infinity-war/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2018-black-panther",
+    "title": "Black Panther",
+    "year": 2018,
+    "genre": "Marvel · Live action",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/black-panther-2018/"
+      }
+    ],
+    "officialRating": "PG-13",
+    "age": "13+",
+    "verdict": "edifying",
+    "synopsis": "T’Challa becomes ruler of Wakanda and confronts a challenger whose anger exposes the cost of the country’s isolation.",
+    "verdictRationale": "T’Challa learns to hear a difficult truth and use Wakanda’s resources for others. Intense fighting and Wakanda’s explicit fictional religious setting require family context.",
+    "ageRationale": "Ritual combat, stabbings, a throat cutting and profanity make the film best suited to teens.",
+    "reflection": "Killmonger’s history gives his anger a context, and his plans would spread harm. Families can ask how to hear someone’s experience of injustice and respond without copying their violence.",
+    "themes": [
+      {
+        "name": "Stewardship",
+        "score": 5,
+        "evidence": "T’Challa considers how to share Wakanda’s resources.",
+        "type": "positive",
+        "portrayal": "affirmed",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/black-panther-2018/"
+          }
+        ]
+      },
+      {
+        "name": "Compassion",
+        "score": 4,
+        "evidence": "Nakia rescues kidnapped women and calls for sustained help outside Wakanda.",
+        "type": "positive",
+        "portrayal": "affirmed",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/black-panther-2018/"
+          }
+        ]
+      },
+      {
+        "name": "Revenge",
+        "score": 5,
+        "evidence": "Killmonger uses his family’s suffering to justify violent retaliation.",
+        "type": "harmful",
+        "portrayal": "condemned",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/black-panther-2018/"
+          }
+        ]
+      },
+      {
+        "name": "Fictional ritual practice",
+        "score": 4,
+        "evidence": "Bast and the ancestral plane shape the story’s account of kingship.",
+        "type": "context",
+        "portrayal": "descriptive",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/black-panther-2018/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "No numeric assessment is supported by the available screening scope. Additional film-specific review is needed.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "severity": "Moderate",
+        "details": "T’Challa and Nakia kiss, and some characters wear revealing evening clothes.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/black-panther-2018/"
+      },
+      {
+        "name": "Language",
+        "severity": "Moderate",
+        "details": "The guide reports profanity in dialogue and music.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/black-panther-2018/"
+      },
+      {
+        "name": "Violence and peril",
+        "severity": "Strong",
+        "details": "Ritual combat and battles include stabbings, shootings and a throat cutting.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/black-panther-2018/"
+      },
+      {
+        "name": "Spiritual material",
+        "severity": "Moderate",
+        "details": "Wakandans invoke Bast and visit an ancestral plane after consuming a ritual preparation.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/black-panther-2018/"
+      },
+      {
+        "name": "Drinking and substance use",
+        "severity": "Moderate",
+        "details": "Alcohol is consumed at the casino, and a fictional plant preparation is used in the coronation ritual.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/black-panther-2018/"
+      }
+    ],
+    "scripture": [
+      "Philippians 2:4"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 2:4",
+      "url": "https://www.biblegateway.com/passage/?search=Philippians%202%3A4&version=KJV",
+      "connection": "Paul’s call to attend to others’ interests helps families consider T’Challa’s decision to serve beyond Wakanda. The question applies wherever a community has gifts others could benefit from.",
+      "translation": "KJV",
+      "text": "Look not every man on his own things, but every man also on the things of others."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 11 on Ephesians",
+      "section": "Ephesians 4:11–12",
+      "url": "https://www.newadvent.org/fathers/230111.htm",
+      "text": "Each one edifies, each one perfects, each one ministers."
+    },
+    "biblicalParallels": [
+      {
+        "title": "A kingdom’s responsibilities beyond its borders",
+        "filmMoment": "T’Challa moves toward Nakia’s call to share Wakanda’s resources after confronting the harms of isolation.",
+        "scriptureReference": "Philippians 2:4",
+        "reflection": "Paul’s call to attend to others’ interests helps families consider T’Challa’s decision to serve beyond Wakanda. The question applies wherever a community has gifts others could benefit from.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/black-panther-2018/"
+      }
+    ],
+    "questions": [
+      "Why does Nakia leave Wakanda to help people elsewhere?",
+      "What gives Killmonger’s criticism force?",
+      "What does T’Challa learn about his father’s choices?",
+      "How are Nakia’s and Killmonger’s responses to suffering different?",
+      "Which resources could your family share with people beyond your usual circle?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "T’Challa and Nakia kiss, and some characters wear revealing evening clothes."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/black-panther-2018/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The guide reports profanity in dialogue and music."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/black-panther-2018/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Ritual combat and battles include stabbings, shootings and a throat cutting."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/black-panther-2018/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Wakandans invoke Bast and visit an ancestral plane after consuming a ritual preparation."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/black-panther-2018/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Alcohol is consumed at the casino, and a fictional plant preparation is used in the coronation ritual."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/black-panther-2018/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Nakia pushes Wakanda to use its resources beyond its borders, while Killmonger pursues violent retaliation."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/black-panther-2018/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  }
+]

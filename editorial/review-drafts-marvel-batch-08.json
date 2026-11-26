@@ -1,0 +1,522 @@
+[
+  {
+    "id": "marvel-2021-black-widow",
+    "title": "Black Widow",
+    "year": 2021,
+    "genre": "Marvel · Live action",
+    "edition": "Original 2021 theatrical feature",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/black-widow-2021/"
+      },
+      {
+        "label": "BBFC",
+        "url": "https://www.bbfc.co.uk/release/black-widow-q29sbgvjdglvbjpwwc01mze0ndm"
+      },
+      {
+        "label": "Released film synopsis",
+        "url": "https://en.wikipedia.org/wiki/Black_Widow_(2021_film)"
+      }
+    ],
+    "officialRating": "PG-13",
+    "age": "16+",
+    "verdict": "edifying",
+    "synopsis": "An antidote frees Yelena from the Red Room’s control. She turns to Natasha, the older girl who grew up beside her in an undercover household, to help free the other Widows.",
+    "verdictRationale": "The decisive moment comes after Natasha has the means to defeat her pursuer. She gives Antonia the antidote. Natasha once accepted this girl's death as the price of her own escape. Giving Antonia her freedom makes repentance visible in a way an apology alone could never do.",
+    "ageRationale": "The sisters describe forced sterilization. A girl is knowingly put in the path of a bombing, and an adult man beats Natasha. Older teens may be better prepared to discuss abuse by people who claim to be family.",
+    "reflection": "At the dinner table, Yelena has to explain that her childhood mattered even if the adults were acting. Starting with what she remembers, without correcting her feelings, is one way the others can begin to make amends.",
+    "themes": [
+      {
+        "name": "Mercy",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "Natasha uses the antidote on Antonia.",
+        "references": [
+          {
+            "label": "Released film synopsis",
+            "url": "https://en.wikipedia.org/wiki/Black_Widow_(2021_film)"
+          }
+        ]
+      },
+      {
+        "name": "Loyalty",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Yelena entrusts the other Widows’ chance of freedom to Natasha.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/black-widow-2021/"
+          }
+        ]
+      },
+      {
+        "name": "Coercion",
+        "type": "harmful",
+        "score": 5,
+        "portrayal": "criticized",
+        "evidence": "Dreykov chemically controls the Widows.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/black-widow-2021/"
+          }
+        ]
+      },
+      {
+        "name": "Disregard for innocent life",
+        "type": "harmful",
+        "score": 4,
+        "portrayal": "criticized",
+        "evidence": "Natasha orders an explosion although Dreykov’s daughter is present.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/black-widow-2021/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Film-wide prominence remains unverified from the available scene record.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "details": "Alexei makes a sexual overture to Melina at their reunion.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/black-widow-2021/"
+      },
+      {
+        "name": "Language",
+        "details": "Dialogue includes repeated profanity and religious exclamations.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/black-widow-2021/"
+      },
+      {
+        "name": "Violence and distress",
+        "details": "A flashback shows Natasha authorizing a bombing despite a child's presence. Yelena describes forced sterilization.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/black-widow-2021/"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "A song heard in the film asks about belief in God and the Bible.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/black-widow-2021/"
+      },
+      {
+        "name": "Substance use",
+        "details": "Alexei drinks vodka and proposes a family toast.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/black-widow-2021/"
+      }
+    ],
+    "scripture": [
+      "Romans 12:21"
+    ],
+    "themeScripture": {
+      "reference": "Romans 12:21",
+      "translation": "KJV",
+      "text": "Be not overcome of evil, but overcome evil with good.",
+      "url": "https://www.biblegateway.com/passage/?search=Romans%2012%3A21&version=KJV",
+      "connection": "In Romans, Paul asks Christians to answer evil with a concrete good. Natasha does that when she puts the means of freedom within reach of someone she once harmed."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 22 on Romans",
+      "section": "On Romans 12:20–21",
+      "url": "https://www.newadvent.org/fathers/210222.htm",
+      "text": "For I even insist upon your doing kindness."
+    },
+    "biblicalParallels": [
+      {
+        "title": "Giving Antonia her freedom",
+        "filmMoment": "Natasha uses the antidote on Antonia, who had been sent to fight her.",
+        "scriptureReference": "Romans 12:21",
+        "reflection": "In Romans, Paul asks Christians to answer evil with a concrete good. Natasha does that when she puts the means of freedom within reach of someone she once harmed.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Black_Widow_(2021_film)"
+      }
+    ],
+    "questions": [
+      "What did the years in Ohio mean to six-year-old Yelena?",
+      "Why is Alexei’s praise for his daughters’ fighting skills painful at their reunion?",
+      "What does Natasha owe Antonia because of the bombing?",
+      "Why does giving Antonia the antidote matter even if Antonia never forgives her?",
+      "What responsibility does Yelena take on when Natasha gives her the locations of the other Widows?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Alexei makes a sexual overture to Melina at their reunion."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/black-widow-2021/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Dialogue includes repeated profanity and religious exclamations."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/black-widow-2021/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A flashback shows Natasha authorizing a bombing despite a child's presence. Yelena describes forced sterilization."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/black-widow-2021/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A song heard in the film asks about belief in God and the Bible."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/black-widow-2021/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Alexei drinks vodka and proposes a family toast."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/black-widow-2021/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Yelena sends the antidote to Natasha. Natasha later uses it to release Antonia from control."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/black-widow-2021/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            },
+            {
+              "provider": "Released film synopsis",
+              "url": "https://en.wikipedia.org/wiki/Black_Widow_(2021_film)",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2021-shang-chi-and-the-legend-of-the-ten-rings",
+    "title": "Shang-Chi and the Legend of the Ten Rings",
+    "year": 2021,
+    "genre": "Marvel · Live action",
+    "edition": "Original 2021 theatrical feature",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/shang-chi-and-the-legend-of-the-ten-rings-2021/"
+      },
+      {
+        "label": "New Zealand Classification Office",
+        "url": "https://www.classificationoffice.govt.nz/find-a-rating/quick-takes/shang-chi-and-the-legend-of-the-ten-rings/"
+      },
+      {
+        "label": "Disney D23",
+        "url": "https://d23.com/meet-the-characters-of-shang-chi-and-the-legend-of-the-ten-rings/"
+      }
+    ],
+    "officialRating": "PG-13",
+    "age": "13+",
+    "verdict": "neutral",
+    "synopsis": "An attack on a San Francisco bus sends Shang-Chi to warn his sister. Their father, Wenwu, believes their dead mother is calling him from behind a gate and intends to force it open.",
+    "verdictRationale": "Shang-Chi risks his safety to warn Xialing and tries to stop his father from endangering a village. The story gives grief and filial love their due, while magic rings, a guardian dragon and creatures that consume souls shape its account of death and power.",
+    "ageRationale": "A child watches his father take revenge and is trained until his knuckles bleed. The prolonged sight of a creature draining a person's soul may be more frightening than the choreographed fistfights.",
+    "reflection": "Wenwu once laid down the rings because he wanted to grow old with his wife. After her death, he treats a voice that sounds like hers as permission to endanger others. A family might ask whom we trust enough to hear when grief makes a promise sound irresistible.",
+    "themes": [
+      {
+        "name": "Friendship",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Katy accompanies Shang-Chi to Macau.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/shang-chi-and-the-legend-of-the-ten-rings-2021/"
+          }
+        ]
+      },
+      {
+        "name": "Care for family",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "After his own pendant is targeted, Shang-Chi sets out to warn Xialing.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/shang-chi-and-the-legend-of-the-ten-rings-2021/"
+          }
+        ]
+      },
+      {
+        "name": "Revenge",
+        "type": "harmful",
+        "score": 4,
+        "portrayal": "criticized",
+        "evidence": "Wenwu takes his young son along when he retaliates after his wife’s death.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/shang-chi-and-the-legend-of-the-ten-rings-2021/"
+          }
+        ]
+      },
+      {
+        "name": "Coercion",
+        "type": "harmful",
+        "score": 4,
+        "portrayal": "criticized",
+        "evidence": "Wenwu trains his teenaged son for a killing assignment.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/shang-chi-and-the-legend-of-the-ten-rings-2021/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Film-wide prominence remains unverified from the available scene record.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "details": "Wenwu and his wife kiss in flashback. Katy makes a crude anatomical joke.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/shang-chi-and-the-legend-of-the-ten-rings-2021/"
+      },
+      {
+        "name": "Language",
+        "details": "Characters swear and use religious exclamations.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/shang-chi-and-the-legend-of-the-ten-rings-2021/"
+      },
+      {
+        "name": "Violence and distress",
+        "details": "A child trains until his knuckles bleed. A creature visibly draws a soul from its victim.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/shang-chi-and-the-legend-of-the-ten-rings-2021/"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "A creature imitates a dead loved one’s voice. A dragon protects a hidden realm.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/shang-chi-and-the-legend-of-the-ten-rings-2021/"
+      },
+      {
+        "name": "Substance use",
+        "details": "Katy and Shang-Chi appear intoxicated at karaoke.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/shang-chi-and-the-legend-of-the-ten-rings-2021/"
+      }
+    ],
+    "scripture": [
+      "Romans 12:21"
+    ],
+    "themeScripture": {
+      "reference": "Romans 12:21",
+      "translation": "KJV",
+      "text": "Be not overcome of evil, but overcome evil with good.",
+      "url": "https://www.biblegateway.com/passage/?search=Romans%2012%3A21&version=KJV",
+      "connection": "Paul’s counsel leaves room for a small first act of good. Shang-Chi cannot undo their estrangement before danger arrives, but he can show up for his sister."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 22 on Romans",
+      "section": "On Romans 12:20–21",
+      "url": "https://www.newadvent.org/fathers/210222.htm",
+      "text": "For I even insist upon your doing kindness."
+    },
+    "biblicalParallels": [
+      {
+        "title": "Returning for Xialing",
+        "filmMoment": "After the bus attack Shang-Chi realizes his sister’s pendant puts her in danger and goes to warn her.",
+        "scriptureReference": "Romans 12:21",
+        "reflection": "Paul’s counsel leaves room for a small first act of good. Shang-Chi cannot undo their estrangement before danger arrives, but he can show up for his sister.",
+        "sourceUrl": "https://d23.com/meet-the-characters-of-shang-chi-and-the-legend-of-the-ten-rings/"
+      }
+    ],
+    "questions": [
+      "Why does an attack on Shang-Chi’s bus make him think of Xialing?",
+      "What might Xialing need from her brother after years without him?",
+      "What changes for Wenwu when he first puts the rings aside?",
+      "Why is a voice resembling his wife’s so hard for Wenwu to question?",
+      "What does Katy risk by going to Macau, and when does Shang-Chi need her honesty?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Wenwu and his wife kiss in flashback. Katy makes a crude anatomical joke."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/shang-chi-and-the-legend-of-the-ten-rings-2021/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Characters swear and use religious exclamations."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/shang-chi-and-the-legend-of-the-ten-rings-2021/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A child trains until his knuckles bleed. A creature visibly draws a soul from its victim."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/shang-chi-and-the-legend-of-the-ten-rings-2021/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            },
+            {
+              "provider": "New Zealand Classification Office",
+              "url": "https://www.classificationoffice.govt.nz/find-a-rating/quick-takes/shang-chi-and-the-legend-of-the-ten-rings/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A creature imitates a dead loved one’s voice. A dragon protects a hidden realm."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/shang-chi-and-the-legend-of-the-ten-rings-2021/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Katy and Shang-Chi appear intoxicated at karaoke."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/shang-chi-and-the-legend-of-the-ten-rings-2021/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Katy accompanies Shang-Chi to warn Xialing, sharing a risk she could have avoided."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/shang-chi-and-the-legend-of-the-ten-rings-2021/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            },
+            {
+              "provider": "Disney D23",
+              "url": "https://d23.com/meet-the-characters-of-shang-chi-and-the-legend-of-the-ten-rings/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  }
+]
