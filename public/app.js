@@ -1,3 +1,4 @@
+import {movieSlug,moviePath,reviewStatus,warningCategories,warningFinding,inCollection,guidanceKey,faithPrompts,newsletter,shareLinks} from './discovery.js';
 import {catalogFilmKey, marvelCatalog} from './marvel-catalog.js';
 import {scriptureQuotes} from './scripture-quotes.js';
 import {applyFamilyReviewRecommendation, supplementalReviews, supplementalContentEvidenceById} from './family-review-ratings.js';
@@ -13,16 +14,18 @@ let currentSearch='';
 let currentVerdict='all';
 let currentAge='all';
 let currentGenre='all';
+let currentTheme='all',currentWarning='all',currentCollection='all';
 let mobileOpen=false;
 
-const app=document.getElementById('content');
-document.getElementById('year').textContent=new Date().getFullYear();
+const browser=typeof document!=='undefined';
+const app=browser?document.getElementById('content'):null;
+if(browser)document.getElementById('year').textContent=new Date().getFullYear();
 
 const esc=(x)=>String(x??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const verdictLabel=(x)=>({edifying:'Edifying',neutral:'Neutral',destructive:'Destructive to Spiritual Wellness'})[x]||'Review Pending';
 const icon=(v)=>({edifying:'✦',neutral:'◌',destructive:'⚑'})[v]||'○';
 const pill=(v)=>`<span class="pill ${esc(v||'pending')}">${icon(v)} ${esc(verdictLabel(v))}</span>`;
-const routeLink=(r)=>`#review/${encodeURIComponent(r.id)}`;
+const routeLink=moviePath;
 const reviewAliases=new Map([['catalog-2025-theminecraftmovie','film-minecraft-movie']]);
 const coverClass=(r,i=0)=>r.posterClass||`p${(i%6)+1}`;
 const posterLookups=new Map();
@@ -75,7 +78,7 @@ function renderCover(r,{large=false}={}){
   const statusBadge=r.verdict?verdictLabel(r.verdict):'';
   const imageUrl=r.posterUrl||((typeof posterManifest!=='undefined')?posterManifest[`${r.title}|${r.year}`]:null);
   return `<div data-poster-title="${esc(r.title)}" data-poster-year="${esc(r.year)}" class="poster ${cls}${sizeClass}${imageUrl?' poster-image':''}">
-    ${imageUrl?`<img loading="lazy" src="${esc(imageUrl)}" alt="${esc(r.title)} published movie poster" onerror="this.parentNode.classList.remove('poster-image');this.remove()">`: ''}
+    ${imageUrl?`<img loading="lazy" decoding="async" src="${esc(imageUrl)}" alt="${esc(r.title)} published movie poster" onerror="this.parentNode.classList.remove('poster-image');this.remove()">`: ''}
     <div class="poster-meta"><small>${esc(r.year||'')}</small><span>${esc(r.title)}</span><em>${esc(genre)}${statusBadge?' · '+esc(statusBadge):''}</em></div>
   </div>`;
 }
@@ -116,8 +119,8 @@ function summaryStrip(){
 
 function howToUse(){
   return `<section class="quickstart-section section" aria-labelledby="quickstart-title"><div class="container"><div class="section-header"><div><div class="eyebrow">New here? Start here</div><h2 id="quickstart-title">How to use The Orthodox Lens</h2><p>Find a film and learn how to read its review.</p></div></div>
-  <div class="quickstart-grid"><article class="quickstart-step"><span>01</span><h3>Find your movie</h3><p>Search above or browse the library to open a movie review.</p><a href="#browse" class="text-link">Browse movies →</a></article>
-  <article class="quickstart-step"><span>02</span><h3>Read the verdict and scores</h3><p>Edifying, Neutral, or Destructive describes the site's spiritual judgment. A 0–5 theme score describes how prominent that theme is—not a vote from visitors.</p><a href="#about/approach" class="text-link">How we evaluate films →</a></article>
+  <div class="quickstart-grid"><article class="quickstart-step"><span>01</span><h3>Find your movie</h3><p>Search above or browse the library to open a movie review.</p><a href="/#browse" class="text-link">Browse movies →</a></article>
+  <article class="quickstart-step"><span>02</span><h3>Read the verdict and scores</h3><p>Edifying, Neutral, or Destructive describes the site's spiritual judgment. A 0–5 theme score describes how prominent that theme is—not a vote from visitors.</p><a href="/#about/approach" class="text-link">How we evaluate films →</a></article>
   <article class="quickstart-step"><span>03</span><h3>Check the details and discuss</h3><p>Review age guidance, “Before you watch,” Bible connections, and family questions.</p></article></div></div></section>`;
 }
 
@@ -125,23 +128,31 @@ function home(){
   const recent=featuredRecent();
   const reviewed=reviewedHighlights();
   return `<section class="hero"><div class="hero-inner"><div class="eyebrow">✣ &nbsp; Faithful discernment for the whole family</div><h1>Stories shape us.<br><em>Choose them wisely.</em></h1><p class="hero-lede">The Orthodox Lens is an independent movie review site for families, written from a Coptic Orthodox Christian perspective. Each review helps parents explore a film’s content, reflect on Scripture, and start a conversation after watching.</p><div class="theme-verse"><span class="theme-verse-ref">PHILIPPIANS 4:8</span><span>${esc(scriptureQuotes["Philippians 4:8"])}</span><small>King James Version (KJV)</small></div><form class="hero-search" id="heroSearch"><span class="search-ico">⌕</span><input id="heroInput" placeholder="Search movies, genres, and themes..." aria-label="Search movies" autocomplete="off"><button class="btn gold" type="submit">Explore movies →</button></form><div class="hero-note"><span class="dot"></span> Independent guidance for Christian families</div></div></section>
+  <section class="section featured-discovery"><div class="container"><div class="section-header"><div><div class="eyebrow">Start exploring</div><h2>Featured family reviews</h2><p>See suggested ages and editorial verdicts before choosing a film.</p></div><a href="/#browse" class="text-link">View all →</a></div><div class="movie-grid">${reviewedItems().filter(r=>r.verdict==='edifying').slice(0,4).map(card).join('')}</div></div></section>
   ${howToUse()}
   ${summaryStrip()}
-  <section class="section recent-section"><div class="container"><div class="section-header"><div><div class="eyebrow">Fresh recommendations</div><h2>Best recent movies</h2><p>Explore recent releases and see what families can discuss together.</p></div><a href="#browse" class="text-link">Browse all movies →</a></div><div class="movie-grid recent-feature">${recent.map(card).join('')}</div><p class="recent-note">We display authentic published movie posters when available through our verified poster sources. If a poster is unavailable, a text cover is shown instead; no AI-generated substitute is used.</p></div></section>
-  <section class="section"><div class="container"><div class="section-header"><div><div class="eyebrow">Actively reviewed</div><h2>The Orthodox Lens review library</h2><p>${allMovies().length} films in the catalog. Explore reviews with age guidance, Scripture references, and family discussion questions.</p></div><a href="#about/approach" class="text-link">Read our framework →</a></div><div class="movie-grid">${reviewed.map(card).join('')}</div></div></section>
+  ${guidanceKey()}
+  <section class="section"><div class="container"><h2>Find a film for the occasion</h2><div class="method-grid"><a class="method-card" href="/#browse/family"><h3>Family movie night →</h3><p>Edifying films with suggested ages 10+ or younger. Check each review first.</p></a><a class="method-card" href="/#browse/lent"><h3>Lenten reflection →</h3><p>Stories with themes of repentance, sacrifice, faith and service. Not a blanket recommendation to watch during Lent; seek pastoral guidance.</p></a></div></div></section>
+  <section class="section recent-section"><div class="container"><div class="section-header"><div><div class="eyebrow">Fresh recommendations</div><h2>Best recent movies</h2><p>Explore recent releases and see what families can discuss together.</p></div><a href="/#browse" class="text-link">Browse all movies →</a></div><div class="movie-grid recent-feature">${recent.map(card).join('')}</div><p class="recent-note">We display authentic published movie posters when available through our verified poster sources. If a poster is unavailable, a text cover is shown instead; no AI-generated substitute is used.</p></div></section>
+  <section class="section"><div class="container"><div class="section-header"><div><div class="eyebrow">Actively reviewed</div><h2>The Orthodox Lens review library</h2><p>${allMovies().length} films in the catalog. Explore reviews with age guidance, Scripture references, and family discussion questions.</p></div><a href="/#about/approach" class="text-link">Read our framework →</a></div><div class="movie-grid">${reviewed.map(card).join('')}</div></div></section>
+  ${faithPrompts()}${newsletter()}
   `;
 }
 
 function browse(){
   const genres=[...new Set(allMovies().map(x=>(x.genre||'Film').split('·')[0].trim()))].sort();
-  return `<section class="page-hero"><div class="container"><div class="eyebrow">Search the catalog</div><h1>Browse movies</h1><p>Find a film by title, age guidance, verdict, genre, or collection.</p></div></section><section class="section"><div class="container"><div class="filters"><input id="searchFilter" class="field" placeholder="Search title or genre..." value="${esc(currentSearch)}"><select id="verdictFilter"><option value="all">All verdicts</option><option value="edifying" ${currentVerdict==='edifying'?'selected':''}>Edifying</option><option value="neutral" ${currentVerdict==='neutral'?'selected':''}>Neutral</option><option value="destructive" ${currentVerdict==='destructive'?'selected':''}>Destructive</option><option value="pending" ${currentVerdict==='pending'?'selected':''}>No verdict</option></select><select id="ageFilter"><option value="all">All ages</option>${officialAges.map(a=>`<option value="${esc(a)}" ${currentAge===a?'selected':''}>${esc(a)}</option>`).join('')}</select><select id="genreFilter"><option value="all">All genres</option>${genres.map(g=>`<option value="${esc(g)}" ${currentGenre===g?'selected':''}>${esc(g)}</option>`).join('')}</select></div><div id="filteredResults"></div></div></section>`;
+  const themes=[...new Set(allMovies().flatMap(r=>(r.themes||[]).filter(t=>t.type==='positive'&&t.score>0).map(t=>t.name)))].sort();
+  return `<section class="page-hero"><div class="container"><div class="eyebrow">Search the catalog</div><h1>Browse movies</h1><p>Find a film by title, age guidance, verdict, genre, or collection.</p></div></section><section class="section"><div class="container"><div class="filters"><input id="searchFilter" aria-label="Search movie catalog" class="field" placeholder="Search title or genre..." value="${esc(currentSearch)}"><select id="verdictFilter" aria-label="Spiritual verdict"><option value="all">All verdicts</option><option value="edifying" ${currentVerdict==='edifying'?'selected':''}>Edifying</option><option value="neutral" ${currentVerdict==='neutral'?'selected':''}>Neutral</option><option value="destructive" ${currentVerdict==='destructive'?'selected':''}>Destructive</option><option value="pending" ${currentVerdict==='pending'?'selected':''}>No verdict</option></select><select id="ageFilter" aria-label="Suggested age"><option value="all">All ages</option>${officialAges.map(a=>`<option value="${esc(a)}" ${currentAge===a?'selected':''}>${esc(a)}</option>`).join('')}</select><select id="genreFilter" aria-label="Genre"><option value="all">All genres</option>${genres.map(g=>`<option value="${esc(g)}" ${currentGenre===g?'selected':''}>${esc(g)}</option>`).join('')}</select><select id="themeFilter" aria-label="Positive theme"><option value="all">All positive themes</option>${themes.map(t=>`<option ${currentTheme===t?'selected':''} value="${esc(t)}">${esc(t)}</option>`).join('')}</select><select id="warningFilter" aria-label="Documented content advisory"><option value="all">All content advisories</option>${Object.entries(warningCategories).map(([k,v])=>`<option ${currentWarning===k?'selected':''} value="${esc(k)}">Contains: ${esc(v)}</option>`).join('')}</select><select id="collectionFilter" aria-label="Collection"><option value="all">All collections</option><option value="family" ${currentCollection==='family'?'selected':''}>Family movie night</option><option value="lent" ${currentCollection==='lent'?'selected':''}>Lenten reflection</option></select></div><p class="muted">Advisory filters show documented findings, not proof of absence. Collections include provisional assessments.</p><div id="filteredResults" aria-live="polite"></div></div></section>`;
 }
 
 function matchesFilters(r){
   const alternateTitle=r.id==='film-minecraft-movie'?'The Minecraft Movie':'';
-  const hay=`${r.title} ${alternateTitle} ${r.genre||''} ${r.synopsis||''} ${marvelKeys.has(filmKey(r))?'Marvel':''}`.toLowerCase();
+  const hay=`${r.title} ${alternateTitle} ${r.genre||''} ${r.synopsis||''} ${(r.themes||[]).map(t=>t.name).join(' ')} ${marvelKeys.has(filmKey(r))?'Marvel':''}`.toLowerCase();
   const genre=((r.genre||'Film').split('·')[0]||'Film').trim();
   const isMarvel=marvelKeys.has(filmKey(r));
+  if(!inCollection(r,currentCollection))return false;
+  if(currentTheme!=='all'&&!(r.themes||[]).some(t=>t.name===currentTheme&&t.type==='positive'&&t.score>0))return false;
+  if(currentWarning!=='all'&&!warningFinding(r,currentWarning,supplementalContentEvidenceById[r.contentEvidenceId||r.id]||contentEvidenceById[r.contentEvidenceId||r.id]))return false;
   if(currentSearch && !hay.includes(currentSearch.toLowerCase())) return false;
   if(currentVerdict==='pending' && r.verdict) return false;
   if(currentVerdict!=='all' && currentVerdict!=='pending' && r.verdict!==currentVerdict) return false;
@@ -268,14 +279,14 @@ function reviewBanner(r){
   const metadata=[r.year,r.genre||'Film',r.runtime,r.officialRating].filter(value=>value&&!/unverified/i.test(String(value)));
   return `<div class="paper-panel"><div class="review-banner">${renderCover(r,{large:true})}<div>
     <h1>${esc(r.title)}</h1><p class="meta">${metadata.map(esc).join(' · ')}</p>
-    ${r.verdict?pill(r.verdict):''}
+    ${r.verdict?pill(r.verdict):''}<p class="review-status">${esc(reviewStatus(r))}</p>${shareLinks(r)}
     ${r.age?`<div class="tag-row"><span class="tag">Suggested age: ${esc(r.age)}</span></div>`:''}
     ${r.synopsis?`<p>${esc(r.synopsis)}</p>`:''}
   </div></div>${r.verdict ? themeRatingPreview(r) : ''}</div>`;
 }
 
 function pendingDetail(r){
-  return `<div class="container review-back"><a class="back-link" href="#browse">← Back to movies</a>
+  return `<div class="container review-back"><a class="back-link" href="/#browse">← Back to movies</a>
     <div class="review-layout"><div>${reviewBanner(r)}${reviewGuidance(r).before}</div>
     <aside>${reviewSources(r)}</aside></div>
   </div>`;
@@ -475,7 +486,7 @@ function wireThemeSlider(track){
     move(event.key === 'ArrowLeft' ? -1 : 1);
   });
   track.addEventListener('scroll', update, {passive: true});
-  new ResizeObserver(update).observe(track);
+  if('ResizeObserver' in window)new ResizeObserver(update).observe(track);
   update();
 }
 
@@ -497,7 +508,7 @@ function reviewedDetail(r){
     [themes,'theme-ratings','Theme ratings'],[true,'review-sources','Sources']
   ];
   return `<div class="container review-back">
-    <a href="#browse" class="back-link">← Back to all movies</a>
+    <a href="/#browse" class="back-link">← Back to all movies</a>
     <div class="review-layout review-page"><div>
       ${reviewBanner(r)}
       <nav class="review-jump" aria-label="Jump to a review section">
@@ -519,14 +530,14 @@ function reviewedDetail(r){
 function detail(id){
   const canonicalId=reviewAliases.get(id)??id;
   const r=allMovies().find(x=>x.id===canonicalId || x.contentEvidenceId===canonicalId);
-  if(!r) return `<div class="container section"><h1>Review not found</h1><p><a class="text-link" href="#browse">Browse movies →</a></p></div>`;
+  if(!r) return `<div class="container section"><h1>Review not found</h1><p><a class="text-link" href="/#browse">Browse movies →</a></p></div>`;
   return r.verdict ? reviewedDetail(r) : pendingDetail(r);
 }
 
 function about(){
-  return `<section class="page-hero"><div class="container"><h1>About The Orthodox Lens</h1><p>Helping families choose entertainment with discernment, virtue, and thoughtful conversation.</p><a class="text-link" href="#about/approach">How we review films →</a></div></section>
+  return `<section class="page-hero"><div class="container"><h1>About The Orthodox Lens</h1><p>Helping families choose entertainment with discernment, virtue, and thoughtful conversation.</p><a class="text-link" href="/#about/approach">How we review films →</a></div></section>
   <section class="section"><div class="container"><div class="method-grid">
-    <article class="method-card"><div class="eyebrow">Our mission</div><h2>Watch with discernment.</h2><p>The Orthodox Lens is an independent Christian movie-review resource for parents and families. Our goal is not to forbid entertainment, but to help viewers recognize virtue, evaluate difficult messages, and discuss what they watch.</p><p>We consider whether a film is edifying, neutral, or destructive to spiritual wellness, alongside separate age recommendations and documented content warnings.</p></article>
+    <article class="method-card"><div class="eyebrow">Editorial accountability</div><h2>Who prepares the reviews?</h2><p>AI-assisted drafts are prepared for independent editorial review. Named reviewer and theological reviewer credits will be added once their participation and consent are confirmed. A provisional assessment is not a clergy-approved review.</p><p>We consult film-specific sources such as BBFC, IMDb parental guides, Common Sense Media and Plugged In, where available. We distinguish documented findings from interpretation, retain source links, and do not treat missing evidence as proof of absence.</p></article><article class="method-card"><div class="eyebrow">Our mission</div><h2>Watch with discernment.</h2><p>The Orthodox Lens is an independent Christian movie-review resource for parents and families. Our goal is not to forbid entertainment, but to help viewers recognize virtue, evaluate difficult messages, and discuss what they watch.</p><p>We consider whether a film is edifying, neutral, or destructive to spiritual wellness, alongside separate age recommendations and documented content warnings.</p></article>
     <article class="method-card"><div class="eyebrow">Our foundations</div><h2>Faithful, not official.</h2><p>Our perspective is informed by Scripture and the historic Orthodox Christian tradition, including teachings of the Church Fathers where relevant. We welcome Christians from different traditions.</p><p><strong>We are not an official publication or representative of any Orthodox Church, bishop, synod, or religious institution.</strong> Our evaluations are independent editorial opinions.</p></article>
     <article class="method-card"><div class="eyebrow">For families</div><h2>Discuss, don't merely rate.</h2><p>Neutral movies in particular can open meaningful conversations about truthfulness, humility, courage, relationships, and the difference between portraying wrongdoing and endorsing it.</p><p>Our post-viewing questions are intended to support parents and children in thoughtful conversation, not to replace a family's judgment.</p></article>
     <article class="method-card"><div class="eyebrow">A pastoral reminder</div><h2>Spiritual guidance belongs in relationship.</h2><p>Reviews and age recommendations on this website are suggestions, not spiritual direction. For personal discernment, families should seek the guidance of their father of confession or parish priest.</p><p>AI assists research and drafting, while final approval requires human verification of film facts, citations, and the theological interpretation.</p></article>
@@ -577,6 +588,7 @@ async function sendSuggestion(event){
   finally{button.disabled=false}
 }
 function wire(){
+  app.querySelectorAll('[data-share-url]').forEach(button=>button.addEventListener('click',async()=>{const status=document.getElementById('share-status');try{if(navigator.share)await navigator.share({title:button.dataset.shareTitle,url:button.dataset.shareUrl});else{await navigator.clipboard.writeText(button.dataset.shareUrl);status.textContent='Link copied.';}}catch(error){if(error.name!=='AbortError')status.textContent='Copy this URL: '+button.dataset.shareUrl;}}));
   const track = document.getElementById('theme-track');
   if (track) wireThemeSlider(track);
   app.querySelectorAll('[data-review-jump]').forEach(button=>button.addEventListener('click',()=>{
@@ -608,7 +620,7 @@ function wire(){
   }
   document.getElementById('heroSearch')?.addEventListener('submit',e=>{e.preventDefault();currentSearch=document.getElementById('heroInput').value;location.hash='#browse';if(location.hash==='#browse') render();});
   if(document.getElementById('filteredResults')){
-    for(const [id,setter] of [['searchFilter',v=>currentSearch=v],['verdictFilter',v=>currentVerdict=v],['ageFilter',v=>currentAge=v],['genreFilter',v=>currentGenre=v]]){
+    for(const [id,setter] of [['searchFilter',v=>currentSearch=v],['verdictFilter',v=>currentVerdict=v],['ageFilter',v=>currentAge=v],['genreFilter',v=>currentGenre=v],['themeFilter',v=>currentTheme=v],['warningFilter',v=>currentWarning=v],['collectionFilter',v=>currentCollection=v]]){
       document.getElementById(id).addEventListener(id==='searchFilter'?'input':'change',e=>{setter(e.target.value);drawFiltered();});
     }
     drawFiltered();
@@ -629,6 +641,7 @@ function wire(){
 function loadPosters(){
   if(location.protocol==='file:') return;
   const elems=Array.from(document.querySelectorAll('.poster[data-poster-title]:not(.poster-image)'));
+  if(!('IntersectionObserver' in window))return;
   const observer=new IntersectionObserver(entries=>{
     for(const entry of entries){
       if(!entry.isIntersecting) continue;
@@ -638,7 +651,7 @@ function loadPosters(){
       if(!posterLookups.has(key))posterLookups.set(key,fetch('/api/poster?title='+encodeURIComponent(title)+'&year='+encodeURIComponent(year)).then(r=>r.ok?r.json():{}).catch(()=>({})));
       posterLookups.get(key).then(data=>{
         if(!data.posterUrl||!el.isConnected) return;
-        const img=document.createElement('img');img.loading='lazy';img.alt=title+' movie poster';img.referrerPolicy='no-referrer';
+        const img=document.createElement('img');img.loading='lazy';img.decoding='async';img.alt=title+' movie poster';img.referrerPolicy='no-referrer';
         img.onerror=()=>{img.remove();el.classList.remove('poster-image')};
         img.src=data.posterUrl;el.classList.add('poster-image');el.prepend(img);
       });
@@ -648,10 +661,14 @@ function loadPosters(){
 }
 
 function render(){
-  const route=decodeURIComponent(location.hash.slice(1)||'home');
+  const slug=location.pathname.match(/^\/movies\/([^/]+)\/?$/)?.[1];
+  const routeMovie=slug?allMovies().find(m=>movieSlug(m)===slug):null;
+  let route=location.hash.slice(1)||(slug?(routeMovie?'review/'+routeMovie.id:'review/not-found'):'home');
+  try{route=decodeURIComponent(route)}catch{route='review/not-found'}
+  if(route.startsWith('browse/'))currentCollection=route.slice(7);
   const hash=route==='method'?'about/approach':route;
   if(hash==='admin'){location.replace('/studio/');return;}
-  app.innerHTML=hash==='home'?home():hash==='browse'?browse():(hash==='about'||hash==='about/approach')?about():hash==='suggest'?suggestionPage():hash.startsWith('suggest/')?suggestionPage(hash.slice(8)):hash.startsWith('review/')?detail(hash.slice(7)):home();
+  app.innerHTML=hash==='home'?home():(hash==='browse'||hash.startsWith('browse/'))?browse():(hash==='about'||hash==='about/approach')?about():hash==='suggest'?suggestionPage():hash.startsWith('suggest/')?suggestionPage(hash.slice(8)):hash.startsWith('review/')?detail(hash.slice(7)):home();
   if(hash.startsWith('review/')){
     const id=hash.slice(7);const movie=allMovies().find(x=>x.id===id||x.contentEvidenceId===id);
     if(movie){trackPublicEvent({kind:'movie_view',movie_id:movie.id,movie_title:movie.title});loadCommunityIdeas(movie.id)}
@@ -663,19 +680,24 @@ function render(){
   else window.scrollTo(0,0);
 }
 
+if(browser){
 document.getElementById('mobileNav').onclick=()=>{
   mobileOpen=!mobileOpen;
+  document.getElementById('mobileNav').setAttribute('aria-expanded',String(mobileOpen));
   let nav=document.getElementById('mobileMenu');
   if(!nav){
     nav=document.createElement('div');
     nav.id='mobileMenu';
     nav.className='mobile-menu';
-    nav.innerHTML='<a href="#home">Home</a><a href="#browse">Browse movies</a><a href="#about">About &amp; Our Approach</a><a href="#suggest">Reader Suggestions</a><a href="/studio/">Editorial studio</a>';
+    nav.innerHTML='<a href="/#home">Home</a><a href="/#browse">Browse movies</a><a href="/#about">About &amp; Our Approach</a><a href="/#suggest">Reader Suggestions</a>';
     document.querySelector('.nav').append(nav);
   }
   nav.style.display=mobileOpen?'flex':'none';
 };
 
-window.addEventListener('hashchange',()=>{mobileOpen=false;document.getElementById('mobileMenu')?.remove();render();});
+window.addEventListener('hashchange',()=>{mobileOpen=false;document.getElementById('mobileNav').setAttribute('aria-expanded','false');document.getElementById('mobileMenu')?.remove();render();});
 await refreshPublished();
 render();
+}
+export {allMovies,home,reviewedDetail,pendingDetail};
+export function setPublishedForBuild(reviews){published=reviews||[];}
