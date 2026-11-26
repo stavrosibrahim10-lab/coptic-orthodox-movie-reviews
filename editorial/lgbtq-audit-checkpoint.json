@@ -204,6 +204,21 @@
       ],
       "remaining_missing_reviews": 80,
       "studio_status": "No authenticated private Studio session; export request timed out. Verified repository proposals only."
+    },
+    {
+      "date": "2026-11-25",
+      "batch_file": "editorial/review-drafts-marvel-batch-05.json",
+      "branch": "editorial/review-completion",
+      "commit": "262979b663b78854822465924cb5e12355e51509",
+      "ledger_commit": "7fdeb503c4c2d77e816a0ac0bc8e55284392c613",
+      "film_ids": [
+        "marvel-1997-men-in-black",
+        "marvel-2002-men-in-black-ii",
+        "marvel-2012-men-in-black-3",
+        "marvel-2019-men-in-black-international"
+      ],
+      "remaining_missing_reviews": 76,
+      "studio_status": "Private export timed out; no authenticated Studio session available. GitHub proposal readback verified."
     }
   ],
   "stage4_batches": [
