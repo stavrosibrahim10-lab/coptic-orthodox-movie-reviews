@@ -5900,6 +5900,780 @@
           "studio_status": "repository_proposal_only_private_export_timed_out"
         }
       ]
+    },
+    {
+      "number": 8,
+      "date": "2026-11-26",
+      "review_completion_branch": "editorial/review-completion",
+      "review_completion_ledger": "editorial/review-completion.tsv",
+      "review_completion_ledger_blob": "898579f7e793eb04841024587b49b61edba3241f",
+      "stage_6_to_8": "Original project conversation recovered Stage 5 and the post-Stage-8 franchise check, but no authoritative definitions for Stages 6–8. Await the roadmap text before advancing.",
+      "films": [
+        {
+          "movie_id": "film-inside-out-2",
+          "title": "Inside Out 2",
+          "year": 2024,
+          "version": "Original 2024 theatrical feature",
+          "review_baseline": "public/seed-reviews.js",
+          "review_baseline_blob": "65cf4053ad16b37541068fb57362e212670115b7",
+          "status": "proposal_saved",
+          "sources": [
+            "https://raisingchildren.net.au/guides/movie-reviews/inside-out-2"
+          ],
+          "on_screen": "Anxiety bottles up the older emotions after Riley arrives at hockey camp hoping to impress Val.",
+          "on_screen_source": "https://raisingchildren.net.au/guides/movie-reviews/inside-out-2",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Riley's fear of losing friends is understandable. Letting one fear decide who deserves a place in her life costs her the very friendships she wants.",
+            "age": "10+",
+            "age_rationale": "Social exclusion and mounting anxiety may trouble children more than the demolition of the emotions’ headquarters.",
+            "age_source": "https://raisingchildren.net.au/guides/movie-reviews/inside-out-2",
+            "theme_ratings": [
+              {
+                "name": "Belonging",
+                "score": 4,
+                "evidence": "Riley wants a place on the new team.",
+                "sources": [
+                  "https://raisingchildren.net.au/guides/movie-reviews/inside-out-2"
+                ]
+              },
+              {
+                "name": "Control",
+                "score": 4,
+                "evidence": "Anxiety confines the other emotions.",
+                "sources": [
+                  "https://raisingchildren.net.au/guides/movie-reviews/inside-out-2"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "No supported film-wide prominence rating from the scene evidence reviewed. Existing unknown retained.",
+            "sources": [
+              "https://raisingchildren.net.au/guides/movie-reviews/inside-out-2"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "Galatians 6:2",
+            "translation": "KJV",
+            "scripture_text": "Bear ye one another's burdens, and so fulfil the law of Christ.",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Galatians%206%3A2&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 11 on Ephesians, on Ephesians 4:12",
+            "patristic_text": "Each one edifies, each one perfects, each one ministers.",
+            "patristic_source": "https://www.newadvent.org/fathers/230111.htm",
+            "biblical_parallel": {
+              "filmMoment": "Anxiety bottles up the older emotions after Riley arrives at hockey camp hoping to impress Val.",
+              "reflection": "A teammate can share Riley’s burden by making room for her even after a disappointing play.",
+              "scriptureReference": "Galatians 6:2",
+              "sourceUrl": "https://raisingchildren.net.au/guides/movie-reviews/inside-out-2"
+            },
+            "proposed_family_questions": [
+              "Why does Val’s opinion matter so much to Riley?",
+              "What do Bree and Grace already know about her that Val cannot?",
+              "What does Anxiety hope the bottle will accomplish?",
+              "How could a teammate notice when competition stops being fun for Riley?",
+              "What would an honest conversation after camp sound like?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_private_export_timed_out"
+        },
+        {
+          "movie_id": "film-paddington-peru",
+          "title": "Paddington in Peru",
+          "year": 2024,
+          "version": "Original 2024 theatrical feature",
+          "review_baseline": "public/seed-reviews.js",
+          "review_baseline_blob": "65cf4053ad16b37541068fb57362e212670115b7",
+          "status": "proposal_saved",
+          "sources": [
+            "https://childrenandmedia.org.au/movie-reviews/movies/paddington-in-peru"
+          ],
+          "on_screen": "Gina describes waiting years for her father to return from searching for gold. His pursuit threatens their reunion.",
+          "on_screen_source": "https://childrenandmedia.org.au/movie-reviews/movies/paddington-in-peru",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Gina gives the treasure hunt a human cost. Her anger makes sense once we hear what waiting for her father was like.",
+            "age": "7+",
+            "age_rationale": "Children sensitive to abandonment may need company when Gina fears her father would trade her safety for gold.",
+            "age_source": "https://childrenandmedia.org.au/movie-reviews/movies/paddington-in-peru",
+            "theme_ratings": [
+              {
+                "name": "Greed",
+                "score": 4,
+                "evidence": "The search for gold separates father and child.",
+                "sources": [
+                  "https://childrenandmedia.org.au/movie-reviews/movies/paddington-in-peru"
+                ]
+              },
+              {
+                "name": "Family loyalty",
+                "score": 4,
+                "evidence": "Gina still longs to be reunited with her father.",
+                "sources": [
+                  "https://childrenandmedia.org.au/movie-reviews/movies/paddington-in-peru"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "No supported film-wide prominence rating from the scene evidence reviewed. Existing unknown retained.",
+            "sources": [
+              "https://childrenandmedia.org.au/movie-reviews/movies/paddington-in-peru"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "Galatians 6:2",
+            "translation": "KJV",
+            "scripture_text": "Bear ye one another's burdens, and so fulfil the law of Christ.",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Galatians%206%3A2&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 11 on Ephesians, on Ephesians 4:12",
+            "patristic_text": "Each one edifies, each one perfects, each one ministers.",
+            "patristic_source": "https://www.newadvent.org/fathers/230111.htm",
+            "biblical_parallel": {
+              "filmMoment": "Gina describes waiting years for her father to return from searching for gold. His pursuit threatens their reunion.",
+              "reflection": "Sharing Gina’s burden begins by hearing the child's account of the years her father lost.",
+              "scriptureReference": "Galatians 6:2",
+              "sourceUrl": "https://childrenandmedia.org.au/movie-reviews/movies/paddington-in-peru"
+            },
+            "proposed_family_questions": [
+              "What was Gina hoping her father's return would change?",
+              "Why might the gold mean something different to her than to him?",
+              "What does Paddington’s search for Aunt Lucy tell us about his loyalties?",
+              "How does the Browns’ first impression of the forest figures change?",
+              "What could Gina’s father do to begin repairing her trust?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_private_export_timed_out"
+        },
+        {
+          "movie_id": "researched-moana-2",
+          "title": "Moana 2",
+          "year": 2024,
+          "version": "Original 2024 theatrical feature",
+          "review_baseline": "public/seed-reviews.js",
+          "review_baseline_blob": "65cf4053ad16b37541068fb57362e212670115b7",
+          "status": "proposal_saved",
+          "sources": [
+            "https://raisingchildren.net.au/guides/movie-reviews/moana-2"
+          ],
+          "on_screen": "Moana recruits a farmer, a shipwright and a warrior to find Motufetu. The crew is struck by darts and immobilized.",
+          "on_screen_source": "https://raisingchildren.net.au/guides/movie-reviews/moana-2",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "The voyage gives different kinds of work a place in the same boat. The ancestral commission and the intervention of demigods also invite a conversation about the story’s religious world.",
+            "age": "7+",
+            "age_rationale": "Paralysis, lightning and a shark biting the boat can frighten a child even between comic moments.",
+            "age_source": "https://raisingchildren.net.au/guides/movie-reviews/moana-2",
+            "theme_ratings": [
+              {
+                "name": "Cooperation",
+                "score": 5,
+                "evidence": "Moana takes a crew with different skills.",
+                "sources": [
+                  "https://raisingchildren.net.au/guides/movie-reviews/moana-2"
+                ]
+              },
+              {
+                "name": "Courage",
+                "score": 4,
+                "evidence": "The crew goes in search of an island its predecessors could not reach.",
+                "sources": [
+                  "https://raisingchildren.net.au/guides/movie-reviews/moana-2"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "No supported film-wide prominence rating from the scene evidence reviewed. Existing unknown retained.",
+            "sources": [
+              "https://raisingchildren.net.au/guides/movie-reviews/moana-2"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "Galatians 6:2",
+            "translation": "KJV",
+            "scripture_text": "Bear ye one another's burdens, and so fulfil the law of Christ.",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Galatians%206%3A2&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 11 on Ephesians, on Ephesians 4:12",
+            "patristic_text": "Each one edifies, each one perfects, each one ministers.",
+            "patristic_source": "https://www.newadvent.org/fathers/230111.htm",
+            "biblical_parallel": {
+              "filmMoment": "Moana recruits a farmer, a shipwright and a warrior to find Motufetu. The crew is struck by darts and immobilized.",
+              "reflection": "The farmer's place aboard the canoe invites children to ask which quiet gifts their own community needs.",
+              "scriptureReference": "Galatians 6:2",
+              "sourceUrl": "https://raisingchildren.net.au/guides/movie-reviews/moana-2"
+            },
+            "proposed_family_questions": [
+              "Why take Kele on a voyage when he is a farmer?",
+              "What would the crew lose without Loto?",
+              "How does the earlier wayfinder’s disappearance change the risk Moana takes?",
+              "What happens to the crew’s confidence when the darts strike?",
+              "How is asking for help different from giving up the role of wayfinder?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_private_export_timed_out"
+        },
+        {
+          "movie_id": "researched-sonic-the-hedgehog-3",
+          "title": "Sonic the Hedgehog 3",
+          "year": 2024,
+          "version": "Original 2024 theatrical feature",
+          "review_baseline": "public/seed-reviews.js",
+          "review_baseline_blob": "65cf4053ad16b37541068fb57362e212670115b7",
+          "status": "proposal_saved",
+          "sources": [
+            "https://raisingchildren.net.au/guides/movie-reviews/sonic-the-hedgehog-3"
+          ],
+          "on_screen": "A flashback shows Maria befriending Shadow before she dies in the laboratory explosion. Shadow’s later violence puts strangers at risk.",
+          "on_screen_source": "https://raisingchildren.net.au/guides/movie-reviews/sonic-the-hedgehog-3",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Remembering Maria gives the audience grounds to understand Shadow’s sorrow and to question the retaliation that grows from it.",
+            "age": "10+",
+            "age_rationale": "A child dies in a flashback and cannot return. Shadow’s attacks on bystanders bring the consequences of his grief into the present.",
+            "age_source": "https://raisingchildren.net.au/guides/movie-reviews/sonic-the-hedgehog-3",
+            "theme_ratings": [
+              {
+                "name": "Friendship",
+                "score": 4,
+                "evidence": "Maria befriends the captive Shadow.",
+                "sources": [
+                  "https://raisingchildren.net.au/guides/movie-reviews/sonic-the-hedgehog-3"
+                ]
+              },
+              {
+                "name": "Vengeance",
+                "score": 5,
+                "evidence": "Shadow's destructive response endangers people who never knew Maria.",
+                "sources": [
+                  "https://raisingchildren.net.au/guides/movie-reviews/sonic-the-hedgehog-3"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "No supported film-wide prominence rating from the scene evidence reviewed. Existing unknown retained.",
+            "sources": [
+              "https://raisingchildren.net.au/guides/movie-reviews/sonic-the-hedgehog-3"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "Romans 12:21",
+            "translation": "KJV",
+            "scripture_text": "Be not overcome of evil, but overcome evil with good.",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Romans%2012%3A21&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 22 on Romans, on Romans 12:20–21",
+            "patristic_text": "For I even insist upon your doing kindness.",
+            "patristic_source": "https://www.newadvent.org/fathers/210222.htm",
+            "biblical_parallel": {
+              "filmMoment": "A flashback shows Maria befriending Shadow before she dies in the laboratory explosion. Shadow’s later violence puts strangers at risk.",
+              "reflection": "Paul’s call to overcome evil with good asks what action could honor the kindness Maria actually showed.",
+              "scriptureReference": "Romans 12:21",
+              "sourceUrl": "https://raisingchildren.net.au/guides/movie-reviews/sonic-the-hedgehog-3"
+            },
+            "proposed_family_questions": [
+              "What did Maria offer Shadow while he was confined?",
+              "What does the laboratory flashback explain about Shadow’s anger?",
+              "Who pays for that anger during the blackout?",
+              "What might Sonic say about loss that Shadow could trust?",
+              "Which action would best honor the way Maria treated Shadow?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_private_export_timed_out"
+        },
+        {
+          "movie_id": "researched-the-super-mario-bros-movie",
+          "title": "The Super Mario Bros. Movie",
+          "year": 2023,
+          "version": "Original 2023 theatrical feature",
+          "review_baseline": "public/seed-reviews.js",
+          "review_baseline_blob": "65cf4053ad16b37541068fb57362e212670115b7",
+          "status": "proposal_saved",
+          "sources": [
+            "https://raisingchildren.net.au/guides/movie-reviews/super-mario-bros-movie"
+          ],
+          "on_screen": "When Luigi disappears into a pipe, Mario follows. They land apart and Mario asks for help to reach his brother.",
+          "on_screen_source": "https://raisingchildren.net.au/guides/movie-reviews/super-mario-bros-movie",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Mario’s first response to danger is loyalty. Much of the adventure rewards combat skill, while the brothers' service to their neighborhood supplies a quieter measure of courage.",
+            "age": "7+",
+            "age_rationale": "Luigi is captured in the Badlands. Bowser burns a castle and holds prisoners, which can upset younger children.",
+            "age_source": "https://raisingchildren.net.au/guides/movie-reviews/super-mario-bros-movie",
+            "theme_ratings": [
+              {
+                "name": "Loyalty",
+                "score": 5,
+                "evidence": "Mario follows Luigi into the pipes.",
+                "sources": [
+                  "https://raisingchildren.net.au/guides/movie-reviews/super-mario-bros-movie"
+                ]
+              },
+              {
+                "name": "Domination",
+                "score": 4,
+                "evidence": "Bowser attacks the penguins and imprisons them.",
+                "sources": [
+                  "https://raisingchildren.net.au/guides/movie-reviews/super-mario-bros-movie"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "No supported film-wide prominence rating from the scene evidence reviewed. Existing unknown retained.",
+            "sources": [
+              "https://raisingchildren.net.au/guides/movie-reviews/super-mario-bros-movie"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "Galatians 6:2",
+            "translation": "KJV",
+            "scripture_text": "Bear ye one another's burdens, and so fulfil the law of Christ.",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Galatians%206%3A2&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 11 on Ephesians, on Ephesians 4:12",
+            "patristic_text": "Each one edifies, each one perfects, each one ministers.",
+            "patristic_source": "https://www.newadvent.org/fathers/230111.htm",
+            "biblical_parallel": {
+              "filmMoment": "When Luigi disappears into a pipe, Mario follows. They land apart and Mario asks for help to reach his brother.",
+              "reflection": "Mario begins by sharing a plumbing job with Luigi and ends up sharing the danger his brother faces.",
+              "scriptureReference": "Galatians 6:2",
+              "sourceUrl": "https://raisingchildren.net.au/guides/movie-reviews/super-mario-bros-movie"
+            },
+            "proposed_family_questions": [
+              "Why do the brothers go underground in Brooklyn?",
+              "Why does Mario keep going after the pipe separates them?",
+              "What does Peach see in someone who has just arrived?",
+              "What does Bowser take from the penguins besides their star?",
+              "Which part of rescuing Luigi requires Mario to ask for help?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_private_export_timed_out"
+        },
+        {
+          "movie_id": "batch1-2019-frozen-ii",
+          "title": "Frozen II",
+          "year": 2019,
+          "version": "Original 2019 theatrical feature",
+          "review_baseline": "public/seed-reviews.js",
+          "review_baseline_blob": "65cf4053ad16b37541068fb57362e212670115b7",
+          "status": "proposal_saved",
+          "sources": [
+            "https://childrenandmedia.org.au/movie-reviews/movies/frozen-2"
+          ],
+          "on_screen": "Elsa learns that her grandfather killed the Northuldra chief. Anna loses Olaf as Elsa freezes, and the collapse of the dam threatens Arendelle.",
+          "on_screen_source": "https://childrenandmedia.org.au/movie-reviews/movies/frozen-2",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Learning the truth costs the sisters their comforting account of their family's past. Addressing the wrong raises real questions about the safety of people now living downstream.",
+            "age": "10+",
+            "age_rationale": "The sisters see the moments before their parents drowned, and Olaf disappears in Anna’s arms.",
+            "age_source": "https://childrenandmedia.org.au/movie-reviews/movies/frozen-2",
+            "theme_ratings": [
+              {
+                "name": "Truthfulness",
+                "score": 4,
+                "evidence": "Elsa uncovers the killing behind the inherited story.",
+                "sources": [
+                  "https://childrenandmedia.org.au/movie-reviews/movies/frozen-2"
+                ]
+              },
+              {
+                "name": "Betrayal",
+                "score": 5,
+                "evidence": "The grandfather kills the Northuldra chief.",
+                "sources": [
+                  "https://childrenandmedia.org.au/movie-reviews/movies/frozen-2"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "No supported film-wide prominence rating from the scene evidence reviewed. Existing unknown retained.",
+            "sources": [
+              "https://childrenandmedia.org.au/movie-reviews/movies/frozen-2"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "Romans 12:21",
+            "translation": "KJV",
+            "scripture_text": "Be not overcome of evil, but overcome evil with good.",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Romans%2012%3A21&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 22 on Romans, on Romans 12:20–21",
+            "patristic_text": "For I even insist upon your doing kindness.",
+            "patristic_source": "https://www.newadvent.org/fathers/210222.htm",
+            "biblical_parallel": {
+              "filmMoment": "Elsa learns that her grandfather killed the Northuldra chief. Anna loses Olaf as Elsa freezes, and the collapse of the dam threatens Arendelle.",
+              "reflection": "Overcoming inherited wrongdoing begins when the sisters listen to what happened to their neighbors.",
+              "scriptureReference": "Romans 12:21",
+              "sourceUrl": "https://childrenandmedia.org.au/movie-reviews/movies/frozen-2"
+            },
+            "proposed_family_questions": [
+              "What do the sisters learn in the wreck of their parents’ ship?",
+              "What changes when Elsa discovers who killed the chief?",
+              "Why does Olaf's disappearance tell Anna something about Elsa?",
+              "Whose safety is threatened by the dam’s destruction?",
+              "What does Arendelle owe the Northuldra once the truth is known?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_private_export_timed_out"
+        },
+        {
+          "movie_id": "batch1-2022-puss-in-boots-the-last-wish",
+          "title": "Puss in Boots: The Last Wish",
+          "year": 2022,
+          "version": "Original 2022 theatrical feature",
+          "review_baseline": "public/seed-reviews.js",
+          "review_baseline_blob": "65cf4053ad16b37541068fb57362e212670115b7",
+          "status": "proposal_saved",
+          "sources": [
+            "https://childrenandmedia.org.au/movie-reviews/movies/puss-in-boots-the-last-wish",
+            "https://www.thewrap.com/puss-in-boots-the-last-wish-joel-crawford-profile/"
+          ],
+          "on_screen": "When Puss panics, Perrito rests his head against him and stays. Earlier, a doctor warns Puss about the lives he has lost.",
+          "on_screen_source": "https://www.thewrap.com/puss-in-boots-the-last-wish-joel-crawford-profile/",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Perrito offers the frightened cat a kindness he can receive without explaining himself. That moment gives friendship a value the hero’s bravado cannot supply.",
+            "age": "10+",
+            "age_rationale": "The wolf’s whistle announces his approach before he appears with sickles. Repetition can make later quiet moments frightening.",
+            "age_source": "https://childrenandmedia.org.au/movie-reviews/movies/puss-in-boots-the-last-wish",
+            "theme_ratings": [
+              {
+                "name": "Compassion",
+                "score": 5,
+                "evidence": "Perrito quietly stays with Puss during his panic.",
+                "sources": [
+                  "https://www.thewrap.com/puss-in-boots-the-last-wish-joel-crawford-profile/"
+                ]
+              },
+              {
+                "name": "Vulnerability",
+                "score": 4,
+                "evidence": "The famously confident hero accepts comfort.",
+                "sources": [
+                  "https://www.thewrap.com/puss-in-boots-the-last-wish-joel-crawford-profile/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "No supported film-wide prominence rating from the scene evidence reviewed. Existing unknown retained.",
+            "sources": [
+              "https://childrenandmedia.org.au/movie-reviews/movies/puss-in-boots-the-last-wish"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "Galatians 6:2",
+            "translation": "KJV",
+            "scripture_text": "Bear ye one another's burdens, and so fulfil the law of Christ.",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Galatians%206%3A2&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 11 on Ephesians, on Ephesians 4:12",
+            "patristic_text": "Each one edifies, each one perfects, each one ministers.",
+            "patristic_source": "https://www.newadvent.org/fathers/230111.htm",
+            "biblical_parallel": {
+              "filmMoment": "When Puss panics, Perrito rests his head against him and stays. Earlier, a doctor warns Puss about the lives he has lost.",
+              "reflection": "Perrito cannot face death for Puss. He can share the frightening minute in front of them.",
+              "scriptureReference": "Galatians 6:2",
+              "sourceUrl": "https://www.thewrap.com/puss-in-boots-the-last-wish-joel-crawford-profile/"
+            },
+            "proposed_family_questions": [
+              "What does the doctor tell Puss that his old adventures never taught him?",
+              "Why does the wolf’s whistle frighten Puss before a fight even begins?",
+              "What does Perrito notice when Puss stops running?",
+              "How could a joke or a speech have changed that moment?",
+              "What would Puss lose if his only wish were for more lives?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_private_export_timed_out"
+        },
+        {
+          "movie_id": "marvel-2021-spider-man-no-way-home",
+          "title": "Spider-Man: No Way Home",
+          "year": 2021,
+          "version": "Original 2021 theatrical feature",
+          "review_baseline": "editorial/review-drafts-marvel-batch-09.json",
+          "review_baseline_blob": "b44348ce8dc54db8409bca29e20d7c3f2df4b09d",
+          "status": "proposal_saved",
+          "sources": [
+            "https://raisingchildren.net.au/guides/movie-reviews/spider-man-no-way-home",
+            "https://www.pluggedin.com/movie-reviews/spider-man-no-way-home-2021/",
+            "https://www.bbfc.co.uk/release/spider-man-no-way-home-q29sbgvjdglvbjpwwc01mzmxmtq"
+          ],
+          "on_screen": "May urges Peter to offer the displaced villains another chance. Friends help him after a death.",
+          "on_screen_source": "https://raisingchildren.net.au/guides/movie-reviews/spider-man-no-way-home",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "May sees a frightened man at the shelter where Peter sees another problem to return to Strange. Peter’s willingness to help people who could hurt him gives the story its spiritual weight.",
+            "age": "13+",
+            "age_rationale": "The apartment fight ends with Peter trying to help a dying loved one. Children accustomed to lighter Spider-Man stories may find his bloodied hands and grief especially upsetting.",
+            "age_source": "https://raisingchildren.net.au/guides/movie-reviews/spider-man-no-way-home",
+            "theme_ratings": [
+              {
+                "name": "Mercy",
+                "score": 5,
+                "evidence": "May urges Peter to help the visitor at the shelter.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/spider-man-no-way-home-2021/"
+                ]
+              },
+              {
+                "name": "Friendship",
+                "score": 4,
+                "evidence": "Others who know loss stay with Peter in his grief.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/spider-man-no-way-home-2021/"
+                ]
+              },
+              {
+                "name": "Revenge",
+                "score": 4,
+                "evidence": "After a death, Peter wants to make his enemy pay.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/spider-man-no-way-home-2021/"
+                ]
+              },
+              {
+                "name": "Public scapegoating",
+                "score": 3,
+                "evidence": "A protester hurls a brick through May’s window.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/spider-man-no-way-home-2021/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The available accounts do not establish a film-wide score.",
+            "sources": [
+              "https://raisingchildren.net.au/guides/movie-reviews/spider-man-no-way-home",
+              "https://www.pluggedin.com/movie-reviews/spider-man-no-way-home-2021/"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "Romans 12:21",
+            "translation": "KJV",
+            "scripture_text": "Be not overcome of evil, but overcome evil with good.",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Romans+12%3A21&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 22 on Romans",
+            "patristic_text": "For I even insist upon your doing kindness.",
+            "patristic_source": "https://www.newadvent.org/fathers/210222.htm",
+            "biblical_parallel": {
+              "title": "May welcomes a stranger",
+              "filmMoment": "May asks Peter to help someone he would prefer to leave behind.",
+              "scriptureReference": "Romans 12:21",
+              "reflection": "Paul’s command gives Peter a harder question than whether he can defeat an enemy. What good can he still do for the man standing in May’s shelter?",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/spider-man-no-way-home-2021/"
+            },
+            "proposed_family_questions": [
+              "Why does Peter want Ned and MJ exempted from the spell?",
+              "What does May notice about the visitor at the shelter that Peter overlooks?",
+              "What responsibility does Peter have to the people in the cars during the bridge fight?",
+              "Why might another Peter’s account of loss reach him when advice alone would fail?",
+              "How would you explain to Strange why Peter wants to give the visitors a chance to change?"
+            ],
+            "verification": "Existing draft retained. KJV and patristic quotations checked against linked editions."
+          },
+          "studio_status": "repository_proposal_only_private_export_timed_out"
+        },
+        {
+          "movie_id": "marvel-2023-ant-man-and-the-wasp-quantumania",
+          "title": "Ant-Man and the Wasp: Quantumania",
+          "year": 2023,
+          "version": "Original 2023 theatrical feature",
+          "review_baseline": "editorial/review-drafts-marvel-batch-09.json",
+          "review_baseline_blob": "b44348ce8dc54db8409bca29e20d7c3f2df4b09d",
+          "status": "proposal_saved",
+          "sources": [
+            "https://raisingchildren.net.au/guides/movie-reviews/ant-man-and-the-wasp-quantumania",
+            "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-quantumania-2023/",
+            "https://www.bbfc.co.uk/release/ant-man-and-the-wasp-quantumania-q29sbgvjdglvbjpwwc0xmdewnjqx"
+          ],
+          "on_screen": "Kang uses electrical force against the imprisoned Scott and Cassie to compel Scott’s cooperation.",
+          "on_screen_source": "https://raisingchildren.net.au/guides/movie-reviews/ant-man-and-the-wasp-quantumania",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Scott’s concern for his daughter is persuasive when Kang threatens her. The same family barely considers how Janet’s long deception affected Cassie’s ability to recognize danger. Both choices deserve a hearing after the adventure.",
+            "age": "13+",
+            "age_rationale": "Kang hurting Cassie to compel her father makes the coercion more distressing than the battlefield spectacle.",
+            "age_source": "https://raisingchildren.net.au/guides/movie-reviews/ant-man-and-the-wasp-quantumania",
+            "theme_ratings": [
+              {
+                "name": "Parental devotion",
+                "score": 4,
+                "evidence": "Scott faces Kang’s threats against Cassie.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-quantumania-2023/"
+                ]
+              },
+              {
+                "name": "Forgiveness",
+                "score": 3,
+                "evidence": "Janet’s family accepts her after learning she concealed her experiences.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-quantumania-2023/"
+                ]
+              },
+              {
+                "name": "Coercion",
+                "score": 5,
+                "evidence": "Kang uses Cassie’s pain to compel Scott.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-quantumania-2023/"
+                ]
+              },
+              {
+                "name": "Deception",
+                "score": 4,
+                "evidence": "Janet told the family she had lived in isolation.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-quantumania-2023/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The guide describes Cassie looking at a warrior. The scene as described does not establish attraction.",
+            "sources": [
+              "https://raisingchildren.net.au/guides/movie-reviews/ant-man-and-the-wasp-quantumania",
+              "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-quantumania-2023/"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "Romans 12:21",
+            "translation": "KJV",
+            "scripture_text": "Be not overcome of evil, but overcome evil with good.",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Romans+12%3A21&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 22 on Romans",
+            "patristic_text": "For I even insist upon your doing kindness.",
+            "patristic_source": "https://www.newadvent.org/fathers/210222.htm",
+            "biblical_parallel": {
+              "title": "A family hears Janet’s confession",
+              "filmMoment": "Janet kept knowledge of an inhabited realm and its ruler from her family.",
+              "scriptureReference": "Romans 12:21",
+              "reflection": "Janet’s deception could give her family an excuse to answer injury with injury. Their decision to keep helping her opens a conversation about forgiveness and the work of rebuilding trust.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-quantumania-2023/"
+            },
+            "proposed_family_questions": [
+              "What warning could Janet have given Cassie without recounting her whole captivity?",
+              "What does the free coffee at the beginning tell us about Scott’s life after the Avengers?",
+              "Why does Cassie want to explore a place most people cannot see?",
+              "What makes Kang’s threat against Cassie different from asking Scott for help?",
+              "What conversation do Hank and Janet still owe each other once everyone is safe?"
+            ],
+            "verification": "Existing draft retained. KJV and patristic quotations checked against linked editions."
+          },
+          "studio_status": "repository_proposal_only_private_export_timed_out"
+        },
+        {
+          "movie_id": "marvel-2023-the-marvels",
+          "title": "The Marvels",
+          "year": 2023,
+          "version": "Original 2023 theatrical feature",
+          "review_baseline": "editorial/review-drafts-marvel-batch-09.json",
+          "review_baseline_blob": "b44348ce8dc54db8409bca29e20d7c3f2df4b09d",
+          "status": "proposal_saved",
+          "sources": [
+            "https://childrenandmedia.org.au/movie-reviews/movies/marvels-the",
+            "https://www.pluggedin.com/movie-reviews/marvels-2023/",
+            "https://www.bbfc.co.uk/release/the-marvels-q29sbgvjdglvbjpwwc0xmdeyodax"
+          ],
+          "on_screen": "Kamala is trapped under a collapsed building. Monica speaks about her mother dying from cancer.",
+          "on_screen_source": "https://childrenandmedia.org.au/movie-reviews/movies/marvels-the",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Kamala knows Carol as a hero. Monica remembers the adult who left and stayed away. The film gives both women room to speak and asks Carol to take responsibility for harm she never intended.",
+            "age": "13+",
+            "age_rationale": "Kamala trapped under rubble and Monica remembering her mother’s death may affect children familiar with loss.",
+            "age_source": "https://childrenandmedia.org.au/movie-reviews/movies/marvels-the",
+            "theme_ratings": [
+              {
+                "name": "Responsibility",
+                "score": 4,
+                "evidence": "Carol acknowledges her part in Hala’s suffering.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/marvels-2023/"
+                ]
+              },
+              {
+                "name": "Neighborly care",
+                "score": 5,
+                "evidence": "The trio helps evacuate refugees as their air is stripped away.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/marvels-2023/"
+                ]
+              },
+              {
+                "name": "Vengeance",
+                "score": 5,
+                "evidence": "Dar-Benn targets people Carol cares about.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/marvels-2023/"
+                ]
+              },
+              {
+                "name": "Betrayal",
+                "score": 3,
+                "evidence": "Dar-Benn uses offers of peace to gain others’ trust.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/marvels-2023/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "A cheek kiss alone does not establish the relationship or a film-wide score.",
+            "sources": [
+              "https://childrenandmedia.org.au/movie-reviews/movies/marvels-the",
+              "https://www.pluggedin.com/movie-reviews/marvels-2023/"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "Romans 12:21",
+            "translation": "KJV",
+            "scripture_text": "Be not overcome of evil, but overcome evil with good.",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Romans+12%3A21&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 22 on Romans",
+            "patristic_text": "For I even insist upon your doing kindness.",
+            "patristic_source": "https://www.newadvent.org/fathers/210222.htm",
+            "biblical_parallel": {
+              "title": "Whose people deserve air?",
+              "filmMoment": "Dar-Benn takes resources from another population to restore her own world.",
+              "scriptureReference": "Romans 12:21",
+              "reflection": "Dar-Benn knows exactly what it means for a planet to lose its air. Paul’s words invite the viewer to ask how that memory could have moved her to protect the refugees.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/marvels-2023/"
+            },
+            "proposed_family_questions": [
+              "Why do Monica and Kamala see Carol differently when the three meet?",
+              "What can the heroes practice together once they understand the swapping?",
+              "Why does leaving refugees behind hurt Kamala even after she helps people escape?",
+              "What might Dar-Benn ask of Carol if she gave up revenge but still sought justice for Hala?",
+              "Why does Carol tell Kamala to stay in school when Kamala offers to leave?"
+            ],
+            "verification": "Existing draft retained. KJV and patristic quotations checked against linked editions."
+          },
+          "studio_status": "repository_proposal_only_private_export_timed_out"
+        }
+      ]
     }
   ]
 }
