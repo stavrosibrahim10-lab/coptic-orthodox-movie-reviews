@@ -16,7 +16,7 @@ Snapshot refreshed November 26, 2026 against catalog commit `14d9bd48a9e37d10942
 | Entries with open LGBTQ screening in the audited material | 298 |
 | Records needing a film-specific biblical parallel | 270 |
 | Records needing an exact or otherwise verified Church Fathers quotation | 270 |
-| Records with a Stage 4 evidence audit proposal | 60 |
+| Records with a Stage 4 evidence audit proposal | 70 |
 | Records passing every repository checklist item | 4 |
 
 [Film-by-film results](review-completion.tsv) · [Marvel draft batch 1](review-drafts-marvel-batch-01.json) · [Marvel draft batch 2](review-drafts-marvel-batch-02.json) · [Marvel draft batch 3](review-drafts-marvel-batch-03.json) · [Marvel draft batch 4](review-drafts-marvel-batch-04.json) · [Marvel draft batch 5](review-drafts-marvel-batch-05.json) · [Marvel draft batch 6](review-drafts-marvel-batch-06.json) · [Marvel draft batch 7](review-drafts-marvel-batch-07.json) · [Marvel draft batch 8](review-drafts-marvel-batch-08.json)
@@ -25,7 +25,9 @@ The Studio draft validator checks required fields and rubric constraints. The co
 
 The numeric-score column distinguishes the new draft, the prior Studio snapshots in PRs [#13](https://github.com/stavrosibrahim10-lab/coptic-orthodox-movie-reviews/pull/13) and [#14](https://github.com/stavrosibrahim10-lab/coptic-orthodox-movie-reviews/pull/14), and the [rolling audit](https://github.com/stavrosibrahim10-lab/coptic-orthodox-movie-reviews/blob/editorial/lgbtq-audit-rolling/editorial/lgbtq-audit-checkpoint.json). Open scores stay open. Earlier Studio saves were recorded by those audits and did not constitute editorial approval.
 
-The Stage 4 column links these rows to the [rolling checkpoint](https://github.com/stavrosibrahim10-lab/coptic-orthodox-movie-reviews/blob/8349227c0629bbec7f20d226348999fb7f2c444e/editorial/lgbtq-audit-checkpoint.json) by batch number. It records a saved proposal and leaves the original draft and verified-score columns intact. Run with `--rolling` to include these audits.
+The Stage 4 column links these rows to the [rolling checkpoint](https://github.com/stavrosibrahim10-lab/coptic-orthodox-movie-reviews/blob/f3dd9e20aade7908a67b36f57fc91ed25442e6f1/editorial/lgbtq-audit-checkpoint.json) by batch number. It records a saved proposal and leaves the original draft and verified-score columns intact. Run with `--rolling` to include these audits.
+
+Batch 7 of the rolling checkpoint also contains seven new Stage 5 proposals for baseline reviews. Their Scripture, patristic texts and discussion questions are available there for editorial review. The corresponding quotation and parallel counts above refer to records on this completion branch.
 
 ## Live evidence
 
