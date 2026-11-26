@@ -218,8 +218,8 @@ function renderRatings(r,type,remainingAdvisories){
 function reviewGuidance(review){
   const advisories = new Map(Object.entries(getFamilyAdvisories(review))
     .filter(([type, note]) => Object.hasOwn(familyAdvisoryLabels, type) && note?.details));
-  const hasRatings=(review.themes||[]).some(isVisibleRating);
-  const ratings = hasRatings ? `
+  const ratingCount=(review.themes||[]).filter(isVisibleRating).length;
+  const ratings = ratingCount ? `
     <p class="muted">Scores show prominence, not moral worth. Portrayal describes how the film treats a theme.</p>
     ${[['positive','Virtues & positive themes'],['harmful','Content & harmful themes'],['context','Family and cultural themes']]
       .map(([type,label])=>{
@@ -254,7 +254,7 @@ function reviewGuidance(review){
     <div class="pastoral-guidance">For personal spiritual discernment, seek the guidance of your father of confession or parish priest.</div>
   </section>`:'';
   const themes=ratings?`<section id="theme-ratings" class="paper-panel detail-section review-target" tabindex="-1">
-    <details class="review-details"><summary>Spiritual theme ratings (0–5)</summary>${ratings}</details>
+    <details class="review-details theme-breakdown"><summary>All spiritual theme ratings (${ratingCount})<span class="theme-chevron" aria-hidden="true"></span></summary>${ratings}</details>
   </section>`:'';
   return {before,themes};
 }
@@ -414,21 +414,69 @@ function publicReviewText(value){
 }
 
 function themeRatingPreview(review){
-  const themes = (review.themes || []).filter(theme => isVisibleRating(theme) && theme.score > 0);
-  const highlights = ['positive', 'harmful', 'context'].map(type =>
-    themes.filter(theme => theme.type === type).sort((a, b) => b.score - a.score)[0]
-  ).filter(Boolean).slice(0, 2);
-  if (!highlights.length) return '';
+  const themes = (review.themes || []).filter(isVisibleRating);
+  const leaders = ['positive', 'harmful', 'context'].map(type =>
+    themes.filter(theme => theme.type === type && theme.score > 0).sort((a, b) => b.score - a.score)[0]
+  ).filter(Boolean);
+  const ordered = [...new Set([...leaders, ...themes])];
+  if (!ordered.length) return '';
+  const arrow = (direction, label, symbol) => `<button type="button" class="theme-arrow" data-step="${direction}"
+    aria-label="${label}" aria-controls="theme-track" hidden><span aria-hidden="true">${symbol}</span></button>`;
   return `<section class="theme-preview" aria-labelledby="theme-preview-heading">
     <header class="theme-preview-header">
       <h2 id="theme-preview-heading">Spiritual theme ratings</h2>
       <button type="button" data-review-jump="theme-ratings" aria-label="View all spiritual theme ratings">View all <span aria-hidden="true">↓</span></button>
     </header>
-    <ul class="theme-preview-list">${highlights.map(theme =>
-      `<li><div><strong>${esc(theme.name)}</strong>${theme.portrayal ? `<small>${esc(theme.portrayal)}</small>` : ''}</div>
-        <b class="theme-preview-score">${esc(theme.score)}<small>/5</small></b></li>`
-    ).join('')}</ul>
+    <div class="theme-slider">
+      ${arrow(-1, 'Previous theme ratings', '‹')}
+      <ul id="theme-track" class="theme-preview-list" aria-label="Spiritual theme scores">${ordered.map(theme =>
+        `<li><div><strong>${esc(theme.name)}</strong>${theme.portrayal ? `<small>${esc(theme.portrayal)}</small>` : ''}</div>
+          <b class="theme-preview-score">${esc(theme.score)}<small>/5</small></b></li>`
+      ).join('')}</ul>
+      ${arrow(1, 'Next theme ratings', '›')}
+    </div>
+    <small class="theme-position" aria-live="polite" aria-atomic="true"></small>
   </section>`;
+}
+
+function wireThemeSlider(track){
+  const panel = track.closest('.theme-preview');
+  const items = Array.from(track.children);
+  const arrows = panel.querySelectorAll('.theme-arrow');
+  const position = panel.querySelector('.theme-position');
+  function layout(){
+    const perPage = getComputedStyle(track).getPropertyValue('--themes-per-page').trim() === '1' ? 1 : 2;
+    const last = Math.max(0, items.length - perPage);
+    const stride = items.length > 1 ? items[1].offsetLeft - items[0].offsetLeft : 1;
+    const first = Math.min(last, Math.max(0, Math.round(track.scrollLeft / (stride || 1))));
+    return {first, last, perPage, stride};
+  }
+  function update(){
+    const {first, last, perPage} = layout();
+    for (const arrow of arrows){
+      arrow.hidden = last === 0;
+      arrow.setAttribute('aria-disabled', String(Number(arrow.dataset.step) < 0 ? first === 0 : first === last));
+    }
+    track.tabIndex = last ? 0 : -1;
+    const range = perPage === 1 ? String(first + 1) : `${first + 1}–${first + perPage}`;
+    const label = last ? `${range} of ${items.length}` : '';
+    if (position.textContent !== label) position.textContent = label;
+  }
+  function move(step){
+    const {first, last, perPage, stride} = layout();
+    const next = Math.max(0, Math.min(last, first + step * perPage));
+    track.scrollTo({left: next * stride, behavior: 'instant'});
+    update();
+  }
+  for (const arrow of arrows) arrow.addEventListener('click', () => move(Number(arrow.dataset.step)));
+  track.addEventListener('keydown', event => {
+    if (event.key !== 'ArrowLeft' && event.key !== 'ArrowRight') return;
+    event.preventDefault();
+    move(event.key === 'ArrowLeft' ? -1 : 1);
+  });
+  track.addEventListener('scroll', update, {passive: true});
+  new ResizeObserver(update).observe(track);
+  update();
 }
 
 function reviewedDetail(r){
@@ -529,6 +577,8 @@ async function sendSuggestion(event){
   finally{button.disabled=false}
 }
 function wire(){
+  const track = document.getElementById('theme-track');
+  if (track) wireThemeSlider(track);
   app.querySelectorAll('[data-review-jump]').forEach(button=>button.addEventListener('click',()=>{
     const section=document.getElementById(button.dataset.reviewJump);
     if(!section)return;
