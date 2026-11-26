@@ -1,0 +1,743 @@
+[
+  {
+    "id": "marvel-2005-fantastic-four",
+    "title": "Fantastic Four",
+    "year": 2005,
+    "genre": "Marvel · Live action",
+    "sources": [
+      {
+        "label": "Common Sense Media",
+        "url": "https://www.commonsensemedia.org/movie-reviews/fantastic-four"
+      },
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/fantasticfour/"
+      }
+    ],
+    "edition": "Original US theatrical release",
+    "officialRating": "PG-13",
+    "age": "13+",
+    "verdict": "neutral",
+    "synopsis": "A mishap in orbit changes four people’s bodies. Ben, now visibly different wherever he goes, must decide what he wants his strength to be for.",
+    "verdictRationale": "Ben steps between a truck and a stranger. That instinct to protect gives the story moral weight, although Johnny’s reckless flirting often earns him laughs.",
+    "ageRationale": "The dangling firefighters and Doom burning a hole through a man can frighten younger viewers. Several jokes turn on bodies being undressed.",
+    "reflection": "Ben wonders if his changed body means God hates him. A Christian family can take his grief seriously and ask what it would mean to sit with him after the crowd goes home.",
+    "themes": [
+      {
+        "name": "Protecting a stranger",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Ben steps in front of a truck.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/fantasticfour/"
+          }
+        ]
+      },
+      {
+        "name": "Acceptance",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Alicia welcomes Ben after others recoil.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/fantasticfour/"
+          }
+        ]
+      },
+      {
+        "name": "Recklessness",
+        "type": "harmful",
+        "score": 3,
+        "portrayal": "mixed",
+        "evidence": "Johnny kisses a driver while riding a motorcycle beside her.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/fantasticfour/"
+          }
+        ]
+      },
+      {
+        "name": "Abuse of power",
+        "type": "harmful",
+        "score": 4,
+        "portrayal": "criticized",
+        "evidence": "Doom attacks a doctor and later tortures Reed.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/fantasticfour/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Available scene evidence does not establish a prominence score.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "details": "Sue briefly becomes visible in her underwear.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/fantasticfour/"
+      },
+      {
+        "name": "Language",
+        "details": "Characters swear and use Jesus’ name as an exclamation.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/fantasticfour/"
+      },
+      {
+        "name": "Violence and peril",
+        "details": "Doom blasts through a man’s torso. Firefighters hang above the water after a crash.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/fantasticfour/"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "Ben wonders aloud whether God hates him.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/fantasticfour/"
+      },
+      {
+        "name": "Substance use",
+        "details": "Ben orders whiskey in a bar after his transformation.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/fantasticfour/"
+      }
+    ],
+    "scripture": [
+      "Galatians 6:2"
+    ],
+    "themeScripture": {
+      "reference": "Galatians 6:2",
+      "translation": "KJV",
+      "text": "Bear ye one another's burdens, and so fulfil the law of Christ.",
+      "url": "https://www.biblegateway.com/passage/?search=Galatians%206%3A2&version=KJV",
+      "connection": "Paul’s charge to bear burdens becomes concrete on the bridge. Ben can also need someone to carry a burden for him after the rescue."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 11 on Ephesians",
+      "section": "Commentary on Ephesians 4:12",
+      "text": "Each one edifies, each one perfects, each one ministers.",
+      "url": "https://www.newadvent.org/fathers/230111.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "The stranger on the bridge",
+        "filmMoment": "Ben puts his body in the truck’s path to save a pedestrian.",
+        "scriptureReference": "Galatians 6:2",
+        "reflection": "Paul’s charge to bear burdens becomes concrete on the bridge. Ben can also need someone to carry a burden for him after the rescue.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/fantasticfour/"
+      }
+    ],
+    "questions": [
+      "Why does Ben step into the truck’s path?",
+      "What might Ben need once the bridge rescue is over?",
+      "What does Alicia notice that other people overlook?",
+      "What would you say if Ben told you God hated him?",
+      "What danger does Johnny create for the driver he kisses?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Sue briefly becomes visible in her underwear."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/fantasticfour/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-26"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Characters swear and use Jesus’ name as an exclamation."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/fantasticfour/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-26"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Doom blasts through a man’s torso. Firefighters hang above the water after a crash."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/fantasticfour/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-26"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Ben wonders aloud whether God hates him."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/fantasticfour/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-26"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Ben orders whiskey in a bar after his transformation."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/fantasticfour/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-26"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Ben risks being struck by a truck to protect a stranger."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/fantasticfour/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-26"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2007-fantastic-four-rise-of-the-silver-surfer",
+    "title": "Fantastic Four: Rise of the Silver Surfer",
+    "year": 2007,
+    "genre": "Marvel · Live action",
+    "sources": [
+      {
+        "label": "20th Century Studios",
+        "url": "https://family.20thcenturystudios.com/movies/fantastic-four-rise-of-the-silver-surfer"
+      },
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/fantasticfourriseofthesilversurfer/"
+      }
+    ],
+    "edition": "Original US theatrical release",
+    "officialRating": "PG",
+    "age": "10+",
+    "verdict": "edifying",
+    "synopsis": "Reed and Sue’s wedding is interrupted as a visitor prepares Earth for destruction. Sue learns why the Silver Surfer agreed to serve Galactus.",
+    "verdictRationale": "Sue listens to a captive who has helped endanger her planet. Her refusal to give up on his freedom bears fruit when he risks himself for people he once endangered.",
+    "ageRationale": "Doom disintegrates an officer and Sue is pierced by a spike. The bachelor party includes sustained drinking, suggestive dancing and sexual jokes.",
+    "reflection": "Sue takes seriously the fear that binds the Surfer to his master. Her mercy makes room for repentance and for the harder work of repairing harm.",
+    "themes": [
+      {
+        "name": "Mercy",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Sue hears the captive visitor’s account of his home.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/fantasticfourriseofthesilversurfer/"
+          }
+        ]
+      },
+      {
+        "name": "Sacrifice",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "The Surfer confronts his master to spare Earth.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/fantasticfourriseofthesilversurfer/"
+          }
+        ]
+      },
+      {
+        "name": "Coercion",
+        "type": "harmful",
+        "score": 4,
+        "portrayal": "criticized",
+        "evidence": "Galactus holds the Surfer’s home planet over him.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/fantasticfourriseofthesilversurfer/"
+          }
+        ]
+      },
+      {
+        "name": "Dishonesty",
+        "type": "harmful",
+        "score": 2,
+        "portrayal": "criticized",
+        "evidence": "Reed conceals his work on a device while preparing for the wedding.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/fantasticfourriseofthesilversurfer/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Available scene evidence does not establish a prominence score.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "details": "Reed dances with scantily dressed women at his bachelor party.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/fantasticfourriseofthesilversurfer/"
+      },
+      {
+        "name": "Language",
+        "details": "Swearing includes repeated religious exclamations.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/fantasticfourriseofthesilversurfer/"
+      },
+      {
+        "name": "Violence and peril",
+        "details": "An energy blast breaks apart an officer’s body. A metal spike penetrates Sue’s abdomen.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/fantasticfourriseofthesilversurfer/"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "A priest officiates at the wedding. The Surfer restores life to a fallen character.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/fantasticfourriseofthesilversurfer/"
+      },
+      {
+        "name": "Substance use",
+        "details": "Ben drains a pitcher of beer at the bachelor party.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/fantasticfourriseofthesilversurfer/"
+      }
+    ],
+    "scripture": [
+      "Galatians 6:2"
+    ],
+    "themeScripture": {
+      "reference": "Galatians 6:2",
+      "translation": "KJV",
+      "text": "Bear ye one another's burdens, and so fulfil the law of Christ.",
+      "url": "https://www.biblegateway.com/passage/?search=Galatians%206%3A2&version=KJV",
+      "connection": "The Surfer once transferred danger from his own people to strangers. His reversal offers a family a way to discuss what it costs to shoulder another’s burden."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 11 on Ephesians",
+      "section": "Commentary on Ephesians 4:12",
+      "text": "Each one edifies, each one perfects, each one ministers.",
+      "url": "https://www.newadvent.org/fathers/230111.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "A burden the Surfer takes back",
+        "filmMoment": "The Surfer turns against Galactus to protect the people of Earth.",
+        "scriptureReference": "Galatians 6:2",
+        "reflection": "The Surfer once transferred danger from his own people to strangers. His reversal offers a family a way to discuss what it costs to shoulder another’s burden.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/fantasticfourriseofthesilversurfer/"
+      }
+    ],
+    "questions": [
+      "Why does Sue listen to the Surfer after the damage on Earth?",
+      "Who bears the cost of the Surfer’s original agreement?",
+      "What does Reed owe Sue when he conceals his work?",
+      "When Johnny’s power changes, whose help does he need?",
+      "What risk does the Surfer finally accept himself?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Reed dances with scantily dressed women at his bachelor party."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/fantasticfourriseofthesilversurfer/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-26"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Swearing includes repeated religious exclamations."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/fantasticfourriseofthesilversurfer/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-26"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "An energy blast breaks apart an officer’s body. A metal spike penetrates Sue’s abdomen."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/fantasticfourriseofthesilversurfer/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-26"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A priest officiates at the wedding. The Surfer restores life to a fallen character."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/fantasticfourriseofthesilversurfer/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-26"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Ben drains a pitcher of beer at the bachelor party."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/fantasticfourriseofthesilversurfer/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-26"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Sue challenges the Surfer’s claim that his service to Galactus leaves him no choice."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/fantasticfourriseofthesilversurfer/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-26"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2015-fantastic-four",
+    "title": "Fantastic Four",
+    "year": 2015,
+    "genre": "Marvel · Live action",
+    "sources": [
+      {
+        "label": "20th Century Studios",
+        "url": "https://family.20thcenturystudios.com/movies/fantastic-four"
+      },
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/fantastic-four-2015/"
+      }
+    ],
+    "edition": "Original US theatrical release",
+    "officialRating": "PG-13",
+    "age": "16+",
+    "verdict": "neutral",
+    "synopsis": "Young researchers open a passage to another world. An unauthorized expedition leaves them injured and changed, and their survival eventually depends on working together.",
+    "verdictRationale": "Reed’s wish to help humanity becomes credible when he takes responsibility for others. The film also dwells on victims’ suffering and shows how quickly adults turn Ben’s strength into a weapon.",
+    "ageRationale": "Doom makes people’s heads burst, leaving blood on the walls. The injuries during the expedition and Ben’s childhood abuse add distress beyond ordinary superhero fights.",
+    "reflection": "Reed can imagine a discovery benefiting millions while overlooking the friend who has already paid for it. Repentance begins with attention to the particular person one has hurt.",
+    "themes": [
+      {
+        "name": "Cooperation",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "The four combine their abilities against Doom.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/fantastic-four-2015/"
+          }
+        ]
+      },
+      {
+        "name": "Service",
+        "type": "positive",
+        "score": 3,
+        "portrayal": "affirmed",
+        "evidence": "Dr. Storm hopes the research will help Earth survive.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/fantastic-four-2015/"
+          }
+        ]
+      },
+      {
+        "name": "Recklessness",
+        "type": "harmful",
+        "score": 4,
+        "portrayal": "criticized",
+        "evidence": "Johnny crashes while racing and lies to his father.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/fantastic-four-2015/"
+          }
+        ]
+      },
+      {
+        "name": "Cruelty",
+        "type": "harmful",
+        "score": 5,
+        "portrayal": "criticized",
+        "evidence": "Doom kills multiple people in the facility.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/fantastic-four-2015/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Available scene evidence does not establish a prominence score.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "details": "Reed crawls through a duct unclothed, shown mainly above the waist.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/fantastic-four-2015/"
+      },
+      {
+        "name": "Language",
+        "details": "Characters swear repeatedly and one makes an obscene gesture.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/fantastic-four-2015/"
+      },
+      {
+        "name": "Violence and peril",
+        "details": "Doom kills laboratory personnel, leaving blood on nearby surfaces.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/fantastic-four-2015/"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "Dr. Storm describes another dimension as a possible clue to humanity’s origins.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/fantastic-four-2015/"
+      },
+      {
+        "name": "Substance use",
+        "details": "Reed, Johnny and Victor pass a flask and become intoxicated.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/fantastic-four-2015/"
+      }
+    ],
+    "scripture": [
+      "Galatians 6:2"
+    ],
+    "themeScripture": {
+      "reference": "Galatians 6:2",
+      "translation": "KJV",
+      "text": "Bear ye one another's burdens, and so fulfil the law of Christ.",
+      "url": "https://www.biblegateway.com/passage/?search=Galatians%206%3A2&version=KJV",
+      "connection": "Galatians invites Christians to share a neighbor’s burden. Applied to Ben, that starts by listening to what he wants after others have decided how his strength will be used."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 11 on Ephesians",
+      "section": "Commentary on Ephesians 4:12",
+      "text": "Each one edifies, each one perfects, each one ministers.",
+      "url": "https://www.newadvent.org/fathers/230111.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "Who carries the cost of discovery?",
+        "filmMoment": "Ben is buried under rock on the expedition and is later shown destroying military targets.",
+        "scriptureReference": "Galatians 6:2",
+        "reflection": "Galatians invites Christians to share a neighbor’s burden. Applied to Ben, that starts by listening to what he wants after others have decided how his strength will be used.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/fantastic-four-2015/"
+      }
+    ],
+    "questions": [
+      "What makes Reed want to cross over before he has permission?",
+      "What responsibility does Reed have to Ben after the expedition?",
+      "What does the footage of Ben attacking tanks leave us wanting to ask Ben?",
+      "What does Johnny’s lie after the race cost his father?",
+      "How does the team’s final cooperation differ from the decision to make the first trip?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Reed crawls through a duct unclothed, shown mainly above the waist."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/fantastic-four-2015/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-26"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Characters swear repeatedly and one makes an obscene gesture."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/fantastic-four-2015/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-26"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Doom kills laboratory personnel, leaving blood on nearby surfaces."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/fantastic-four-2015/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-26"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Dr. Storm describes another dimension as a possible clue to humanity’s origins."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/fantastic-four-2015/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-26"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Reed, Johnny and Victor pass a flask and become intoxicated."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/fantastic-four-2015/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-26"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The team disregards Dr. Storm’s rules, then has to cooperate to survive the consequences."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/fantastic-four-2015/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-26"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  }
+]
