@@ -321,6 +321,19 @@
       ],
       "remaining_missing_reviews": 61,
       "studio_status": "Private Studio export request timed out. Both repository drafts passed the validator and were read back from GitHub. LGBTQ prominence remains unverified."
+    },
+    {
+      "date": "2026-11-26",
+      "batch_file": "editorial/review-drafts-marvel-batch-12.json",
+      "branch": "editorial/review-completion",
+      "commit": "9eda8e49375a4cea721238e11323a5589cd4c2e1",
+      "ledger_commit": "c48ce05fdc4cab9fd6fac07e151fc626b45e6098",
+      "film_ids": [
+        "marvel-2025-captain-america-brave-new-world",
+        "marvel-2025-thunderbolts"
+      ],
+      "remaining_missing_reviews": 59,
+      "studio_status": "Studio export timed out. GitHub proposals verified by commit readback. Both pass draft validation; on-screen LGBTQ prominence remains open."
     }
   ],
   "stage4_batches": [
