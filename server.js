@@ -32,7 +32,7 @@ const server=http.createServer(async(req,res)=>{
     if(url.pathname.startsWith('/api/admin/'))return respond(res,410,{error:'The previous single-password admin API was retired. Use /studio/.'});
     if(url.pathname.startsWith('/api/'))return respond(res,404,{error:'Unknown API route'});
     if(!['GET','HEAD'].includes(req.method))return respond(res,405,{error:'Method not allowed'});
-    const pathname=url.pathname==='/'?'/index.html':url.pathname==='/studio/'?'/studio/index.html':decodeURIComponent(url.pathname);
+    const pathname=url.pathname==='/'?'/index.html':url.pathname==='/studio/'?'/studio/index.html':url.pathname.endsWith('/')?decodeURIComponent(url.pathname)+'index.html':decodeURIComponent(url.pathname);
     const filePath=path.resolve(publicRoot,'.'+pathname);
     if(!filePath.startsWith(publicRoot+path.sep))return respond(res,403,{error:'Forbidden'});
     const content=await fs.readFile(filePath);
