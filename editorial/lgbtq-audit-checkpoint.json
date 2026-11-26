@@ -8268,6 +8268,509 @@
           "studio_status": "repository_proposal_only_no_authenticated_session"
         }
       ]
+    },
+    {
+      "number": 11,
+      "date": "2026-11-26",
+      "review_completion_branch": "editorial/stage-4-completion",
+      "review_completion_ledger": "editorial/review-completion.tsv",
+      "films": [
+        {
+          "movie_id": "marvel-1998-blade",
+          "title": "Blade",
+          "year": 1998,
+          "version": "Original 1998 theatrical feature, directed by Stephen Norrington",
+          "review_baseline": "editorial/review-drafts-marvel-batch-13.json",
+          "review_baseline_blob": "d493c46b08365d5cf0bc379875db190a98050cfb",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.commonsensemedia.org/movie-reviews/blade",
+            "https://www.rogerebert.com/reviews/blade-1998"
+          ],
+          "on_screen": "Blade interrupts his pursuit to bring Karen to someone who can treat her bite.",
+          "on_screen_source": "https://www.rogerebert.com/reviews/blade-1998",
+          "draft_proposal": {
+            "verdict": "destructive",
+            "verdict_rationale": "Blade's rescue of Karen and his dependence on Whistler give the story a humane center. Frost’s ambition puts innocent lives at risk, and the film takes their side. Yet its prolonged fights invite the viewer to relish enemies being mutilated and destroyed. For a family weighing what the film encourages them to enjoy, that invitation outweighs the example of courage.",
+            "age": "18+",
+            "age_rationale": "The nightclub attack introduces sustained images of blood. Later scenes linger on severe injuries and torture. Brief sexual activity in a club and frequent strong profanity add to the reasons for an adults-only recommendation.",
+            "age_source": "https://www.commonsensemedia.org/movie-reviews/blade",
+            "theme_ratings": [
+              {
+                "name": "Care for the vulnerable",
+                "score": 4,
+                "evidence": "Blade interrupts his pursuit to bring Karen to someone who can treat her bite.",
+                "sources": [
+                  "https://www.rogerebert.com/reviews/blade-1998"
+                ],
+                "rating_rationale": "Rescuing Karen changes Blade’s immediate pursuit and brings her into his refuge."
+              },
+              {
+                "name": "Receiving help",
+                "score": 3,
+                "evidence": "Blade relies on the serum Whistler prepares to keep his thirst in check.",
+                "sources": [
+                  "https://www.rogerebert.com/reviews/blade-1998"
+                ],
+                "rating_rationale": "His dependency recurs, although the serum remains a supporting element."
+              },
+              {
+                "name": "Domination",
+                "score": 5,
+                "evidence": "Frost seeks power over humans and pursues a ritual to achieve it.",
+                "sources": [
+                  "https://www.rogerebert.com/reviews/blade-1998"
+                ],
+                "rating_rationale": "Frost’s effort to dominate others drives the central conflict."
+              },
+              {
+                "name": "Violence as entertainment",
+                "score": 5,
+                "evidence": "The stylized action repeatedly foregrounds bodily destruction even as the story condemns attacks on innocent people.",
+                "sources": [
+                  "https://www.commonsensemedia.org/movie-reviews/blade"
+                ],
+                "rating_rationale": "Repeated elaborate kills are a primary attraction of the action sequences."
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The available descriptions do not establish a film-wide score.",
+            "sources": [
+              "https://www.commonsensemedia.org/movie-reviews/blade",
+              "https://www.rogerebert.com/reviews/blade-1998"
+            ],
+            "next_step": "Check the full identified release for scenes, recurrence and prominence before assigning a numeric score."
+          },
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "marvel-2003-hulk",
+          "title": "Hulk",
+          "year": 2003,
+          "version": "Ang Lee’s US theatrical feature, 138 minutes, starring Eric Bana",
+          "review_baseline": "editorial/review-drafts-marvel-batch-14.json",
+          "review_baseline_blob": "c963d83b4565dc28f5f3fce092757e852b307920",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.universalpicturesathome.com/movies/the-hulk",
+            "https://www.bbfc.co.uk/release/hulk-q29sbgvjdglvbjpwwc0znjawmjg",
+            "https://www.pluggedin.com/movie-reviews/hulk/",
+            "https://childrenandmedia.org.au/movie-reviews/movies/hulk-the",
+            "https://www.rogerebert.com/reviews/hulk-2003"
+          ],
+          "on_screen": "Bruce intervenes when the dogs attack Betty.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/hulk/",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Bruce uses his strength to protect Betty and admits to her that losing control can feel good. That admission gives families a way to discuss anger honestly. The film also invites viewers to enjoy the destruction Bruce fears in himself.",
+            "age": "13+",
+            "age_rationale": "The flashback to a child threatened by his father may trouble viewers long after the monster fights. The frightening dog attack and repeated transformations also weigh in favor of waiting until the teen years.",
+            "age_source": "https://www.bbfc.co.uk/release/hulk-q29sbgvjdglvbjpwwc0znjawmjg",
+            "theme_ratings": [
+              {
+                "name": "Protection",
+                "score": 4,
+                "evidence": "Bruce intervenes when the dogs attack Betty.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/hulk/"
+                ],
+                "rating_rationale": "Bruce’s defense of Betty carries an extended confrontation."
+              },
+              {
+                "name": "Honesty",
+                "score": 3,
+                "evidence": "Bruce tells Betty that he enjoys losing control even though it frightens him.",
+                "sources": [
+                  "https://www.rogerebert.com/reviews/hulk-2003"
+                ],
+                "rating_rationale": "His admission to Betty illuminates his struggle in one key conversation."
+              },
+              {
+                "name": "Destructive anger",
+                "score": 5,
+                "evidence": "Bruce lashes out at tormentors and admits his attraction to that loss of control.",
+                "sources": [
+                  "https://www.rogerebert.com/reviews/hulk-2003"
+                ],
+                "rating_rationale": "The transformations and the pleasure Bruce admits are central to his conflict."
+              },
+              {
+                "name": "Abuse of parental power",
+                "score": 5,
+                "evidence": "David tries to kill his son and the boy’s mother intervenes.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/hulk/"
+                ],
+                "rating_rationale": "David’s violence toward his own family shapes both Bruce’s past and his present danger."
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "Available sources do not establish a film-wide score.",
+            "sources": [
+              "https://www.universalpicturesathome.com/movies/the-hulk",
+              "https://www.bbfc.co.uk/release/hulk-q29sbgvjdglvbjpwwc0znjawmjg",
+              "https://www.pluggedin.com/movie-reviews/hulk/",
+              "https://childrenandmedia.org.au/movie-reviews/movies/hulk-the",
+              "https://www.rogerebert.com/reviews/hulk-2003"
+            ],
+            "next_step": "Check the full identified release for scenes, recurrence and prominence before assigning a numeric score."
+          },
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "marvel-2005-elektra",
+          "title": "Elektra",
+          "year": 2005,
+          "version": "Rob Bowman's original 2005 US theatrical release, 97 minutes (AFI)",
+          "review_baseline": "editorial/review-drafts-marvel-batch-14.json",
+          "review_baseline_blob": "c963d83b4565dc28f5f3fce092757e852b307920",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/elektra/",
+            "https://chipublib.bibliocommons.com/v2/record/S147C1998193",
+            "https://catalog.afi.com/Catalog/MovieDetails/63395",
+            "https://www.commonsensemedia.org/movie-reviews/elektra"
+          ],
+          "on_screen": "Defending Mark and Abby redirects the entire story.",
+          "on_screen_source": "https://chipublib.bibliocommons.com/v2/record/S147C1998193",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Elektra risks her life for the people she was paid to kill. That choice gives the story moral weight. Its opening also treats her skill at killing hired guards as a spectacle, and much of her work as a protector still consists of disposing of enemies.",
+            "age": "16+",
+            "age_rationale": "An opening assassination leaves blood on a blade. A later beheading is implied, and a child is targeted by supernatural attackers. These scenes and repeated profanity weigh in favor of older teens.",
+            "age_source": "https://www.pluggedin.com/movie-reviews/elektra/",
+            "theme_ratings": [
+              {
+                "name": "Protection",
+                "score": 5,
+                "evidence": "Defending Mark and Abby redirects the entire story.",
+                "sources": [
+                  "https://chipublib.bibliocommons.com/v2/record/S147C1998193"
+                ],
+                "rating_rationale": "Refusing to kill the family turns the entire assignment into a rescue."
+              },
+              {
+                "name": "Moral courage",
+                "score": 4,
+                "evidence": "She accepts the danger of turning against those who commissioned the killings.",
+                "sources": [
+                  "https://chipublib.bibliocommons.com/v2/record/S147C1998193"
+                ],
+                "rating_rationale": "She knowingly puts herself at risk to protect former targets."
+              },
+              {
+                "name": "Killing for gain",
+                "score": 5,
+                "evidence": "The opening showcases her lethal efficiency. McCabe questions her killing of the guards.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/elektra/"
+                ],
+                "rating_rationale": "Paid assassination frames the opening and the subsequent threat against Abby."
+              },
+              {
+                "name": "Dishonesty",
+                "score": 2,
+                "evidence": "Abby steals and lies. Elektra excuses lying in their conversations.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/elektra/"
+                ],
+                "rating_rationale": "The conversations encourage deceit but occupy a relatively small part of the story."
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "Typhoid kisses Elektra while draining her life. The attack is documented. It does not establish either character’s orientation or film-wide prominence. Check the theatrical cut against the rubric before assigning a score.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/elektra/"
+            ],
+            "next_step": "Check the full identified release for scenes, recurrence and prominence before assigning a numeric score."
+          },
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "marvel-2009-x-men-origins-wolverine",
+          "title": "X-Men Origins: Wolverine",
+          "year": 2009,
+          "version": "2009 theatrical feature",
+          "review_baseline": "editorial/review-drafts-x-men-stage4.json",
+          "review_baseline_blob": "b797bb8fb47db0373eaf7da33fc7371c0c761daa",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/xmenoriginswolverine/",
+            "https://www.commonsensemedia.org/movie-reviews/x-men-origins-wolverine"
+          ],
+          "on_screen": "Logan defies his unit to spare civilians.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/xmenoriginswolverine/",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "The villagers have nothing to offer Logan. Protecting them costs him both a livelihood and his brother’s company. That choice gives the film moral weight. Yet the pleasure of watching Logan settle scores often competes with the better use he finds for his strength in freeing prisoners.",
+            "age": "16+",
+            "age_rationale": "Repeated impalements, a painful medical experiment and a childhood killing make this a demanding watch for younger teens.",
+            "age_source": "https://www.pluggedin.com/movie-reviews/xmenoriginswolverine/",
+            "theme_ratings": [
+              {
+                "name": "Courage of conscience",
+                "score": 5,
+                "evidence": "Logan defies his unit to spare civilians.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/xmenoriginswolverine/"
+                ],
+                "rating_rationale": "Logan breaks with his unit rather than participate in an attack on civilians, setting the trajectory of the film."
+              },
+              {
+                "name": "Loyalty",
+                "score": 3,
+                "evidence": "His bond with Victor survives wars together but cannot justify the order in the village.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/xmenoriginswolverine/"
+                ],
+                "rating_rationale": "Brotherly loyalty explains their shared history but gives way to a moral limit."
+              },
+              {
+                "name": "Vengeance",
+                "score": 4,
+                "evidence": "Pursuing Victor makes Stryker’s offer attractive again.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/xmenoriginswolverine/"
+                ],
+                "rating_rationale": "The pursuit of revenge repeatedly exposes Logan to manipulation."
+              },
+              {
+                "name": "Abuse of captives",
+                "score": 4,
+                "evidence": "Stryker experiments on imprisoned mutants.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/xmenoriginswolverine/"
+                ],
+                "rating_rationale": "Stryker’s treatment of captive mutants makes his program a sustained threat."
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The sources consulted do not establish a film-wide prominence score.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/xmenoriginswolverine/",
+              "https://www.commonsensemedia.org/movie-reviews/x-men-origins-wolverine"
+            ],
+            "next_step": "Check the full identified release for scenes, recurrence and prominence before assigning a numeric score."
+          },
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "marvel-2011-x-men-first-class",
+          "title": "X-Men: First Class",
+          "year": 2011,
+          "version": "2011 theatrical feature",
+          "review_baseline": "editorial/review-drafts-x-men-stage4.json",
+          "review_baseline_blob": "b797bb8fb47db0373eaf7da33fc7371c0c761daa",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/xmenfirstclass/",
+            "https://www.commonsensemedia.org/movie-reviews/x-men-first-class"
+          ],
+          "on_screen": "Charles argues against going to war with frightened humans.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/xmenfirstclass/",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Charles asks Erik to protect people who may never welcome him. Erik’s childhood makes his anger understandable, and the choice to avenge his mother shows what that anger can cost. Their friendship invites real discernment, alongside sexualized scenes and a killing staged for a prolonged look.",
+            "age": "16+",
+            "age_rationale": "A child witnesses his mother’s murder in a concentration camp. A later revenge killing unfolds in close detail. Lingerie, seduction and strong profanity add to the age recommendation.",
+            "age_source": "https://www.pluggedin.com/movie-reviews/xmenfirstclass/",
+            "theme_ratings": [
+              {
+                "name": "Peacemaking",
+                "score": 5,
+                "evidence": "Charles argues against going to war with frightened humans.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/xmenfirstclass/"
+                ],
+                "rating_rationale": "Charles’s effort to avoid war defines his leadership and his break with Erik."
+              },
+              {
+                "name": "Friendship",
+                "score": 4,
+                "evidence": "Charles remains close enough to Erik to challenge his intended revenge.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/xmenfirstclass/"
+                ],
+                "rating_rationale": "Their friendship makes disagreement costly and gives their confrontation personal weight."
+              },
+              {
+                "name": "Retaliation",
+                "score": 5,
+                "evidence": "Erik uses a coin to kill the man who tormented him.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/xmenfirstclass/"
+                ],
+                "rating_rationale": "Erik’s revenge links his childhood trauma to a deliberately prolonged killing."
+              },
+              {
+                "name": "Supremacy",
+                "score": 4,
+                "evidence": "Shaw intends a global catastrophe that will leave mutants in control.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/xmenfirstclass/"
+                ],
+                "rating_rationale": "Shaw’s ideology motivates the larger plan for mass destruction."
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "A reviewer reads an exchange as an allusion. That interpretation alone does not establish an on-screen rating.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/xmenfirstclass/"
+            ],
+            "next_step": "Check the full identified release for scenes, recurrence and prominence before assigning a numeric score."
+          },
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "marvel-2019-dark-phoenix",
+          "title": "Dark Phoenix",
+          "year": 2019,
+          "version": "2019 theatrical feature",
+          "review_baseline": "editorial/review-drafts-x-men-stage4.json",
+          "review_baseline_blob": "b797bb8fb47db0373eaf7da33fc7371c0c761daa",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/dark-phoenix-2019/",
+            "https://www.commonsensemedia.org/movie-reviews/dark-phoenix"
+          ],
+          "on_screen": "Jean stays aboard the disabled shuttle during the rescue.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/dark-phoenix-2019/",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "The shuttle rescue shows the team at its best. Later, Raven asks who bears the risk when Charles seeks public favor. His eventual admission of wrongdoing gives parents a concrete way to discuss repentance, though the story spends more time on destructive confrontations than on rebuilding Jean’s trust.",
+            "age": "13+",
+            "age_rationale": "A fatal accident, the violent death of a teammate, strong language and drinking in grief warrant particular care with younger teens, especially after a family loss.",
+            "age_source": "https://www.pluggedin.com/movie-reviews/dark-phoenix-2019/",
+            "theme_ratings": [
+              {
+                "name": "Sacrifice",
+                "score": 4,
+                "evidence": "Jean stays aboard the disabled shuttle during the rescue.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/dark-phoenix-2019/"
+                ],
+                "rating_rationale": "Jean risks her life on the rescue mission. The danger she accepts changes the course of the story."
+              },
+              {
+                "name": "Accountability",
+                "score": 4,
+                "evidence": "Raven challenges Charles about the risks he accepts on behalf of others.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/dark-phoenix-2019/"
+                ],
+                "rating_rationale": "Raven’s challenge to Charles makes responsibility for the rescue a recurring conflict."
+              },
+              {
+                "name": "Pride",
+                "score": 4,
+                "evidence": "Charles resists admitting that his decisions hurt Jean.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/dark-phoenix-2019/"
+                ],
+                "rating_rationale": "Charles’s resistance to criticism places institutional pride above Jean’s welfare."
+              },
+              {
+                "name": "Emotional manipulation",
+                "score": 4,
+                "evidence": "Vuk exploits Jean’s fear of abandonment.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/dark-phoenix-2019/"
+                ],
+                "rating_rationale": "Vuk repeatedly uses Jean’s vulnerability to influence her decisions."
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The sources consulted do not establish a film-wide prominence score.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/dark-phoenix-2019/",
+              "https://www.commonsensemedia.org/movie-reviews/dark-phoenix"
+            ],
+            "next_step": "Check the full identified release for scenes, recurrence and prominence before assigning a numeric score."
+          },
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "marvel-2020-the-new-mutants",
+          "title": "The New Mutants",
+          "year": 2020,
+          "version": "2020 theatrical feature",
+          "review_baseline": "editorial/review-drafts-x-men-stage4.json",
+          "review_baseline_blob": "b797bb8fb47db0373eaf7da33fc7371c0c761daa",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/the-new-mutants-2020/",
+            "https://www.commonsensemedia.org/movie-reviews/the-new-mutants"
+          ],
+          "on_screen": "Dani’s father returns to help other people during the disaster.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/the-new-mutants-2020/",
+          "draft_proposal": {
+            "verdict": "destructive",
+            "verdict_rationale": "Dani’s father goes back for his neighbors, and Rahne stays with Dani in a moment of despair. Both show genuine care. The site’s rubric assigns its Destructive verdict to the prominence of Dani and Rahne’s romance. Families should also weigh the repeated use of abuse and trauma as horror imagery.",
+            "age": "16+",
+            "age_rationale": "The sustained horror, a suicidal crisis, memories of abuse and a violent death carry more weight for age guidance than the superhero branding suggests.",
+            "age_source": "https://www.pluggedin.com/movie-reviews/the-new-mutants-2020/",
+            "theme_ratings": [
+              {
+                "name": "Self-sacrifice",
+                "score": 4,
+                "evidence": "Dani’s father returns to help other people during the disaster.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/the-new-mutants-2020/"
+                ],
+                "rating_rationale": "Dani’s father’s choice during the disaster gives her a lasting example of courage."
+              },
+              {
+                "name": "Companionship",
+                "score": 4,
+                "evidence": "Rahne speaks with Dani and helps her return to safety during a crisis.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/the-new-mutants-2020/"
+                ],
+                "rating_rationale": "Rahne’s companionship is consequential in Dani’s crisis and recurs throughout their confinement."
+              },
+              {
+                "name": "Abuse of authority",
+                "score": 5,
+                "evidence": "Rahne recalls being branded by a priest she approached for help.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/the-new-mutants-2020/"
+                ],
+                "rating_rationale": "Abusive authority figures shape both traumatic memories and the danger of confinement."
+              },
+              {
+                "name": "Bullying",
+                "score": 3,
+                "evidence": "Illyana deliberately tricks another resident into hitting the barrier.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/the-new-mutants-2020/"
+                ],
+                "rating_rationale": "The barrier incident gives bullying a memorable consequence within the group."
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": 4,
+            "observation": "Dani and Rahne have a major romantic relationship, with a first kiss in the cemetery and subsequent kisses.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/the-new-mutants-2020/"
+            ],
+            "next_step": null
+          },
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        }
+      ]
     }
   ]
 }

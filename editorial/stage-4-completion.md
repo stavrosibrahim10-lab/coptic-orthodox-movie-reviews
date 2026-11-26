@@ -2,6 +2,14 @@
 
 Status: in progress. The opening catalog has 315 films, including 59 without a first review and 100 with a Stage 4 audit proposal. The table below fixes the original 59-film scope. The generated review-completion.tsv records current per-film progress.
 
+## Current Stage 4 audit
+
+The catalog contains 315 distinct IDs. Of the original 59 missing reviews, seven now have validated first drafts and 52 remain. Across the full catalog, 263 have review records. The rolling checkpoint contains Stage 4 proposals for 107 films, leaving 156 existing records awaiting this audit and 52 awaiting a first review. All original queue IDs occur exactly once in the catalog.
+
+Batch 11 independently checked the seven new queue drafts. Their saved draft files contain the proposed assessments. The checkpoint records scene evidence, the reason for each theme score, age guidance and outstanding screening fields. Six film-wide LGBTQ prominence scores remain open in this batch. The New Mutants carries a documented proposal of 4. Private Studio saves are unverified. Human acceptance is pending.
+
+The full repository checklist passes for seven titles and includes later-stage fields. Stage 4 progress above counts audited proposals, independently of that checklist.
+
 ## Release decision
 
 Before requesting Stage 4 acceptance, account for every original queue ID and audit the whole catalog for a sourced spiritual verdict, rationale, justified 0–5 theme scores and separate evidence-based age guidance. List insufficient evidence by film and field with the reason and next action. Show complete, explicitly pending and missing totals. Record human acceptance separately. Stages 5–9 have their own milestones.
