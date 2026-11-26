@@ -7539,6 +7539,735 @@
           "studio_status": "repository_proposal_only_private_export_timed_out"
         }
       ]
+    },
+    {
+      "number": 10,
+      "date": "2026-11-26",
+      "review_completion_branch": "editorial/review-completion",
+      "review_completion_ledger": "editorial/review-completion.tsv",
+      "review_completion_ledger_blob": "7cb62d574023728ec3c4cec37824d5bf3873b1ce",
+      "films": [
+        {
+          "movie_id": "batch1-2016-zootopia",
+          "title": "Zootopia",
+          "year": 2016,
+          "version": "2016 original animated feature",
+          "review_baseline": "public/seed-reviews.js",
+          "review_baseline_blob": "65cf4053ad16b37541068fb57362e212670115b7",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/zootopia/",
+            "https://www.bbfc.co.uk/release/zootropolis-q29sbgvjdglvbjpwwc00mzi0mdy"
+          ],
+          "on_screen": "Judy apologizes to Nick after recognizing her own prejudice. Bogo had assigned her parking duty while others investigated disappearances.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/zootopia/",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Judy owes Nick an apology even though she has experienced prejudice herself. The story gives her the harder task of repairing trust after she meant to help.",
+            "age": "10+",
+            "age_rationale": "Proposed 10+ based on this documented content: Intimidating chases and clawed animal attacks appear, including bullying of a young rabbit.",
+            "age_source": "https://www.bbfc.co.uk/release/zootropolis-q29sbgvjdglvbjpwwc00mzi0mdy",
+            "theme_ratings": [
+              {
+                "name": "Repentance",
+                "score": 4,
+                "evidence": "Judy apologizes to Nick after recognizing her own prejudice. Bogo had assigned her parking duty while others investigated disappearances.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/zootopia/"
+                ]
+              },
+              {
+                "name": "Prejudice",
+                "score": 5,
+                "evidence": "Judy apologizes to Nick after recognizing her own prejudice. Bogo had assigned her parking duty while others investigated disappearances.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/zootopia/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The reviewed scenes do not establish film-wide prominence.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/zootopia/"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "Galatians 6:2",
+            "translation": "KJV",
+            "scripture_text": "Bear ye one another's burdens, and so fulfil the law of Christ.",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Galatians+6%3A2&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 11 on Ephesians",
+            "patristic_section": "On Ephesians 4:12",
+            "patristic_text": "Each one edifies, each one perfects, each one ministers.",
+            "patristic_source": "https://www.newadvent.org/fathers/230111.htm",
+            "biblical_parallel": {
+              "filmMoment": "Judy apologizes to Nick after recognizing her own prejudice. Bogo had assigned her parking duty while others investigated disappearances.",
+              "scriptureReference": "Galatians 6:2",
+              "reflection": "Whose burden grows heavier when Judy speaks about predators? An apology begins when she listens to someone who will live with her words.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/zootopia/"
+            },
+            "proposed_family_questions": [
+              "Why does Bogo give Judy parking duty?",
+              "What does writing twice as many tickets accomplish for her?",
+              "Which fear makes it hard for Judy to see Nick clearly?",
+              "What would make Judy’s apology believable to Nick?",
+              "What could Judy do at the station to help the next new officer?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_no_authenticated_session"
+        },
+        {
+          "movie_id": "batch1-2020-soul",
+          "title": "Soul",
+          "year": 2020,
+          "version": "2020 original animated feature",
+          "review_baseline": "public/seed-reviews.js",
+          "review_baseline_blob": "65cf4053ad16b37541068fb57362e212670115b7",
+          "status": "proposal_saved",
+          "sources": [
+            "https://en.wikipedia.org/wiki/Soul_%282020_film%29",
+            "https://www.bbfc.co.uk/release/soul-q29sbgvjdglvbjpwwc00odmznza"
+          ],
+          "on_screen": "22 talks with Dez in Joe’s body. Joe subsequently uses 22’s badge to get back to Earth.",
+          "on_screen_source": "https://en.wikipedia.org/wiki/Soul_%282020_film%29",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Joe’s attachment to a musical career narrows his attention to people he sees every day. The barbershop conversation opens a window onto a neighbor’s life. Families may need to discuss the invented system of souls before birth.",
+            "age": "10+",
+            "age_rationale": "Proposed 10+ based on this documented content: Mild fantasy peril includes looming figures and apparent death, without realistic injury.",
+            "age_source": "https://www.bbfc.co.uk/release/soul-q29sbgvjdglvbjpwwc00odmznza",
+            "theme_ratings": [
+              {
+                "name": "Listening",
+                "score": 4,
+                "evidence": "22 talks with Dez in Joe’s body. Joe subsequently uses 22’s badge to get back to Earth.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/Soul_%282020_film%29"
+                ]
+              },
+              {
+                "name": "Self-interest",
+                "score": 4,
+                "evidence": "22 talks with Dez in Joe’s body. Joe subsequently uses 22’s badge to get back to Earth.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/Soul_%282020_film%29"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The reviewed scenes do not establish film-wide prominence.",
+            "sources": [
+              "https://en.wikipedia.org/wiki/Soul_%282020_film%29"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "Galatians 6:2",
+            "translation": "KJV",
+            "scripture_text": "Bear ye one another's burdens, and so fulfil the law of Christ.",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Galatians+6%3A2&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 11 on Ephesians",
+            "patristic_section": "On Ephesians 4:12",
+            "patristic_text": "Each one edifies, each one perfects, each one ministers.",
+            "patristic_source": "https://www.newadvent.org/fathers/230111.htm",
+            "biblical_parallel": {
+              "filmMoment": "22 talks with Dez in Joe’s body. Joe subsequently uses 22’s badge to get back to Earth.",
+              "scriptureReference": "Galatians 6:2",
+              "reflection": "Joe knows how Dez cuts hair. How much does he know about the person holding the scissors? Listening can be the first practical way of sharing a burden.",
+              "sourceUrl": "https://en.wikipedia.org/wiki/Soul_%282020_film%29"
+            },
+            "proposed_family_questions": [
+              "What does 22 ask that Joe has never asked Dez?",
+              "What could Joe have learned in earlier visits to the barbershop?",
+              "Why does Joe feel entitled to the badge?",
+              "What does 22 stand to lose when Joe takes it?",
+              "How would you explain the film’s spark to someone who thinks success gives a life its value?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_no_authenticated_session"
+        },
+        {
+          "movie_id": "v8-2023-wonka",
+          "title": "Wonka",
+          "year": 2023,
+          "version": "2023 original live-action musical feature",
+          "review_baseline": "public/seed-reviews.js",
+          "review_baseline_blob": "65cf4053ad16b37541068fb57362e212670115b7",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/wonka-2023/",
+            "https://www.bbfc.co.uk/release/wonka-q29sbgvjdglvbjpwwc0xmde0otqz"
+          ],
+          "on_screen": "Mrs. Scrubbit binds Willy to laundry work through charges hidden in a contract he cannot read. Other workers share his predicament.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/wonka-2023/",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "The same debt that traps Willy has trapped people whose names his customers would never hear. His inventiveness becomes generous when he makes room for them in his plans.",
+            "age": "10+",
+            "age_rationale": "Proposed 10+ based on this documented content: Comic blows and peril include a child being kicked by a guardian and characters threatened with drowning.",
+            "age_source": "https://www.bbfc.co.uk/release/wonka-q29sbgvjdglvbjpwwc0xmde0otqz",
+            "theme_ratings": [
+              {
+                "name": "Solidarity",
+                "score": 4,
+                "evidence": "Mrs. Scrubbit binds Willy to laundry work through charges hidden in a contract he cannot read. Other workers share his predicament.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/wonka-2023/"
+                ]
+              },
+              {
+                "name": "Exploitation",
+                "score": 5,
+                "evidence": "Mrs. Scrubbit binds Willy to laundry work through charges hidden in a contract he cannot read. Other workers share his predicament.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/wonka-2023/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The reviewed scenes do not establish film-wide prominence.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/wonka-2023/"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "Galatians 6:2",
+            "translation": "KJV",
+            "scripture_text": "Bear ye one another's burdens, and so fulfil the law of Christ.",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Galatians+6%3A2&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 11 on Ephesians",
+            "patristic_section": "On Ephesians 4:12",
+            "patristic_text": "Each one edifies, each one perfects, each one ministers.",
+            "patristic_source": "https://www.newadvent.org/fathers/230111.htm",
+            "biblical_parallel": {
+              "filmMoment": "Mrs. Scrubbit binds Willy to laundry work through charges hidden in a contract he cannot read. Other workers share his predicament.",
+              "scriptureReference": "Galatians 6:2",
+              "reflection": "Paul’s words invite a family to look past the sweets to the laundry workers. Who can read a contract, speak up, or make an opportunity available to someone else?",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/wonka-2023/"
+            },
+            "proposed_family_questions": [
+              "Why does the room seem affordable to Willy?",
+              "What could someone who could read have done before Willy signed?",
+              "What do the other workers know that Willy needs to learn?",
+              "Why would selling enough chocolate for himself leave the laundry’s problem unresolved?",
+              "What would an honest agreement with Mrs. Scrubbit have required?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_no_authenticated_session"
+        },
+        {
+          "movie_id": "v8-2024-transformers-one",
+          "title": "Transformers One",
+          "year": 2024,
+          "version": "2024 original animated feature",
+          "review_baseline": "public/seed-reviews.js",
+          "review_baseline_blob": "65cf4053ad16b37541068fb57362e212670115b7",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/transformers-one-2024/",
+            "https://www.bbfc.co.uk/release/transformers-one-q29sbgvjdglvbjpwwc0xmde5odg1"
+          ],
+          "on_screen": "Orion Pax puts himself between a defeated opponent and execution. D-16 seeks to kill their enemy.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/transformers-one-2024/",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Orion risks his body for someone who has done real harm. D-16’s anger at an injustice is understandable, but his willingness to execute the defeated leaves the two friends with incompatible ideas of leadership.",
+            "age": "10+",
+            "age_rationale": "Proposed 10+ based on this documented content: Robot combat includes laser guns, bladed weapons, dismemberment and a hero being shot through the torso.",
+            "age_source": "https://www.bbfc.co.uk/release/transformers-one-q29sbgvjdglvbjpwwc0xmde5odg1",
+            "theme_ratings": [
+              {
+                "name": "Mercy",
+                "score": 5,
+                "evidence": "Orion Pax puts himself between a defeated opponent and execution. D-16 seeks to kill their enemy.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/transformers-one-2024/"
+                ]
+              },
+              {
+                "name": "Vengeance",
+                "score": 5,
+                "evidence": "Orion Pax puts himself between a defeated opponent and execution. D-16 seeks to kill their enemy.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/transformers-one-2024/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The reviewed scenes do not establish film-wide prominence.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/transformers-one-2024/"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "Galatians 6:2",
+            "translation": "KJV",
+            "scripture_text": "Bear ye one another's burdens, and so fulfil the law of Christ.",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Galatians+6%3A2&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 11 on Ephesians",
+            "patristic_section": "On Ephesians 4:12",
+            "patristic_text": "Each one edifies, each one perfects, each one ministers.",
+            "patristic_source": "https://www.newadvent.org/fathers/230111.htm",
+            "biblical_parallel": {
+              "filmMoment": "Orion Pax puts himself between a defeated opponent and execution. D-16 seeks to kill their enemy.",
+              "scriptureReference": "Galatians 6:2",
+              "reflection": "Orion accepts danger for a prisoner who cannot protect himself. For a family reading Paul, the difficult question is whether someone guilty can still be a neighbor in need.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/transformers-one-2024/"
+            },
+            "proposed_family_questions": [
+              "Why does the missing Matrix matter to miners without cogs?",
+              "When do Orion and D-16 start wanting different things from the same discovery?",
+              "Who is in danger when Orion intervenes?",
+              "What could justice for the miners look like after the fighting stops?",
+              "What would D-16 have to give up to spare his enemy?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_no_authenticated_session"
+        },
+        {
+          "movie_id": "v8-2023-migration",
+          "title": "Migration",
+          "year": 2023,
+          "version": "2023 original animated feature",
+          "review_baseline": "public/seed-reviews.js",
+          "review_baseline_blob": "65cf4053ad16b37541068fb57362e212670115b7",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/migration-2023/",
+            "https://www.bbfc.co.uk/release/migration-q29sbgvjdglvbjpwwc0xmde0ota3"
+          ],
+          "on_screen": "Mack tells his ducklings frightening stories about leaving their pond. Pam listens to the visiting flock and wants the family to travel together.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/migration-2023/",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Mack takes a father’s responsibility seriously. His warnings also let his own fears decide what the whole family can do. Pam’s disagreement gives him a chance to listen.",
+            "age": "7+",
+            "age_rationale": "Proposed 7+ based on this documented content: Birds bite and pelt a chef; an animal family faces kitchen hazards, storm danger, and frightening pursuit.",
+            "age_source": "https://www.bbfc.co.uk/release/migration-q29sbgvjdglvbjpwwc0xmde0ota3",
+            "theme_ratings": [
+              {
+                "name": "Family loyalty",
+                "score": 4,
+                "evidence": "Mack tells his ducklings frightening stories about leaving their pond. Pam listens to the visiting flock and wants the family to travel together.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/migration-2023/"
+                ]
+              },
+              {
+                "name": "Fear",
+                "score": 4,
+                "evidence": "Mack tells his ducklings frightening stories about leaving their pond. Pam listens to the visiting flock and wants the family to travel together.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/migration-2023/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The reviewed scenes do not establish film-wide prominence.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/migration-2023/"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "Galatians 6:2",
+            "translation": "KJV",
+            "scripture_text": "Bear ye one another's burdens, and so fulfil the law of Christ.",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Galatians+6%3A2&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 11 on Ephesians",
+            "patristic_section": "On Ephesians 4:12",
+            "patristic_text": "Each one edifies, each one perfects, each one ministers.",
+            "patristic_source": "https://www.newadvent.org/fathers/230111.htm",
+            "biblical_parallel": {
+              "filmMoment": "Mack tells his ducklings frightening stories about leaving their pond. Pam listens to the visiting flock and wants the family to travel together.",
+              "scriptureReference": "Galatians 6:2",
+              "reflection": "Each parent is carrying a different worry. A family can share those worries before it chooses whether to stay or fly.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/migration-2023/"
+            },
+            "proposed_family_questions": [
+              "What do Mack’s stories teach Dax and Gwen to expect?",
+              "What does Pam hear in the visitors’ news that Mack misses?",
+              "Why does Uncle Dan’s example change Mack’s mind?",
+              "Which dangers on the journey deserve Mack’s caution?",
+              "How could the parents plan the next trip together?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_no_authenticated_session"
+        },
+        {
+          "movie_id": "film-despicable-me-2010",
+          "title": "Despicable Me",
+          "year": 2010,
+          "version": "2010 original animated feature",
+          "review_baseline": "public/seed-reviews.js",
+          "review_baseline_blob": "65cf4053ad16b37541068fb57362e212670115b7",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/despicableme/",
+            "https://www.bbfc.co.uk/release/despicable-me-q29sbgvjdglvbjpwwc0xmdezndc1"
+          ],
+          "on_screen": "Gru adopts three sisters to gain entry to his rival’s home. His attachment to the children changes what he wants from the scheme.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/despicableme/",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Gru’s first decision treats three children as tools. Their ordinary need for a father becomes more important to him than being remembered for stealing the moon.",
+            "age": "7+",
+            "age_rationale": "Proposed 7+ based on this documented content: Comic slapstick involves falls, rockets and minor assaults among nonhuman characters.",
+            "age_source": "https://www.bbfc.co.uk/release/despicable-me-q29sbgvjdglvbjpwwc0xmdezndc1",
+            "theme_ratings": [
+              {
+                "name": "Parental love",
+                "score": 5,
+                "evidence": "Gru adopts three sisters to gain entry to his rival’s home. His attachment to the children changes what he wants from the scheme.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/despicableme/"
+                ]
+              },
+              {
+                "name": "Manipulation",
+                "score": 4,
+                "evidence": "Gru adopts three sisters to gain entry to his rival’s home. His attachment to the children changes what he wants from the scheme.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/despicableme/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The reviewed scenes do not establish film-wide prominence.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/despicableme/"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "Galatians 6:2",
+            "translation": "KJV",
+            "scripture_text": "Bear ye one another's burdens, and so fulfil the law of Christ.",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Galatians+6%3A2&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 11 on Ephesians",
+            "patristic_section": "On Ephesians 4:12",
+            "patristic_text": "Each one edifies, each one perfects, each one ministers.",
+            "patristic_source": "https://www.newadvent.org/fathers/230111.htm",
+            "biblical_parallel": {
+              "filmMoment": "Gru adopts three sisters to gain entry to his rival’s home. His attachment to the children changes what he wants from the scheme.",
+              "scriptureReference": "Galatians 6:2",
+              "reflection": "When Agnes asks for a father, she needs someone who will still be there after the excitement has passed. Paul gives families a way to talk about that daily responsibility.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/despicableme/"
+            },
+            "proposed_family_questions": [
+              "Why does Gru first choose girls who sell cookies?",
+              "What could the sisters lose if his plan succeeds?",
+              "Which small request from Agnes asks the most of Gru?",
+              "How does his mother’s response to his childhood dream help explain his ambition?",
+              "What would show the girls that they could count on him tomorrow?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_no_authenticated_session"
+        },
+        {
+          "movie_id": "film-a-bugs-life-1998",
+          "title": "A Bug's Life",
+          "year": 1998,
+          "version": "1998 original animated feature",
+          "review_baseline": "public/seed-reviews.js",
+          "review_baseline_blob": "65cf4053ad16b37541068fb57362e212670115b7",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.commonsensemedia.org/movie-reviews/a-bugs-life",
+            "https://www.bbfc.co.uk/release/a-bugs-life-q29sbgvjdglvbjpwwc0zmzuzmtm"
+          ],
+          "on_screen": "Hopper’s gang demands food from the ant colony and threatens the queen. Flik seeks help and the insects resist together.",
+          "on_screen_source": "https://www.commonsensemedia.org/movie-reviews/a-bugs-life",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Hopper needs the ants to believe they stand alone. Their willingness to act together makes protecting the vulnerable possible even when each ant is physically weaker.",
+            "age": "7+",
+            "age_rationale": "Proposed 7+ based on this documented content: Grasshoppers threaten and beat ants, a bird pursues insects, and an antagonist is fed to a young bird.",
+            "age_source": "https://www.bbfc.co.uk/release/a-bugs-life-q29sbgvjdglvbjpwwc0zmzuzmtm",
+            "theme_ratings": [
+              {
+                "name": "Cooperation",
+                "score": 5,
+                "evidence": "Hopper’s gang demands food from the ant colony and threatens the queen. Flik seeks help and the insects resist together.",
+                "sources": [
+                  "https://www.commonsensemedia.org/movie-reviews/a-bugs-life"
+                ]
+              },
+              {
+                "name": "Intimidation",
+                "score": 5,
+                "evidence": "Hopper’s gang demands food from the ant colony and threatens the queen. Flik seeks help and the insects resist together.",
+                "sources": [
+                  "https://www.commonsensemedia.org/movie-reviews/a-bugs-life"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The reviewed scenes do not establish film-wide prominence.",
+            "sources": [
+              "https://www.commonsensemedia.org/movie-reviews/a-bugs-life"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "Galatians 6:2",
+            "translation": "KJV",
+            "scripture_text": "Bear ye one another's burdens, and so fulfil the law of Christ.",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Galatians+6%3A2&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 11 on Ephesians",
+            "patristic_section": "On Ephesians 4:12",
+            "patristic_text": "Each one edifies, each one perfects, each one ministers.",
+            "patristic_source": "https://www.newadvent.org/fathers/230111.htm",
+            "biblical_parallel": {
+              "filmMoment": "Hopper’s gang demands food from the ant colony and threatens the queen. Flik seeks help and the insects resist together.",
+              "scriptureReference": "Galatians 6:2",
+              "reflection": "Collecting food is ordinary work until someone uses a threat to claim it. Who carries the extra work when the ants are afraid to tell Hopper no?",
+              "sourceUrl": "https://www.commonsensemedia.org/movie-reviews/a-bugs-life"
+            },
+            "proposed_family_questions": [
+              "Who does the work of producing Hopper’s food?",
+              "Why threaten the queen in front of the colony?",
+              "Why would Flik look for help outside the anthill?",
+              "What can the ants do together that their strongest member cannot do alone?",
+              "How does the hungry bird change your view of Hopper’s power?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_no_authenticated_session"
+        },
+        {
+          "movie_id": "bbfc-2018-incredibles-2",
+          "title": "Incredibles 2",
+          "year": 2018,
+          "version": "2018 original animated feature",
+          "review_baseline": "public/seed-reviews.js",
+          "review_baseline_blob": "65cf4053ad16b37541068fb57362e212670115b7",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/incredibles-2-2018/",
+            "https://www.bbfc.co.uk/release/incredibles-2-q29sbgvjdglvbjpwwc0zotq4nzq"
+          ],
+          "on_screen": "Helen agrees to act as Elastigirl while Bob looks after the children. His tasks include helping Dash with homework and caring for Jack-Jack.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/incredibles-2-2018/",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Bob finds that his powers give him little advantage with a tired child or a homework problem. The family’s mutual service deserves attention alongside a plot that makes controlling others through screens frightening.",
+            "age": "10+",
+            "age_rationale": "Proposed 10+ based on this documented content: Superheroes kick and punch opponents; a villain uses a cattle prod, while others face collapsing buildings.",
+            "age_source": "https://www.bbfc.co.uk/release/incredibles-2-q29sbgvjdglvbjpwwc0zotq4nzq",
+            "theme_ratings": [
+              {
+                "name": "Service",
+                "score": 4,
+                "evidence": "Helen agrees to act as Elastigirl while Bob looks after the children. His tasks include helping Dash with homework and caring for Jack-Jack.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/incredibles-2-2018/"
+                ]
+              },
+              {
+                "name": "Coercion",
+                "score": 4,
+                "evidence": "Screenslaver uses screens to take away people’s control of their actions.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/incredibles-2-2018/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The reviewed scenes do not establish film-wide prominence.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/incredibles-2-2018/"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "Galatians 6:2",
+            "translation": "KJV",
+            "scripture_text": "Bear ye one another's burdens, and so fulfil the law of Christ.",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Galatians+6%3A2&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 11 on Ephesians",
+            "patristic_section": "On Ephesians 4:12",
+            "patristic_text": "Each one edifies, each one perfects, each one ministers.",
+            "patristic_source": "https://www.newadvent.org/fathers/230111.htm",
+            "biblical_parallel": {
+              "filmMoment": "Helen agrees to act as Elastigirl while Bob looks after the children. His tasks include helping Dash with homework and caring for Jack-Jack.",
+              "scriptureReference": "Galatians 6:2",
+              "reflection": "Sharing Helen’s responsibilities means learning what Dash needs tonight. Paul’s teaching can be practiced at a kitchen table as readily as during a public rescue.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/incredibles-2-2018/"
+            },
+            "proposed_family_questions": [
+              "Why does Winston choose Helen for the camera?",
+              "Which part of Dash’s homework demands patience from Bob?",
+              "What does Jack-Jack need that strength alone cannot provide?",
+              "What changes when viewers see rescues through Helen’s camera?",
+              "How does Screenslaver’s use of screens differ from an invitation to watch?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_no_authenticated_session"
+        },
+        {
+          "movie_id": "bbfc-2014-the-lego-movie",
+          "title": "The Lego Movie",
+          "year": 2014,
+          "version": "2014 original animated feature",
+          "review_baseline": "public/seed-reviews.js",
+          "review_baseline_blob": "65cf4053ad16b37541068fb57362e212670115b7",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/lego-movie/",
+            "https://www.bbfc.co.uk/release/the-lego-movie-q29sbgvjdglvbjpwwc0zota2mdu"
+          ],
+          "on_screen": "Wyldstyle finds Emmet with the Piece of Resistance. She takes a construction worker accustomed to following instructions to meet Vitruvius.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/lego-movie/",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Emmet’s delight in being valued is recognizable. The fantasy prophecy gives him a label before his companions know what he can contribute, inviting discussion about how people recognize one another’s gifts.",
+            "age": "7+",
+            "age_rationale": "Proposed 7+ based on this documented content: Toy figures exchange blows, fantasy gunfire and explosions without realistic injury.",
+            "age_source": "https://www.bbfc.co.uk/release/the-lego-movie-q29sbgvjdglvbjpwwc0zota2mdu",
+            "theme_ratings": [
+              {
+                "name": "Encouragement",
+                "score": 4,
+                "evidence": "Wyldstyle finds Emmet with the Piece of Resistance. She takes a construction worker accustomed to following instructions to meet Vitruvius.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/lego-movie/"
+                ]
+              },
+              {
+                "name": "Domination",
+                "score": 4,
+                "evidence": "President Business plans to fix the Lego world permanently in place.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/lego-movie/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The reviewed scenes do not establish film-wide prominence.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/lego-movie/"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "Galatians 6:2",
+            "translation": "KJV",
+            "scripture_text": "Bear ye one another's burdens, and so fulfil the law of Christ.",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Galatians+6%3A2&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 11 on Ephesians",
+            "patristic_section": "On Ephesians 4:12",
+            "patristic_text": "Each one edifies, each one perfects, each one ministers.",
+            "patristic_source": "https://www.newadvent.org/fathers/230111.htm",
+            "biblical_parallel": {
+              "filmMoment": "Wyldstyle finds Emmet with the Piece of Resistance. She takes a construction worker accustomed to following instructions to meet Vitruvius.",
+              "scriptureReference": "Galatians 6:2",
+              "reflection": "Giving Emmet a place among builders is only a beginning. The group also has to learn how to receive help from someone whose way of building looks ordinary.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/lego-movie/"
+            },
+            "proposed_family_questions": [
+              "Why does Emmet return for his instruction manual?",
+              "What leads Wyldstyle to trust him at first?",
+              "What can a builder who follows instructions contribute to independent inventors?",
+              "Why would President Business want every piece kept in place?",
+              "What could Wyldstyle recognize in Emmet even without the prophecy?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_no_authenticated_session"
+        },
+        {
+          "movie_id": "bbfc-2013-monsters-university",
+          "title": "Monsters University",
+          "year": 2013,
+          "version": "2013 original animated feature",
+          "review_baseline": "public/seed-reviews.js",
+          "review_baseline_blob": "65cf4053ad16b37541068fb57362e212670115b7",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/monsters-university/",
+            "https://www.bbfc.co.uk/release/monsters-university-q29sbgvjdglvbjpwwc00mjk0njg"
+          ],
+          "on_screen": "Mike and Sulley join Oozma Kappa to enter the Scare Games. Under Mike’s bargain with the dean, defeat puts every member’s place at university at risk.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/monsters-university/",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Practice and friendship give overlooked students a place to contribute. Mike’s wager also exposes other students to a cost much greater than losing a trophy.",
+            "age": "7+",
+            "age_rationale": "Proposed 7+ based on this documented content: Monster students engage in mild slapstick and brief comic scares.",
+            "age_source": "https://www.bbfc.co.uk/release/monsters-university-q29sbgvjdglvbjpwwc00mjk0njg",
+            "theme_ratings": [
+              {
+                "name": "Cooperation",
+                "score": 4,
+                "evidence": "Mike and Sulley join Oozma Kappa to enter the Scare Games. Under Mike’s bargain with the dean, defeat puts every member’s place at university at risk.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/monsters-university/"
+                ]
+              },
+              {
+                "name": "Pride",
+                "score": 4,
+                "evidence": "Mike and Sulley join Oozma Kappa to enter the Scare Games. Under Mike’s bargain with the dean, defeat puts every member’s place at university at risk.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/monsters-university/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The reviewed scenes do not establish film-wide prominence.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/monsters-university/"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "Galatians 6:2",
+            "translation": "KJV",
+            "scripture_text": "Bear ye one another's burdens, and so fulfil the law of Christ.",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Galatians+6%3A2&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 11 on Ephesians",
+            "patristic_section": "On Ephesians 4:12",
+            "patristic_text": "Each one edifies, each one perfects, each one ministers.",
+            "patristic_source": "https://www.newadvent.org/fathers/230111.htm",
+            "biblical_parallel": {
+              "filmMoment": "Mike and Sulley join Oozma Kappa to enter the Scare Games. Under Mike’s bargain with the dean, defeat puts every member’s place at university at risk.",
+              "scriptureReference": "Galatians 6:2",
+              "reflection": "Oozma Kappa shares the cost of Mike’s ambition. Paul’s words invite the team to ask whose burden they agreed to carry and whether everyone had a voice.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/monsters-university/"
+            },
+            "proposed_family_questions": [
+              "Why do Mike and Sulley need a fraternity?",
+              "What does Don bring to the team after a career in sales?",
+              "Who could lose the most under Mike’s bargain?",
+              "How could Mike ask his teammates for help without deciding their future for them?",
+              "What is worth keeping from the team even if it loses the Games?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_no_authenticated_session"
+        }
+      ]
     }
   ]
 }
