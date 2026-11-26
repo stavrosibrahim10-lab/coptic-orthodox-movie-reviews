@@ -271,7 +271,7 @@ function reviewBanner(r){
     ${r.verdict?pill(r.verdict):''}
     ${r.age?`<div class="tag-row"><span class="tag">Suggested age: ${esc(r.age)}</span></div>`:''}
     ${r.synopsis?`<p>${esc(r.synopsis)}</p>`:''}
-  </div></div></div>`;
+  </div></div>${r.verdict ? themeRatingPreview(r) : ''}</div>`;
 }
 
 function pendingDetail(r){
@@ -419,13 +419,16 @@ function themeRatingPreview(review){
     themes.filter(theme => theme.type === type).sort((a, b) => b.score - a.score)[0]
   ).filter(Boolean).slice(0, 2);
   if (!highlights.length) return '';
-  return `<div class="theme-preview">
-    <h3>Spiritual theme ratings</h3>
-    <ul class="review-highlights">${highlights.map(theme =>
-      `<li><strong>${esc(theme.name)} · ${esc(theme.score)}/5</strong>${theme.portrayal ? ' · ' + esc(theme.portrayal) : ''}</li>`
+  return `<section class="theme-preview" aria-labelledby="theme-preview-heading">
+    <header class="theme-preview-header">
+      <h2 id="theme-preview-heading">Spiritual theme ratings</h2>
+      <button type="button" data-review-jump="theme-ratings" aria-label="View all spiritual theme ratings">View all <span aria-hidden="true">↓</span></button>
+    </header>
+    <ul class="theme-preview-list">${highlights.map(theme =>
+      `<li><div><strong>${esc(theme.name)}</strong>${theme.portrayal ? `<small>${esc(theme.portrayal)}</small>` : ''}</div>
+        <b class="theme-preview-score">${esc(theme.score)}<small>/5</small></b></li>`
     ).join('')}</ul>
-    <button type="button" class="small-btn" data-review-jump="theme-ratings">View all theme ratings</button>
-  </div>`;
+  </section>`;
 }
 
 function reviewedDetail(r){
@@ -457,7 +460,6 @@ function reviewedDetail(r){
       <section class="paper-panel detail-section">
         <h2>Our independent Christian verdict</h2>
         ${r.verdictRationale?`<p>${esc(publicReviewText(r.verdictRationale))}</p>`:''}
-        ${themeRatingPreview(r)}
         ${r.ageRationale?`<h3>Why this age guidance?</h3><p>${esc(publicReviewText(r.ageRationale))}</p>`:''}
       </section>
       ${reflection}${parallels}${discussion}${themes}
