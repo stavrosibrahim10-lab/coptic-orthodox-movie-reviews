@@ -1,0 +1,1000 @@
+[
+  {
+    "id": "marvel-2009-x-men-origins-wolverine",
+    "title": "X-Men Origins: Wolverine",
+    "year": 2009,
+    "genre": "Marvel · Live action",
+    "edition": "2009 theatrical feature",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/xmenoriginswolverine/"
+      },
+      {
+        "label": "Common Sense Media",
+        "url": "https://www.commonsensemedia.org/movie-reviews/x-men-origins-wolverine"
+      }
+    ],
+    "officialRating": "PG-13",
+    "age": "16+",
+    "verdict": "neutral",
+    "synopsis": "Logan walks away from a military unit after its commander orders an attack on civilians. Years later, grief draws him back to the man who gave that order.",
+    "verdictRationale": "The villagers have nothing to offer Logan. Protecting them costs him both a livelihood and his brother’s company. That choice gives the film moral weight. Yet the pleasure of watching Logan settle scores often competes with the better use he finds for his strength in freeing prisoners.",
+    "ageRationale": "Repeated impalements, a painful medical experiment and a childhood killing make this a demanding watch for younger teens.",
+    "reflection": "In the village, Logan can do good only by breaking ranks. What would loyalty to Victor look like if it included trying to stop him from hurting someone?",
+    "themes": [
+      {
+        "name": "Courage of conscience",
+        "score": 5,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Logan defies his unit to spare civilians.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/xmenoriginswolverine/"
+          }
+        ]
+      },
+      {
+        "name": "Loyalty",
+        "score": 3,
+        "type": "positive",
+        "portrayal": "mixed",
+        "evidence": "His bond with Victor survives wars together but cannot justify the order in the village.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/xmenoriginswolverine/"
+          }
+        ]
+      },
+      {
+        "name": "Vengeance",
+        "score": 4,
+        "type": "harmful",
+        "portrayal": "mixed",
+        "evidence": "Pursuing Victor makes Stryker’s offer attractive again.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/xmenoriginswolverine/"
+          }
+        ]
+      },
+      {
+        "name": "Abuse of captives",
+        "score": 4,
+        "type": "harmful",
+        "portrayal": "condemned",
+        "evidence": "Stryker experiments on imprisoned mutants.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/xmenoriginswolverine/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "The sources consulted do not establish a film-wide prominence score.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual and romantic content",
+        "details": "Logan and Kayla share a bed. Logan is briefly seen nude from behind.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/xmenoriginswolverine/"
+      },
+      {
+        "name": "Language",
+        "details": "Profanity includes religious exclamations and strong scatological language.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/xmenoriginswolverine/"
+      },
+      {
+        "name": "Violence",
+        "details": "A child kills an adult. Later scenes include impalements and forced experimentation.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/xmenoriginswolverine/"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "Kayla tells a legend about the moon and a lover from the spirit world.",
+        "severity": "Context",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/xmenoriginswolverine/"
+      },
+      {
+        "name": "Substance use",
+        "details": "Logan carries a cigar, and Victor drinks at a bar.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/xmenoriginswolverine/"
+      }
+    ],
+    "scripture": [
+      "Romans 12:21"
+    ],
+    "themeScripture": {
+      "reference": "Romans 12:21",
+      "translation": "KJV",
+      "text": "Be not overcome of evil, but overcome evil with good.",
+      "url": "https://www.biblegateway.com/passage/?search=Romans%2012%3A21&version=KJV",
+      "connection": "In the village, Logan can do good only by breaking ranks. What would loyalty to Victor look like if it included trying to stop him from hurting someone?"
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 22 on Romans",
+      "section": "Romans 12:20–21",
+      "text": "For I even insist upon your doing kindness.",
+      "url": "https://www.newadvent.org/fathers/210222.htm"
+    },
+    "questions": [
+      "What makes refusing the order costly for Logan?",
+      "Why does Stryker’s offer sound different to Logan after he loses Kayla?",
+      "At what point does loyalty to Victor endanger another person?",
+      "How does freeing prisoners serve a different purpose from settling a score?",
+      "Where might defending someone require you to disagree with a friend?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Logan and Kayla share a bed. Logan is briefly seen nude from behind."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/xmenoriginswolverine/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Profanity includes religious exclamations and strong scatological language."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/xmenoriginswolverine/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A child kills an adult. Later scenes include impalements and forced experimentation."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/xmenoriginswolverine/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Kayla tells a legend about the moon and a lover from the spirit world."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/xmenoriginswolverine/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Logan carries a cigar, and Victor drinks at a bar."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/xmenoriginswolverine/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Logan refuses to take part in an attack on villagers."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/xmenoriginswolverine/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    },
+    "biblicalParallels": [
+      {
+        "title": "Leaving the unit",
+        "filmMoment": "Logan refuses to take part in an attack on villagers.",
+        "scriptureReference": "Romans 12:21",
+        "reflection": "In the village, Logan can do good only by breaking ranks. What would loyalty to Victor look like if it included trying to stop him from hurting someone?",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/xmenoriginswolverine/"
+      }
+    ]
+  },
+  {
+    "id": "marvel-2011-x-men-first-class",
+    "title": "X-Men: First Class",
+    "year": 2011,
+    "genre": "Marvel · Live action",
+    "edition": "2011 theatrical feature",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/xmenfirstclass/"
+      },
+      {
+        "label": "Common Sense Media",
+        "url": "https://www.commonsensemedia.org/movie-reviews/x-men-first-class"
+      }
+    ],
+    "officialRating": "PG-13",
+    "age": "16+",
+    "verdict": "neutral",
+    "synopsis": "Charles and Erik recruit young mutants during the Cold War. A shared enemy brings the friends together, but each wants a different future for the people they train.",
+    "verdictRationale": "Charles asks Erik to protect people who may never welcome him. Erik’s childhood makes his anger understandable, and the choice to avenge his mother shows what that anger can cost. Their friendship invites real discernment, alongside sexualized scenes and a killing staged for a prolonged look.",
+    "ageRationale": "A child witnesses his mother’s murder in a concentration camp. A later revenge killing unfolds in close detail. Lingerie, seduction and strong profanity add to the age recommendation.",
+    "reflection": "Charles has heard Erik’s reasons for revenge. Speaking for peace costs him the agreement of a friend he loves. The beatitude gives families a way to consider what that friendship asks of him.",
+    "themes": [
+      {
+        "name": "Peacemaking",
+        "score": 5,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Charles argues against going to war with frightened humans.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/xmenfirstclass/"
+          }
+        ]
+      },
+      {
+        "name": "Friendship",
+        "score": 4,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Charles remains close enough to Erik to challenge his intended revenge.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/xmenfirstclass/"
+          }
+        ]
+      },
+      {
+        "name": "Retaliation",
+        "score": 5,
+        "type": "harmful",
+        "portrayal": "criticized",
+        "evidence": "Erik uses a coin to kill the man who tormented him.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/xmenfirstclass/"
+          }
+        ]
+      },
+      {
+        "name": "Supremacy",
+        "score": 4,
+        "type": "harmful",
+        "portrayal": "condemned",
+        "evidence": "Shaw intends a global catastrophe that will leave mutants in control.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/xmenfirstclass/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A reviewer reads an exchange as an allusion. That interpretation alone does not establish an on-screen rating.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/xmenfirstclass/"
+          }
+        ]
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual and romantic content",
+        "details": "A strip-club recruitment scene and a bedroom advance involve sexualized images.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/xmenfirstclass/"
+      },
+      {
+        "name": "Language",
+        "details": "Strong profanity includes a sexual expletive.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/xmenfirstclass/"
+      },
+      {
+        "name": "Violence",
+        "details": "Erik witnesses his mother being shot and later kills her murderer.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/xmenfirstclass/"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "A childhood memory shows Erik with his family around a menorah.",
+        "severity": "Context",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/xmenfirstclass/"
+      },
+      {
+        "name": "Substance use",
+        "details": "Charles drinks heavily while celebrating his doctorate.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/xmenfirstclass/"
+      }
+    ],
+    "scripture": [
+      "Matthew 5:9"
+    ],
+    "themeScripture": {
+      "reference": "Matthew 5:9",
+      "translation": "KJV",
+      "text": "Blessed are the peacemakers: for they shall be called the children of God.",
+      "url": "https://www.biblegateway.com/passage/?search=Matthew%205%3A9&version=KJV",
+      "connection": "Charles has heard Erik’s reasons for revenge. Speaking for peace costs him the agreement of a friend he loves. The beatitude gives families a way to consider what that friendship asks of him."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 22 on Romans",
+      "section": "Romans 12:19",
+      "text": "Leave it then to Him to follow up your wrongs.",
+      "url": "https://www.newadvent.org/fathers/210222.htm"
+    },
+    "questions": [
+      "Why do Charles and Erik initially trust one another?",
+      "What does the family memory reveal about Erik beyond his anger?",
+      "Why does Charles object to killing Shaw even after learning what Shaw did?",
+      "How could someone stand beside Erik in grief without endorsing revenge?",
+      "What would peacemaking require from the humans who fear the mutants?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A strip-club recruitment scene and a bedroom advance involve sexualized images."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/xmenfirstclass/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Strong profanity includes a sexual expletive."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/xmenfirstclass/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Erik witnesses his mother being shot and later kills her murderer."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/xmenfirstclass/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A childhood memory shows Erik with his family around a menorah."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/xmenfirstclass/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Charles drinks heavily while celebrating his doctorate."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/xmenfirstclass/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Charles opposes retaliation even when his friend has suffered grievously."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/xmenfirstclass/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    },
+    "biblicalParallels": [
+      {
+        "title": "Appealing to Erik",
+        "filmMoment": "Charles opposes retaliation even when his friend has suffered grievously.",
+        "scriptureReference": "Matthew 5:9",
+        "reflection": "Charles has heard Erik’s reasons for revenge. Speaking for peace costs him the agreement of a friend he loves. The beatitude gives families a way to consider what that friendship asks of him.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/xmenfirstclass/"
+      }
+    ]
+  },
+  {
+    "id": "marvel-2019-dark-phoenix",
+    "title": "Dark Phoenix",
+    "year": 2019,
+    "genre": "Marvel · Live action",
+    "edition": "2019 theatrical feature",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/dark-phoenix-2019/"
+      },
+      {
+        "label": "Common Sense Media",
+        "url": "https://www.commonsensemedia.org/movie-reviews/dark-phoenix"
+      }
+    ],
+    "officialRating": "PG-13",
+    "age": "13+",
+    "verdict": "neutral",
+    "synopsis": "Jean Grey saves astronauts and returns to Earth carrying a force she struggles to control. The crisis exposes choices Charles made when she was in his care.",
+    "verdictRationale": "The shuttle rescue shows the team at its best. Later, Raven asks who bears the risk when Charles seeks public favor. His eventual admission of wrongdoing gives parents a concrete way to discuss repentance, though the story spends more time on destructive confrontations than on rebuilding Jean’s trust.",
+    "ageRationale": "A fatal accident, the violent death of a teammate, strong language and drinking in grief warrant particular care with younger teens, especially after a family loss.",
+    "reflection": "Raven looks past the applause for a successful rescue and asks whose lives Charles risked. Her objection invites a Christian leader to hear correction even when everyone else is offering praise.",
+    "themes": [
+      {
+        "name": "Sacrifice",
+        "score": 4,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Jean stays aboard the disabled shuttle during the rescue.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/dark-phoenix-2019/"
+          }
+        ]
+      },
+      {
+        "name": "Accountability",
+        "score": 4,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Raven challenges Charles about the risks he accepts on behalf of others.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/dark-phoenix-2019/"
+          }
+        ]
+      },
+      {
+        "name": "Pride",
+        "score": 4,
+        "type": "harmful",
+        "portrayal": "criticized",
+        "evidence": "Charles resists admitting that his decisions hurt Jean.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/dark-phoenix-2019/"
+          }
+        ]
+      },
+      {
+        "name": "Emotional manipulation",
+        "score": 4,
+        "type": "harmful",
+        "portrayal": "condemned",
+        "evidence": "Vuk exploits Jean’s fear of abandonment.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/dark-phoenix-2019/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "The sources consulted do not establish a film-wide prominence score.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual and romantic content",
+        "details": "Jean and Scott kiss in a bedroom.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/dark-phoenix-2019/"
+      },
+      {
+        "name": "Language",
+        "details": "Dialogue includes a strong sexual expletive and religious profanity.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/dark-phoenix-2019/"
+      },
+      {
+        "name": "Violence",
+        "details": "A teammate dies violently. The train battle includes sustained gunfire.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/dark-phoenix-2019/"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "An alien describes the cosmic force in terms of the origin of life.",
+        "severity": "Context",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/dark-phoenix-2019/"
+      },
+      {
+        "name": "Substance use",
+        "details": "Jean goes to a bar in distress. Hank also drinks while grieving.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/dark-phoenix-2019/"
+      }
+    ],
+    "scripture": [
+      "Proverbs 16:18"
+    ],
+    "themeScripture": {
+      "reference": "Proverbs 16:18",
+      "translation": "KJV",
+      "text": "Pride goeth before destruction, and an haughty spirit before a fall.",
+      "url": "https://www.biblegateway.com/passage/?search=Proverbs%2016%3A18&version=KJV",
+      "connection": "Raven looks past the applause for a successful rescue and asks whose lives Charles risked. Her objection invites a Christian leader to hear correction even when everyone else is offering praise."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 6 on Galatians",
+      "section": "Galatians 6:1",
+      "text": "to be able to administer correction with mildness is a spiritual gift",
+      "url": "https://www.newadvent.org/fathers/23106.htm"
+    },
+    "questions": [
+      "Who carries the greatest risk in the shuttle rescue?",
+      "What does Raven see that public praise might hide from Charles?",
+      "How does Vuk exploit a fear Jean already has?",
+      "What does Charles owe Jean after admitting he was wrong?",
+      "When could you invite someone affected by your decision to speak honestly?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Jean and Scott kiss in a bedroom."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/dark-phoenix-2019/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Dialogue includes a strong sexual expletive and religious profanity."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/dark-phoenix-2019/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A teammate dies violently. The train battle includes sustained gunfire."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/dark-phoenix-2019/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "An alien describes the cosmic force in terms of the origin of life."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/dark-phoenix-2019/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Jean goes to a bar in distress. Hank also drinks while grieving."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/dark-phoenix-2019/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Charles eventually acknowledges wrongdoing after defending his decisions."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/dark-phoenix-2019/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    },
+    "biblicalParallels": [
+      {
+        "title": "Counting the cost of leadership",
+        "filmMoment": "Charles eventually acknowledges wrongdoing after defending his decisions.",
+        "scriptureReference": "Proverbs 16:18",
+        "reflection": "Raven looks past the applause for a successful rescue and asks whose lives Charles risked. Her objection invites a Christian leader to hear correction even when everyone else is offering praise.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/dark-phoenix-2019/"
+      }
+    ]
+  },
+  {
+    "id": "marvel-2020-the-new-mutants",
+    "title": "The New Mutants",
+    "year": 2020,
+    "genre": "Marvel · Live action",
+    "edition": "2020 theatrical feature",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/the-new-mutants-2020/"
+      },
+      {
+        "label": "Common Sense Media",
+        "url": "https://www.commonsensemedia.org/movie-reviews/the-new-mutants"
+      }
+    ],
+    "officialRating": "PG-13",
+    "age": "16+",
+    "verdict": "destructive",
+    "synopsis": "Dani survives a disaster and wakes in a locked facility for young mutants. When frightening memories begin taking physical form, the residents must decide whether to trust each other or their doctor.",
+    "verdictRationale": "Dani’s father goes back for his neighbors, and Rahne stays with Dani in a moment of despair. Both show genuine care. The site’s rubric assigns its Destructive verdict to the prominence of Dani and Rahne’s romance. Families should also weigh the repeated use of abuse and trauma as horror imagery.",
+    "ageRationale": "The sustained horror, a suicidal crisis, memories of abuse and a violent death carry more weight for age guidance than the superhero branding suggests.",
+    "reflection": "Rahne cannot undo the loss of Dani’s family. She can stay, listen and help Dani reach safety. Bearing a burden sometimes begins with refusing to leave someone alone with it.",
+    "themes": [
+      {
+        "name": "Self-sacrifice",
+        "score": 4,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Dani’s father returns to help other people during the disaster.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/the-new-mutants-2020/"
+          }
+        ]
+      },
+      {
+        "name": "Companionship",
+        "score": 4,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Rahne speaks with Dani and helps her return to safety during a crisis.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/the-new-mutants-2020/"
+          }
+        ]
+      },
+      {
+        "name": "Abuse of authority",
+        "score": 5,
+        "type": "harmful",
+        "portrayal": "condemned",
+        "evidence": "Rahne recalls being branded by a priest she approached for help.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/the-new-mutants-2020/"
+          }
+        ]
+      },
+      {
+        "name": "Bullying",
+        "score": 3,
+        "type": "harmful",
+        "portrayal": "condemned",
+        "evidence": "Illyana deliberately tricks another resident into hitting the barrier.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/the-new-mutants-2020/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": 4,
+        "portrayal": "descriptive",
+        "evidence": "Dani and Rahne have a major romantic relationship, with a first kiss in the cemetery and subsequent kisses.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/the-new-mutants-2020/"
+          }
+        ]
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual and romantic content",
+        "details": "Dani and Rahne kiss repeatedly. A shower scene includes partial rear nudity.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/the-new-mutants-2020/"
+      },
+      {
+        "name": "Language",
+        "details": "The teenagers use strong language, including religious exclamations.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/the-new-mutants-2020/"
+      },
+      {
+        "name": "Violence",
+        "details": "Threatening visions, abuse memories and a suicidal crisis recur in the hospital.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/the-new-mutants-2020/"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "Rahne prays and visits the confessional after suffering abuse by a priest.",
+        "severity": "Context",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/the-new-mutants-2020/"
+      },
+      {
+        "name": "Substance use",
+        "details": "The young residents put a sedative in their doctor’s tea.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/the-new-mutants-2020/"
+      }
+    ],
+    "scripture": [
+      "Galatians 6:2"
+    ],
+    "themeScripture": {
+      "reference": "Galatians 6:2",
+      "translation": "KJV",
+      "text": "Bear ye one another’s burdens, and so fulfil the law of Christ.",
+      "url": "https://www.biblegateway.com/passage/?search=Galatians%206%3A2&version=KJV",
+      "connection": "Rahne cannot undo the loss of Dani’s family. She can stay, listen and help Dani reach safety. Bearing a burden sometimes begins with refusing to leave someone alone with it."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 6 on Galatians",
+      "section": "Galatians 6:2",
+      "text": "reaching forth a hand one to another when about to fall",
+      "url": "https://www.newadvent.org/fathers/23106.htm"
+    },
+    "questions": [
+      "What does Dani’s father do once he knows his daughter is safe?",
+      "What is different about how Rahne and Dr. Reyes respond to Dani’s fear?",
+      "What makes the priest’s treatment of Rahne a betrayal of trust?",
+      "How does knowing the residents’ histories change the way you see the final battle?",
+      "Who could you turn to if a friend needed more help than you could give?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Dani and Rahne kiss repeatedly. A shower scene includes partial rear nudity."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/the-new-mutants-2020/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The teenagers use strong language, including religious exclamations."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/the-new-mutants-2020/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Threatening visions, abuse memories and a suicidal crisis recur in the hospital."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/the-new-mutants-2020/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Rahne prays and visits the confessional after suffering abuse by a priest."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/the-new-mutants-2020/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The young residents put a sedative in their doctor’s tea."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/the-new-mutants-2020/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Dani’s father gets her to safety and then goes back for others."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/the-new-mutants-2020/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    },
+    "biblicalParallels": [
+      {
+        "title": "Staying with Dani",
+        "filmMoment": "Dani’s father gets her to safety and then goes back for others.",
+        "scriptureReference": "Galatians 6:2",
+        "reflection": "Rahne cannot undo the loss of Dani’s family. She can stay, listen and help Dani reach safety. Bearing a burden sometimes begins with refusing to leave someone alone with it.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/the-new-mutants-2020/"
+      }
+    ]
+  }
+]
