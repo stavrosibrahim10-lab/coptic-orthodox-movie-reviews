@@ -149,6 +149,27 @@
           "status": "context_proposal"
         }
       ]
+    },
+    {
+      "number": 2,
+      "date": "2026-11-26",
+      "stage4_batch": 6,
+      "films": [
+        {
+          "movie_id": "marvel-2007-fantastic-four-rise-of-the-silver-surfer",
+          "title": "Fantastic Four: Rise of the Silver Surfer",
+          "year": 2007,
+          "proposed_score": 1,
+          "observation": "Sue expresses attraction to Reed after he stands up to the general. Johnny jokingly says he feels the same. Brief verbal reference only, with no stated identity or relationship.",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/fantasticfourriseofthesilversurfer/",
+            "https://transcripts.foreverdreaming.org/viewtopic.php?t=68446"
+          ],
+          "verdict_effect": "Neutral for this category; retain the film’s overall proposed verdict.",
+          "studio_status": "repository_proposal_only_private_export_timed_out",
+          "status": "proposal_saved"
+        }
+      ]
     }
   ],
   "review_completion_batches": [
@@ -4110,6 +4131,874 @@
               "What do the train passengers notice when Peter loses his mask?",
               "Why stand between Peter and Octavius when they have no powers?",
               "What do the passengers owe Peter once they have seen the face under the mask?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_private_export_timed_out"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "date": "2026-11-26",
+      "review_completion_branch": "editorial/review-completion",
+      "review_completion_ledger": "editorial/review-completion.tsv",
+      "films": [
+        {
+          "movie_id": "marvel-2007-spider-man-3",
+          "title": "Spider-Man 3",
+          "year": 2007,
+          "version": "Original 2007 theatrical release (excludes the later Editor’s Cut)",
+          "review_baseline": "editorial/review-drafts-marvel-batch-04.json",
+          "review_baseline_blob": "c743adbc273cc4342f81dad49e710a805923fc78",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/spiderman3/"
+          ],
+          "on_screen": "When Mary Jane intervenes in the jazz-club brawl, Peter strikes her and knocks her down.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/spiderman3/",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Peter’s revenge harms Mary Jane and leaves Harry scarred. His eventual mercy toward Flint Marko and Harry’s decision to protect Peter give the story moral weight. The film lets the audience see who pays for Peter’s pride.",
+            "age": "13+",
+            "age_rationale": "A familiar hero hurting someone he loves may be more upsetting than the airborne fights. Peter’s change of heart gives families an opening to discuss accountability.",
+            "theme_ratings": [
+              {
+                "name": "Forgiveness and reconciliation",
+                "score": 5,
+                "evidence": "Peter forgives the man responsible for Ben’s death.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/spiderman3/"
+                ]
+              },
+              {
+                "name": "Love and self-sacrifice",
+                "score": 4,
+                "evidence": "Harry risks his life to defend Peter.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/spiderman3/"
+                ]
+              },
+              {
+                "name": "Vengeance",
+                "score": 5,
+                "evidence": "Peter seeks out Marko while wearing the alien suit.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/spiderman3/"
+                ]
+              },
+              {
+                "name": "Pride and self-glorification",
+                "score": 4,
+                "evidence": "Peter uses a performance with Gwen to humiliate Mary Jane.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/spiderman3/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "Available sources do not establish a numeric prominence score. A scoped viewing log or additional released-film evidence is needed.",
+            "sources": []
+          },
+          "stage5_status": {
+            "scripture": "Romans 12:21",
+            "translation": "KJV",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Romans%2012%3A21&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 77 on the Gospel of John",
+            "patristic_section": "John 15:12–13",
+            "patristic_source": "https://www.newadvent.org/fathers/240177.htm",
+            "verification": "Stored quotation wording matched the linked editions with spacing and punctuation normalized.",
+            "biblical_parallel": {
+              "title": "Listening to Flint Marko",
+              "filmMoment": "Peter hears Marko’s account of Uncle Ben’s death and forgives him.",
+              "scriptureReference": "Romans 12:21",
+              "reflection": "Paul’s command gives families a way to read Peter’s final choice. Forgiving Marko does not restore Ben to life, but it ends Peter’s attempt to repay one injury with another.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/spiderman3/"
+            },
+            "proposed_family_questions": [
+              "How does Gwen become part of Peter’s attempt to hurt Mary Jane?",
+              "What does May recognize about Peter’s desire for revenge?",
+              "What does Eddie ask for in church, and what might he have prayed instead?",
+              "What changes when Harry comes to Peter’s aid?",
+              "What does Peter owe Mary Jane after the jazz-club fight, even if she is willing to forgive him?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_private_export_timed_out"
+        },
+        {
+          "movie_id": "marvel-1997-men-in-black",
+          "title": "Men in Black",
+          "year": 1997,
+          "version": "Original 1997 theatrical release",
+          "review_baseline": "editorial/review-drafts-marvel-batch-05.json",
+          "review_baseline_blob": "730bb18917e370c2286d522691926d54a19195b1",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.sonypictures.com/movies/meninblack",
+            "https://www.pluggedin.com/movie-reviews/meninblack/",
+            "https://www.commonsensemedia.org/movie-reviews/men-in-black",
+            "https://en.wikipedia.org/wiki/Men_in_Black_(1997_film)"
+          ],
+          "on_screen": "The bug takes Edgar’s skin and kills a pest controller with his own equipment.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/meninblack/",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "J learns to protect neighbors whose faces he used to find frightening. The agency’s habit of erasing witnesses’ memories also raises a question about what protectors owe the people they serve.",
+            "age": "13+",
+            "age_rationale": "Children who laugh at the slime may still find Edgar’s stolen face or the neck stabbings frightening.",
+            "theme_ratings": [
+              {
+                "name": "Compassion and service",
+                "score": 4,
+                "evidence": "J accepts responsibility for defending the city alongside K.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/meninblack/"
+                ]
+              },
+              {
+                "name": "Cooperation",
+                "score": 4,
+                "evidence": "The veteran and the newcomer work together to recover the stolen galaxy.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/meninblack/"
+                ]
+              },
+              {
+                "name": "Violence and cruelty",
+                "score": 4,
+                "evidence": "The invader kills the pest controller with his equipment.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/meninblack/"
+                ]
+              },
+              {
+                "name": "Domination",
+                "score": 3,
+                "evidence": "The bug treats Edgar’s body as a disguise and threatens others to get the galaxy.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/meninblack/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "Available sources do not establish a numeric prominence score. A scoped viewing log or additional released-film evidence is needed.",
+            "sources": []
+          },
+          "stage5_status": {
+            "scripture": "Galatians 6:2",
+            "translation": "KJV",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Galatians%206%3A2&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 11 on Ephesians",
+            "patristic_section": "Commentary on Ephesians 4:12",
+            "patristic_source": "https://www.newadvent.org/fathers/230111.htm",
+            "verification": "Stored quotation wording matched the linked editions with spacing and punctuation normalized.",
+            "biblical_parallel": {
+              "title": "Taking over K’s watch",
+              "filmMoment": "K entrusts his work to J as he retires.",
+              "scriptureReference": "Galatians 6:2",
+              "reflection": "Paul tells Christians to bear each other’s burdens. J can do that for K because he has listened, learned the work and become someone K can trust.",
+              "sourceUrl": "https://en.wikipedia.org/wiki/Men_in_Black_(1997_film)"
+            },
+            "proposed_family_questions": [
+              "What has K given up to protect people who will never know his name?",
+              "How does meeting the aliens in New York change what J thinks a neighbor looks like?",
+              "What is the difference between Edgar before the attack and the creature wearing his skin?",
+              "When might a witness want to remember what K erases?",
+              "Why might Edgar’s wife need someone to listen to her account before the agents erase it?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_private_export_timed_out"
+        },
+        {
+          "movie_id": "marvel-2002-men-in-black-ii",
+          "title": "Men in Black II",
+          "year": 2002,
+          "version": "Original 2002 theatrical release",
+          "review_baseline": "editorial/review-drafts-marvel-batch-05.json",
+          "review_baseline_blob": "730bb18917e370c2286d522691926d54a19195b1",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.sonypictures.com/movies/meninblackii",
+            "https://www.pluggedin.com/movie-reviews/meninblackii/",
+            "https://www.youtube.com/watch?v=eSdP5LJpKw8"
+          ],
+          "on_screen": "The underground creature bites into a subway train with people aboard. Serleena adopts the appearance of a lingerie model.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/meninblackii/",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "J has spent years wanting his partner back, yet his most generous decision concerns someone else leaving. His attachment to Laura makes letting her go genuinely costly. The sexual threat played for a gross-out joke deserves its own conversation.",
+            "age": "13+",
+            "age_rationale": "The subway attack places ordinary travelers in danger. The lingerie imagery and repeated sexual jokes raise a separate concern for younger viewers.",
+            "theme_ratings": [
+              {
+                "name": "Love and self-sacrifice",
+                "score": 4,
+                "evidence": "J lets Laura leave when keeping her on Earth would put two worlds at risk.",
+                "sources": [
+                  "https://www.youtube.com/watch?v=eSdP5LJpKw8"
+                ]
+              },
+              {
+                "name": "Loyalty",
+                "score": 4,
+                "evidence": "J seeks out K when the knowledge lost from his memory is needed.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/meninblackii/"
+                ]
+              },
+              {
+                "name": "Violence and cruelty",
+                "score": 4,
+                "evidence": "Serleena restrains victims with tendrils and attacks a witness.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/meninblackii/"
+                ]
+              },
+              {
+                "name": "Coercion",
+                "score": 3,
+                "evidence": "A family’s memories are erased and the agents give the family a suggestion about its future.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/meninblackii/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "Available sources do not establish a numeric prominence score. A scoped viewing log or additional released-film evidence is needed.",
+            "sources": []
+          },
+          "stage5_status": {
+            "scripture": "Philippians 2:4",
+            "translation": "KJV",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Philippians%202%3A4&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 77 on the Gospel of John",
+            "patristic_section": "On John 15:12–13",
+            "patristic_source": "https://www.newadvent.org/fathers/240177.htm",
+            "verification": "Stored quotation wording matched the linked editions with spacing and punctuation normalized.",
+            "biblical_parallel": {
+              "title": "Letting Laura go",
+              "filmMoment": "J allows Laura to leave even though he wants her to stay.",
+              "scriptureReference": "Philippians 2:4",
+              "reflection": "Paul asks believers to attend to another person’s good. Laura has a calling beyond the future J imagines with her. His farewell gives her room to answer it.",
+              "sourceUrl": "https://www.youtube.com/watch?v=eSdP5LJpKw8"
+            },
+            "proposed_family_questions": [
+              "What does J miss about K that a replacement partner cannot give him?",
+              "What does it cost K to recover his memories?",
+              "Why does the locker community treat a gift of watches as a reason for worship?",
+              "What changes when J learns the Light is Laura herself?",
+              "How does J’s responsibility to the subway passengers differ from his duty to the creature under the city?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_private_export_timed_out"
+        },
+        {
+          "movie_id": "marvel-2012-men-in-black-3",
+          "title": "Men in Black 3",
+          "year": 2012,
+          "version": "Original 2012 theatrical release",
+          "review_baseline": "editorial/review-drafts-marvel-batch-05.json",
+          "review_baseline_blob": "730bb18917e370c2286d522691926d54a19195b1",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.sonypictures.com/movies/meninblack3",
+            "https://www.pluggedin.com/movie-reviews/men-in-black-3/",
+            "https://kids-in-mind.com/m/meninblack3.htm"
+          ],
+          "on_screen": "During the prison visit, Boris kisses his visitor with an elongated tongue. Later J tears organs from a giant fish to escape.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/men-in-black-3/",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "J risks losing his own future to save the friend whose silence he has found frustrating. That loyalty gives the story weight, while the agents’ violent interrogation methods deserve scrutiny.",
+            "age": "13+",
+            "age_rationale": "The combination of invasive body imagery and a violent escape may trouble children who otherwise enjoy the film’s time-travel comedy.",
+            "theme_ratings": [
+              {
+                "name": "Loyalty",
+                "score": 5,
+                "evidence": "J goes into the past after K disappears.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/men-in-black-3/"
+                ]
+              },
+              {
+                "name": "Compassion and service",
+                "score": 4,
+                "evidence": "J tries to spare the younger K an emotionally painful experience.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/men-in-black-3/"
+                ]
+              },
+              {
+                "name": "Vengeance",
+                "score": 4,
+                "evidence": "Boris pursues the agent responsible for his imprisonment.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/men-in-black-3/"
+                ]
+              },
+              {
+                "name": "Violence and cruelty",
+                "score": 4,
+                "evidence": "The agents strike aliens repeatedly during questioning.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/men-in-black-3/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "Available sources do not establish a numeric prominence score. A scoped viewing log or additional released-film evidence is needed.",
+            "sources": []
+          },
+          "stage5_status": {
+            "scripture": "Galatians 6:2",
+            "translation": "KJV",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Galatians%206%3A2&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 11 on Ephesians",
+            "patristic_section": "Commentary on Ephesians 4:12",
+            "patristic_source": "https://www.newadvent.org/fathers/230111.htm",
+            "verification": "Stored quotation wording matched the linked editions with spacing and punctuation normalized.",
+            "biblical_parallel": {
+              "title": "Going back for K",
+              "filmMoment": "J goes back to 1969 for K despite the personal risk.",
+              "scriptureReference": "Galatians 6:2",
+              "reflection": "Paul writes of sharing burdens. J’s trip to 1969 puts him alongside K in a history his friend once carried alone.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/men-in-black-3/"
+            },
+            "proposed_family_questions": [
+              "Why is J willing to enter a different time when K has shared so little about his past?",
+              "How does meeting the younger K change the way J hears his older partner’s silence?",
+              "What does Boris do to the visitor who helped him escape?",
+              "Can the agents justify hurting someone during questioning because they need information?",
+              "Why does J’s thank-you matter when he returns?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_private_export_timed_out"
+        },
+        {
+          "movie_id": "marvel-2019-men-in-black-international",
+          "title": "Men in Black: International",
+          "year": 2019,
+          "version": "Original 2019 theatrical release",
+          "review_baseline": "editorial/review-drafts-marvel-batch-05.json",
+          "review_baseline_blob": "730bb18917e370c2286d522691926d54a19195b1",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.sonypictures.com/movies/meninblackinternational",
+            "https://www.pluggedin.com/movie-reviews/men-in-black-international-2019/"
+          ],
+          "on_screen": "After his queen dies, Pawny holds a knife to his throat. Another character persuades him he can honor her by living.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/men-in-black-international-2019/",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "M’s willingness to shelter a frightened creature and the agents’ defense of Pawny show care for vulnerable strangers. H’s conduct around Vungus also invites families to ask where a work assignment crosses a personal boundary.",
+            "age": "13+",
+            "age_rationale": "Pawny’s suicidal gesture warrants a clear family advisory even though the scene plays partly as comedy. M also has to set a sexual boundary on assignment.",
+            "theme_ratings": [
+              {
+                "name": "Compassion and service",
+                "score": 4,
+                "evidence": "As a child Molly helps an alien escape from her house.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/men-in-black-international-2019/"
+                ]
+              },
+              {
+                "name": "Loyalty",
+                "score": 4,
+                "evidence": "Pawny stays with M after losing his queen.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/men-in-black-international-2019/"
+                ]
+              },
+              {
+                "name": "Deception",
+                "score": 4,
+                "evidence": "An insider conceals the betrayal that endangered the agents.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/men-in-black-international-2019/"
+                ]
+              },
+              {
+                "name": "Violence and cruelty",
+                "score": 4,
+                "evidence": "The assassins liquefy two people and take their identities.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/men-in-black-international-2019/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "Available sources do not establish a numeric prominence score. A scoped viewing log or additional released-film evidence is needed.",
+            "sources": []
+          },
+          "stage5_status": {
+            "scripture": "Philippians 2:4",
+            "translation": "KJV",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Philippians%202%3A4&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 77 on the Gospel of John",
+            "patristic_section": "On John 15:12–13",
+            "patristic_source": "https://www.newadvent.org/fathers/240177.htm",
+            "verification": "Stored quotation wording matched the linked editions with spacing and punctuation normalized.",
+            "biblical_parallel": {
+              "title": "Staying with Pawny",
+              "filmMoment": "After Pawny loses his queen, the agents help him imagine serving her memory by staying alive.",
+              "scriptureReference": "Philippians 2:4",
+              "reflection": "Paul directs attention to the needs of a neighbor. Seeing Pawny’s grief requires the agents to take his words seriously despite his tiny size.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/men-in-black-international-2019/"
+            },
+            "proposed_family_questions": [
+              "Why does the young Molly help the creature in her house?",
+              "What boundary does M set when H asks her to keep Vungus happy?",
+              "What could M say to Pawny about honoring the queen without harming himself?",
+              "How can H’s reputation get in the way of investigating the mole?",
+              "What would it mean for Pawny to remember his queen while building a new friendship?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_private_export_timed_out"
+        },
+        {
+          "movie_id": "marvel-2005-fantastic-four",
+          "title": "Fantastic Four",
+          "year": 2005,
+          "version": "Original 2005 theatrical release",
+          "review_baseline": "editorial/review-drafts-marvel-batch-06.json",
+          "review_baseline_blob": "4a46b0a24c731e4827d8e8f6ee3f9e262d3b6a4f",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.commonsensemedia.org/movie-reviews/fantastic-four",
+            "https://www.pluggedin.com/movie-reviews/fantasticfour/"
+          ],
+          "on_screen": "Ben stops a truck to save a pedestrian. The ensuing pileup leaves firefighters dangling from a bridge.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/fantasticfour/",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Ben steps between a truck and a stranger. That instinct to protect gives the story moral weight, although Johnny’s reckless flirting often earns him laughs.",
+            "age": "13+",
+            "age_rationale": "The bridge rescue sustains the threat to identifiable people. Doom’s attacks later include a blast that leaves a hole in a man’s torso.",
+            "theme_ratings": [
+              {
+                "name": "Protecting a stranger",
+                "score": 4,
+                "evidence": "Ben steps in front of a truck.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/fantasticfour/"
+                ]
+              },
+              {
+                "name": "Acceptance",
+                "score": 4,
+                "evidence": "Alicia welcomes Ben after others recoil.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/fantasticfour/"
+                ]
+              },
+              {
+                "name": "Recklessness",
+                "score": 3,
+                "evidence": "Johnny kisses a driver while riding a motorcycle beside her.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/fantasticfour/"
+                ]
+              },
+              {
+                "name": "Abuse of power",
+                "score": 4,
+                "evidence": "Doom attacks a doctor and later tortures Reed.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/fantasticfour/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "Available sources do not establish a numeric prominence score. A scoped viewing log or additional released-film evidence is needed.",
+            "sources": []
+          },
+          "stage5_status": {
+            "scripture": "Galatians 6:2",
+            "translation": "KJV",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Galatians%206%3A2&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 11 on Ephesians",
+            "patristic_section": "Commentary on Ephesians 4:12",
+            "patristic_source": "https://www.newadvent.org/fathers/230111.htm",
+            "verification": "Stored quotation wording matched the linked editions with spacing and punctuation normalized.",
+            "biblical_parallel": {
+              "title": "The stranger on the bridge",
+              "filmMoment": "Ben puts his body in the truck’s path to save a pedestrian.",
+              "scriptureReference": "Galatians 6:2",
+              "reflection": "Paul’s charge to bear burdens becomes concrete on the bridge. Ben can also need someone to carry a burden for him after the rescue.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/fantasticfour/"
+            },
+            "proposed_family_questions": [
+              "Why does Ben step into the truck’s path?",
+              "What might Ben need once the bridge rescue is over?",
+              "What does Alicia notice that other people overlook?",
+              "What would you say if Ben told you God hated him?",
+              "How could the crowd thank Ben for the bridge rescue while respecting his wish for privacy?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_private_export_timed_out"
+        },
+        {
+          "movie_id": "marvel-2007-fantastic-four-rise-of-the-silver-surfer",
+          "title": "Fantastic Four: Rise of the Silver Surfer",
+          "year": 2007,
+          "version": "Original 2007 theatrical release",
+          "review_baseline": "editorial/review-drafts-marvel-batch-06.json",
+          "review_baseline_blob": "4a46b0a24c731e4827d8e8f6ee3f9e262d3b6a4f",
+          "status": "proposal_saved",
+          "sources": [
+            "https://family.20thcenturystudios.com/movies/fantastic-four-rise-of-the-silver-surfer",
+            "https://www.pluggedin.com/movie-reviews/fantasticfourriseofthesilversurfer/"
+          ],
+          "on_screen": "Doom’s blast partially disintegrates an officer. At the wedding ceremony the guests face a falling helicopter.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/fantasticfourriseofthesilversurfer/",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Sue listens to a captive who has helped endanger her planet. Her refusal to give up on his freedom bears fruit when he risks himself for people he once endangered.",
+            "age": "10+",
+            "age_rationale": "The disintegration and Sue’s piercing injury are likely to matter more to a sensitive ten-year-old than the frequency of the superhero fights.",
+            "theme_ratings": [
+              {
+                "name": "Mercy",
+                "score": 4,
+                "evidence": "Sue hears the captive visitor’s account of his home.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/fantasticfourriseofthesilversurfer/"
+                ]
+              },
+              {
+                "name": "Sacrifice",
+                "score": 5,
+                "evidence": "The Surfer confronts his master to spare Earth.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/fantasticfourriseofthesilversurfer/"
+                ]
+              },
+              {
+                "name": "Coercion",
+                "score": 4,
+                "evidence": "Galactus holds the Surfer’s home planet over him.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/fantasticfourriseofthesilversurfer/"
+                ]
+              },
+              {
+                "name": "Dishonesty",
+                "score": 2,
+                "evidence": "Reed conceals his work on a device while preparing for the wedding.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/fantasticfourriseofthesilversurfer/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": 1,
+            "observation": "Sue expresses attraction to Reed after he stands up to the general. Johnny jokingly says he feels the same. Brief verbal reference only, with no stated identity or relationship.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/fantasticfourriseofthesilversurfer/",
+              "https://transcripts.foreverdreaming.org/viewtopic.php?t=68446"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "Galatians 6:2",
+            "translation": "KJV",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Galatians%206%3A2&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 11 on Ephesians",
+            "patristic_section": "Commentary on Ephesians 4:12",
+            "patristic_source": "https://www.newadvent.org/fathers/230111.htm",
+            "verification": "Stored quotation wording matched the linked editions with spacing and punctuation normalized.",
+            "biblical_parallel": {
+              "title": "A burden the Surfer takes back",
+              "filmMoment": "The Surfer turns against Galactus to protect the people of Earth.",
+              "scriptureReference": "Galatians 6:2",
+              "reflection": "The Surfer once transferred danger from his own people to strangers. His reversal offers a family a way to discuss what it costs to shoulder another’s burden.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/fantasticfourriseofthesilversurfer/"
+            },
+            "proposed_family_questions": [
+              "What does Sue learn by listening to the Surfer that the people holding him captive miss?",
+              "Who bears the cost of the Surfer’s original agreement?",
+              "What does Reed owe Sue when he conceals his work?",
+              "When Johnny’s power changes, whose help does he need?",
+              "What risk does the Surfer finally accept himself?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_private_export_timed_out"
+        },
+        {
+          "movie_id": "marvel-2015-fantastic-four",
+          "title": "Fantastic Four",
+          "year": 2015,
+          "version": "Original 2015 theatrical release",
+          "review_baseline": "editorial/review-drafts-marvel-batch-06.json",
+          "review_baseline_blob": "4a46b0a24c731e4827d8e8f6ee3f9e262d3b6a4f",
+          "status": "proposal_saved",
+          "sources": [
+            "https://family.20thcenturystudios.com/movies/fantastic-four",
+            "https://www.pluggedin.com/movie-reviews/fantastic-four-2015/"
+          ],
+          "on_screen": "The expedition leaves Ben buried under rocks and Johnny severely burned. Later Doom kills personnel inside the facility.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/fantastic-four-2015/",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Reed’s wish to help humanity becomes credible when he takes responsibility for others. The film also dwells on victims’ suffering and shows how quickly adults turn Ben’s strength into a weapon.",
+            "age": "16+",
+            "age_rationale": "The laboratory deaths show bloody bodily destruction. The expedition’s injuries give the transformations a horror-film quality.",
+            "theme_ratings": [
+              {
+                "name": "Cooperation",
+                "score": 4,
+                "evidence": "The four combine their abilities against Doom.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/fantastic-four-2015/"
+                ]
+              },
+              {
+                "name": "Service",
+                "score": 3,
+                "evidence": "Dr. Storm hopes the research will help Earth survive.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/fantastic-four-2015/"
+                ]
+              },
+              {
+                "name": "Recklessness",
+                "score": 4,
+                "evidence": "Johnny crashes while racing and lies to his father.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/fantastic-four-2015/"
+                ]
+              },
+              {
+                "name": "Cruelty",
+                "score": 5,
+                "evidence": "Doom kills multiple people in the facility.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/fantastic-four-2015/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "Available sources do not establish a numeric prominence score. A scoped viewing log or additional released-film evidence is needed.",
+            "sources": []
+          },
+          "stage5_status": {
+            "scripture": "Galatians 6:2",
+            "translation": "KJV",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Galatians%206%3A2&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 11 on Ephesians",
+            "patristic_section": "Commentary on Ephesians 4:12",
+            "patristic_source": "https://www.newadvent.org/fathers/230111.htm",
+            "verification": "Stored quotation wording matched the linked editions with spacing and punctuation normalized.",
+            "biblical_parallel": {
+              "title": "Who carries the cost of discovery?",
+              "filmMoment": "Ben is buried under rock on the expedition and is later shown destroying military targets.",
+              "scriptureReference": "Galatians 6:2",
+              "reflection": "Galatians invites Christians to share a neighbor’s burden. Applied to Ben, that starts by listening to what he wants after others have decided how his strength will be used.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/fantastic-four-2015/"
+            },
+            "proposed_family_questions": [
+              "What makes Reed want to cross over before he has permission?",
+              "What responsibility does Reed have to Ben after the expedition?",
+              "What does the footage of Ben attacking tanks leave us wanting to ask Ben?",
+              "What does Johnny’s lie after the race cost his father?",
+              "If Reed could speak to Ben before the expedition, what risks would he owe his friend an honest account of?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_private_export_timed_out"
+        },
+        {
+          "movie_id": "marvel-2000-x-men",
+          "title": "X-Men",
+          "year": 2000,
+          "version": "Original 2000 theatrical release",
+          "review_baseline": "editorial/review-drafts-marvel-batch-07.json",
+          "review_baseline_blob": "6623820ea7c10615c88d0859e6f2d1168ec881d2",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/xmen/",
+            "https://www.commonsensemedia.org/movie-reviews/x-men",
+            "https://www.bbfc.co.uk/release/x-men-q29sbgvjdglvbjpwwc00mti3mza",
+            "https://en.wikipedia.org/wiki/X-Men_(film)"
+          ],
+          "on_screen": "Magneto uses Rogue to power his machine. Logan later shares his healing ability with her and loses consciousness.",
+          "on_screen_source": "https://en.wikipedia.org/wiki/X-Men_(film)",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Two people put their hands on Rogue with very different intentions. Magneto makes her bear a danger he could face himself. Logan accepts the cost of healing her. The rescue gives the story its moral center.",
+            "age": "13+",
+            "age_rationale": "Rogue’s helplessness in the machine and the opening separation of a child from his parents give the peril a personal weight.",
+            "theme_ratings": [
+              {
+                "name": "Sacrificial love",
+                "score": 5,
+                "evidence": "Logan transfers his healing power to an exhausted Rogue.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/X-Men_(film)"
+                ]
+              },
+              {
+                "name": "Hospitality",
+                "score": 4,
+                "evidence": "Xavier offers young mutants a school and protection.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/X-Men_(film)"
+                ]
+              },
+              {
+                "name": "Coercion",
+                "score": 5,
+                "evidence": "Magneto puts Rogue in his machine to supply power.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/X-Men_(film)"
+                ]
+              },
+              {
+                "name": "Prejudice",
+                "score": 4,
+                "evidence": "Mutants face a proposal to register because of their identity.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/X-Men_(film)"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "Available sources do not establish a numeric prominence score. A scoped viewing log or additional released-film evidence is needed.",
+            "sources": []
+          },
+          "stage5_status": {
+            "scripture": "John 15:13",
+            "translation": "KJV",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=John%2015%3A13&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 77 on the Gospel of John",
+            "patristic_section": "Commentary on John 15:12–13",
+            "patristic_source": "https://www.newadvent.org/fathers/240177.htm",
+            "verification": "Stored quotation wording matched the linked editions with spacing and punctuation normalized.",
+            "biblical_parallel": {
+              "title": "Who bears the danger?",
+              "filmMoment": "Logan lets Rogue absorb his healing ability and collapses afterward.",
+              "scriptureReference": "John 15:13",
+              "reflection": "John describes love freely putting one’s own life at another’s service. Logan’s gesture helps us see why the choice belongs to the giver.",
+              "sourceUrl": "https://en.wikipedia.org/wiki/X-Men_(film)"
+            },
+            "proposed_family_questions": [
+              "Why does Rogue leave home after discovering what her touch can do?",
+              "What does Xavier offer Rogue beyond shelter?",
+              "Who has a choice when Magneto powers the machine?",
+              "How does Logan’s use of his power around Rogue differ from Magneto’s use of hers?",
+              "What would a trustworthy adult need to understand before asking Rogue to use her power?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_private_export_timed_out"
+        },
+        {
+          "movie_id": "marvel-2003-x2",
+          "title": "X2",
+          "year": 2003,
+          "version": "Original 2003 theatrical release",
+          "review_baseline": "editorial/review-drafts-marvel-batch-07.json",
+          "review_baseline_blob": "6623820ea7c10615c88d0859e6f2d1168ec881d2",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/x2xmenunited/",
+            "https://www.commonsensemedia.org/movie-reviews/x2-x-men-united"
+          ],
+          "on_screen": "Mystique drugs a guard during a sexual advance. Nightcrawler, previously controlled by Stryker, prays in a cathedral.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/x2xmenunited/",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Nightcrawler’s prayer and Jean’s rescue of her companions give families examples of faith and courage. The sexualized drugging of a guard and the spectacle of bodies being used as weapons temper the recommendation.",
+            "age": "16+",
+            "age_rationale": "The drugging combines sexual contact and a loss of bodily control. The later death involving liquid metal supports guidance for older teens.",
+            "theme_ratings": [
+              {
+                "name": "Self-sacrifice",
+                "score": 5,
+                "evidence": "Jean stays behind during the flood.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/x2xmenunited/"
+                ]
+              },
+              {
+                "name": "Faith under pressure",
+                "score": 4,
+                "evidence": "Nightcrawler turns to prayer after being blamed for the attack.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/x2xmenunited/"
+                ]
+              },
+              {
+                "name": "Exploitation",
+                "score": 5,
+                "evidence": "Stryker controls Nightcrawler and uses the attack to justify the raid.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/x2xmenunited/"
+                ]
+              },
+              {
+                "name": "Retaliation",
+                "score": 4,
+                "evidence": "Pyro endangers officers until Rogue stops him.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/x2xmenunited/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "Bobby tells his family about being a mutant. The coming-out parallel is an interpretation of that scene. Released-cut evidence of a literal reference or relationship is still needed.",
+            "sources": [
+              "https://cmsw.mit.edu/wp/wp-content/uploads/2016/10/146381147-Susannah-Mandel-Mask-or-Closet-or-Under-the-Hood-Metaphors-and-Representations-of-Homosexuality-in-American-Superhero-Comics-After-1985.pdf"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "John 15:13",
+            "translation": "KJV",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=John%2015%3A13&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 77 on the Gospel of John",
+            "patristic_section": "Commentary on John 15:12–13",
+            "patristic_source": "https://www.newadvent.org/fathers/240177.htm",
+            "verification": "Stored quotation wording matched the linked editions with spacing and punctuation normalized.",
+            "biblical_parallel": {
+              "title": "Jean at the dam",
+              "filmMoment": "Jean stays behind as the dam gives way so her companions can escape.",
+              "scriptureReference": "John 15:13",
+              "reflection": "Jean accepts the danger herself. Christ’s words give a family language for asking what it means to love people who cannot repay us.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/x2xmenunited/"
+            },
+            "proposed_family_questions": [
+              "What does the attack at the White House seem to prove before Stryker’s role becomes clear?",
+              "What changes when Storm meets Nightcrawler in the cathedral?",
+              "Why does Rogue stop Pyro even though the police have threatened her friends?",
+              "How does Stryker use fear to justify attacking children at school?",
+              "What does Nightcrawler’s prayer tell Storm that footage of the attack on the president never could?"
             ]
           },
           "studio_status": "repository_proposal_only_private_export_timed_out"
