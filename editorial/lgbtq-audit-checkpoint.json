@@ -1001,6 +1001,454 @@
           }
         }
       ]
+    },
+    {
+      "number": 2,
+      "date": "2026-11-25",
+      "review_completion_branch": "editorial/review-completion",
+      "review_completion_baseline": "0ab3f46f4e678794bb2b04cc318df587cbc1748f",
+      "review_completion_ledger": "editorial/review-completion.tsv",
+      "roadmap_check": "Prior project conversations and V12 evidence did not identify stages 6–8. Deferred.",
+      "films": [
+        {
+          "movie_id": "batch1-1998-the-prince-of-egypt",
+          "title": "The Prince of Egypt",
+          "year": 1998,
+          "version": "Original animated feature (1998); evidence applies to scenes documented for this release.",
+          "review_baseline": "repository_baseline",
+          "status": "proposal_saved",
+          "studio_status": "not_saved_no_authenticated_session",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/princeofegypt/"
+          ],
+          "on_screen": "Moses leaves the burning bush resolved to free the enslaved Hebrews. Rameses pursues them even after the death of his son.",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "The story locates Moses’ courage in his answer to God and treats Pharaoh’s refusal as a tragedy for both peoples.",
+            "age": "10+",
+            "age_rationale": "Stylized images of infants being killed and grief after the final plague carry more weight than the chariot action.",
+            "theme_ratings": [
+              {
+                "name": "Faith and trust in God",
+                "score": 5
+              },
+              {
+                "name": "Violence and cruelty",
+                "score": 3
+              }
+            ],
+            "rating_basis": "Moses leaves the burning bush resolved to free the enslaved Hebrews. Rameses pursues them even after the death of his son. The story locates Moses’ courage in his answer to God and treats Pharaoh’s refusal as a tragedy for both peoples.",
+            "other_scores": "No revision proposed outside these sourced themes."
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The guide identifies Moses’ marriage to Zipporah.",
+            "open_reason": "Requires a release-specific screening record or evidence addressing the remaining rubric criteria."
+          },
+          "quotation_check": {
+            "reference": "Exodus 3:7–12",
+            "translation": "KJV",
+            "source": "https://ebible.org/eng-kjv2006/EXO03.htm",
+            "result": "Full verse wording matched after normalization of case, punctuation, verse numbering and whitespace.",
+            "patristic": {
+              "existing": "Explicitly marked as a paraphrase.",
+              "proposed_exact_excerpt": "But on the other hand we shall receive gladly those passages in which they praise virtue or condemn vice.",
+              "author": "Basil of Caesarea",
+              "work": "Address to Young Men",
+              "section": "IV",
+              "url": "https://www.tertullian.org/fathers/basil_litterature01.htm"
+            }
+          }
+        },
+        {
+          "movie_id": "batch1-1994-the-lion-king",
+          "title": "The Lion King",
+          "year": 1994,
+          "version": "Original animated feature (1994); evidence applies to scenes documented for this release.",
+          "review_baseline": "repository_baseline",
+          "status": "proposal_saved",
+          "studio_status": "not_saved_no_authenticated_session",
+          "sources": [
+            "https://www.commonsensemedia.org/movie-reviews/the-lion-king-1994",
+            "https://digitize.gp.lib.mi.us/history/newspapers/grossepointenews/year_ranges/1990s/1994/pdf/1994-07-07.pdf"
+          ],
+          "on_screen": "Scar engineers the stampede that kills Mufasa after Mufasa saves Simba. Scar shifts responsibility onto the cub.",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Mufasa acts to save his son. Simba’s return gives families a way to distinguish taking responsibility from accepting false blame.",
+            "age": "7+",
+            "age_rationale": "A cub finds his father dead. Children facing bereavement may need an adult beside them.",
+            "theme_ratings": [
+              {
+                "name": "Family and responsibility",
+                "score": 5
+              },
+              {
+                "name": "Violence and cruelty",
+                "score": 3
+              }
+            ],
+            "rating_basis": "Scar engineers the stampede that kills Mufasa after Mufasa saves Simba. Scar shifts responsibility onto the cub. Mufasa acts to save his son. Simba’s return gives families a way to distinguish taking responsibility from accepting false blame.",
+            "other_scores": "No revision proposed outside these sourced themes."
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The source interprets Scar’s mannerisms as stereotyping. Mannerisms do not document an on-screen relationship or stated identity.",
+            "open_reason": "Requires a release-specific screening record or evidence addressing the remaining rubric criteria."
+          },
+          "quotation_check": {
+            "reference": "Luke 15:17–24",
+            "translation": "KJV",
+            "source": "https://ebible.org/eng-kjv2006/LUK15.htm",
+            "result": "Full verse wording matched after normalization of case, punctuation, verse numbering and whitespace.",
+            "patristic": "No patristic quotation present in the seed review. Stage 5 selection and verification open."
+          }
+        },
+        {
+          "movie_id": "batch1-2003-finding-nemo",
+          "title": "Finding Nemo",
+          "year": 2003,
+          "version": "Original animated feature (2003); evidence applies to scenes documented for this release.",
+          "review_baseline": "repository_baseline",
+          "status": "proposal_saved",
+          "studio_status": "not_saved_no_authenticated_session",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/findingnemo/"
+          ],
+          "on_screen": "A diver takes Nemo. Marlin follows, despite a shark attack and near-fatal jellyfish stings. Dory helps him search.",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "A father’s persistent love sustains the search. His fear also helps explain why Nemo experiences his protection as suffocating.",
+            "age": "7+",
+            "age_rationale": "The opening loss of Nemo’s mother and siblings and a later bleeding injury during a shark encounter may upset younger children.",
+            "theme_ratings": [
+              {
+                "name": "Family and responsibility",
+                "score": 5
+              },
+              {
+                "name": "Courage and hope",
+                "score": 4
+              }
+            ],
+            "rating_basis": "A diver takes Nemo. Marlin follows, despite a shark attack and near-fatal jellyfish stings. Dory helps him search. A father’s persistent love sustains the search. His fear also helps explain why Nemo experiences his protection as suffocating.",
+            "other_scores": "No revision proposed outside these sourced themes."
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The guide reports no sexual or romantic content within that category. Its scope does not establish a full identity or dialogue screening.",
+            "open_reason": "Requires a release-specific screening record or evidence addressing the remaining rubric criteria."
+          },
+          "quotation_check": {
+            "reference": "1 Corinthians 13:4–7",
+            "translation": "KJV",
+            "source": "https://www.biblegateway.com/passage/?search=1%20Corinthians%2013%3A4-7&version=KJV",
+            "result": "Full verse wording matched after normalization of case, punctuation, verse numbering and whitespace.",
+            "patristic": "No patristic quotation present in the seed review. Stage 5 selection and verification open."
+          }
+        },
+        {
+          "movie_id": "batch1-1995-toy-story",
+          "title": "Toy Story",
+          "year": 1995,
+          "version": "Original animated feature (1995); evidence applies to scenes documented for this release.",
+          "review_baseline": "repository_baseline",
+          "status": "proposal_saved",
+          "studio_status": "not_saved_no_authenticated_session",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/toystory/"
+          ],
+          "on_screen": "Woody tries to displace Buzz from the dresser. After Buzz falls outside, Woody and Sid’s damaged toys cooperate to rescue him.",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Woody’s change of heart costs him the privilege he tried to defend. Making amends takes action.",
+            "age": "7+",
+            "age_rationale": "Sid burns Woody with a magnifying glass. Damaged toys emerge from the sandbox with missing limbs.",
+            "theme_ratings": [
+              {
+                "name": "Humility and repentance",
+                "score": 4
+              },
+              {
+                "name": "Forgiveness and reconciliation",
+                "score": 4
+              }
+            ],
+            "rating_basis": "Woody tries to displace Buzz from the dresser. After Buzz falls outside, Woody and Sid’s damaged toys cooperate to rescue him. Woody’s change of heart costs him the privilege he tried to defend. Making amends takes action.",
+            "other_scores": "No revision proposed outside these sourced themes."
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "Buzz is dressed for a child’s tea party and called Mrs. Nesbit. It is a role assigned during play.",
+            "open_reason": "Requires a release-specific screening record or evidence addressing the remaining rubric criteria."
+          },
+          "quotation_check": {
+            "reference": "James 3:16",
+            "translation": "KJV",
+            "source": "https://ebible.org/eng-kjv2006/JAS03.htm",
+            "result": "Full verse wording matched after normalization of case, punctuation, verse numbering and whitespace.",
+            "patristic": "No patristic quotation present in the seed review. Stage 5 selection and verification open."
+          }
+        },
+        {
+          "movie_id": "batch1-2010-toy-story-3",
+          "title": "Toy Story 3",
+          "year": 2010,
+          "version": "Original animated feature (2010); evidence applies to scenes documented for this release.",
+          "review_baseline": "repository_baseline",
+          "status": "proposal_saved",
+          "studio_status": "not_saved_no_authenticated_session",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/toystory3/"
+          ],
+          "on_screen": "Lotso sends new toys to a rough toddler room. The toys stick together as machinery carries them toward a furnace.",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "The friends’ loyalty challenges Lotso’s choice to turn his hurt into power over other toys.",
+            "age": "10+",
+            "age_rationale": "The sustained prospect of burning together can be frightening even for children familiar with the earlier films.",
+            "theme_ratings": [
+              {
+                "name": "Love and self-sacrifice",
+                "score": 5
+              },
+              {
+                "name": "Violence and cruelty",
+                "score": 3
+              }
+            ],
+            "rating_basis": "Lotso sends new toys to a rough toddler room. The toys stick together as machinery carries them toward a furnace. The friends’ loyalty challenges Lotso’s choice to turn his hurt into power over other toys.",
+            "other_scores": "No revision proposed outside these sourced themes."
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "Ken courts Barbie. Other toys tease him about his clothes and handwriting. These jokes alone establish no identity.",
+            "open_reason": "Requires a release-specific screening record or evidence addressing the remaining rubric criteria."
+          },
+          "quotation_check": {
+            "reference": "John 15:13",
+            "translation": "KJV",
+            "source": "https://ebible.org/eng-kjv2006/JHN15.htm",
+            "result": "Full verse wording matched after normalization of case, punctuation, verse numbering and whitespace.",
+            "patristic": "No patristic quotation present in the seed review. Stage 5 selection and verification open."
+          }
+        },
+        {
+          "movie_id": "batch1-2015-inside-out",
+          "title": "Inside Out",
+          "year": 2015,
+          "version": "Original animated feature (2015); evidence applies to scenes documented for this release.",
+          "review_baseline": "repository_baseline",
+          "status": "proposal_saved",
+          "studio_status": "not_saved_no_authenticated_session",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/inside-out/"
+          ],
+          "on_screen": "Riley steals her mother’s card to buy a bus ticket. Inside her mind, Joy initially tries to keep a sad memory out of the core collection.",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Riley’s distress makes room for a conversation about telling parents the truth even when sadness disappoints them.",
+            "age": "7+",
+            "age_rationale": "Running away and the fading of an imaginary friend can be more upsetting than the cartoon falls.",
+            "theme_ratings": [
+              {
+                "name": "Truthfulness and integrity",
+                "score": 4
+              },
+              {
+                "name": "Family and responsibility",
+                "score": 4
+              }
+            ],
+            "rating_basis": "Riley steals her mother’s card to buy a bus ticket. Inside her mind, Joy initially tries to keep a sad memory out of the core collection. Riley’s distress makes room for a conversation about telling parents the truth even when sadness disappoints them.",
+            "other_scores": "No revision proposed outside these sourced themes."
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The cited guide documents Riley’s family and feelings during the move. The reviewed scenes give no basis for a prominence score.",
+            "open_reason": "Requires a release-specific screening record or evidence addressing the remaining rubric criteria."
+          },
+          "quotation_check": {
+            "reference": "Psalm 42:11",
+            "translation": "KJV",
+            "source": "https://www.biblegateway.com/passage/?search=Psalm%2042%3A11&version=KJV",
+            "result": "Full verse wording matched after normalization of case, punctuation, verse numbering and whitespace.",
+            "patristic": "No patristic quotation present in the seed review. Stage 5 selection and verification open."
+          }
+        },
+        {
+          "movie_id": "batch1-2016-moana",
+          "title": "Moana",
+          "year": 2016,
+          "version": "Original animated feature (2016); evidence applies to scenes documented for this release.",
+          "review_baseline": "repository_baseline",
+          "status": "proposal_saved",
+          "studio_status": "not_saved_no_authenticated_session",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/moana-2016/"
+          ],
+          "on_screen": "Moana sails to help her island. Maui’s theft of Te Fiti’s heart sets the voyage in motion. He changes shape with his hook.",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Moana’s courage serves neighbors in need. The story’s explanation of creation and restoration belongs to its mythological setting.",
+            "age": "10+",
+            "age_rationale": "A lava creature throws fireballs and a giant crab repeatedly strikes Maui. Maui describes abandonment as an infant.",
+            "theme_ratings": [
+              {
+                "name": "Courage and hope",
+                "score": 5
+              },
+              {
+                "name": "Occult or misleading spirituality",
+                "score": 4
+              }
+            ],
+            "rating_basis": "Moana sails to help her island. Maui’s theft of Te Fiti’s heart sets the voyage in motion. He changes shape with his hook. Moana’s courage serves neighbors in need. The story’s explanation of creation and restoration belongs to its mythological setting.",
+            "other_scores": "No revision proposed outside these sourced themes."
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "Moana’s alliance with Maui is documented as a quest to restore the heart. No broader score follows.",
+            "open_reason": "Requires a release-specific screening record or evidence addressing the remaining rubric criteria."
+          },
+          "quotation_check": {
+            "reference": "Joshua 1:9",
+            "translation": "KJV",
+            "source": "https://ebible.org/eng-kjv2006/JOS01.htm",
+            "result": "Full verse wording matched after normalization of case, punctuation, verse numbering and whitespace.",
+            "patristic": "No patristic quotation present in the seed review. Stage 5 selection and verification open."
+          }
+        },
+        {
+          "movie_id": "batch1-2010-tangled",
+          "title": "Tangled",
+          "year": 2010,
+          "version": "Original animated feature (2010); evidence applies to scenes documented for this release.",
+          "review_baseline": "repository_baseline",
+          "status": "proposal_saved",
+          "studio_status": "not_saved_no_authenticated_session",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/tangled/"
+          ],
+          "on_screen": "Gothel abducts Rapunzel and keeps her in a tower to exploit her hair. Later she stabs Flynn, who collapses with blood on his shirt.",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Gothel calls control protection, while Flynn comes to value Rapunzel’s freedom at real cost to himself.",
+            "age": "10+",
+            "age_rationale": "Abduction by a caregiver figure, a flooding cave, and the stabbing merit separate notice for sensitive children.",
+            "theme_ratings": [
+              {
+                "name": "Love and self-sacrifice",
+                "score": 4
+              },
+              {
+                "name": "Violence and cruelty",
+                "score": 3
+              }
+            ],
+            "rating_basis": "Gothel abducts Rapunzel and keeps her in a tower to exploit her hair. Later she stabs Flynn, who collapses with blood on his shirt. Gothel calls control protection, while Flynn comes to value Rapunzel’s freedom at real cost to himself.",
+            "other_scores": "No revision proposed outside these sourced themes."
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The source documents the central relationship between Flynn and Rapunzel. Other scenes remain unscreened for the rubric.",
+            "open_reason": "Requires a release-specific screening record or evidence addressing the remaining rubric criteria."
+          },
+          "quotation_check": {
+            "reference": "1 Corinthians 13:4–6",
+            "translation": "KJV",
+            "source": "https://www.biblegateway.com/passage/?search=1%20Corinthians%2013%3A4-6&version=KJV",
+            "result": "Full verse wording matched after normalization of case, punctuation, verse numbering and whitespace.",
+            "patristic": "No patristic quotation present in the seed review. Stage 5 selection and verification open."
+          }
+        },
+        {
+          "movie_id": "batch1-2004-the-incredibles",
+          "title": "The Incredibles",
+          "year": 2004,
+          "version": "Original animated feature (2004); evidence applies to scenes documented for this release.",
+          "review_baseline": "repository_baseline",
+          "status": "proposal_saved",
+          "studio_status": "not_saved_no_authenticated_session",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/incredibles/"
+          ],
+          "on_screen": "Bob conceals his island assignment. A missile destroys the aircraft carrying Helen and the children. Helen catches Jack-Jack after Syndrome drops him.",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Bob’s secrecy endangers trust. The family’s rescue depends on accepting help and using their gifts for each other.",
+            "age": "10+",
+            "age_rationale": "Missile fire aimed at children, electrical torture and an infant falling from height sustain the peril.",
+            "theme_ratings": [
+              {
+                "name": "Family and responsibility",
+                "score": 5
+              },
+              {
+                "name": "Violence and cruelty",
+                "score": 4
+              }
+            ],
+            "rating_basis": "Bob conceals his island assignment. A missile destroys the aircraft carrying Helen and the children. Helen catches Jack-Jack after Syndrome drops him. Bob’s secrecy endangers trust. The family’s rescue depends on accepting help and using their gifts for each other.",
+            "other_scores": "No revision proposed outside these sourced themes."
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The guide documents Bob and Helen’s marriage. This supplies family context only.",
+            "open_reason": "Requires a release-specific screening record or evidence addressing the remaining rubric criteria."
+          },
+          "quotation_check": {
+            "reference": "1 Corinthians 12:25–26",
+            "translation": "KJV",
+            "source": "https://www.biblegateway.com/passage/?search=1%20Corinthians%2012%3A25-26&version=KJV",
+            "result": "Full verse wording matched after normalization of case, punctuation, verse numbering and whitespace.",
+            "patristic": "No patristic quotation present in the seed review. Stage 5 selection and verification open."
+          }
+        },
+        {
+          "movie_id": "batch1-2008-wall-e",
+          "title": "WALL-E",
+          "year": 2008,
+          "version": "Original animated feature (2008); evidence applies to scenes documented for this release.",
+          "review_baseline": "repository_baseline",
+          "status": "proposal_saved",
+          "studio_status": "not_saved_no_authenticated_session",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/walle/"
+          ],
+          "on_screen": "On the Axiom, John and Mary protect babies as passengers slide across the deck. EVE tries to revive WALL-E after he is crushed.",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Care becomes visible when passengers look up from their screens and make themselves responsible for someone else.",
+            "age": "7+",
+            "age_rationale": "WALL-E is shocked and nearly crushed. His apparent loss can feel more disturbing than the escape-pod explosion.",
+            "theme_ratings": [
+              {
+                "name": "Compassion and service",
+                "score": 4
+              },
+              {
+                "name": "Greed and materialism",
+                "score": 4
+              }
+            ],
+            "rating_basis": "On the Axiom, John and Mary protect babies as passengers slide across the deck. EVE tries to revive WALL-E after he is crushed. Care becomes visible when passengers look up from their screens and make themselves responsible for someone else.",
+            "other_scores": "No revision proposed outside these sourced themes."
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The guide describes WALL-E and EVE holding hands and John and Mary doing the same. This is scoped scene evidence only.",
+            "open_reason": "Requires a release-specific screening record or evidence addressing the remaining rubric criteria."
+          },
+          "quotation_check": {
+            "reference": "Genesis 2:15",
+            "translation": "KJV",
+            "source": "https://www.biblegateway.com/passage/?search=Genesis%202%3A15&version=KJV",
+            "result": "Full verse wording matched after normalization of case, punctuation, verse numbering and whitespace.",
+            "patristic": "No patristic quotation present in the seed review. Stage 5 selection and verification open."
+          }
+        }
+      ]
     }
   ]
 }
