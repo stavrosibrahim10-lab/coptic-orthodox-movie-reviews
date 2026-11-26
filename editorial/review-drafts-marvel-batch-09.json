@@ -1,0 +1,752 @@
+[
+  {
+    "id": "marvel-2021-spider-man-no-way-home",
+    "title": "Spider-Man: No Way Home",
+    "year": 2021,
+    "genre": "Marvel · Live action",
+    "edition": "Original 2021 theatrical feature",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/spider-man-no-way-home-2021/"
+      },
+      {
+        "label": "BBFC",
+        "url": "https://www.bbfc.co.uk/release/spider-man-no-way-home-q29sbgvjdglvbjpwwc01mzmxmtq"
+      }
+    ],
+    "officialRating": "PG-13",
+    "age": "13+",
+    "verdict": "edifying",
+    "synopsis": "When Peter asks Doctor Strange to conceal his identity, strangers from other worlds land in his. Sending them back may cost them their lives.",
+    "verdictRationale": "May sees a frightened man at the shelter where Peter sees another problem to return to Strange. Peter’s willingness to help people who could hurt him gives the story its spiritual weight.",
+    "ageRationale": "The apartment fight ends with Peter trying to help a dying loved one. Children accustomed to lighter Spider-Man stories may find his bloodied hands and grief especially upsetting.",
+    "reflection": "May’s work at the shelter gives Peter a place to learn mercy before he needs it in a fight. A family might ask whose need they have walked past because helping would interrupt their day.",
+    "themes": [
+      {
+        "name": "Mercy",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "May urges Peter to help the visitor at the shelter.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/spider-man-no-way-home-2021/"
+          }
+        ]
+      },
+      {
+        "name": "Friendship",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Others who know loss stay with Peter in his grief.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/spider-man-no-way-home-2021/"
+          }
+        ]
+      },
+      {
+        "name": "Revenge",
+        "type": "harmful",
+        "score": 4,
+        "portrayal": "criticized",
+        "evidence": "After a death, Peter wants to make his enemy pay.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/spider-man-no-way-home-2021/"
+          }
+        ]
+      },
+      {
+        "name": "Public scapegoating",
+        "type": "harmful",
+        "score": 3,
+        "portrayal": "criticized",
+        "evidence": "A protester hurls a brick through May’s window.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/spider-man-no-way-home-2021/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "The available accounts do not establish a film-wide score.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/spider-man-no-way-home-2021/"
+          }
+        ]
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual and romantic content",
+        "details": "May finds Peter in his underwear with MJ and assumes they have been intimate.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/spider-man-no-way-home-2021/"
+      },
+      {
+        "name": "Language",
+        "details": "Characters swear and use God's name as an exclamation.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/spider-man-no-way-home-2021/"
+      },
+      {
+        "name": "Violence and distress",
+        "details": "Peter and the Goblin crash through apartment floors. A loved one dies after the fight.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/spider-man-no-way-home-2021/"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "Strange casts a spell to alter memories. Ned uses a ring to open portals.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/spider-man-no-way-home-2021/"
+      },
+      {
+        "name": "Substance use",
+        "details": "A man appears drunk in a bar during the credits.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/spider-man-no-way-home-2021/"
+      }
+    ],
+    "scripture": [
+      "Romans 12:21"
+    ],
+    "themeScripture": {
+      "reference": "Romans 12:21",
+      "translation": "KJV",
+      "text": "Be not overcome of evil, but overcome evil with good.",
+      "url": "https://www.biblegateway.com/passage/?search=Romans+12%3A21&version=KJV",
+      "connection": "Paul’s command gives Peter a harder question than whether he can defeat an enemy. What good can he still do for the man standing in May’s shelter?"
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 22 on Romans",
+      "section": "On Romans 12:20–21",
+      "text": "For I even insist upon your doing kindness.",
+      "url": "https://www.newadvent.org/fathers/210222.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "May welcomes a stranger",
+        "filmMoment": "May asks Peter to help someone he would prefer to leave behind.",
+        "scriptureReference": "Romans 12:21",
+        "reflection": "Paul’s command gives Peter a harder question than whether he can defeat an enemy. What good can he still do for the man standing in May’s shelter?",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/spider-man-no-way-home-2021/"
+      }
+    ],
+    "questions": [
+      "Why does Peter want Ned and MJ exempted from the spell?",
+      "What does May notice about the visitor at the shelter that Peter overlooks?",
+      "What responsibility does Peter have to the people in the cars during the bridge fight?",
+      "Why might another Peter’s account of loss reach him when advice alone would fail?",
+      "How would you explain to Strange why Peter wants to give the visitors a chance to change?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "May finds Peter in his underwear with MJ and assumes they have been intimate."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/spider-man-no-way-home-2021/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Characters swear and use God's name as an exclamation."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/spider-man-no-way-home-2021/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Peter and the Goblin crash through apartment floors. A loved one dies after the fight."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/spider-man-no-way-home-2021/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Strange casts a spell to alter memories. Ned uses a ring to open portals."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/spider-man-no-way-home-2021/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A man appears drunk in a bar during the credits."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/spider-man-no-way-home-2021/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "May asks Peter to help someone he would prefer to leave behind."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/spider-man-no-way-home-2021/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2023-ant-man-and-the-wasp-quantumania",
+    "title": "Ant-Man and the Wasp: Quantumania",
+    "year": 2023,
+    "genre": "Marvel · Live action",
+    "edition": "Original 2023 theatrical feature",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-quantumania-2023/"
+      },
+      {
+        "label": "BBFC",
+        "url": "https://www.bbfc.co.uk/release/ant-man-and-the-wasp-quantumania-q29sbgvjdglvbjpwwc0xmdewnjqx"
+      }
+    ],
+    "officialRating": "PG-13",
+    "age": "13+",
+    "verdict": "neutral",
+    "synopsis": "Cassie’s experiment draws three generations into the Quantum Realm, where Janet knows the people and their ruler far better than she has admitted.",
+    "verdictRationale": "Scott’s concern for his daughter is persuasive when Kang threatens her. The same family barely considers how Janet’s long deception affected Cassie’s ability to recognize danger. Both choices deserve a hearing after the adventure.",
+    "ageRationale": "Kang tortures Cassie in front of her father. Rebels disappear under weapons fire, and a sustained fistfight leaves a man bloodied.",
+    "reflection": "Janet has survived things her family cannot imagine. Truthfulness need not require retelling every wound. She could have warned Cassie that real people lived there and that contacting them could put them at risk.",
+    "themes": [
+      {
+        "name": "Parental devotion",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Scott faces Kang’s threats against Cassie.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-quantumania-2023/"
+          }
+        ]
+      },
+      {
+        "name": "Forgiveness",
+        "type": "positive",
+        "score": 3,
+        "portrayal": "affirmed",
+        "evidence": "Janet’s family accepts her after learning she concealed her experiences.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-quantumania-2023/"
+          }
+        ]
+      },
+      {
+        "name": "Coercion",
+        "type": "harmful",
+        "score": 5,
+        "portrayal": "criticized",
+        "evidence": "Kang uses Cassie’s pain to compel Scott.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-quantumania-2023/"
+          }
+        ]
+      },
+      {
+        "name": "Deception",
+        "type": "harmful",
+        "score": 4,
+        "portrayal": "criticized",
+        "evidence": "Janet told the family she had lived in isolation.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-quantumania-2023/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "The guide describes Cassie looking at a warrior. The scene as described does not establish attraction.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-quantumania-2023/"
+          }
+        ]
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual and romantic content",
+        "details": "Hank and Janet discuss other partners during their separation. A humanoid’s bare buttocks appear briefly.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-quantumania-2023/"
+      },
+      {
+        "name": "Language",
+        "details": "Dialogue includes profanity and irreverent uses of religious names.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-quantumania-2023/"
+      },
+      {
+        "name": "Violence and distress",
+        "details": "Kang threatens Cassie in front of Scott and kills rebels with energy blasts.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-quantumania-2023/"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "Janet describes Kang as a ruler who thinks himself a god.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-quantumania-2023/"
+      },
+      {
+        "name": "Substance use",
+        "details": "Adults drink with meals. A fictional drink in a speakeasy grants understanding of other languages.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-quantumania-2023/"
+      }
+    ],
+    "scripture": [
+      "Romans 12:21"
+    ],
+    "themeScripture": {
+      "reference": "Romans 12:21",
+      "translation": "KJV",
+      "text": "Be not overcome of evil, but overcome evil with good.",
+      "url": "https://www.biblegateway.com/passage/?search=Romans+12%3A21&version=KJV",
+      "connection": "Janet’s deception could give her family an excuse to answer injury with injury. Their decision to keep helping her opens a conversation about forgiveness and the work of rebuilding trust."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 22 on Romans",
+      "section": "On Romans 12:20–21",
+      "text": "For I even insist upon your doing kindness.",
+      "url": "https://www.newadvent.org/fathers/210222.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "A family hears Janet’s confession",
+        "filmMoment": "Janet kept knowledge of an inhabited realm and its ruler from her family.",
+        "scriptureReference": "Romans 12:21",
+        "reflection": "Janet’s deception could give her family an excuse to answer injury with injury. Their decision to keep helping her opens a conversation about forgiveness and the work of rebuilding trust.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-quantumania-2023/"
+      }
+    ],
+    "questions": [
+      "What warning could Janet have given Cassie without recounting her whole captivity?",
+      "What does the free coffee at the beginning tell us about Scott’s life after the Avengers?",
+      "Why does Cassie want to explore a place most people cannot see?",
+      "What makes Kang’s threat against Cassie different from asking Scott for help?",
+      "What conversation do Hank and Janet still owe each other once everyone is safe?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Hank and Janet discuss other partners during their separation. A humanoid’s bare buttocks appear briefly."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-quantumania-2023/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Dialogue includes profanity and irreverent uses of religious names."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-quantumania-2023/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Kang threatens Cassie in front of Scott and kills rebels with energy blasts."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-quantumania-2023/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Janet describes Kang as a ruler who thinks himself a god."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-quantumania-2023/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Adults drink with meals. A fictional drink in a speakeasy grants understanding of other languages."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-quantumania-2023/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Janet kept knowledge of an inhabited realm and its ruler from her family."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-quantumania-2023/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2023-the-marvels",
+    "title": "The Marvels",
+    "year": 2023,
+    "genre": "Marvel · Live action",
+    "edition": "Original 2023 theatrical feature",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/marvels-2023/"
+      },
+      {
+        "label": "BBFC",
+        "url": "https://www.bbfc.co.uk/release/the-marvels-q29sbgvjdglvbjpwwc0xmdeyodax"
+      }
+    ],
+    "officialRating": "PG-13",
+    "age": "13+",
+    "verdict": "edifying",
+    "synopsis": "Carol, Monica and Kamala unexpectedly trade places when they use their powers. Their search for the cause leads them to Dar-Benn and a world suffering in the aftermath of Carol’s earlier victory.",
+    "verdictRationale": "Kamala knows Carol as a hero. Monica remembers the adult who left and stayed away. The film gives both women room to speak and asks Carol to take responsibility for harm she never intended.",
+    "ageRationale": "The heroes evacuate refugees as buildings collapse and breathable air disappears. Some families are left behind. The scene can be distressing even for children comfortable with superhero combat.",
+    "reflection": "A good intention cannot breathe for the people of Hala. Carol’s story invites a Christian examination of conscience that begins by listening to the people who experienced the consequences.",
+    "themes": [
+      {
+        "name": "Responsibility",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Carol acknowledges her part in Hala’s suffering.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/marvels-2023/"
+          }
+        ]
+      },
+      {
+        "name": "Neighborly care",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "The trio helps evacuate refugees as their air is stripped away.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/marvels-2023/"
+          }
+        ]
+      },
+      {
+        "name": "Vengeance",
+        "type": "harmful",
+        "score": 5,
+        "portrayal": "criticized",
+        "evidence": "Dar-Benn targets people Carol cares about.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/marvels-2023/"
+          }
+        ]
+      },
+      {
+        "name": "Betrayal",
+        "type": "harmful",
+        "score": 3,
+        "portrayal": "criticized",
+        "evidence": "Dar-Benn uses offers of peace to gain others’ trust.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/marvels-2023/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "A cheek kiss alone does not establish the relationship or a film-wide score.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/marvels-2023/"
+          }
+        ]
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual and romantic content",
+        "details": "Characters discuss a political marriage. Two women greet one another with a kiss on the cheek.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/marvels-2023/"
+      },
+      {
+        "name": "Language",
+        "details": "Dialogue and a song contain profanity. Kamala uses God’s name as an exclamation.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/marvels-2023/"
+      },
+      {
+        "name": "Violence and distress",
+        "details": "The atmosphere drains from a refugee settlement. Buildings collapse during evacuation.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/marvels-2023/"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "Kamala’s brother prays during danger, and Fury voices agreement.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/marvels-2023/"
+      }
+    ],
+    "scripture": [
+      "Romans 12:21"
+    ],
+    "themeScripture": {
+      "reference": "Romans 12:21",
+      "translation": "KJV",
+      "text": "Be not overcome of evil, but overcome evil with good.",
+      "url": "https://www.biblegateway.com/passage/?search=Romans+12%3A21&version=KJV",
+      "connection": "Dar-Benn knows exactly what it means for a planet to lose its air. Paul’s words invite the viewer to ask how that memory could have moved her to protect the refugees."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 22 on Romans",
+      "section": "On Romans 12:20–21",
+      "text": "For I even insist upon your doing kindness.",
+      "url": "https://www.newadvent.org/fathers/210222.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "Whose people deserve air?",
+        "filmMoment": "Dar-Benn takes resources from another population to restore her own world.",
+        "scriptureReference": "Romans 12:21",
+        "reflection": "Dar-Benn knows exactly what it means for a planet to lose its air. Paul’s words invite the viewer to ask how that memory could have moved her to protect the refugees.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/marvels-2023/"
+      }
+    ],
+    "questions": [
+      "Why do Monica and Kamala see Carol differently when the three meet?",
+      "What can the heroes practice together once they understand the swapping?",
+      "Why does leaving refugees behind hurt Kamala even after she helps people escape?",
+      "What might Dar-Benn ask of Carol if she gave up revenge but still sought justice for Hala?",
+      "Why does Carol tell Kamala to stay in school when Kamala offers to leave?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Characters discuss a political marriage. Two women greet one another with a kiss on the cheek."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/marvels-2023/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Dialogue and a song contain profanity. Kamala uses God’s name as an exclamation."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/marvels-2023/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The atmosphere drains from a refugee settlement. Buildings collapse during evacuation."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/marvels-2023/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Kamala’s brother prays during danger, and Fury voices agreement."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/marvels-2023/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "source_reports_not_present",
+          "findings": [
+            "The cited parental guide explicitly lists no drug or alcohol content."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/marvels-2023/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Dar-Benn takes resources from another population to restore her own world."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/marvels-2023/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  }
+]
