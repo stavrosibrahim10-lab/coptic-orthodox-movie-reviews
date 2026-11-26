@@ -4,9 +4,11 @@ Status: in progress. The opening catalog has 315 films, including 59 without a f
 
 ## Current Stage 4 audit
 
-The catalog contains 315 distinct IDs. Of the original 59 missing reviews, seven now have validated first drafts and 52 remain. Across the full catalog, 263 have review records. The rolling checkpoint contains Stage 4 proposals for 107 films, leaving 156 existing records awaiting this audit and 52 awaiting a first review. All original queue IDs occur exactly once in the catalog.
+The catalog contains 315 distinct IDs. Of the original 59 missing reviews, 10 now have validated first drafts and 49 remain. Across the full catalog, 266 have review records. The rolling checkpoint contains Stage 4 proposals for 110 films, leaving 156 existing records awaiting this audit and 49 awaiting a first review. All original queue IDs occur exactly once in the catalog.
 
 Batch 11 independently checked the seven new queue drafts. Their saved draft files contain the proposed assessments. The checkpoint records scene evidence, the reason for each theme score, age guidance and outstanding screening fields. Six film-wide LGBTQ prominence scores remain open in this batch. The New Mutants carries a documented proposal of 4. Private Studio saves are unverified. Human acceptance is pending.
+
+Batch 12 checked Ghost Rider (2007), Ghost Rider: Spirit of Vengeance (2011 catalog entry, 2012 US theatrical release) and Daredevil (2003 theatrical cut). Each has four justified numerical theme scores and separate age guidance. Film-wide LGBTQ prominence remains unknown for each. The checkpoint links the exact draft revision, scene evidence and proposed judgments. Studio saves remain unverified.
 
 The full repository checklist passes for seven titles and includes later-stage fields. Stage 4 progress above counts audited proposals, independently of that checklist.
 

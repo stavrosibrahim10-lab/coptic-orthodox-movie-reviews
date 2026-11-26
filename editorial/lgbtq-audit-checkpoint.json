@@ -8771,6 +8771,227 @@
           "studio_status": "repository_draft_validated_no_authenticated_studio_save"
         }
       ]
+    },
+    {
+      "number": 12,
+      "date": "2026-11-26",
+      "review_completion_branch": "editorial/stage-4-completion",
+      "review_completion_ledger": "editorial/review-completion.tsv",
+      "films": [
+        {
+          "movie_id": "marvel-2007-ghost-rider",
+          "title": "Ghost Rider",
+          "year": 2007,
+          "version": "Original 2007 PG-13 theatrical feature",
+          "review_baseline": "editorial/review-drafts-marvel-batch-15.json",
+          "review_baseline_blob": "25351d211f46d56ef3b03fa7c8a6171b10855b4c",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/ghostrider/",
+            "https://catalog.afi.com/Catalog/MovieDetails/64276"
+          ],
+          "on_screen": "Mack repeatedly asks Johnny to reconsider his dangerous jumps. The Rider forces offenders to experience their victims’ pain.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/ghostrider/",
+          "draft_proposal": {
+            "verdict": "destructive",
+            "verdict_rationale": "Johnny's love for his father and Mack's care for Johnny are worth admiring. The devil exploits a frightened teenager. Yet the film makes inflicting torment with the Rider’s stare a heroic attraction and lets Johnny keep that power as his answer to evil. That weighs heavily in the proposed verdict.",
+            "age": "16+",
+            "age_rationale": "Johnny’s face burns during his transformation, the stare leaves its targets visibly injured, and Blackheart leaves a bar filled with drained bodies. The repeated body horror supports an older-teen recommendation.",
+            "age_source": "https://www.pluggedin.com/movie-reviews/ghostrider/",
+            "theme_ratings": [
+              {
+                "name": "Filial love",
+                "score": 4,
+                "evidence": "Johnny's desire to save his father motivates the bargain and its consequences.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/ghostrider/"
+                ],
+                "rating_rationale": "Johnny’s decision for his father sets the entire bargain in motion, even after his father dies."
+              },
+              {
+                "name": "Friendship",
+                "score": 3,
+                "evidence": "Mack repeatedly questions the danger of the jumps even as the crowds celebrate them.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/ghostrider/"
+                ],
+                "rating_rationale": "Mack intervenes repeatedly, but his concern is a supporting relationship."
+              },
+              {
+                "name": "Coercion",
+                "score": 5,
+                "evidence": "The deceptive bargain claims Johnny's future and drives the central conflict.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/ghostrider/"
+                ],
+                "rating_rationale": "The bargain determines Johnny’s obligation and the mission he is sent to carry out."
+              },
+              {
+                "name": "Retribution",
+                "score": 4,
+                "evidence": "The Rider repeatedly makes offenders experience the suffering they caused.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/ghostrider/"
+                ],
+                "rating_rationale": "The stare recurs as a punishment and shapes the audience’s experience of victories."
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The available guides do not establish prominence across this theatrical cut of Ghost Rider. Screen the identified release and log pertinent dialogue or scenes before scoring.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/ghostrider/"
+            ],
+            "next_step": "Screen the identified theatrical release and log relevant dialogue, scene context and recurrence before scoring."
+          },
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "marvel-2011-ghost-rider-spirit-of-vengeance",
+          "title": "Ghost Rider: Spirit of Vengeance",
+          "year": 2011,
+          "version": "US PG-13 theatrical release, February 2012. The 2011 catalog year reflects an early Austin screening.",
+          "review_baseline": "editorial/review-drafts-marvel-batch-15.json",
+          "review_baseline_blob": "25351d211f46d56ef3b03fa7c8a6171b10855b4c",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/ghost-rider-spirit-of-vengeance/",
+            "https://catalog.afi.com/Catalog/moviedetails/68409",
+            "https://theplaylist.net/well-that-backfired-geek-audience-at-harry-knowles-butt-numb-a-thon-reject-ghost-rider-spirit-of-vengeance-20111212/"
+          ],
+          "on_screen": "Johnny asks to regain the Rider’s power when Danny is threatened. Carrigan’s touch causes living bodies to decay.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/ghost-rider-spirit-of-vengeance/",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Nadya sees a child worth protecting when others see a dangerous inheritance. Johnny comes to recognize himself in Danny. Their loyalty is admirable, although the rescue is staged through violent spectacle and a fantasy in which demonic power can be turned to good.",
+            "age": "16+",
+            "age_rationale": "Threats to a child, bodies decaying on contact, burning victims and repeated profanity make the film demanding for younger teens.",
+            "age_source": "https://www.pluggedin.com/movie-reviews/ghost-rider-spirit-of-vengeance/",
+            "theme_ratings": [
+              {
+                "name": "Parental love",
+                "score": 5,
+                "evidence": "Nadya's refusal to abandon Danny sustains the rescue despite repeated attacks.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/ghost-rider-spirit-of-vengeance/"
+                ],
+                "rating_rationale": "Nadya’s efforts to protect Danny drive the pursuit from beginning to end."
+              },
+              {
+                "name": "Compassion",
+                "score": 4,
+                "evidence": "Johnny draws on his own fear of the Rider to reassure Danny about his capacity to choose.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/ghost-rider-spirit-of-vengeance/"
+                ],
+                "rating_rationale": "Johnny’s identification with Danny changes his reasons for helping the boy."
+              },
+              {
+                "name": "Exploitation",
+                "score": 5,
+                "evidence": "Roarke pursues a child in order to use his body, the threat around which the pursuit turns.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/ghost-rider-spirit-of-vengeance/"
+                ],
+                "rating_rationale": "Obtaining Danny’s body is the antagonist’s central objective."
+              },
+              {
+                "name": "Cruelty",
+                "score": 4,
+                "evidence": "Carrigan's power makes victims decay, and the Rider's chains burn people during repeated confrontations.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/ghost-rider-spirit-of-vengeance/"
+                ],
+                "rating_rationale": "Decay and incineration recur as distinct, visually sustained threats."
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The available guides do not establish prominence across this theatrical cut of Ghost Rider: Spirit of Vengeance. Screen the identified release and log pertinent dialogue or scenes before scoring.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/ghost-rider-spirit-of-vengeance/"
+            ],
+            "next_step": "Screen the identified theatrical release and log relevant dialogue, scene context and recurrence before scoring."
+          },
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "marvel-2003-daredevil",
+          "title": "Daredevil",
+          "year": 2003,
+          "version": "Original US PG-13 theatrical cut, starring Ben Affleck",
+          "review_baseline": "editorial/review-drafts-marvel-batch-15.json",
+          "review_baseline_blob": "25351d211f46d56ef3b03fa7c8a6171b10855b4c",
+          "status": "proposal_saved",
+          "sources": [
+            "https://kids-in-mind.com/d/daredevil.htm",
+            "https://catalog.afi.com/Catalog/moviedetails/62688",
+            "https://www.sfrevu.com/ISSUES/2003/0302/Film%20-%20Daredevil/Film%20Review%20-%20Part%20II.htm",
+            "https://www.pluggedin.com/movie-reviews/daredevil/",
+            "https://midwestfilmjournal.com/2003/02/14/daredevil-2003/"
+          ],
+          "on_screen": "Matt pursues an acquitted man onto the subway tracks. A child later recoils from Matt in costume.",
+          "on_screen_source": "https://midwestfilmjournal.com/2003/02/14/daredevil-2003/",
+          "additional_scene_source": "https://www.sfrevu.com/ISSUES/2003/0302/Film%20-%20Daredevil/Film%20Review%20-%20Part%20II.htm",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Giving people access to a defense is a real service. The subway death exposes the danger when Matt claims personal authority to punish. His encounters with a priest and a frightened child give viewers reasons to question the satisfaction of seeing an opponent lose.",
+            "age": "16+",
+            "age_rationale": "The subway death has a disturbing aftermath. Other scenes include a stabbing, bloody injuries, a sexual encounter, profanity and a racial slur. Older teens are better placed to discuss the difference between defending victims and exacting revenge.",
+            "age_source": "https://kids-in-mind.com/d/daredevil.htm",
+            "theme_ratings": [
+              {
+                "name": "Service",
+                "score": 4,
+                "evidence": "Matt’s pro bono legal work gives people representation and establishes the public vocation against which his night work is measured.",
+                "sources": [
+                  "https://kids-in-mind.com/d/daredevil.htm",
+                  "https://www.pluggedin.com/movie-reviews/daredevil/"
+                ],
+                "rating_rationale": "Matt’s legal service supplies a recurring alternative to punishment by force."
+              },
+              {
+                "name": "Conscience",
+                "score": 3,
+                "evidence": "His encounter with the priest and the frightened child bring his moral conflict into view in specific scenes.",
+                "sources": [
+                  "https://www.sfrevu.com/ISSUES/2003/0302/Film%20-%20Daredevil/Film%20Review%20-%20Part%20II.htm"
+                ],
+                "rating_rationale": "The child’s fear and the priest’s counsel interrupt his pursuit at particular moments."
+              },
+              {
+                "name": "Vigilantism",
+                "score": 5,
+                "evidence": "Matt's double life rests on his decision to punish where the legal system fails.",
+                "sources": [
+                  "https://kids-in-mind.com/d/daredevil.htm"
+                ],
+                "rating_rationale": "His decision to punish people outside the courtroom drives both his double life and the subway encounter."
+              },
+              {
+                "name": "Cruelty",
+                "score": 4,
+                "evidence": "Bullseye attacks people with ordinary objects as weapons, making lethal intimidation a repeated threat.",
+                "sources": [
+                  "https://kids-in-mind.com/d/daredevil.htm"
+                ],
+                "rating_rationale": "Bullseye’s repeated lethal attacks sustain fear beyond a single confrontation."
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The available guides do not establish prominence across this theatrical cut of Daredevil. Screen the identified release and log pertinent dialogue or scenes before scoring.",
+            "sources": [
+              "https://kids-in-mind.com/d/daredevil.htm"
+            ],
+            "next_step": "Screen the identified theatrical release and log relevant dialogue, scene context and recurrence before scoring."
+          },
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        }
+      ]
     }
   ]
 }
