@@ -1,0 +1,751 @@
+[
+  {
+    "id": "marvel-2000-x-men",
+    "title": "X-Men",
+    "year": 2000,
+    "genre": "Marvel · Live action",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/xmen/"
+      },
+      {
+        "label": "Common Sense Media",
+        "url": "https://www.commonsensemedia.org/movie-reviews/x-men"
+      },
+      {
+        "label": "BBFC",
+        "url": "https://www.bbfc.co.uk/release/x-men-q29sbgvjdglvbjpwwc00mti3mza"
+      },
+      {
+        "label": "Released film synopsis",
+        "url": "https://en.wikipedia.org/wiki/X-Men_(film)"
+      }
+    ],
+    "edition": "Original US theatrical feature",
+    "age": "13+",
+    "officialRating": "PG-13",
+    "verdict": "edifying",
+    "synopsis": "Rogue runs away after discovering the danger of her touch. Xavier offers her a place to learn while Magneto wants to use her power for his machine.",
+    "verdictRationale": "Two people put their hands on Rogue with very different intentions. Magneto makes her bear a danger he could face himself. Logan accepts the cost of healing her. The rescue gives the story its moral center.",
+    "ageRationale": "A child is separated from his parents at a concentration camp. Later a teenager is strapped into a machine. Families may need time to discuss both kinds of terror.",
+    "reflection": "Rogue has come to fear even an ordinary touch. Logan’s decision to reach for her makes a tender question possible for families. Who has begun to expect rejection, and how could we make it safe for them to come close?",
+    "themes": [
+      {
+        "name": "Sacrificial love",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "Logan transfers his healing power to an exhausted Rogue.",
+        "references": [
+          {
+            "label": "Released film synopsis",
+            "url": "https://en.wikipedia.org/wiki/X-Men_(film)"
+          }
+        ]
+      },
+      {
+        "name": "Hospitality",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Xavier offers young mutants a school and protection.",
+        "references": [
+          {
+            "label": "Released film synopsis",
+            "url": "https://en.wikipedia.org/wiki/X-Men_(film)"
+          }
+        ]
+      },
+      {
+        "name": "Coercion",
+        "type": "harmful",
+        "score": 5,
+        "portrayal": "criticized",
+        "evidence": "Magneto puts Rogue in his machine to supply power.",
+        "references": [
+          {
+            "label": "Released film synopsis",
+            "url": "https://en.wikipedia.org/wiki/X-Men_(film)"
+          }
+        ]
+      },
+      {
+        "name": "Prejudice",
+        "type": "harmful",
+        "score": 4,
+        "portrayal": "criticized",
+        "evidence": "Mutants face a proposal to register because of their identity.",
+        "references": [
+          {
+            "label": "Released film synopsis",
+            "url": "https://en.wikipedia.org/wiki/X-Men_(film)"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Mutant prejudice and family rejection may invite comparison. A film-specific on-screen basis for a numeric score remains unverified.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "details": "Near-nudity accompanies the depiction of mutant bodies.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/xmen/"
+      },
+      {
+        "name": "Language",
+        "details": "The dialogue includes occasional profanity.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/xmen/"
+      },
+      {
+        "name": "Violence and peril",
+        "details": "Wolverine’s blades pierce opponents during fights.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/xmen/"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "Xavier and Jean use fictional telepathy. The opening frames mutation in terms of evolution.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/xmen/"
+      },
+      {
+        "name": "Substance use",
+        "details": "Smoking and drinking appear on screen.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.bbfc.co.uk/release/x-men-q29sbgvjdglvbjpwwc00mti3mza"
+      }
+    ],
+    "scripture": [
+      "John 15:13"
+    ],
+    "themeScripture": {
+      "reference": "John 15:13",
+      "text": "Greater love hath no man than this, that a man lay down his life for his friends.",
+      "translation": "KJV",
+      "url": "https://www.biblegateway.com/passage/?search=John%2015%3A13&version=KJV",
+      "connection": "John describes love freely putting one’s own life at another’s service. Logan’s gesture helps us see why the choice belongs to the giver."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 77 on the Gospel of John",
+      "section": "Commentary on John 15:12–13",
+      "url": "https://www.newadvent.org/fathers/240177.htm",
+      "text": "Because this is the mark of the disciples, this the bond of virtue."
+    },
+    "biblicalParallels": [
+      {
+        "title": "Who bears the danger?",
+        "filmMoment": "Logan lets Rogue absorb his healing ability and collapses afterward.",
+        "scriptureReference": "John 15:13",
+        "reflection": "John describes love freely putting one’s own life at another’s service. Logan’s gesture helps us see why the choice belongs to the giver.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/X-Men_(film)"
+      }
+    ],
+    "questions": [
+      "Why does Rogue leave home after discovering what her touch can do?",
+      "What does Xavier offer Rogue beyond shelter?",
+      "Who has a choice when Magneto powers the machine?",
+      "What risk does Logan accept when he reaches for Rogue?",
+      "What would a trustworthy adult need to understand before asking Rogue to use her power?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Near-nudity accompanies the depiction of mutant bodies."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/xmen/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The dialogue includes occasional profanity."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/xmen/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Wolverine’s blades pierce opponents during fights."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/xmen/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Xavier and Jean use fictional telepathy. The opening frames mutation in terms of evolution."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/xmen/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Smoking and drinking appear on screen."
+          ],
+          "evidence": [
+            {
+              "provider": "BBFC",
+              "url": "https://www.bbfc.co.uk/release/x-men-q29sbgvjdglvbjpwwc00mti3mza",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Logan takes a personal risk to revive Rogue after Magneto uses her."
+          ],
+          "evidence": [
+            {
+              "provider": "Released film synopsis",
+              "url": "https://en.wikipedia.org/wiki/X-Men_(film)",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2003-x2",
+    "title": "X2",
+    "year": 2003,
+    "genre": "Marvel · Live action",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/x2xmenunited/"
+      },
+      {
+        "label": "Common Sense Media",
+        "url": "https://www.commonsensemedia.org/movie-reviews/x2-x-men-united"
+      }
+    ],
+    "edition": "Original US theatrical feature",
+    "age": "16+",
+    "officialRating": "PG-13",
+    "verdict": "neutral",
+    "synopsis": "An attack on the president becomes the pretext for a raid on Xavier’s school. The adults have to protect the children while uncovering who controlled the attacker.",
+    "verdictRationale": "Nightcrawler’s prayer and Jean’s rescue of her companions give families examples of faith and courage. The sexualized drugging of a guard and the spectacle of bodies being used as weapons temper the recommendation.",
+    "ageRationale": "A guard is drugged during a sexual advance and later dies violently. A child is hit with a dart during the school raid, and liquid metal emerges from a dying woman’s face.",
+    "reflection": "When Storm and Jean find Nightcrawler in a cathedral, they meet a man trying to understand what was done through him. Listening to his account is an act of justice. Families can ask whom they have judged from the most frightening thing they saw.",
+    "themes": [
+      {
+        "name": "Self-sacrifice",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "Jean stays behind during the flood.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/x2xmenunited/"
+          }
+        ]
+      },
+      {
+        "name": "Faith under pressure",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Nightcrawler turns to prayer after being blamed for the attack.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/x2xmenunited/"
+          }
+        ]
+      },
+      {
+        "name": "Exploitation",
+        "type": "harmful",
+        "score": 5,
+        "portrayal": "criticized",
+        "evidence": "Stryker controls Nightcrawler and uses the attack to justify the raid.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/x2xmenunited/"
+          }
+        ]
+      },
+      {
+        "name": "Retaliation",
+        "type": "harmful",
+        "score": 4,
+        "portrayal": "criticized",
+        "evidence": "Pyro endangers officers until Rogue stops him.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/x2xmenunited/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Mutant prejudice and family rejection may invite comparison. A film-specific on-screen basis for a numeric score remains unverified.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "details": "Mystique kisses a prison guard and simulates a sexual advance as the drug she slipped him takes effect.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/x2xmenunited/"
+      },
+      {
+        "name": "Language",
+        "details": "Characters use profanity, religious exclamations and an obscene hand gesture.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/x2xmenunited/"
+      },
+      {
+        "name": "Violence and peril",
+        "details": "Soldiers raid a school. A woman dies after liquid metal is forced into her body.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/x2xmenunited/"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "Nightcrawler prays the Lord’s Prayer and reflects on his suffering in a cathedral.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/x2xmenunited/"
+      },
+      {
+        "name": "Substance use",
+        "details": "Mystique drugs a guard’s beer. Wolverine smokes a cigar.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/x2xmenunited/"
+      }
+    ],
+    "scripture": [
+      "John 15:13"
+    ],
+    "themeScripture": {
+      "reference": "John 15:13",
+      "text": "Greater love hath no man than this, that a man lay down his life for his friends.",
+      "translation": "KJV",
+      "url": "https://www.biblegateway.com/passage/?search=John%2015%3A13&version=KJV",
+      "connection": "Jean accepts the danger herself. Christ’s words give a family language for asking what it means to love people who cannot repay us."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 77 on the Gospel of John",
+      "section": "Commentary on John 15:12–13",
+      "url": "https://www.newadvent.org/fathers/240177.htm",
+      "text": "Because this is the mark of the disciples, this the bond of virtue."
+    },
+    "biblicalParallels": [
+      {
+        "title": "Jean at the dam",
+        "filmMoment": "Jean stays behind as the dam gives way so her companions can escape.",
+        "scriptureReference": "John 15:13",
+        "reflection": "Jean accepts the danger herself. Christ’s words give a family language for asking what it means to love people who cannot repay us.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/x2xmenunited/"
+      }
+    ],
+    "questions": [
+      "What does the attack at the White House seem to prove before Stryker’s role becomes clear?",
+      "What changes when Storm meets Nightcrawler in the cathedral?",
+      "Why does Rogue stop Pyro even though the police have threatened her friends?",
+      "How does Stryker use fear to justify attacking children at school?",
+      "What does Jean’s choice at the dam give her friends, and what do they lose?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Mystique kisses a prison guard and simulates a sexual advance as the drug she slipped him takes effect."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/x2xmenunited/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Characters use profanity, religious exclamations and an obscene hand gesture."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/x2xmenunited/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Soldiers raid a school. A woman dies after liquid metal is forced into her body."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/x2xmenunited/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Nightcrawler prays the Lord’s Prayer and reflects on his suffering in a cathedral."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/x2xmenunited/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Mystique drugs a guard’s beer. Wolverine smokes a cigar."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/x2xmenunited/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Jean sacrifices herself to save the other members of the team."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/x2xmenunited/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2006-x-men-the-last-stand",
+    "title": "X-Men: The Last Stand",
+    "year": 2006,
+    "genre": "Marvel · Live action",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/xmenthelaststand/"
+      },
+      {
+        "label": "Common Sense Media",
+        "url": "https://www.commonsensemedia.org/movie-reviews/x-men-the-last-stand"
+      }
+    ],
+    "edition": "Original US theatrical feature",
+    "age": "16+",
+    "officialRating": "PG-13",
+    "verdict": "neutral",
+    "synopsis": "A treatment that suppresses mutant powers divides Xavier’s students. Meanwhile Jean returns with destructive powers that place her friends in danger.",
+    "verdictRationale": "Angel uses his wings to save the father who wanted them gone. That act of mercy matters alongside harder questions about Xavier’s control over Jean’s mind and Logan’s lethal response to her plea.",
+    "ageRationale": "Phoenix begins to undress Logan in an intense sexual encounter. People disintegrate on screen, and Logan kills someone he loves at close range.",
+    "reflection": "Angel could let his father fall. Instead he closes the distance between them with the very wings his father rejected. In an Orthodox family this can open a conversation about mercy while the work of rebuilding trust is still ahead.",
+    "themes": [
+      {
+        "name": "Mercy",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Angel catches his father as he falls.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/xmenthelaststand/"
+          }
+        ]
+      },
+      {
+        "name": "Protection",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "The team risks injury to defend people threatened by Magneto.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/xmenthelaststand/"
+          }
+        ]
+      },
+      {
+        "name": "Coercion",
+        "type": "harmful",
+        "score": 4,
+        "portrayal": "criticized",
+        "evidence": "Government forces use the cure in darts.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/xmenthelaststand/"
+          }
+        ]
+      },
+      {
+        "name": "Destructive power",
+        "type": "harmful",
+        "score": 5,
+        "portrayal": "criticized",
+        "evidence": "Phoenix disintegrates people around her.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/xmenthelaststand/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Mutant prejudice and family rejection may invite comparison. A film-specific on-screen basis for a numeric score remains unverified.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "details": "Phoenix straddles Logan, kisses him and starts taking off his clothes.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/xmenthelaststand/"
+      },
+      {
+        "name": "Language",
+        "details": "Dialogue includes insults and religious exclamations.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/xmenthelaststand/"
+      },
+      {
+        "name": "Violence and peril",
+        "details": "Phoenix disintegrates people. Logan kills Jean with his claws.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/xmenthelaststand/"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "Xavier’s ethics class considers whether a dying person’s consciousness may be transferred into someone else’s body.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/xmenthelaststand/"
+      },
+      {
+        "name": "Substance use",
+        "details": "Logan smokes a cigar.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/xmenthelaststand/"
+      }
+    ],
+    "scripture": [
+      "John 15:13"
+    ],
+    "themeScripture": {
+      "reference": "John 15:13",
+      "text": "Greater love hath no man than this, that a man lay down his life for his friends.",
+      "translation": "KJV",
+      "url": "https://www.biblegateway.com/passage/?search=John%2015%3A13&version=KJV",
+      "connection": "John’s description of self-giving love helps us ask what Angel freely gives someone who once wanted him changed. Rescuing his father leaves room for a later, honest conversation about that hurt."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 77 on the Gospel of John",
+      "section": "Commentary on John 15:12–13",
+      "url": "https://www.newadvent.org/fathers/240177.htm",
+      "text": "Because this is the mark of the disciples, this the bond of virtue."
+    },
+    "biblicalParallels": [
+      {
+        "title": "Catching his father",
+        "filmMoment": "Angel flies to catch his falling father, the man behind the treatment for mutation.",
+        "scriptureReference": "John 15:13",
+        "reflection": "John’s description of self-giving love helps us ask what Angel freely gives someone who once wanted him changed. Rescuing his father leaves room for a later, honest conversation about that hurt.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/xmenthelaststand/"
+      }
+    ],
+    "questions": [
+      "Why does the treatment sound different to Rogue than it does to Storm?",
+      "What choice did Xavier make for Jean, and who could question his decision?",
+      "What changes when the treatment is put into a dart?",
+      "Why does Angel’s way of saving his father matter?",
+      "What might Angel and his father need to say to each other after the rescue?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Phoenix straddles Logan, kisses him and starts taking off his clothes."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/xmenthelaststand/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Dialogue includes insults and religious exclamations."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/xmenthelaststand/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Phoenix disintegrates people. Logan kills Jean with his claws."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/xmenthelaststand/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Xavier’s ethics class considers whether a dying person’s consciousness may be transferred into someone else’s body."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/xmenthelaststand/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Logan smokes a cigar."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/xmenthelaststand/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Angel uses his wings to rescue his father."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/xmenthelaststand/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  }
+]
