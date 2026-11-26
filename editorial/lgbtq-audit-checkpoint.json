@@ -191,6 +191,19 @@
       ],
       "remaining_missing_reviews": 83,
       "studio_status": "unauthenticated_repository_proposals_verified"
+    },
+    {
+      "date": "2026-11-25",
+      "batch_file": "editorial/review-drafts-marvel-batch-04.json",
+      "branch": "editorial/review-completion",
+      "commit": "b52347cbc07580ff3f887f996975b645fe7b98be",
+      "film_ids": [
+        "marvel-2002-spider-man",
+        "marvel-2004-spider-man-2",
+        "marvel-2007-spider-man-3"
+      ],
+      "remaining_missing_reviews": 80,
+      "studio_status": "No authenticated private Studio session; export request timed out. Verified repository proposals only."
     }
   ],
   "stage4_batches": [
