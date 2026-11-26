@@ -413,6 +413,21 @@ function publicReviewText(value){
     .replace(/\s*Complete content verification may require a different age recommendation\./g,'');
 }
 
+function themeRatingPreview(review){
+  const themes = (review.themes || []).filter(theme => isVisibleRating(theme) && theme.score > 0);
+  const highlights = ['positive', 'harmful', 'context'].map(type =>
+    themes.filter(theme => theme.type === type).sort((a, b) => b.score - a.score)[0]
+  ).filter(Boolean).slice(0, 2);
+  if (!highlights.length) return '';
+  return `<div class="theme-preview">
+    <h3>Spiritual theme ratings</h3>
+    <ul class="review-highlights">${highlights.map(theme =>
+      `<li><strong>${esc(theme.name)} · ${esc(theme.score)}/5</strong>${theme.portrayal ? ' · ' + esc(theme.portrayal) : ''}</li>`
+    ).join('')}</ul>
+    <button type="button" class="small-btn" data-review-jump="theme-ratings">View all theme ratings</button>
+  </div>`;
+}
+
 function reviewedDetail(r){
   const {before,themes}=reviewGuidance(r);
   const parallels=renderBiblicalParallels(r);
@@ -442,6 +457,7 @@ function reviewedDetail(r){
       <section class="paper-panel detail-section">
         <h2>Our independent Christian verdict</h2>
         ${r.verdictRationale?`<p>${esc(publicReviewText(r.verdictRationale))}</p>`:''}
+        ${themeRatingPreview(r)}
         ${r.ageRationale?`<h3>Why this age guidance?</h3><p>${esc(publicReviewText(r.ageRationale))}</p>`:''}
       </section>
       ${reflection}${parallels}${discussion}${themes}
@@ -514,6 +530,7 @@ function wire(){
   app.querySelectorAll('[data-review-jump]').forEach(button=>button.addEventListener('click',()=>{
     const section=document.getElementById(button.dataset.reviewJump);
     if(!section)return;
+    if (section.id === 'theme-ratings') section.querySelector('details').open = true;
     section.focus({preventScroll:true});
     section.scrollIntoView({block:'start'});
   }));
