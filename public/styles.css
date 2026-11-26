@@ -142,7 +142,7 @@
   gap: 12px;
 }
 .theme-preview-header { flex-wrap: wrap; }
-.theme-preview-header h2 { font-size: 21px; color: var(--forest); }
+.review-page .theme-preview-header h2 { margin: 0; font-size: 21px; color: var(--forest); }
 .theme-preview-header button {
   border: 0;
   background: transparent;
@@ -181,17 +181,47 @@
 .theme-preview-score { flex: none; }
 .theme-arrow {
   flex: none;
-  width: 40px;
+  width: 44px;
   height: 44px;
-  border: 1px solid #b9cbbd;
-  border-radius: 6px;
-  background: var(--paper);
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  background: transparent;
   color: var(--forest);
-  font: 26px/1 Georgia, serif;
 }
-.theme-arrow[aria-disabled="true"] { opacity: .45; cursor: default; }
+.theme-arrow span {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border: solid currentColor;
+  border-width: 2px 2px 0 0;
+  transform: rotate(45deg);
+  font-size: 0;
+}
+.theme-arrow[data-step="-1"] span { transform: rotate(-135deg); }
+.theme-arrow:is(:hover, :focus-visible) { background: #dce8de; }
+.theme-arrow[aria-disabled="true"]:not(:focus-visible) { opacity: 0; pointer-events: none; }
 .theme-slider :focus-visible { outline: 2px solid var(--forest); outline-offset: 2px; }
-.theme-position { display: block; text-align: center; color: #495c51; font-variant-numeric: tabular-nums; }
+@media (hover: hover) and (pointer: fine) {
+  .theme-preview:not(:hover):not(:focus-within) .theme-arrow { opacity: 0; }
+  @media (prefers-reduced-motion: no-preference) {
+    .theme-arrow { transition: opacity .2s ease, background-color .15s ease; }
+    .theme-preview:not(:hover):not(:focus-within) .theme-arrow[aria-disabled="false"] {
+      animation: theme-arrow-hint 1.8s ease-out;
+    }
+    @keyframes theme-arrow-hint { 0%, 70% { opacity: 1; } 100% { opacity: 0; } }
+  }
+}
+/* Keep the range available to screen readers without a visible counter row. */
+.theme-position {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
 .theme-breakdown > summary { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
 .theme-breakdown > summary::-webkit-details-marker { display: none; }
 .theme-chevron { width: 10px; height: 10px; flex: none; border: solid currentColor; border-width: 0 2px 2px 0; transform: rotate(45deg); margin-inline-end: 4px; }
