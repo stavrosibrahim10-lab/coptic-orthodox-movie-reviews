@@ -1,0 +1,740 @@
+[
+  {
+    "id": "marvel-2002-spider-man",
+    "title": "Spider-Man",
+    "year": 2002,
+    "genre": "Marvel · Live action",
+    "edition": "Sam Raimi theatrical release",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/spiderman/"
+      },
+      {
+        "label": "PinkNews — theatrical and ITV2 dialogue comparison",
+        "url": "https://www.thepinknews.com/2022/04/25/spider-man-homophobic-joke-tobey-maguire/"
+      }
+    ],
+    "officialRating": "PG-13",
+    "age": "13+",
+    "verdict": "edifying",
+    "synopsis": "Peter Parker discovers his powers as a teenager. After Uncle Ben dies, he must decide what he owes the strangers he can now protect.",
+    "verdictRationale": "Ben’s rebuke after Peter strikes Flash gives him a measure for every later fight. At the bridge, the Goblin tries to make Peter choose whose life is worth saving. Peter tries to save everyone.",
+    "ageRationale": "The final beating and impalement are intense, and May is attacked in her bedroom. The rain-soaked kiss and a wrestling insult also merit discussion.",
+    "reflection": "Peter sits at May’s hospital bedside after going after the man he blames for Ben’s death. A family mourning someone may recognize both impulses. Sitting beside the person who is still here is a work of mercy Peter can actually offer.",
+    "themes": [
+      {
+        "name": "Compassion and service",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "Peter keeps vigil beside the injured May.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/spiderman/"
+          }
+        ]
+      },
+      {
+        "name": "Family and responsibility",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Ben challenges Peter to use restraint after the fight with Flash.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/spiderman/"
+          }
+        ]
+      },
+      {
+        "name": "Vengeance",
+        "type": "harmful",
+        "score": 3,
+        "portrayal": "criticized",
+        "evidence": "Peter pursues the robber to a fatal confrontation.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/spiderman/"
+          }
+        ]
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": 4,
+        "portrayal": "criticized",
+        "evidence": "The Goblin threatens children in a cable car to force Peter’s hand.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/spiderman/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": 1,
+        "portrayal": "descriptive",
+        "evidence": "Peter taunts the male wrestler by suggesting a husband gave him his outfit. This is an insult, not an identified couple. ITV2 shortened the line in a later broadcast.",
+        "references": [
+          {
+            "label": "PinkNews — theatrical and ITV2 dialogue comparison",
+            "url": "https://www.thepinknews.com/2022/04/25/spider-man-homophobic-joke-tobey-maguire/"
+          }
+        ]
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "details": "Mary Jane draws back Peter’s mask and kisses him in the rain. Pinup posters appear near the wrestling ring.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/spiderman/"
+      },
+      {
+        "name": "Language",
+        "details": "Religious exclamations and mild profanity recur. Mary Jane’s father verbally abuses her.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/spiderman/"
+      },
+      {
+        "name": "Violence and peril",
+        "details": "Ben dies after a shooting. The Goblin is impaled during the final fight.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/spiderman/"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "The Goblin interrupts May as she says the Lord’s Prayer.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/spiderman/"
+      },
+      {
+        "name": "Drinking and substance use",
+        "details": "Characters smoke cigars and cigarettes and drink whiskey.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/spiderman/"
+      }
+    ],
+    "scripture": [
+      "Philippians 2:4"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 2:4",
+      "url": "https://www.biblegateway.com/passage/?search=Philippians%202%3A4&version=KJV",
+      "connection": "Paul asks Christians to notice another person’s needs. Peter’s quiet hospital visit makes that instruction concrete when there is no enemy left in the room to fight.",
+      "translation": "KJV",
+      "text": "Look not every man on his own things, but every man also on the things of others."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 77 on the Gospel of John",
+      "section": "John 15:12–13",
+      "url": "https://www.newadvent.org/fathers/240177.htm",
+      "text": "Because this is the mark of the disciples, this the bond of virtue."
+    },
+    "biblicalParallels": [
+      {
+        "title": "Keeping watch with May",
+        "filmMoment": "Peter stays beside Aunt May through her recovery.",
+        "scriptureReference": "Philippians 2:4",
+        "reflection": "Paul asks Christians to notice another person’s needs. Peter’s quiet hospital visit makes that instruction concrete when there is no enemy left in the room to fight.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/spiderman/"
+      }
+    ],
+    "questions": [
+      "Why does Ben challenge Peter after he hits Flash?",
+      "What does Peter hope to gain by chasing the robber?",
+      "What does May receive from Peter at her bedside?",
+      "Who would lose if Peter accepted the Goblin’s terms at the bridge?",
+      "How could Peter have answered the wrestler without mocking him?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Mary Jane draws back Peter’s mask and kisses him in the rain. Pinup posters appear near the wrestling ring."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/spiderman/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Religious exclamations and mild profanity recur. Mary Jane’s father verbally abuses her."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/spiderman/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Ben dies after a shooting. The Goblin is impaled during the final fight."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/spiderman/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The Goblin interrupts May as she says the Lord’s Prayer."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/spiderman/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Characters smoke cigars and cigarettes and drink whiskey."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/spiderman/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Peter visits May in hospital and stays beside her as she recovers."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/spiderman/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2004-spider-man-2",
+    "title": "Spider-Man 2",
+    "year": 2004,
+    "genre": "Marvel · Live action",
+    "edition": "Sam Raimi theatrical release",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/spiderman2/"
+      }
+    ],
+    "officialRating": "PG-13",
+    "age": "13+",
+    "verdict": "edifying",
+    "synopsis": "Peter’s efforts to hold a job, love Mary Jane and serve the city begin to collide as Otto Octavius loses control of a fusion experiment.",
+    "verdictRationale": "Peter saves children at the cost of his delivery job and tells May a truth he knows will hurt. The train passengers later take a risk for him. Heroism here includes accepting help and admitting fault.",
+    "ageRationale": "The attack on hospital staff has the pacing and imagery of a horror scene. A runaway elevated train and the kidnapping of May sustain the peril.",
+    "reflection": "Peter has spent much of his life hiding his face. On the train, people see how young and exhausted he is and carry him. Receiving care can require as much humility as offering it.",
+    "themes": [
+      {
+        "name": "Love and self-sacrifice",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "Peter exhausts himself stopping the runaway train.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/spiderman2/"
+          }
+        ]
+      },
+      {
+        "name": "Truthfulness and integrity",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Peter tells May about his part in the events leading to Ben’s death.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/spiderman2/"
+          }
+        ]
+      },
+      {
+        "name": "Compassion and service",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Passengers catch Peter and shield him from Octavius.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/spiderman2/"
+          }
+        ]
+      },
+      {
+        "name": "Violence and cruelty",
+        "type": "harmful",
+        "score": 4,
+        "portrayal": "criticized",
+        "evidence": "Mechanical arms attack the hospital staff who try to remove them.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/spiderman2/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "No film-specific prominence finding established in the consulted guide.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "details": "Peter and Mary Jane’s story includes passionate kissing. Her dress is torn during her capture.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/spiderman2/"
+      },
+      {
+        "name": "Language",
+        "details": "Mild swearing and a religious exclamation are audible.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/spiderman2/"
+      },
+      {
+        "name": "Violence and peril",
+        "details": "Mechanical arms kill medical staff. Octavius destroys a train’s controls with passengers aboard.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/spiderman2/"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "After being rescued, May looks toward a statue of the Virgin Mary and gives thanks.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/spiderman2/"
+      },
+      {
+        "name": "Drinking and substance use",
+        "details": "Harry drinks liquor and appears intoxicated. Jameson has a cigar.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/spiderman2/"
+      }
+    ],
+    "scripture": [
+      "Galatians 6:2"
+    ],
+    "themeScripture": {
+      "reference": "Galatians 6:2",
+      "url": "https://www.biblegateway.com/passage/?search=Galatians%206%3A2&version=KJV",
+      "connection": "The passengers were depending on Peter moments earlier. Paul’s image of carrying one another’s burdens gives a family language for that reversal of roles.",
+      "translation": "KJV",
+      "text": "Bear ye one another's burdens, and so fulfil the law of Christ."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 11 on Ephesians",
+      "section": "Ephesians 4:12",
+      "url": "https://www.newadvent.org/fathers/230111.htm",
+      "text": "Each one edifies, each one perfects, each one ministers."
+    },
+    "biblicalParallels": [
+      {
+        "title": "Passengers carry their rescuer",
+        "filmMoment": "When Peter collapses after stopping the train, the passengers catch him and pass him gently to safety.",
+        "scriptureReference": "Galatians 6:2",
+        "reflection": "The passengers were depending on Peter moments earlier. Paul’s image of carrying one another’s burdens gives a family language for that reversal of roles.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/spiderman2/"
+      }
+    ],
+    "questions": [
+      "Why does Peter interrupt his pizza delivery?",
+      "What has keeping the truth from May cost Peter?",
+      "What do the train passengers notice when Peter loses his mask?",
+      "Why stand between Peter and Octavius when they have no powers?",
+      "What does Octavius have to give up to protect the city?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Peter and Mary Jane’s story includes passionate kissing. Her dress is torn during her capture."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/spiderman2/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Mild swearing and a religious exclamation are audible."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/spiderman2/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Mechanical arms kill medical staff. Octavius destroys a train’s controls with passengers aboard."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/spiderman2/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "After being rescued, May looks toward a statue of the Virgin Mary and gives thanks."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/spiderman2/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Harry drinks liquor and appears intoxicated. Jameson has a cigar."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/spiderman2/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Train passengers support the exhausted Peter and stand between him and Octavius."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/spiderman2/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2007-spider-man-3",
+    "title": "Spider-Man 3",
+    "year": 2007,
+    "genre": "Marvel · Live action",
+    "edition": "Sam Raimi theatrical release",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/spiderman3/"
+      }
+    ],
+    "officialRating": "PG-13",
+    "age": "13+",
+    "verdict": "edifying",
+    "synopsis": "Public acclaim and a powerful alien suit feed Peter’s pride as Harry seeks revenge and Peter learns more about Ben’s death.",
+    "verdictRationale": "Peter’s revenge harms Mary Jane and leaves Harry scarred. His eventual mercy toward Flint Marko and Harry’s decision to protect Peter give the story moral weight. The film lets the audience see who pays for Peter’s pride.",
+    "ageRationale": "Peter strikes Mary Jane during a club fight. A blade impales a character, an explosion disfigures Harry, and Venom threatens a captive.",
+    "reflection": "Eddie takes his anger into church and asks for a man’s death. Peter also wants an enemy punished. Orthodox prayer for enemies asks for a harder change in the person praying, a change visible when Peter hears Marko out.",
+    "themes": [
+      {
+        "name": "Forgiveness and reconciliation",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "Peter forgives the man responsible for Ben’s death.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/spiderman3/"
+          }
+        ]
+      },
+      {
+        "name": "Love and self-sacrifice",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Harry risks his life to defend Peter.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/spiderman3/"
+          }
+        ]
+      },
+      {
+        "name": "Vengeance",
+        "type": "harmful",
+        "score": 5,
+        "portrayal": "criticized",
+        "evidence": "Peter seeks out Marko while wearing the alien suit.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/spiderman3/"
+          }
+        ]
+      },
+      {
+        "name": "Pride and self-glorification",
+        "type": "harmful",
+        "score": 4,
+        "portrayal": "criticized",
+        "evidence": "Peter uses a performance with Gwen to humiliate Mary Jane.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/spiderman3/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "No film-specific prominence finding established in the consulted guide.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "details": "Peter kisses Gwen publicly and later draws her into a suggestive dance to provoke Mary Jane.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/spiderman3/"
+      },
+      {
+        "name": "Language",
+        "details": "Dialogue includes mild profanity and repeated religious exclamations.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/spiderman3/"
+      },
+      {
+        "name": "Violence and peril",
+        "details": "Peter strikes Mary Jane during a fight. A bomb scars Harry’s face, and a flying blade impales a man.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/spiderman3/"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "In church Eddie asks God to kill Peter. Peter struggles to remove the alien suit in the bell tower.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/spiderman3/"
+      },
+      {
+        "name": "Drinking and substance use",
+        "details": "Harry drinks brandy and a martini. Champagne is served.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/spiderman3/"
+      }
+    ],
+    "scripture": [
+      "Romans 12:21"
+    ],
+    "themeScripture": {
+      "reference": "Romans 12:21",
+      "url": "https://www.biblegateway.com/passage/?search=Romans%2012%3A21&version=KJV",
+      "connection": "Paul’s command gives families a way to read Peter’s final choice. Forgiving Marko does not restore Ben to life, but it ends Peter’s attempt to repay one injury with another.",
+      "translation": "KJV",
+      "text": "Be not overcome of evil, but overcome evil with good."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 77 on the Gospel of John",
+      "section": "John 15:12–13",
+      "url": "https://www.newadvent.org/fathers/240177.htm",
+      "text": "Because this is the mark of the disciples, this the bond of virtue."
+    },
+    "biblicalParallels": [
+      {
+        "title": "Listening to Flint Marko",
+        "filmMoment": "Peter hears Marko’s account of Uncle Ben’s death and forgives him.",
+        "scriptureReference": "Romans 12:21",
+        "reflection": "Paul’s command gives families a way to read Peter’s final choice. Forgiving Marko does not restore Ben to life, but it ends Peter’s attempt to repay one injury with another.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/spiderman3/"
+      }
+    ],
+    "questions": [
+      "How does Gwen become part of Peter’s attempt to hurt Mary Jane?",
+      "What does May recognize about Peter’s desire for revenge?",
+      "What does Eddie ask for in church, and what might he have prayed instead?",
+      "What changes when Harry comes to Peter’s aid?",
+      "What does Peter give up when he forgives Marko?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Peter kisses Gwen publicly and later draws her into a suggestive dance to provoke Mary Jane."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/spiderman3/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Dialogue includes mild profanity and repeated religious exclamations."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/spiderman3/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Peter strikes Mary Jane during a fight. A bomb scars Harry’s face, and a flying blade impales a man."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/spiderman3/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "In church Eddie asks God to kill Peter. Peter struggles to remove the alien suit in the bell tower."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/spiderman3/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Harry drinks brandy and a martini. Champagne is served."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/spiderman3/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Harry intervenes to protect the friend he once tried to kill."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/spiderman3/",
+              "checked_at": "2026-11-25",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  }
+]
