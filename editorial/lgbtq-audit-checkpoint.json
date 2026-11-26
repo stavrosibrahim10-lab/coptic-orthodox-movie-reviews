@@ -308,6 +308,19 @@
       ],
       "remaining_missing_reviews": 63,
       "studio_status": "Private Studio request timed out. Both repository proposals passed the draft validator and full ledger checks; GitHub readbacks verified."
+    },
+    {
+      "date": "2026-11-26",
+      "batch_file": "editorial/review-drafts-marvel-batch-11.json",
+      "branch": "editorial/review-completion",
+      "commit": "cdffc016f7c03eb79a2ebcf3bdf0cd4baf60ee18",
+      "ledger_commit": "7cb230f0b26578e0853ada5487d98f4bf34eadad",
+      "film_ids": [
+        "marvel-2022-morbius",
+        "marvel-2024-madame-web"
+      ],
+      "remaining_missing_reviews": 61,
+      "studio_status": "Private Studio export request timed out. Both repository drafts passed the validator and were read back from GitHub. LGBTQ prominence remains unverified."
     }
   ],
   "stage4_batches": [
