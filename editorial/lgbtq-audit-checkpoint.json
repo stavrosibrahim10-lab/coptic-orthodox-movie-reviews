@@ -3225,6 +3225,882 @@
           "studio_status": "repository_proposal_only_no_authenticated_session"
         }
       ]
+    },
+    {
+      "number": 5,
+      "date": "2026-11-26",
+      "review_completion_branch": "editorial/review-completion",
+      "review_completion_ledger": "editorial/review-completion.tsv",
+      "roadmap_status": "Original Stage 6–8 headings unavailable in recovered project history. Await the original roadmap before advancing beyond Stage 5.",
+      "films": [
+        {
+          "movie_id": "marvel-2014-the-amazing-spider-man-2",
+          "title": "The Amazing Spider-Man 2",
+          "year": 2014,
+          "version": "Original 2014 theatrical release",
+          "review_baseline": "editorial/review-drafts-marvel-batch-03.json",
+          "review_baseline_blob": "33a4c64c6154d1b0c3ef12449f28a114d7490614",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/amazing-spider-man-2/",
+            "https://www.bbfc.co.uk/release/the-amazing-spider-man-2-q29sbgvjdglvbjpwwc00nziyoty"
+          ],
+          "on_screen": "Dr. Kafka repeatedly shocks the restrained Electro. Electro later lowers Kafka face-first into a tank.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/amazing-spider-man-2/",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Peter’s defense of others is admirable, but a tragic loss and repeated coercion complicate the example. The film gives families material for a conversation about listening before trying to decide for someone.",
+            "age": "13+",
+            "age_rationale": "Repeated torture followed by retaliation makes Electro’s suffering and the way he repeats it especially difficult for younger viewers.",
+            "theme_ratings": [
+              {
+                "name": "Cooperation",
+                "score": 5,
+                "evidence": "Gwen uses her knowledge to help stop Electro.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/amazing-spider-man-2/"
+                ]
+              },
+              {
+                "name": "Service",
+                "score": 4,
+                "evidence": "Peter repeatedly confronts dangers to other people.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/amazing-spider-man-2/"
+                ]
+              },
+              {
+                "name": "Coercion",
+                "score": 4,
+                "evidence": "Harry pushes Peter to help him obtain Spider-Man’s blood.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/amazing-spider-man-2/"
+                ]
+              },
+              {
+                "name": "Cruelty",
+                "score": 4,
+                "evidence": "Electro is subjected to repeated shocks while restrained.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/amazing-spider-man-2/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The sources document the content findings listed in this draft. Additional film-specific screening is needed to assess this category.",
+            "sources": [],
+            "remaining_input": "Released-cut scene evidence or a documented screening covering this category."
+          },
+          "stage5_status": {
+            "scripture": "Philippians 2:4",
+            "translation": "KJV",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Philippians%202%3A4&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 11 on Ephesians",
+            "patristic_section": "Commentary on Ephesians 4:12",
+            "patristic_source": "https://www.newadvent.org/fathers/230111.htm",
+            "verification": "Both quotations in the pinned draft matched the linked edition after punctuation and spacing normalization.",
+            "biblical_parallel": {
+              "title": "Listening to a partner",
+              "filmMoment": "Gwen insists on joining Peter in dealing with Electro and brings knowledge he needs.",
+              "scriptureReference": "Philippians 2:4",
+              "reflection": "Paul’s teaching encourages us to attend to other people’s interests. Gwen’s choice invites a discussion about listening to the people we are trying to protect.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/amazing-spider-man-2/"
+            },
+            "proposed_family_questions": [
+              "Why does Peter hesitate to keep his promise about Gwen?",
+              "What does Max want people to notice about him?",
+              "Where does Harry’s desire for healing lead him?",
+              "Why does Gwen decide to get involved?",
+              "What might Peter say to Max before the Times Square crowd starts treating him as a threat?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_private_export_timed_out"
+        },
+        {
+          "movie_id": "marvel-2014-x-men-days-of-future-past",
+          "title": "X-Men: Days of Future Past",
+          "year": 2014,
+          "version": "Original 2014 theatrical release (excludes the Rogue Cut)",
+          "review_baseline": "editorial/review-drafts-marvel-batch-03.json",
+          "review_baseline_blob": "33a4c64c6154d1b0c3ef12449f28a114d7490614",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/x-men-days-of-future-past/",
+            "https://www.bbfc.co.uk/release/x-men-days-of-future-past-q29sbgvjdglvbjpwwc0zoda3mdi"
+          ],
+          "on_screen": "Magneto drags an injured Raven by the bullet lodged in her calf. Later, she has the opportunity to kill Trask and spares him.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/x-men-days-of-future-past/",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Raven’s decision to spare a life shows that people can interrupt a cycle of retaliation. Graphic fantasy violence and the nudity and drinking advisories still matter.",
+            "age": "13+",
+            "age_rationale": "The close view of Raven’s wound and Magneto using it to control her body can feel more immediate than the robot battles.",
+            "theme_ratings": [
+              {
+                "name": "Mercy",
+                "score": 5,
+                "evidence": "Raven chooses to spare Trask in a public confrontation.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/x-men-days-of-future-past/"
+                ]
+              },
+              {
+                "name": "Sacrifice",
+                "score": 4,
+                "evidence": "Mutants in the future risk their lives to sustain Logan’s mission.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/x-men-days-of-future-past/"
+                ]
+              },
+              {
+                "name": "Dehumanization",
+                "score": 5,
+                "evidence": "The Sentinel program targets mutants for elimination.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/x-men-days-of-future-past/"
+                ]
+              },
+              {
+                "name": "Retaliation",
+                "score": 4,
+                "evidence": "Different characters respond to persecution by threatening their enemies.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/x-men-days-of-future-past/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The sources document the content findings listed in this draft. Additional film-specific screening is needed to assess this category.",
+            "sources": [],
+            "remaining_input": "Released-cut scene evidence or a documented screening covering this category."
+          },
+          "stage5_status": {
+            "scripture": "Romans 12:21",
+            "translation": "KJV",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Romans%2012%3A21&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 11 on Ephesians",
+            "patristic_section": "Commentary on Ephesians 4:12",
+            "patristic_source": "https://www.newadvent.org/fathers/230111.htm",
+            "verification": "Both quotations in the pinned draft matched the linked edition after punctuation and spacing normalization.",
+            "biblical_parallel": {
+              "title": "Ending an act of revenge",
+              "filmMoment": "Raven chooses to spare Trask despite having the opportunity and motive to kill him.",
+              "scriptureReference": "Romans 12:21",
+              "reflection": "Raven’s decision interrupts retaliation. Paul’s instruction to overcome evil with good gives families language for the strength involved in putting down a weapon.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/x-men-days-of-future-past/"
+            },
+            "proposed_family_questions": [
+              "Why does Xavier need Raven’s trust?",
+              "What fear makes the Sentinel program attractive to its supporters?",
+              "What does Wolverine depend on the future team to do?",
+              "What changes when Raven puts the weapon down?",
+              "How does Xavier’s appeal to Raven differ from Magneto pulling her back by the bullet?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_private_export_timed_out"
+        },
+        {
+          "movie_id": "marvel-2016-x-men-apocalypse",
+          "title": "X-Men: Apocalypse",
+          "year": 2016,
+          "version": "Original 2016 theatrical release",
+          "review_baseline": "editorial/review-drafts-marvel-batch-03.json",
+          "review_baseline_blob": "33a4c64c6154d1b0c3ef12449f28a114d7490614",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/x-men-apocalypse/",
+            "https://www.bbfc.co.uk/release/x-men-apocalypse-q29sbgvjdglvbjpwwc00mzq3odu"
+          ],
+          "on_screen": "Jean experiences a vision of global destruction. Erik returns to Auschwitz and tears apart buildings at the camp.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/x-men-apocalypse/",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "The X-Men offer loyalty to vulnerable people and help one another resist despair. The scale of destruction and the villain’s claims of divinity make the discussion more complex.",
+            "age": "13+",
+            "age_rationale": "Families may want to discuss the camp’s historical significance separately from the fictional destruction and Jean’s frightening vision.",
+            "theme_ratings": [
+              {
+                "name": "Mentorship",
+                "score": 4,
+                "evidence": "Xavier helps young mutants learn to use their powers responsibly.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/x-men-apocalypse/"
+                ]
+              },
+              {
+                "name": "Protection",
+                "score": 4,
+                "evidence": "Raven helps mutants escape forced combat.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/x-men-apocalypse/"
+                ]
+              },
+              {
+                "name": "Domination",
+                "score": 5,
+                "evidence": "Apocalypse recruits followers while claiming superior, godlike power.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/x-men-apocalypse/"
+                ]
+              },
+              {
+                "name": "Vengeance",
+                "score": 4,
+                "evidence": "Apocalypse channels Erik’s grief into widespread destruction.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/x-men-apocalypse/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The sources document the content findings listed in this draft. Additional film-specific screening is needed to assess this category.",
+            "sources": [],
+            "remaining_input": "Released-cut scene evidence or a documented screening covering this category."
+          },
+          "stage5_status": {
+            "scripture": "Galatians 6:2",
+            "translation": "KJV",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Galatians%206%3A2&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 11 on Ephesians",
+            "patristic_section": "Commentary on Ephesians 4:12",
+            "patristic_source": "https://www.newadvent.org/fathers/230111.htm",
+            "verification": "Both quotations in the pinned draft matched the linked edition after punctuation and spacing normalization.",
+            "biblical_parallel": {
+              "title": "Staying near a grieving friend",
+              "filmMoment": "Xavier keeps reaching out to Erik after the deaths of Erik’s wife and daughter.",
+              "scriptureReference": "Galatians 6:2",
+              "reflection": "Paul’s call to bear another’s burden connects with Xavier’s continued concern for Erik. Families can discuss what it means to stay close to someone grieving while challenging plans that would hurt others.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/x-men-apocalypse/"
+            },
+            "proposed_family_questions": [
+              "What makes Apocalypse’s invitation attractive to Erik?",
+              "How does Raven help the mutants she encounters?",
+              "What does Xavier mean when he calls Scott’s powers a gift?",
+              "Where do the characters confuse strength with authority?",
+              "What might Xavier say to Erik about remembering his parents when Erik returns to Auschwitz?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_private_export_timed_out"
+        },
+        {
+          "movie_id": "marvel-2017-logan",
+          "title": "Logan",
+          "year": 2017,
+          "version": "Original 2017 theatrical release (color release)",
+          "review_baseline": "editorial/review-drafts-marvel-batch-03.json",
+          "review_baseline_blob": "33a4c64c6154d1b0c3ef12449f28a114d7490614",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/logan-2017/",
+            "https://www.bbfc.co.uk/release/logan-q29sbgvjdglvbjpwwc0zotuynzy"
+          ],
+          "on_screen": "A seizure leaves people in the casino unable to move. At the farmhouse, people who offered the travelers shelter are killed.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/logan-2017/",
+          "draft_proposal": {
+            "verdict": "destructive",
+            "verdict_rationale": "Logan’s protection of Laura and his care for Xavier carry real moral weight. The draft weighs sustained graphic killing and the repeated use of children in brutal combat as dominant concerns for family viewing.",
+            "age": "18+",
+            "age_rationale": "The attack on the hospitable family, bloody wounds and violence involving children support adult guidance even though Logan acts protectively.",
+            "theme_ratings": [
+              {
+                "name": "Sacrificial love",
+                "score": 5,
+                "evidence": "Logan risks his life to protect Laura and the other children.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/logan-2017/"
+                ]
+              },
+              {
+                "name": "Hospitality",
+                "score": 4,
+                "evidence": "A farm family welcomes Logan, Xavier and Laura to dinner.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/logan-2017/"
+                ]
+              },
+              {
+                "name": "Exploitation",
+                "score": 5,
+                "evidence": "A laboratory treats children as material for weapons.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/logan-2017/"
+                ]
+              },
+              {
+                "name": "Graphic violence",
+                "score": 5,
+                "evidence": "Killings and dismemberment are recurrent and shown in detail.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/logan-2017/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The sources document the content findings listed in this draft. Additional film-specific screening is needed to assess this category.",
+            "sources": [],
+            "remaining_input": "Released-cut scene evidence or a documented screening covering this category."
+          },
+          "stage5_status": {
+            "scripture": "John 15:13",
+            "translation": "KJV",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=John%2015%3A13&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 77 on the Gospel of John",
+            "patristic_section": "John 15:12–13",
+            "patristic_source": "https://www.newadvent.org/fathers/240177.htm",
+            "verification": "Both quotations in the pinned draft matched the linked edition after punctuation and spacing normalization.",
+            "biblical_parallel": {
+              "title": "Care at personal cost",
+              "filmMoment": "Logan ultimately risks his life to protect Laura and the other children.",
+              "scriptureReference": "John 15:13",
+              "reflection": "Christ’s words offer a way to discuss Logan’s final concern for the children. The comparison is about freely bearing a cost for someone else, with the film’s graphic means open to further discussion.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/logan-2017/"
+            },
+            "proposed_family_questions": [
+              "Why does Xavier insist on stopping to help the farm family?",
+              "How does that family’s hospitality challenge Logan?",
+              "What does the laboratory fail to recognize about Laura and the others?",
+              "When does Laura begin to see Logan as someone she can rely on?",
+              "How does the family’s supper change what their loss means to Logan and Laura?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_private_export_timed_out"
+        },
+        {
+          "movie_id": "marvel-2018-venom",
+          "title": "Venom",
+          "year": 2018,
+          "version": "Original 2018 theatrical release",
+          "review_baseline": "editorial/review-drafts-marvel-batch-03.json",
+          "review_baseline_blob": "33a4c64c6154d1b0c3ef12449f28a114d7490614",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/venom-2018/",
+            "https://www.bbfc.co.uk/release/venom-q29sbgvjdglvbjpwwc00odc2ody"
+          ],
+          "on_screen": "After the chase, Eddie’s legs bend unnaturally before the symbiote heals them. Other people die when a symbiote fails to bond.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/venom-2018/",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "The whistleblower’s courage and Eddie’s attempts to limit harm support discussion. The film also makes repeated predatory violence a punch line, leaving a mixed verdict.",
+            "age": "16+",
+            "age_rationale": "The sudden limb injuries and prolonged distress of unwilling hosts give this story a different intensity from ordinary chase scenes.",
+            "theme_ratings": [
+              {
+                "name": "Courageous honesty",
+                "score": 4,
+                "evidence": "Dora seeks help to expose what her employer is doing.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/venom-2018/"
+                ]
+              },
+              {
+                "name": "Care for a rival",
+                "score": 3,
+                "evidence": "Dan helps Eddie despite their awkward relationship.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/venom-2018/"
+                ]
+              },
+              {
+                "name": "Exploitation",
+                "score": 5,
+                "evidence": "Drake exposes vulnerable human test subjects to alien organisms.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/venom-2018/"
+                ]
+              },
+              {
+                "name": "Predatory violence",
+                "score": 5,
+                "evidence": "Venom repeatedly attacks people and threatens to eat them.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/venom-2018/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The sources document the content findings listed in this draft. Additional film-specific screening is needed to assess this category.",
+            "sources": [],
+            "remaining_input": "Released-cut scene evidence or a documented screening covering this category."
+          },
+          "stage5_status": {
+            "scripture": "Philippians 2:4",
+            "translation": "KJV",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Philippians%202%3A4&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 11 on Ephesians",
+            "patristic_section": "Commentary on Ephesians 4:12",
+            "patristic_source": "https://www.newadvent.org/fathers/230111.htm",
+            "verification": "Both quotations in the pinned draft matched the linked edition after punctuation and spacing normalization.",
+            "biblical_parallel": {
+              "title": "Speaking up for vulnerable people",
+              "filmMoment": "Dora Skirth risks her safety and career by helping Eddie investigate dangerous human experiments.",
+              "scriptureReference": "Philippians 2:4",
+              "reflection": "The passage asks readers to attend to others’ welfare. Dora’s decision invites discussion about the responsibility of someone who can expose a danger others cannot see.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/venom-2018/"
+            },
+            "proposed_family_questions": [
+              "What danger does Dora accept by approaching Eddie?",
+              "Why does Drake invoke Isaac when speaking to his test subject?",
+              "When is Eddie responsible for what follows his choices?",
+              "How does Dan treat someone who could be a rival?",
+              "What would Dora need to tell a volunteer about the people who died in earlier trials?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_private_export_timed_out"
+        },
+        {
+          "movie_id": "marvel-2019-avengers-endgame",
+          "title": "Avengers: Endgame",
+          "year": 2019,
+          "version": "Original 2019 theatrical release",
+          "review_baseline": "editorial/review-drafts-marvel-batch-03.json",
+          "review_baseline_blob": "33a4c64c6154d1b0c3ef12449f28a114d7490614",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/avengers-endgame-2019/",
+            "https://www.bbfc.co.uk/release/avengers-endgame-q29sbgvjdglvbjpwwc00mde4oda",
+            "https://media.glaad.org/wp-content/uploads/2020/07/10053020/GLAAD-2020-Studio-Responsibility-Index-231.pdf"
+          ],
+          "on_screen": "At Steve’s support group a man recounts a date with another man. Later, Clint kills a crime boss with a sword.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/avengers-endgame-2019/",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "The Avengers’ readiness to risk themselves and the film’s attention to grief carry positive weight. The balance includes lethal revenge, heavy drinking, strong language and an incidental support-group reference under the screening rubric.",
+            "age": "13+",
+            "age_rationale": "The grief group and Clint’s killing give families two very different responses to bereavement to discuss. The execution and a separate decapitation warrant teen guidance.",
+            "theme_ratings": [
+              {
+                "name": "Sacrificial love",
+                "score": 5,
+                "evidence": "Natasha gives her life, and Tony risks his life to stop Thanos.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/avengers-endgame-2019/"
+                ]
+              },
+              {
+                "name": "Support in grief",
+                "score": 4,
+                "evidence": "Steve leads a group for survivors processing their loss.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/avengers-endgame-2019/"
+                ]
+              },
+              {
+                "name": "Vengeance",
+                "score": 4,
+                "evidence": "Clint kills people during his vigilante period.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/avengers-endgame-2019/"
+                ]
+              },
+              {
+                "name": "Excessive drinking",
+                "score": 3,
+                "evidence": "Thor repeatedly turns to alcohol while coping with loss.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/avengers-endgame-2019/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": 1,
+            "observation": "A man at Steve Rogers’s survivor support group briefly talks about going on a date with another man. The man and his date are discussed in a single scene.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/avengers-endgame-2019/",
+              "https://media.glaad.org/wp-content/uploads/2020/07/10053020/GLAAD-2020-Studio-Responsibility-Index-231.pdf"
+            ],
+            "remaining_input": null
+          },
+          "stage5_status": {
+            "scripture": "John 15:13",
+            "translation": "KJV",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=John%2015%3A13&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 77 on the Gospel of John",
+            "patristic_section": "John 15:12–13",
+            "patristic_source": "https://www.newadvent.org/fathers/240177.htm",
+            "verification": "Both quotations in the pinned draft matched the linked edition after punctuation and spacing normalization.",
+            "biblical_parallel": {
+              "title": "Giving one’s life for others",
+              "filmMoment": "Natasha gives her life so Clint can return with the Soul Stone.",
+              "scriptureReference": "John 15:13",
+              "reflection": "Christ speaks of giving one’s own life in love. Natasha’s choice is a way into the subject of freely serving others. The fantasy premise of obtaining a stone through death deserves its own discussion.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/avengers-endgame-2019/"
+            },
+            "proposed_family_questions": [
+              "What is Steve trying to give people at the support group?",
+              "How is Clint’s response to grief different from Natasha’s?",
+              "Why do the survivors need to work across old disagreements?",
+              "What does Tony decide to risk near the end?",
+              "What does Steve’s response to the man at the meeting offer that Clint’s pursuit of revenge cannot?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_private_export_timed_out"
+        },
+        {
+          "movie_id": "marvel-2019-captain-marvel",
+          "title": "Captain Marvel",
+          "year": 2019,
+          "version": "Original 2019 theatrical release",
+          "review_baseline": "editorial/review-drafts-marvel-batch-03.json",
+          "review_baseline_blob": "33a4c64c6154d1b0c3ef12449f28a114d7490614",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/captain-marvel-2019/",
+            "https://www.bbfc.co.uk/release/captain-marvel-q29sbgvjdglvbjpwwc00mdm1ndq",
+            "https://www.fandango.com/movie-news/captain-marvel-set-visit-and-interview-the-marvel-ous-miss-larson-753517"
+          ],
+          "on_screen": "Carol punches a Skrull disguised as an elderly passenger. The fight continues on the train roof after the Skrull changes appearance.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/captain-marvel-2019/",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Carol’s willingness to learn from people she was taught to fear shapes her choice to protect displaced families. Her courage is strengthened by Maria’s truthful friendship.",
+            "age": "13+",
+            "age_rationale": "The sudden attack on a passenger and the threat to captives facing ejection into space can be upsetting even where the violence is stylized.",
+            "theme_ratings": [
+              {
+                "name": "Care for strangers",
+                "score": 5,
+                "evidence": "Carol helps protect displaced Skrulls.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/captain-marvel-2019/"
+                ]
+              },
+              {
+                "name": "Truthful friendship",
+                "score": 5,
+                "evidence": "Maria helps Carol reconstruct memories the Kree have suppressed.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/captain-marvel-2019/"
+                ]
+              },
+              {
+                "name": "Perseverance",
+                "score": 4,
+                "evidence": "Flashbacks depict Carol repeatedly getting back up after setbacks.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/captain-marvel-2019/"
+                ]
+              },
+              {
+                "name": "Manipulation",
+                "score": 5,
+                "evidence": "The Kree distort Carol’s past and portray the Skrulls as a uniform enemy.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/captain-marvel-2019/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "Maria and Carol’s established friendship is a central relationship. The reviewed sources do not establish a romance, and a film-wide LGBTQ screening remains open.",
+            "sources": [],
+            "remaining_input": "Released-cut scene evidence or a documented screening covering this category."
+          },
+          "stage5_status": {
+            "scripture": "Philippians 2:4",
+            "translation": "KJV",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Philippians%202%3A4&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 11 on Ephesians",
+            "patristic_section": "Commentary on Ephesians 4:12",
+            "patristic_source": "https://www.newadvent.org/fathers/230111.htm",
+            "verification": "Both quotations in the pinned draft matched the linked edition after punctuation and spacing normalization.",
+            "biblical_parallel": {
+              "title": "Listening across a divide",
+              "filmMoment": "Carol listens to the Skrulls’ account and uses her abilities to protect them.",
+              "scriptureReference": "Philippians 2:4",
+              "reflection": "Paul asks believers to attend to the concerns of others. Carol’s willingness to hear the Skrulls helps families discuss how someone can recognize the needs of a group they have been taught to distrust.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/captain-marvel-2019/"
+            },
+            "proposed_family_questions": [
+              "What does Maria remember that Carol needs to hear?",
+              "Why did Carol trust the Kree’s description of the Skrulls?",
+              "When does she first listen to the people she was taught to fear?",
+              "What is the difference between perseverance and refusing correction?",
+              "What does the train fight encourage us to assume about the Skrulls, and what later makes Carol rethink that assumption?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_private_export_timed_out"
+        },
+        {
+          "movie_id": "marvel-2019-spider-man-far-from-home",
+          "title": "Spider-Man: Far From Home",
+          "year": 2019,
+          "version": "Original 2019 theatrical release",
+          "review_baseline": "editorial/review-drafts-marvel-batch-03.json",
+          "review_baseline_blob": "33a4c64c6154d1b0c3ef12449f28a114d7490614",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/spider-man-far-from-home-2019/",
+            "https://www.bbfc.co.uk/release/spider-man-far-from-home-q29sbgvjdglvbjpwwc00mdm0nte"
+          ],
+          "on_screen": "An illusion confronts Peter with a skeletal Iron Man. A train strikes him, and Happy later tends his injuries.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/spider-man-far-from-home-2019/",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Peter begins by hoping somebody else will take over and matures by repairing the damage his trust helps cause. Beck’s deceptions make truth and accountability central.",
+            "age": "13+",
+            "age_rationale": "An image of Peter’s dead mentor is used to terrify him. That exploitation of grief and the aftermath of the train strike support teen guidance.",
+            "theme_ratings": [
+              {
+                "name": "Accountability",
+                "score": 5,
+                "evidence": "Peter returns to stop Beck after trusting him with Stark’s system.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/spider-man-far-from-home-2019/"
+                ]
+              },
+              {
+                "name": "Friendship",
+                "score": 4,
+                "evidence": "MJ uncovers a clue and helps Peter understand the deception.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/spider-man-far-from-home-2019/"
+                ]
+              },
+              {
+                "name": "Deception",
+                "score": 5,
+                "evidence": "Beck stages attacks to create a false public image.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/spider-man-far-from-home-2019/"
+                ]
+              },
+              {
+                "name": "Avoidance",
+                "score": 4,
+                "evidence": "Peter initially avoids calls and gives up control of the technology.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/spider-man-far-from-home-2019/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The sources document the content findings listed in this draft. Additional film-specific screening is needed to assess this category.",
+            "sources": [],
+            "remaining_input": "Released-cut scene evidence or a documented screening covering this category."
+          },
+          "stage5_status": {
+            "scripture": "Philippians 2:4",
+            "translation": "KJV",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Philippians%202%3A4&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 11 on Ephesians",
+            "patristic_section": "Commentary on Ephesians 4:12",
+            "patristic_source": "https://www.newadvent.org/fathers/230111.htm",
+            "verification": "Both quotations in the pinned draft matched the linked edition after punctuation and spacing normalization.",
+            "biblical_parallel": {
+              "title": "Taking responsibility after misplaced trust",
+              "filmMoment": "Peter gives Beck access to Stark’s technology and then takes responsibility for stopping its misuse.",
+              "scriptureReference": "Philippians 2:4",
+              "reflection": "Paul’s teaching helps frame the difference between wanting relief and considering who might be harmed by handing a decision to someone else. Peter’s repair starts when classmates’ safety becomes his focus.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/spider-man-far-from-home-2019/"
+            },
+            "proposed_family_questions": [
+              "What does Peter want from his trip?",
+              "Why does Beck seem trustworthy at first?",
+              "Which clue helps MJ discover what is happening?",
+              "What does Peter do after admitting he misjudged Beck?",
+              "How does Beck use Peter’s memories of Tony to make an illusion harder for Peter to question?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_private_export_timed_out"
+        },
+        {
+          "movie_id": "marvel-2002-spider-man",
+          "title": "Spider-Man",
+          "year": 2002,
+          "version": "Original 2002 theatrical release (excludes later television edits)",
+          "review_baseline": "editorial/review-drafts-marvel-batch-04.json",
+          "review_baseline_blob": "c743adbc273cc4342f81dad49e710a805923fc78",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/spiderman/",
+            "https://www.thepinknews.com/2022/04/25/spider-man-homophobic-joke-tobey-maguire/"
+          ],
+          "on_screen": "The Goblin threatens a cable car carrying children while holding Mary Jane at risk. His own weapon impales him in the final fight.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/spiderman/",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Ben’s rebuke after Peter strikes Flash gives him a measure for every later fight. At the bridge, the Goblin tries to make Peter choose whose life is worth saving. Peter tries to save everyone.",
+            "age": "13+",
+            "age_rationale": "The threat to children and the sustained beating before the Goblin’s death may be harder on younger viewers than the earlier wrestling match.",
+            "theme_ratings": [
+              {
+                "name": "Compassion and service",
+                "score": 5,
+                "evidence": "Peter keeps vigil beside the injured May.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/spiderman/"
+                ]
+              },
+              {
+                "name": "Family and responsibility",
+                "score": 4,
+                "evidence": "Ben challenges Peter to use restraint after the fight with Flash.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/spiderman/"
+                ]
+              },
+              {
+                "name": "Vengeance",
+                "score": 3,
+                "evidence": "Peter pursues the robber to a fatal confrontation.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/spiderman/"
+                ]
+              },
+              {
+                "name": "Violence and cruelty",
+                "score": 4,
+                "evidence": "The Goblin threatens children in a cable car to force Peter’s hand.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/spiderman/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": 1,
+            "observation": "Peter taunts the male wrestler by suggesting a husband gave him his outfit. This is an insult, not an identified couple. ITV2 shortened the line in a later broadcast.",
+            "sources": [
+              "https://www.thepinknews.com/2022/04/25/spider-man-homophobic-joke-tobey-maguire/",
+              "https://www.the-independent.com/arts-entertainment/films/news/itv-spiderman-homophobic-joke-b2066056.html"
+            ],
+            "remaining_input": null
+          },
+          "stage5_status": {
+            "scripture": "Philippians 2:4",
+            "translation": "KJV",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Philippians%202%3A4&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 77 on the Gospel of John",
+            "patristic_section": "John 15:12–13",
+            "patristic_source": "https://www.newadvent.org/fathers/240177.htm",
+            "verification": "Both quotations in the pinned draft matched the linked edition after punctuation and spacing normalization.",
+            "biblical_parallel": {
+              "title": "Keeping watch with May",
+              "filmMoment": "Peter stays beside Aunt May through her recovery.",
+              "scriptureReference": "Philippians 2:4",
+              "reflection": "Paul asks Christians to notice another person’s needs. Peter’s quiet hospital visit makes that instruction concrete when there is no enemy left in the room to fight.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/spiderman/"
+            },
+            "proposed_family_questions": [
+              "Why does Ben challenge Peter after he hits Flash?",
+              "What does Peter hope to gain by chasing the robber?",
+              "What does May receive from Peter at her bedside?",
+              "How does Peter respond when the Goblin tells him to choose between Mary Jane and the children?",
+              "How could Peter have answered the wrestler without mocking him?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_private_export_timed_out"
+        },
+        {
+          "movie_id": "marvel-2004-spider-man-2",
+          "title": "Spider-Man 2",
+          "year": 2004,
+          "version": "Original 2004 theatrical release (excludes Spider-Man 2.1)",
+          "review_baseline": "editorial/review-drafts-marvel-batch-04.json",
+          "review_baseline_blob": "c743adbc273cc4342f81dad49e710a805923fc78",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/spiderman2/"
+          ],
+          "on_screen": "Octavius destroys the train controls. The passengers later support the exhausted, unmasked Peter.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/spiderman2/",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Peter saves children at the cost of his delivery job and tells May a truth he knows will hurt. The train passengers later take a risk for him. Heroism here includes accepting help and admitting fault.",
+            "age": "13+",
+            "age_rationale": "The runaway train keeps passengers in danger for an extended sequence. The earlier attack on the surgical team can be especially frightening to viewers uneasy in medical settings.",
+            "theme_ratings": [
+              {
+                "name": "Love and self-sacrifice",
+                "score": 5,
+                "evidence": "Peter exhausts himself stopping the runaway train.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/spiderman2/"
+                ]
+              },
+              {
+                "name": "Truthfulness and integrity",
+                "score": 4,
+                "evidence": "Peter tells May about his part in the events leading to Ben’s death.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/spiderman2/"
+                ]
+              },
+              {
+                "name": "Compassion and service",
+                "score": 4,
+                "evidence": "Passengers catch Peter and shield him from Octavius.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/spiderman2/"
+                ]
+              },
+              {
+                "name": "Violence and cruelty",
+                "score": 4,
+                "evidence": "Mechanical arms attack the hospital staff who try to remove them.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/spiderman2/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "No film-specific prominence finding established in the consulted guide.",
+            "sources": [],
+            "remaining_input": "Released-cut scene evidence or a documented screening covering this category."
+          },
+          "stage5_status": {
+            "scripture": "Galatians 6:2",
+            "translation": "KJV",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Galatians%206%3A2&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 11 on Ephesians",
+            "patristic_section": "Commentary on Ephesians 4:12",
+            "patristic_source": "https://www.newadvent.org/fathers/230111.htm",
+            "verification": "Both quotations in the pinned draft matched the linked edition after punctuation and spacing normalization.",
+            "biblical_parallel": {
+              "title": "Passengers carry their rescuer",
+              "filmMoment": "When Peter collapses after stopping the train, the passengers catch him and pass him gently to safety.",
+              "scriptureReference": "Galatians 6:2",
+              "reflection": "The passengers were depending on Peter moments earlier. Paul’s image of carrying one another’s burdens gives a family language for that reversal of roles.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/spiderman2/"
+            },
+            "proposed_family_questions": [
+              "Why does Peter interrupt his pizza delivery?",
+              "What has keeping the truth from May cost Peter?",
+              "What do the train passengers notice when Peter loses his mask?",
+              "Why stand between Peter and Octavius when they have no powers?",
+              "What do the passengers owe Peter once they have seen the face under the mask?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_private_export_timed_out"
+        }
+      ]
     }
   ]
 }
