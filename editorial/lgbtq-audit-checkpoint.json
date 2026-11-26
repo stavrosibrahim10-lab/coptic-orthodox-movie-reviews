@@ -2337,6 +2337,880 @@
           "studio_status": "repository_proposal_only_no_authenticated_session"
         }
       ]
+    },
+    {
+      "number": 4,
+      "date": "2026-11-26",
+      "review_completion_branch": "editorial/review-completion",
+      "review_completion_ledger": "editorial/review-completion.tsv",
+      "films": [
+        {
+          "movie_id": "marvel-2015-ant-man",
+          "title": "Ant-Man",
+          "year": 2015,
+          "version": "2015 theatrical feature",
+          "review_baseline": "editorial/review-drafts-marvel-batch-02.json",
+          "review_baseline_blob": "4da323dedb7c50114fd880a5d5d560e693c2aaba",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/ant-man/"
+          ],
+          "on_screen": "Cross tests his shrinking technology on living subjects. The fight later reaches Cassie’s bedroom.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/ant-man/",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Scott’s willingness to risk his life for Cassie is admirable. The film also makes burglaries entertaining and gives Scott’s crew little accountability.",
+            "age": "13+",
+            "age_rationale": "The change from a toy-sized fight to a threat against a child in her own bedroom can make the peril feel close to home.",
+            "theme_ratings": [
+              {
+                "name": "Second chances",
+                "score": 4,
+                "evidence": "Hank invites Scott to take responsibility after prison.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/ant-man/"
+                ]
+              },
+              {
+                "name": "Sacrificial love",
+                "score": 5,
+                "evidence": "Scott risks being trapped while trying to save Cassie.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/ant-man/"
+                ]
+              },
+              {
+                "name": "Family responsibility",
+                "score": 4,
+                "evidence": "Scott wants to become a dependable father to Cassie.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/ant-man/"
+                ]
+              },
+              {
+                "name": "Theft",
+                "score": 4,
+                "evidence": "Burglaries drive the story, and Scott’s crew faces little accountability.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/ant-man/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The cited material does not resolve this category. A released-cut scene record or scoped viewing log is needed.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/ant-man/"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "John 15:13",
+            "translation": "KJV",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=John%2015%3A13&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 77 on the Gospel of John",
+            "patristic_source": "https://www.newadvent.org/fathers/240177.htm",
+            "patristic_section": "John 15:12–13",
+            "verification": "Existing quotation text in the pinned proposal matched both linked editions after normalization.",
+            "biblical_parallel": {
+              "title": "Protecting someone at personal cost",
+              "filmMoment": "Scott enters the Quantum Realm to stop Cross and save Cassie.",
+              "scriptureReference": "John 15:13",
+              "reflection": "Scott’s rescue can start a conversation about freely taking on a cost for someone else. Christ’s words point families toward the ordinary sacrifices that allow others to feel safe and loved.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/ant-man/"
+            },
+            "proposed_family_questions": [
+              "Why does Cassie want Scott in her life?",
+              "What does Hank see in Scott that others overlook?",
+              "How does Scott’s old crew affect his choices?",
+              "How could Scott make amends for earlier choices?",
+              "What changes when Scott fights Cross in Cassie’s room and her safety is at stake?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_no_authenticated_session"
+        },
+        {
+          "movie_id": "marvel-2015-avengers-age-of-ultron",
+          "title": "Avengers: Age of Ultron",
+          "year": 2015,
+          "version": "2015 theatrical feature",
+          "review_baseline": "editorial/review-drafts-marvel-batch-02.json",
+          "review_baseline_blob": "4da323dedb7c50114fd880a5d5d560e693c2aaba",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/avengers-age-of-ultron/"
+          ],
+          "on_screen": "Natasha tells Bruce about forced sterilization in her training. The Avengers try to evacuate civilians from Sokovia.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/avengers-age-of-ultron/",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Civilians matter to the Avengers even when rescue complicates their mission. The film also puts much of its energy into violent spectacle and leaves its heroes’ accountability unsettled.",
+            "age": "13+",
+            "age_rationale": "The distracted viewer can miss Natasha’s disclosure. Forced sterilization and a citywide evacuation merit different conversations with teens.",
+            "theme_ratings": [
+              {
+                "name": "Protecting the vulnerable",
+                "score": 5,
+                "evidence": "The team works to evacuate Sokovia.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/avengers-age-of-ultron/"
+                ]
+              },
+              {
+                "name": "Cooperation",
+                "score": 4,
+                "evidence": "The Avengers coordinate the rescue while under attack.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/avengers-age-of-ultron/"
+                ]
+              },
+              {
+                "name": "Recklessness",
+                "score": 5,
+                "evidence": "Tony pursues a technological solution without the team’s consent.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/avengers-age-of-ultron/"
+                ]
+              },
+              {
+                "name": "Domination",
+                "score": 4,
+                "evidence": "Ultron treats people’s lives as expendable in his plan.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/avengers-age-of-ultron/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The cited material does not resolve this category. A released-cut scene record or scoped viewing log is needed.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/avengers-age-of-ultron/"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "Philippians 2:4",
+            "translation": "KJV",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Philippians%202%3A4&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 11 on Ephesians",
+            "patristic_source": "https://www.newadvent.org/fathers/230111.htm",
+            "patristic_section": "Ephesians 4:11–12",
+            "verification": "Existing quotation text in the pinned proposal matched both linked editions after normalization.",
+            "biblical_parallel": {
+              "title": "Putting civilians first",
+              "filmMoment": "The Avengers prioritize evacuating civilians as Ultron raises part of Sokovia.",
+              "scriptureReference": "Philippians 2:4",
+              "reflection": "Paul calls believers to attend to others’ interests. The rescue invites families to see how people most exposed to a decision can be overlooked by those making it.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/avengers-age-of-ultron/"
+            },
+            "proposed_family_questions": [
+              "What was Tony afraid would happen if he did nothing?",
+              "Who pays the price for his decision?",
+              "Why does the evacuation matter to the Avengers?",
+              "What does Hawkeye’s family reveal about his priorities?",
+              "What does the team owe the people evacuated from Sokovia after Ultron’s defeat?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_no_authenticated_session"
+        },
+        {
+          "movie_id": "marvel-2016-captain-america-civil-war",
+          "title": "Captain America: Civil War",
+          "year": 2016,
+          "version": "2016 theatrical feature",
+          "review_baseline": "editorial/review-drafts-marvel-batch-02.json",
+          "review_baseline_blob": "4da323dedb7c50114fd880a5d5d560e693c2aaba",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/captain-america-civil-war/"
+          ],
+          "on_screen": "After Tony sees the recording of his parents’ deaths, he attacks Bucky and Steve intervenes.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/captain-america-civil-war/",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "The film takes accountability and conscience seriously. Grief and revenge push friends toward violence, and the split remains painful.",
+            "age": "13+",
+            "age_rationale": "Recognizing the victims as Tony’s parents changes the emotional intensity of the last fight, even after the larger airport battle.",
+            "theme_ratings": [
+              {
+                "name": "Accountability",
+                "score": 5,
+                "evidence": "Tony supports oversight after the consequences of earlier missions.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/captain-america-civil-war/"
+                ]
+              },
+              {
+                "name": "Loyalty",
+                "score": 5,
+                "evidence": "Steve repeatedly acts to protect Bucky.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/captain-america-civil-war/"
+                ]
+              },
+              {
+                "name": "Revenge",
+                "score": 5,
+                "evidence": "Zemo seeks to break the Avengers in response to his loss.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/captain-america-civil-war/"
+                ]
+              },
+              {
+                "name": "Violence between friends",
+                "score": 4,
+                "evidence": "Former allies injure one another rather than resolve the dispute.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/captain-america-civil-war/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The cited material does not resolve this category. A released-cut scene record or scoped viewing log is needed.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/captain-america-civil-war/"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "Romans 12:21",
+            "translation": "KJV",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Romans%2012%3A21&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 77 on the Gospel of John",
+            "patristic_source": "https://www.newadvent.org/fathers/240177.htm",
+            "patristic_section": "John 15:12–13",
+            "verification": "Existing quotation text in the pinned proposal matched both linked editions after normalization.",
+            "biblical_parallel": {
+              "title": "Resisting the pull of revenge",
+              "filmMoment": "T’Challa ultimately gives up vengeance and stops Zemo from taking his own life.",
+              "scriptureReference": "Romans 12:21",
+              "reflection": "Paul calls Christians to overcome evil with good. T’Challa’s intervention invites families to consider how mercy can interrupt a cycle of revenge.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/captain-america-civil-war/"
+            },
+            "proposed_family_questions": [
+              "Why does Tony believe the team needs oversight?",
+              "What obligation does Steve see toward Bucky?",
+              "When should Steve have shared what he knew about Tony’s parents?",
+              "How does Zemo use another person’s grief?",
+              "What could Steve say to Tony after Tony sees the recording of his parents?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_no_authenticated_session"
+        },
+        {
+          "movie_id": "marvel-2016-doctor-strange",
+          "title": "Doctor Strange",
+          "year": 2016,
+          "version": "2016 theatrical feature",
+          "review_baseline": "editorial/review-drafts-marvel-batch-02.json",
+          "review_baseline_blob": "4da323dedb7c50114fd880a5d5d560e693c2aaba",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/doctor-strange/"
+          ],
+          "on_screen": "Stephen sees his injured hands held by surgical pins. Dormammu repeatedly kills him as the encounter starts again.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/doctor-strange/",
+          "draft_proposal": {
+            "verdict": "destructive",
+            "verdict_rationale": "Stephen’s growth in humility has value. This draft weighs the film’s sustained presentation of sorcery as a path to healing, power and saving others as the dominant spiritual concern.",
+            "age": "13+",
+            "age_rationale": "Visible surgical trauma and repeated deaths can trouble viewers sensitive to injury or entrapment.",
+            "theme_ratings": [
+              {
+                "name": "Humility",
+                "score": 4,
+                "evidence": "Strange’s self-importance is challenged by his teachers and circumstances.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/doctor-strange/"
+                ]
+              },
+              {
+                "name": "Service",
+                "score": 4,
+                "evidence": "Strange continues facing Dormammu despite repeated personal danger.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/doctor-strange/"
+                ]
+              },
+              {
+                "name": "Sorcery",
+                "score": 5,
+                "evidence": "Spellcasting and astral projection are central to the hero’s development.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/doctor-strange/"
+                ]
+              },
+              {
+                "name": "Pride",
+                "score": 4,
+                "evidence": "Stephen begins by disregarding Christine’s perspective and dismissing others.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/doctor-strange/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The cited material does not resolve this category. A released-cut scene record or scoped viewing log is needed.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/doctor-strange/"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "Philippians 2:4",
+            "translation": "KJV",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Philippians%202%3A4&version=KJV",
+            "patristic_author": "St. Basil the Great",
+            "patristic_work": "Address to Young Men on the Right Use of Greek Literature",
+            "patristic_source": "https://www.tertullian.org/fathers/basil_litterature01.htm",
+            "patristic_section": "IV",
+            "verification": "Existing quotation text in the pinned proposal matched both linked editions after normalization.",
+            "biblical_parallel": {
+              "title": "Using ability for others",
+              "filmMoment": "Strange confronts Dormammu by repeatedly accepting danger in a time loop.",
+              "scriptureReference": "Philippians 2:4",
+              "reflection": "Paul’s instruction to look to the interests of others illuminates Stephen’s change of motive. In an Orthodox discussion, that comparison concerns service and gives families a way to discuss the film’s magical means separately.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/doctor-strange/"
+            },
+            "proposed_family_questions": [
+              "How did Stephen treat Christine before the crash?",
+              "What does his injury change about his sense of control?",
+              "Why does Stephen accept repeated danger near the end?",
+              "Which achievements does the film associate with magic?",
+              "How does Stephen’s bargain with Dormammu differ from his earlier pursuit of a cure?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_no_authenticated_session"
+        },
+        {
+          "movie_id": "marvel-2017-guardians-of-the-galaxy-vol-2",
+          "title": "Guardians of the Galaxy Vol. 2",
+          "year": 2017,
+          "version": "2017 theatrical feature",
+          "review_baseline": "editorial/review-drafts-marvel-batch-02.json",
+          "review_baseline_blob": "4da323dedb7c50114fd880a5d5d560e693c2aaba",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-2/"
+          ],
+          "on_screen": "Mutineers eject crew members into space. Gamora and Nebula fight and later speak about the abuse behind their rivalry.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-2/",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Yondu’s protective act and the sisters’ growing honesty are moving. Crude sexual humor, mass killings and a fictional claim to divine power complicate the recommendation.",
+            "age": "13+",
+            "age_rationale": "Crew members suffocate while their captors look on. Sustained cruelty can be harder to watch than the later space battles.",
+            "theme_ratings": [
+              {
+                "name": "Sacrificial love",
+                "score": 5,
+                "evidence": "Yondu saves Peter at the cost of his life.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-2/"
+                ]
+              },
+              {
+                "name": "Family reconciliation",
+                "score": 4,
+                "evidence": "Gamora and Nebula begin to acknowledge their shared injuries.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-2/"
+                ]
+              },
+              {
+                "name": "Exploitation",
+                "score": 5,
+                "evidence": "Ego uses Peter to pursue a plan that subordinates other lives.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-2/"
+                ]
+              },
+              {
+                "name": "Sexual humor",
+                "score": 3,
+                "evidence": "The film includes a brothel sequence and recurring innuendo.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-2/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The cited material does not resolve this category. A released-cut scene record or scoped viewing log is needed.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-2/"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "John 15:13",
+            "translation": "KJV",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=John%2015%3A13&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 77 on the Gospel of John",
+            "patristic_source": "https://www.newadvent.org/fathers/240177.htm",
+            "patristic_section": "John 15:12–13",
+            "verification": "Existing quotation text in the pinned proposal matched both linked editions after normalization.",
+            "biblical_parallel": {
+              "title": "Love made visible through a choice",
+              "filmMoment": "Yondu gives Peter his means of surviving in space and dies saving him.",
+              "scriptureReference": "John 15:13",
+              "reflection": "Christ speaks about freely laying down one’s life for friends. Yondu’s decision opens a conversation about love expressed through responsibility and presence.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy-2/"
+            },
+            "proposed_family_questions": [
+              "What makes Ego’s promises attractive to Peter?",
+              "What do Gamora and Nebula finally understand about each other?",
+              "How does Yondu’s last choice change Peter’s understanding of family?",
+              "When does joking come at someone else’s expense?",
+              "What does Yondu give Peter that Ego’s promises cannot buy?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_no_authenticated_session"
+        },
+        {
+          "movie_id": "marvel-2017-thor-ragnarok",
+          "title": "Thor: Ragnarok",
+          "year": 2017,
+          "version": "2017 theatrical feature",
+          "review_baseline": "editorial/review-drafts-marvel-batch-02.json",
+          "review_baseline_blob": "4da323dedb7c50114fd880a5d5d560e693c2aaba",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/thor-ragnarok/",
+            "https://www.attitude.co.uk/culture/film-tv/thor-ragnarok-scene-confirming-valkyries-sexuality-was-cut-from-film-294220/"
+          ],
+          "on_screen": "Valkyrie drinks heavily. The Grandmaster pits captives against one another in an arena.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/thor-ragnarok/",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Thor’s rescue of his people and his willingness to face Asgard’s history invite discussion. Heavy violence, mythic divinity and crude humor remain prominent.",
+            "age": "13+",
+            "age_rationale": "Alcohol misuse and combat staged for spectators give families two concrete issues to discuss alongside the fantasy violence.",
+            "theme_ratings": [
+              {
+                "name": "Stewardship",
+                "score": 5,
+                "evidence": "Thor puts the safety of Asgard’s people ahead of the realm’s survival.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/thor-ragnarok/"
+                ]
+              },
+              {
+                "name": "Cooperation",
+                "score": 4,
+                "evidence": "Thor needs allies with very different loyalties to get home.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/thor-ragnarok/"
+                ]
+              },
+              {
+                "name": "Domination",
+                "score": 5,
+                "evidence": "Hela uses conquest and fear to reclaim rule.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/thor-ragnarok/"
+                ]
+              },
+              {
+                "name": "Excessive drinking",
+                "score": 3,
+                "evidence": "Valkyrie’s repeated drinking is often played for comedy.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/thor-ragnarok/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The reported Valkyrie bedroom shot was cut. The actor’s account is production context. A released-cut observation is still needed.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/thor-ragnarok/",
+              "https://www.attitude.co.uk/culture/film-tv/thor-ragnarok-scene-confirming-valkyries-sexuality-was-cut-from-film-294220/"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "Philippians 2:4",
+            "translation": "KJV",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Philippians%202%3A4&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 11 on Ephesians",
+            "patristic_source": "https://www.newadvent.org/fathers/230111.htm",
+            "patristic_section": "Ephesians 4:11–12",
+            "verification": "Existing quotation text in the pinned proposal matched both linked editions after normalization.",
+            "biblical_parallel": {
+              "title": "What a ruler owes his people",
+              "filmMoment": "Thor and his allies prioritize rescuing Asgard’s people as their homeland falls.",
+              "scriptureReference": "Philippians 2:4",
+              "reflection": "Paul’s call to consider others’ interests gives families a way to assess Thor’s decision when protecting lives requires losing a place he loves.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/thor-ragnarok/"
+            },
+            "proposed_family_questions": [
+              "What did Odin conceal about Asgard’s past?",
+              "What changes Valkyrie’s willingness to help?",
+              "How does the gladiator arena treat people as objects?",
+              "What does Thor give up to save his people?",
+              "How does learning about Hela change what Thor thinks is worth saving about Asgard?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_no_authenticated_session"
+        },
+        {
+          "movie_id": "marvel-2018-ant-man-and-the-wasp",
+          "title": "Ant-Man and the Wasp",
+          "year": 2018,
+          "version": "2018 theatrical feature",
+          "review_baseline": "editorial/review-drafts-marvel-batch-02.json",
+          "review_baseline_blob": "4da323dedb7c50114fd880a5d5d560e693c2aaba",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-2018/"
+          ],
+          "on_screen": "Luis is injected against his will during questioning. Ava describes painful instability, and Janet offers her relief.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-2018/",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Janet’s willingness to aid Ava and Bill’s refusal to harm innocents strongly support an Edifying draft verdict. The characters also face conflicting duties and use questionable means.",
+            "age": "13+",
+            "age_rationale": "A forced injection and Ava’s recurring pain may trouble children sensitive to medical distress.",
+            "theme_ratings": [
+              {
+                "name": "Mercy",
+                "score": 5,
+                "evidence": "Janet helps Ava after Ava has threatened her family.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-2018/"
+                ]
+              },
+              {
+                "name": "Family loyalty",
+                "score": 5,
+                "evidence": "Hope and Hank continue searching for Janet.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-2018/"
+                ]
+              },
+              {
+                "name": "Moral limits",
+                "score": 4,
+                "evidence": "Bill refuses to let Ava hurt innocent people.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-2018/"
+                ]
+              },
+              {
+                "name": "Desperation",
+                "score": 4,
+                "evidence": "Ava’s painful condition fuels choices that threaten the rescue.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-2018/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The cited material does not resolve this category. A released-cut scene record or scoped viewing log is needed.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-2018/"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "Galatians 6:2",
+            "translation": "KJV",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Galatians%206%3A2&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 11 on Ephesians",
+            "patristic_source": "https://www.newadvent.org/fathers/230111.htm",
+            "patristic_section": "Ephesians 4:11–12",
+            "verification": "Existing quotation text in the pinned proposal matched both linked editions after normalization.",
+            "biblical_parallel": {
+              "title": "Bearing a rival’s burden",
+              "filmMoment": "Janet helps ease Ava’s pain after Ava has threatened Janet’s family and their rescue plan.",
+              "scriptureReference": "Galatians 6:2",
+              "reflection": "Paul’s call to bear one another’s burdens helps families consider Janet’s response to Ava. Compassion addresses the suffering behind a conflict while leaving room for firm boundaries.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/ant-man-and-the-wasp-2018/"
+            },
+            "proposed_family_questions": [
+              "Why does Ava think she has run out of options?",
+              "How does Bill help Ava while setting a boundary?",
+              "What do Hope and Hank risk for Janet?",
+              "How does Janet’s response to Ava change the conflict?",
+              "How does Janet’s first response to Ava differ from the way Luis’s captors seek answers?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_no_authenticated_session"
+        },
+        {
+          "movie_id": "marvel-2018-avengers-infinity-war",
+          "title": "Avengers: Infinity War",
+          "year": 2018,
+          "version": "2018 theatrical feature",
+          "review_baseline": "editorial/review-drafts-marvel-batch-02.json",
+          "review_baseline_blob": "4da323dedb7c50114fd880a5d5d560e693c2aaba",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/avengers-infinity-war/"
+          ],
+          "on_screen": "Ebony Maw tortures Strange with pointed instruments. On Vormir, Thanos throws Gamora to her death.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/avengers-infinity-war/",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "The heroes’ courage and care for others coexist with unusually bleak outcomes and a villain who rationalizes mass murder as mercy.",
+            "age": "13+",
+            "age_rationale": "Gamora’s murder by the person who raised her and Strange’s torture carry particular weight for viewers sensitive to family violence or bodily harm.",
+            "theme_ratings": [
+              {
+                "name": "Sacrificial courage",
+                "score": 5,
+                "evidence": "Several heroes risk their lives to protect others.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/avengers-infinity-war/"
+                ]
+              },
+              {
+                "name": "Cooperation",
+                "score": 4,
+                "evidence": "The defenders of Wakanda unite with the Avengers.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/avengers-infinity-war/"
+                ]
+              },
+              {
+                "name": "Domination",
+                "score": 5,
+                "evidence": "Thanos decides who may live without their consent.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/avengers-infinity-war/"
+                ]
+              },
+              {
+                "name": "Violence justified as mercy",
+                "score": 5,
+                "evidence": "Thanos claims taking lives will improve everyone else’s future.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/avengers-infinity-war/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The cited material does not resolve this category. A released-cut scene record or scoped viewing log is needed.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/avengers-infinity-war/"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "John 15:13",
+            "translation": "KJV",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=John%2015%3A13&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 77 on the Gospel of John",
+            "patristic_source": "https://www.newadvent.org/fathers/240177.htm",
+            "patristic_section": "John 15:12–13",
+            "verification": "Existing quotation text in the pinned proposal matched both linked editions after normalization.",
+            "biblical_parallel": {
+              "title": "Who bears the cost?",
+              "filmMoment": "Thanos kills Gamora to obtain the Soul Stone, treating another person’s death as the cost of his goal.",
+              "scriptureReference": "John 15:13",
+              "reflection": "Jesus speaks about laying down one’s own life for others. The Soul Stone scene raises a question about the moral difference between freely giving of oneself and forcing a vulnerable person to pay.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/avengers-infinity-war/"
+            },
+            "proposed_family_questions": [
+              "Why does Thanos believe his plan is merciful?",
+              "Whose voice is absent when he makes that decision?",
+              "What does Wanda risk when Vision asks for help?",
+              "When do the heroes cooperate well despite disagreeing?",
+              "Who gets to choose in Vision’s request to Wanda and in Thanos’s decision about Gamora?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_no_authenticated_session"
+        },
+        {
+          "movie_id": "marvel-2012-the-amazing-spider-man",
+          "title": "The Amazing Spider-Man",
+          "year": 2012,
+          "version": "2012 theatrical feature",
+          "review_baseline": "editorial/review-drafts-marvel-batch-03.json",
+          "review_baseline_blob": "33a4c64c6154d1b0c3ef12449f28a114d7490614",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/amazing-spider-man/",
+            "https://www.bbfc.co.uk/release/the-amazing-spider-man-q29sbgvjdglvbjpwwc00nzmwmtu"
+          ],
+          "on_screen": "Peter rescues a boy trapped in a dangling car. Gunfire and a fatal impalement leave visible injuries.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/amazing-spider-man/",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Peter’s attention shifts from retaliation to rescue. The change gives families a worthwhile discussion even as early vigilantism is played for laughs.",
+            "age": "13+",
+            "age_rationale": "A child trapped above a drop, a gunshot wound and a fatal impalement make the danger personal.",
+            "theme_ratings": [
+              {
+                "name": "Protection",
+                "score": 5,
+                "evidence": "Peter rescues a frightened child on the bridge.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/amazing-spider-man/"
+                ]
+              },
+              {
+                "name": "Cooperation",
+                "score": 4,
+                "evidence": "Gwen helps prepare the antidote.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/amazing-spider-man/"
+                ]
+              },
+              {
+                "name": "Vengeance",
+                "score": 4,
+                "evidence": "After Ben’s death, Peter searches for the killer.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/amazing-spider-man/"
+                ]
+              },
+              {
+                "name": "Reckless research",
+                "score": 4,
+                "evidence": "Connors uses an experimental serum on himself.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/amazing-spider-man/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The cited material does not resolve this category. A released-cut scene record or scoped viewing log is needed.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/amazing-spider-man/",
+              "https://www.bbfc.co.uk/release/the-amazing-spider-man-q29sbgvjdglvbjpwwc00nzmwmtu"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "Philippians 2:4",
+            "translation": "KJV",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Philippians%202%3A4&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 11 on Ephesians",
+            "patristic_source": "https://www.newadvent.org/fathers/230111.htm",
+            "patristic_section": "Ephesians 4:11–12",
+            "verification": "Existing quotation text in the pinned proposal matched both linked editions after normalization.",
+            "biblical_parallel": {
+              "title": "Listening during a rescue",
+              "filmMoment": "Peter offers his mask to a frightened boy during a rescue from a car hanging over water.",
+              "scriptureReference": "Philippians 2:4",
+              "reflection": "Peter’s attention turns toward the boy’s fear. Paul’s call to consider others makes this a way to discuss how help changes when we listen first.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/amazing-spider-man/"
+            },
+            "proposed_family_questions": [
+              "How does Peter embarrass a classmate early in the film?",
+              "What does the boy in the car need from Peter besides strength?",
+              "Why does Connors rush his research?",
+              "What does Gwen contribute that Peter cannot do alone?",
+              "Why does Peter let the frightened boy wear his mask during the car rescue?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_no_authenticated_session"
+        },
+        {
+          "movie_id": "marvel-2013-the-wolverine",
+          "title": "The Wolverine",
+          "year": 2013,
+          "version": "2013 theatrical feature, theatrical cut only",
+          "review_baseline": "editorial/review-drafts-marvel-batch-03.json",
+          "review_baseline_blob": "33a4c64c6154d1b0c3ef12449f28a114d7490614",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/wolverine-2013/",
+            "https://www.bbfc.co.uk/release/the-wolverine-q29sbgvjdglvbjpwwc00nzeymjc"
+          ],
+          "on_screen": "Logan drives an arrow into a hunter’s hand. Memories of killing Jean recur as he struggles with grief.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/wolverine-2013/",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Care for Mariko gives Logan purpose beyond his isolation. Prolonged and sometimes graphic combat tempers the positive example.",
+            "age": "16+",
+            "age_rationale": "The deliberate hand injury, close-range blade combat and Logan’s recurring grief support older-teen guidance for the theatrical cut.",
+            "theme_ratings": [
+              {
+                "name": "Protective love",
+                "score": 5,
+                "evidence": "Logan puts his life at risk for Mariko.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/wolverine-2013/"
+                ]
+              },
+              {
+                "name": "Accepting help",
+                "score": 4,
+                "evidence": "Loss of his usual healing makes Logan depend on other people.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/wolverine-2013/"
+                ]
+              },
+              {
+                "name": "Exploitation",
+                "score": 4,
+                "evidence": "Yashida seeks to transfer Logan’s healing power for himself.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/wolverine-2013/"
+                ]
+              },
+              {
+                "name": "Lethal retaliation",
+                "score": 4,
+                "evidence": "Logan injures a hunter after finding the poisoned bear.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/wolverine-2013/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The cited material does not resolve this category. A released-cut scene record or scoped viewing log is needed.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/wolverine-2013/",
+              "https://www.bbfc.co.uk/release/the-wolverine-q29sbgvjdglvbjpwwc00nzeymjc"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "John 15:13",
+            "translation": "KJV",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=John%2015%3A13&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 77 on the Gospel of John",
+            "patristic_source": "https://www.newadvent.org/fathers/240177.htm",
+            "patristic_section": "John 15:12–13",
+            "verification": "Existing quotation text in the pinned proposal matched both linked editions after normalization.",
+            "biblical_parallel": {
+              "title": "Protection that costs something",
+              "filmMoment": "Logan accepts danger to protect Mariko when his healing can no longer be taken for granted.",
+              "scriptureReference": "John 15:13",
+              "reflection": "The risk is what gives Logan’s protection moral weight. Christ’s teaching invites families to consider the cost a person is willing to bear for another.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/wolverine-2013/"
+            },
+            "proposed_family_questions": [
+              "Why does Yashida’s offer tempt Logan?",
+              "How does the loss of healing change Logan’s decisions?",
+              "Which of Yukio’s actions show loyalty?",
+              "How does Logan’s response to the hunter differ from his protection of Mariko?",
+              "How does Logan respond differently when Yukio offers protection and when Yashida offers relief from immortality?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_no_authenticated_session"
+        }
+      ]
     }
   ]
 }
