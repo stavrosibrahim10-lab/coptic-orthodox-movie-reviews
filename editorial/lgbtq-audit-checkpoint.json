@@ -281,6 +281,20 @@
       ],
       "remaining_missing_reviews": 68,
       "studio_status": "Private export timed out; no authenticated Studio save available. GitHub draft and ledger readbacks verified."
+    },
+    {
+      "date": "2026-11-26",
+      "batch_file": "editorial/review-drafts-marvel-batch-09.json",
+      "branch": "editorial/review-completion",
+      "commit": "fea5e14c4175e9f2254995f2d120c1275cc50d00",
+      "ledger_commit": "4278ac853347187f8e2ccb0d8ccb41b950df006f",
+      "film_ids": [
+        "marvel-2021-spider-man-no-way-home",
+        "marvel-2023-ant-man-and-the-wasp-quantumania",
+        "marvel-2023-the-marvels"
+      ],
+      "remaining_missing_reviews": 65,
+      "studio_status": "Private Studio request timed out. Verified the three GitHub proposals and refreshed ledger by commit readback."
     }
   ],
   "stage4_batches": [
