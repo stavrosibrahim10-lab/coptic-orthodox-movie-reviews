@@ -184,8 +184,12 @@ function renderLgbtqContextNotes(remainingAdvisories,sources){
   }).join('');
 }
 
+function isVisibleRating(theme){
+  return Number.isFinite(theme.score) && (theme.name !== LGBTQ_THEME_NAME || theme.score > 0);
+}
+
 function renderRatings(r,type,remainingAdvisories){
-  const list=(r.themes||[]).filter(t=>t.type===type&&Number.isFinite(t.score));
+  const list=(r.themes||[]).filter(t=>t.type===type&&isVisibleRating(t));
   if(!list.length) return '';
   return list.map(t=>{
     const score=`${t.score}/5`;
@@ -198,7 +202,7 @@ function renderRatings(r,type,remainingAdvisories){
     const impactNote=t.name!==LGBTQ_THEME_NAME?null:(impact==='not_applicable'?'N/A for this category':impact==='neutral'?'Neutral under this criterion':'Destructive under site policy');
     const advisoryType = advisoryTypesByTheme.get(t.name);
     const candidate = remainingAdvisories.get(advisoryType);
-    const groupUnderLgbtq = (r.themes||[]).some(theme=>theme.name===LGBTQ_THEME_NAME&&Number.isFinite(theme.score))
+    const groupUnderLgbtq = (r.themes||[]).some(theme=>theme.name===LGBTQ_THEME_NAME&&isVisibleRating(theme))
       && isLgbtqRelatedAdvisory(advisoryType,candidate);
     const advisory = groupUnderLgbtq ? null : candidate;
     const label = familyAdvisoryLabels[advisoryType];
@@ -214,9 +218,9 @@ function renderRatings(r,type,remainingAdvisories){
 function reviewGuidance(review){
   const advisories = new Map(Object.entries(getFamilyAdvisories(review))
     .filter(([type, note]) => Object.hasOwn(familyAdvisoryLabels, type) && note?.details));
-  const hasRatings=(review.themes||[]).some(theme=>Number.isFinite(theme.score));
+  const hasRatings=(review.themes||[]).some(isVisibleRating);
   const ratings = hasRatings ? `
-    <p class="muted">Scores show prominence, not moral worth. For LGBTQ Themes &amp; Messaging, 0/5 = N/A, 1/5 = Neutral under this criterion, 2–5/5 = Destructive under this site's editorial policy; each category is assessed separately. Portrayal describes how the film treats a theme.</p>
+    <p class="muted">Scores show prominence, not moral worth. Portrayal describes how the film treats a theme.</p>
     ${[['positive','Virtues & positive themes'],['harmful','Content & harmful themes'],['context','Family and cultural themes']]
       .map(([type,label])=>{
         const rows=renderRatings(review,type,advisories);
