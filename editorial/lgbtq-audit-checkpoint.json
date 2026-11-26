@@ -1462,6 +1462,866 @@
           }
         }
       ]
+    },
+    {
+      "number": 3,
+      "date": "2026-11-25",
+      "review_completion_branch": "editorial/review-completion",
+      "review_completion_ledger": "editorial/review-completion.tsv",
+      "review_draft_file": "editorial/review-drafts-marvel-batch-01.json",
+      "review_draft_blob": "eba70ee94b08678beb86d925a431812537ff794d",
+      "films": [
+        {
+          "movie_id": "marvel-2008-iron-man",
+          "title": "Iron Man",
+          "year": 2008,
+          "version": "2008 live-action Marvel feature, original cinema version; later extended edits outside scope.",
+          "review_baseline": "editorial/review-drafts-marvel-batch-01.json",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/ironman/",
+            "https://www.bbfc.co.uk/release/iron-man-q29sbgvjdglvbjpwwc0znji2nze",
+            "https://transcripts.foreverdreaming.org/viewtopic.php?t=37681"
+          ],
+          "on_screen": "Tony sees his own weapons in captivity. Yinsen is mortally wounded helping him escape.",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Yinsen’s sacrifice and Tony’s decision to stop building weapons give the story moral weight. Its sexual humor and sustained spectacle make the overall recommendation Neutral.",
+            "age": "13+",
+            "age_rationale": "The convoy ambush and Tony waking with a device implanted in his injured chest may be harder for younger viewers than the armored fights.",
+            "theme_ratings": [
+              {
+                "name": "Responsibility",
+                "score": 5,
+                "evidence": "Tony halts arms production after seeing his weapons in the hands of his captors.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/ironman/"
+                ]
+              },
+              {
+                "name": "Sacrificial love",
+                "score": 4,
+                "evidence": "Yinsen gives Tony time to escape at terrible personal cost.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/ironman/"
+                ]
+              },
+              {
+                "name": "Pride",
+                "score": 4,
+                "evidence": "Tony’s confidence in his company’s work is shaken by what he sees during captivity.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/ironman/"
+                ]
+              },
+              {
+                "name": "Sexual content",
+                "score": 3,
+                "evidence": "Tony and a reporter kiss and tumble into bed, with sex implied.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/ironman/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": 1,
+            "observation": "While Rhodey discusses aircraft with pilots, Tony interrupts with a spring-break joke. The exchange supplies a brief verbal reference only. Remove the draft’s private-jet location and avoid assigning an identity to an unseen person.",
+            "sources": [
+              "https://transcripts.foreverdreaming.org/viewtopic.php?t=37681"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "Philippians 2:4",
+            "translation": "KJV",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Philippians%202%3A4&version=KJV",
+            "patristic_author": "St. Basil the Great",
+            "patristic_work": "Address to Young Men on the Right Use of Greek Literature",
+            "patristic_source": "https://www.tertullian.org/fathers/basil_litterature01.htm",
+            "patristic_section": "IV",
+            "verification": "Full wording of both stored quotations matched linked editions after normalizing punctuation and spacing.",
+            "biblical_parallel": {
+              "title": "A change in what we make",
+              "filmMoment": "Tony uses the resources that helped earn him a fortune to fight those exploiting his weapons.",
+              "scriptureReference": "Philippians 2:4",
+              "reflection": "Paul calls Christians to consider the interests of others. Tony’s change invites us to ask who bears the cost of our choices and what repair asks of us.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/ironman/"
+            },
+            "proposed_family_questions": [
+              "Who helps Tony recognize the cost of his choices?",
+              "What does Yinsen give up to help Tony escape?",
+              "How could Tony make amends to people hurt by his weapons?",
+              "When does the film make weapons look appealing?",
+              "What would accepting Yinsen’s last request cost Tony at his company?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_no_authenticated_session"
+        },
+        {
+          "movie_id": "marvel-2008-the-incredible-hulk",
+          "title": "The Incredible Hulk",
+          "year": 2008,
+          "version": "2008 live-action Marvel feature, original cinema version; later extended edits outside scope.",
+          "review_baseline": "editorial/review-drafts-marvel-batch-01.json",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/incrediblehulk/",
+            "https://www.bbfc.co.uk/release/the-incredible-hulk-q29sbgvjdglvbjpwwc0znje4mjy"
+          ],
+          "on_screen": "Bruce ends an intimate encounter with Betty as his pulse rises. Blonsky pursues greater strength despite the harm he has already seen.",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Betty’s care and the Hulk’s final restraint give families something to discuss. Prolonged destructive combat competes with that emphasis.",
+            "age": "13+",
+            "age_rationale": "The destroyed laboratory contains bloodied victims. The Hulk and Abomination strike each other with cars and chains.",
+            "theme_ratings": [
+              {
+                "name": "Mercy",
+                "score": 4,
+                "evidence": "The Hulk spares an opponent at Betty’s pleading.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/incrediblehulk/"
+                ]
+              },
+              {
+                "name": "Self-control",
+                "score": 4,
+                "evidence": "Bruce monitors his stress and practices ways to manage his anger.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/incrediblehulk/"
+                ]
+              },
+              {
+                "name": "Loyalty",
+                "score": 4,
+                "evidence": "Betty gives Bruce shelter and tries to protect him.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/incrediblehulk/"
+                ]
+              },
+              {
+                "name": "Abuse of power",
+                "score": 4,
+                "evidence": "The military’s pursuit and Blonsky’s escalation lead to a new threat.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/incrediblehulk/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The consulted scene guides did not establish a score. A release-specific screening record is still needed.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/incrediblehulk/"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "Proverbs 16:32",
+            "translation": "KJV",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Proverbs%2016%3A32&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 49 on Matthew",
+            "patristic_source": "https://www.newadvent.org/fathers/200149.htm",
+            "patristic_section": "On Matthew 14",
+            "verification": "Full wording of both stored quotations matched linked editions after normalizing punctuation and spacing.",
+            "biblical_parallel": {
+              "title": "Strength enough to stop",
+              "filmMoment": "At Betty’s pleading the Hulk stops short of killing a defeated opponent.",
+              "scriptureReference": "Proverbs 16:32",
+              "reflection": "Proverbs prizes governing anger above taking a city. The moment when the Hulk stops gives a family a way to distinguish restraint from the thrill of winning.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/incrediblehulk/"
+            },
+            "proposed_family_questions": [
+              "How does Betty help Bruce calm down?",
+              "Why does Blonsky want more power?",
+              "What makes the Hulk’s choice to stop fighting important?",
+              "Why does Bruce stop the encounter with Betty when his heart rate rises?",
+              "How do Bruce and Blonsky respond differently when they learn what the transformations can do?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_no_authenticated_session"
+        },
+        {
+          "movie_id": "marvel-2010-iron-man-2",
+          "title": "Iron Man 2",
+          "year": 2010,
+          "version": "2010 live-action Marvel feature, original cinema version; later extended edits outside scope.",
+          "review_baseline": "editorial/review-drafts-marvel-batch-01.json",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/ironman2/",
+            "https://www.bbfc.co.uk/release/iron-man-2-q29sbgvjdglvbjpwwc00mjiynzu"
+          ],
+          "on_screen": "Tony wears the armor at his birthday party and fires it while drunk. Rhodey confronts him.",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Tony’s growth toward cooperation matters, while the swagger, innuendo and extended combat give the film a mixed example.",
+            "age": "13+",
+            "age_rationale": "The sequence puts bystanders within reach of weapons used by an intoxicated friend. Test footage shows a suit twisting with its pilot still inside.",
+            "theme_ratings": [
+              {
+                "name": "Friendship",
+                "score": 4,
+                "evidence": "Rhodey confronts Tony and later fights alongside him.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/ironman2/"
+                ]
+              },
+              {
+                "name": "Pride",
+                "score": 5,
+                "evidence": "Tony disregards others’ safety during his birthday party in the suit.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/ironman2/"
+                ]
+              },
+              {
+                "name": "Revenge",
+                "score": 4,
+                "evidence": "Vanko devotes his technology to retaliation against the Stark family.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/ironman2/"
+                ]
+              },
+              {
+                "name": "Intoxication",
+                "score": 3,
+                "evidence": "Tony gets drunk and fires at party objects while wearing armor.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/ironman2/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The consulted scene guides did not establish a score. A release-specific screening record is still needed.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/ironman2/"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "Galatians 6:2",
+            "translation": "KJV",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Galatians%206%3A2&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 11 on Ephesians",
+            "patristic_source": "https://www.newadvent.org/fathers/230111.htm",
+            "patristic_section": "Commentary on Ephesians 4:12",
+            "verification": "Full wording of both stored quotations matched linked editions after normalizing punctuation and spacing.",
+            "biblical_parallel": {
+              "title": "A friend carries a burden",
+              "filmMoment": "During his birthday party Tony fires the suit’s weapons while intoxicated, prompting Rhodey to intervene.",
+              "scriptureReference": "Galatians 6:2",
+              "reflection": "Paul asks Christians to bear one another’s burdens. Rhodey’s intervention suggests that a friend may need to confront us to keep us and others safe.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/ironman2/"
+            },
+            "proposed_family_questions": [
+              "What makes Rhodey’s intervention an act of friendship?",
+              "What could Tony have told Pepper earlier?",
+              "How does Vanko’s grievance become an excuse for harming others?",
+              "What happens when Tony treats the armor as a toy?",
+              "At what point during the party does Rhodey’s silence become dangerous?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_no_authenticated_session"
+        },
+        {
+          "movie_id": "marvel-2011-thor",
+          "title": "Thor",
+          "year": 2011,
+          "version": "2011 live-action Marvel feature, original cinema version; later extended edits outside scope.",
+          "review_baseline": "editorial/review-drafts-marvel-batch-01.json",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/thor/",
+            "https://www.bbfc.co.uk/release/thor-q29sbgvjdglvbjpwwc0zodi2ndq"
+          ],
+          "on_screen": "Thor takes his companions into the frost giants’ realm against Odin’s orders. Later he faces danger on Earth without his hammer.",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "The story explicitly corrects Thor’s arrogance by having him offer his own safety to protect others. The fantasy cosmology calls for context.",
+            "age": "13+",
+            "age_rationale": "Repeated attacks with blades and the hammer sustain the danger even when little blood is visible.",
+            "theme_ratings": [
+              {
+                "name": "Humility",
+                "score": 5,
+                "evidence": "Thor learns to accept help after his banishment strips him of power.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/thor/"
+                ]
+              },
+              {
+                "name": "Sacrificial love",
+                "score": 5,
+                "evidence": "Thor faces the Destroyer without his powers to protect others.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/thor/"
+                ]
+              },
+              {
+                "name": "Pride",
+                "score": 5,
+                "evidence": "Thor leads a retaliatory expedition after an attempted theft, bringing his friends into danger.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/thor/"
+                ]
+              },
+              {
+                "name": "Mythological cosmology",
+                "score": 4,
+                "evidence": "Odin, Thor and Loki are adapted from Norse mythology in a fantasy setting.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/thor/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The consulted scene guides did not establish a score. A release-specific screening record is still needed.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/thor/"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "John 15:13",
+            "translation": "KJV",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=John%2015%3A13&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 77 on the Gospel of John",
+            "patristic_source": "https://www.newadvent.org/fathers/240177.htm",
+            "patristic_section": "On John 15:12–13",
+            "verification": "Full wording of both stored quotations matched linked editions after normalizing punctuation and spacing.",
+            "biblical_parallel": {
+              "title": "What makes strength worthy?",
+              "filmMoment": "Thor faces the Destroyer without his powers and offers himself to spare the people around him.",
+              "scriptureReference": "John 15:13",
+              "reflection": "Jesus speaks of laying down one’s life for friends. Thor’s act offers a limited comparison about willingness to suffer for others within a story shaped by Norse mythology.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/thor/"
+            },
+            "proposed_family_questions": [
+              "How does Thor’s first decision endanger his friends?",
+              "What does Jane offer Thor when he needs help?",
+              "How does the powerless Thor respond to the Destroyer?",
+              "What differences do you see between the film’s mythology and the Christian understanding of God?",
+              "How would the companions’ first trip across the bridge have changed if Thor had listened to Odin?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_no_authenticated_session"
+        },
+        {
+          "movie_id": "marvel-2011-captain-america-the-first-avenger",
+          "title": "Captain America: The First Avenger",
+          "year": 2011,
+          "version": "2011 live-action Marvel feature, original cinema version; later extended edits outside scope.",
+          "review_baseline": "editorial/review-drafts-marvel-batch-01.json",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/captainamericathefirstavenger/",
+            "https://www.bbfc.co.uk/release/captain-america-the-first-avenger-q29sbgvjdglvbjpwwc00mjg4nza"
+          ],
+          "on_screen": "Before receiving the serum, Steve covers what he believes is a live grenade during training.",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Steve repeatedly risks himself for others, including before gaining strength. Wartime violence and the dishonesty of falsifying records deserve discussion.",
+            "age": "13+",
+            "age_rationale": "A man caught by a propeller leaves a brief spray of blood. A captured spy dies after biting a poison capsule.",
+            "theme_ratings": [
+              {
+                "name": "Courage",
+                "score": 5,
+                "evidence": "Steve moves toward an apparent grenade while the other recruits scatter.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/captainamericathefirstavenger/"
+                ]
+              },
+              {
+                "name": "Humility",
+                "score": 4,
+                "evidence": "Erskine chooses Steve for his character before he receives enhanced strength.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/captainamericathefirstavenger/"
+                ]
+              },
+              {
+                "name": "Loyalty",
+                "score": 4,
+                "evidence": "Steve risks an unauthorized rescue to recover captured soldiers.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/captainamericathefirstavenger/"
+                ]
+              },
+              {
+                "name": "Dishonesty",
+                "score": 2,
+                "evidence": "Steve falsifies information while trying to enlist.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/captainamericathefirstavenger/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The consulted scene guides did not establish a score. A release-specific screening record is still needed.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/captainamericathefirstavenger/"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "John 15:13",
+            "translation": "KJV",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=John%2015%3A13&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 77 on the Gospel of John",
+            "patristic_source": "https://www.newadvent.org/fathers/240177.htm",
+            "patristic_section": "On John 15:12–13",
+            "verification": "Full wording of both stored quotations matched linked editions after normalizing punctuation and spacing.",
+            "biblical_parallel": {
+              "title": "Courage before the serum",
+              "filmMoment": "Steve throws himself on what he believes is a live grenade to protect the other recruits.",
+              "scriptureReference": "John 15:13",
+              "reflection": "Jesus speaks of laying down one’s life for friends. Steve’s response to the apparent grenade illustrates a willingness to bear danger on behalf of others.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/captainamericathefirstavenger/"
+            },
+            "proposed_family_questions": [
+              "What does Erskine see in Steve before the experiment?",
+              "Why is the grenade scene important even though the grenade is a test?",
+              "Why is falsifying papers worth discussing despite Steve’s motive?",
+              "How does Steve use the strength he receives?",
+              "Does saving the captured soldiers justify Steve’s decision to disobey orders?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_no_authenticated_session"
+        },
+        {
+          "movie_id": "marvel-2012-the-avengers",
+          "title": "The Avengers",
+          "year": 2012,
+          "version": "2012 live-action Marvel feature, original cinema version; later extended edits outside scope.",
+          "review_baseline": "editorial/review-drafts-marvel-batch-01.json",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/avengers/",
+            "https://www.bbfc.co.uk/release/marvel-avengers-assemble-q29sbgvjdglvbjpwwc00mjg4ndy"
+          ],
+          "on_screen": "Loki demands submission and coerces people into serving him. Stark risks his life during the attack on New York.",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "The team’s willingness to protect others and Stark’s decision to risk his life support an Edifying draft verdict. The battle spectacle remains intense.",
+            "age": "13+",
+            "age_rationale": "A bound Natasha is struck, and Loki attacks scientists and guards; both scenes involve vulnerable people before the large-scale city battle.",
+            "theme_ratings": [
+              {
+                "name": "Cooperation",
+                "score": 5,
+                "evidence": "The heroes move past rivalry to fight in coordinated roles during the attack on New York.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/avengers/"
+                ]
+              },
+              {
+                "name": "Sacrificial love",
+                "score": 5,
+                "evidence": "Stark knowingly risks his life in the final defense of the city.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/avengers/"
+                ]
+              },
+              {
+                "name": "Domination",
+                "score": 4,
+                "evidence": "Loki demands that people kneel and uses the scepter to control minds.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/avengers/"
+                ]
+              },
+              {
+                "name": "Fantasy violence",
+                "score": 5,
+                "evidence": "The alien attack brings sustained fighting, property destruction and civilian peril.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/avengers/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The consulted scene guides did not establish a score. A release-specific screening record is still needed.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/avengers/"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "1 Corinthians 12:25-26",
+            "translation": "KJV",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=1%20Corinthians%2012%3A25-26&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 11 on Ephesians",
+            "patristic_source": "https://www.newadvent.org/fathers/230111.htm",
+            "patristic_section": "Commentary on Ephesians 4:12",
+            "verification": "Full wording of both stored quotations matched linked editions after normalizing punctuation and spacing.",
+            "biblical_parallel": {
+              "title": "Different gifts, shared care",
+              "filmMoment": "Stark accepts a dangerous mission at the height of the attack, while the team keeps fighting to protect New York.",
+              "scriptureReference": "1 Corinthians 12:25-26",
+              "reflection": "Paul describes members of one body caring for each other. The team’s coordinated defense gives families an illustration of gifts serving a shared good.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/avengers/"
+            },
+            "proposed_family_questions": [
+              "What keeps the heroes from trusting each other at first?",
+              "How does Loki try to persuade people to surrender their freedom?",
+              "What can each hero do for the team that the others cannot?",
+              "What does Stark risk at the end of the battle?",
+              "How does Stark’s decision about the missile answer the earlier charge that he only fights for himself?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_no_authenticated_session"
+        },
+        {
+          "movie_id": "marvel-2013-iron-man-3",
+          "title": "Iron Man 3",
+          "year": 2013,
+          "version": "2013 live-action Marvel feature, original cinema version; later extended edits outside scope.",
+          "review_baseline": "editorial/review-drafts-marvel-batch-01.json",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.commonsensemedia.org/movie-reviews/iron-man-3",
+            "https://www.bbfc.co.uk/release/iron-man-3-q29sbgvjdglvbjpwwc0zodyxnta"
+          ],
+          "on_screen": "The attack on Tony’s house destroys his workshop. The Mandarin stages executions for broadcast.",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "The film gives families an opening to talk about human limits and responsibility. The terrorism imagery, vengeance and suggestive material leave a mixed overall recommendation.",
+            "age": "13+",
+            "age_rationale": "In one execution the audience hears the shot without seeing the body. The public bombings and attacks on civilians can still be frightening.",
+            "theme_ratings": [
+              {
+                "name": "Humility",
+                "score": 4,
+                "evidence": "Tony is forced to act with limited equipment after his home is attacked.",
+                "sources": [
+                  "https://www.commonsensemedia.org/movie-reviews/iron-man-3"
+                ]
+              },
+              {
+                "name": "Care for others",
+                "score": 4,
+                "evidence": "Tony responds after Pepper is kidnapped and public attacks injure civilians.",
+                "sources": [
+                  "https://www.commonsensemedia.org/movie-reviews/iron-man-3"
+                ]
+              },
+              {
+                "name": "Revenge",
+                "score": 4,
+                "evidence": "Killian uses violent schemes after Tony dismisses him years earlier.",
+                "sources": [
+                  "https://www.commonsensemedia.org/movie-reviews/iron-man-3"
+                ]
+              },
+              {
+                "name": "Terrorism imagery",
+                "score": 5,
+                "evidence": "The film depicts staged executions and damaging public bombings.",
+                "sources": [
+                  "https://www.commonsensemedia.org/movie-reviews/iron-man-3"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The consulted scene guides did not establish a score. A release-specific screening record is still needed.",
+            "sources": [
+              "https://www.commonsensemedia.org/movie-reviews/iron-man-3"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "Galatians 6:2",
+            "translation": "KJV",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Galatians%206%3A2&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 11 on Ephesians",
+            "patristic_source": "https://www.newadvent.org/fathers/230111.htm",
+            "patristic_section": "Commentary on Ephesians 4:12",
+            "verification": "Full wording of both stored quotations matched linked editions after normalizing punctuation and spacing.",
+            "biblical_parallel": {
+              "title": "When equipment cannot carry the burden",
+              "filmMoment": "Tony has to respond to a threat while his suits and familiar supports are unavailable or unreliable.",
+              "scriptureReference": "Galatians 6:2",
+              "reflection": "Paul asks believers to help carry others’ burdens. Tony’s anxiety and reliance on machinery can prompt a discussion about receiving support from people.",
+              "sourceUrl": "https://www.commonsensemedia.org/movie-reviews/iron-man-3"
+            },
+            "proposed_family_questions": [
+              "How has Tony changed after the New York battle?",
+              "What does Tony rely on to feel safe at first?",
+              "What do Killian’s choices show about nursing an old grievance?",
+              "When could Tony have reached out for help?",
+              "Why does building more suits fail to settle Tony after the battle in New York?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_no_authenticated_session"
+        },
+        {
+          "movie_id": "marvel-2013-thor-the-dark-world",
+          "title": "Thor: The Dark World",
+          "year": 2013,
+          "version": "2013 live-action Marvel feature, original cinema version; later extended edits outside scope.",
+          "review_baseline": "editorial/review-drafts-marvel-batch-01.json",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/thor-the-dark-world/"
+          ],
+          "on_screen": "Frigga protects Jane, and a woman is stabbed through the body. A funeral boat is set alight.",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Protecting Jane and resisting evil are commendable, while vengeance, deception and intense fantasy violence leave more mixed material for discussion.",
+            "age": "13+",
+            "age_rationale": "The apparent severing of a hand and the funeral after Frigga’s death may affect children differently from the large space battles.",
+            "theme_ratings": [
+              {
+                "name": "Loyalty",
+                "score": 4,
+                "evidence": "Thor acts to protect Jane as the Aether endangers her.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/thor-the-dark-world/"
+                ]
+              },
+              {
+                "name": "Sacrificial protection",
+                "score": 4,
+                "evidence": "Frigga defends Jane when Malekith comes for her.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/thor-the-dark-world/"
+                ]
+              },
+              {
+                "name": "Deception",
+                "score": 3,
+                "evidence": "Thor and Loki use a staged betrayal to deceive Malekith.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/thor-the-dark-world/"
+                ]
+              },
+              {
+                "name": "Fantasy violence",
+                "score": 5,
+                "evidence": "The battles show corpses, stabbing and the appearance of a severed hand.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/thor-the-dark-world/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The consulted scene guides did not establish a score. A release-specific screening record is still needed.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/thor-the-dark-world/"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "Philippians 2:4",
+            "translation": "KJV",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Philippians%202%3A4&version=KJV",
+            "patristic_author": "St. Basil the Great",
+            "patristic_work": "Address to Young Men on the Right Use of Greek Literature",
+            "patristic_source": "https://www.tertullian.org/fathers/basil_litterature01.htm",
+            "patristic_section": "IV",
+            "verification": "Full wording of both stored quotations matched linked editions after normalizing punctuation and spacing.",
+            "biblical_parallel": {
+              "title": "Care amid mistrust",
+              "filmMoment": "Knowing that Jane is in danger, Thor seeks help from Loki despite the damage Loki has caused.",
+              "scriptureReference": "Philippians 2:4",
+              "reflection": "Paul asks Christians to look to the needs of others. Thor’s decision to take a risk for Jane opens a discussion about attentiveness and the limits of trust.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/thor-the-dark-world/"
+            },
+            "proposed_family_questions": [
+              "What does Frigga risk when she protects Jane?",
+              "Why does Thor ask Loki for help?",
+              "What caution does Thor still need when he brings Loki into the plan?",
+              "What does grief lead each brother to do?",
+              "Why might the sight of Thor’s severed hand convince Malekith that Loki has betrayed his brother?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_no_authenticated_session"
+        },
+        {
+          "movie_id": "marvel-2014-captain-america-the-winter-soldier",
+          "title": "Captain America: The Winter Soldier",
+          "year": 2014,
+          "version": "2014 live-action Marvel feature, original cinema version; later extended edits outside scope.",
+          "review_baseline": "editorial/review-drafts-marvel-batch-01.json",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/captain-america-the-winter-soldier/",
+            "https://www.classificationoffice.govt.nz/find-a-rating/quick-takes/captain-america-the-winter-soldier/"
+          ],
+          "on_screen": "Steve appeals to Bucky during their fight even after Bucky injures him. Hydra intends to use the targeting system against civilians.",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Steve rejects the use of fear to justify killing and treats his enemy as a person he still owes loyalty. The thriller’s violence is heavier than in the first film.",
+            "age": "13+",
+            "age_rationale": "Steve is repeatedly shocked, shot and stabbed. The prolonged beating of an injured friend makes this more personal than the ship crashes.",
+            "theme_ratings": [
+              {
+                "name": "Moral courage",
+                "score": 5,
+                "evidence": "Steve resists a targeting program even though powerful people support it.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/captain-america-the-winter-soldier/"
+                ]
+              },
+              {
+                "name": "Loyalty",
+                "score": 5,
+                "evidence": "Steve refuses to abandon Bucky after learning his identity.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/captain-america-the-winter-soldier/"
+                ]
+              },
+              {
+                "name": "Coercion",
+                "score": 5,
+                "evidence": "Hydra conditions the Winter Soldier and uses him as a weapon.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/captain-america-the-winter-soldier/"
+                ]
+              },
+              {
+                "name": "Abuse of authority",
+                "score": 5,
+                "evidence": "Hydra infiltrates S.H.I.E.L.D. to turn its machinery against civilians.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/captain-america-the-winter-soldier/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The consulted scene guides did not establish a score. A release-specific screening record is still needed.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/captain-america-the-winter-soldier/"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "Romans 12:21",
+            "translation": "KJV",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Romans%2012%3A21&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 77 on the Gospel of John",
+            "patristic_source": "https://www.newadvent.org/fathers/240177.htm",
+            "patristic_section": "On John 15:12–13",
+            "verification": "Full wording of both stored quotations matched linked editions after normalizing punctuation and spacing.",
+            "biblical_parallel": {
+              "title": "Remembering a person in an enemy",
+              "filmMoment": "Steve recognizes Bucky and appeals to their friendship even when Bucky attacks him.",
+              "scriptureReference": "Romans 12:21",
+              "reflection": "Paul calls Christians to overcome evil with good. Steve’s treatment of Bucky illustrates the decision to resist wrongdoing while remembering the person before him.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/captain-america-the-winter-soldier/"
+            },
+            "proposed_family_questions": [
+              "What leads Steve to question the people giving him orders?",
+              "What false promise does Project Insight make about safety?",
+              "How does Sam help people facing difficult memories?",
+              "Why does Steve keep speaking to Bucky when Bucky attacks him?",
+              "When Steve trusts Sam with the flight gear, how does Sam put that trust to work?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_no_authenticated_session"
+        },
+        {
+          "movie_id": "marvel-2014-guardians-of-the-galaxy",
+          "title": "Guardians of the Galaxy",
+          "year": 2014,
+          "version": "2014 live-action Marvel feature, original cinema version; later extended edits outside scope.",
+          "review_baseline": "editorial/review-drafts-marvel-batch-01.json",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy/",
+            "https://www.bbfc.co.uk/release/guardians-of-the-galaxy-q29sbgvjdglvbjpwwc0znzk5nzm"
+          ],
+          "on_screen": "The group sets aside its competing interests to protect Xandar. Groot shields the others when the ship falls.",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Groot’s protective action and the group’s decision to share danger are generous. Profanity, sexual humor and a glamorous treatment of outlaw behavior make the overall verdict Neutral.",
+            "age": "13+",
+            "age_rationale": "Peter is taken immediately after losing his mother. That early bereavement can be more difficult for a child than the later creature battles.",
+            "theme_ratings": [
+              {
+                "name": "Solidarity",
+                "score": 5,
+                "evidence": "The Guardians share the danger when Quill takes hold of the Stone.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy/"
+                ]
+              },
+              {
+                "name": "Sacrificial love",
+                "score": 5,
+                "evidence": "Groot shields the others when their ship is crashing.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy/"
+                ]
+              },
+              {
+                "name": "Revenge",
+                "score": 4,
+                "evidence": "Drax acts on his desire to avenge his family and brings greater danger to the group.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy/"
+                ]
+              },
+              {
+                "name": "Dishonesty",
+                "score": 3,
+                "evidence": "The group repeatedly evades authorities and double-crosses others.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The consulted scene guides did not establish a score. A release-specific screening record is still needed.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy/"
+            ]
+          },
+          "stage5_status": {
+            "scripture": "Galatians 6:2",
+            "translation": "KJV",
+            "scripture_source": "https://www.biblegateway.com/passage/?search=Galatians%206%3A2&version=KJV",
+            "patristic_author": "St. John Chrysostom",
+            "patristic_work": "Homily 11 on Ephesians",
+            "patristic_source": "https://www.newadvent.org/fathers/230111.htm",
+            "patristic_section": "Commentary on Ephesians 4:12",
+            "verification": "Full wording of both stored quotations matched linked editions after normalizing punctuation and spacing.",
+            "biblical_parallel": {
+              "title": "Holding a burden together",
+              "filmMoment": "The team joins hands to share the danger of holding the Infinity Stone.",
+              "scriptureReference": "Galatians 6:2",
+              "reflection": "Paul’s command to bear one another’s burdens gives families language for the moment when the team shares a danger no member can endure alone.",
+              "sourceUrl": "https://www.pluggedin.com/movie-reviews/guardians-of-the-galaxy/"
+            },
+            "proposed_family_questions": [
+              "What does Drax hope revenge will accomplish?",
+              "How has Quill’s view of the orb changed by the end?",
+              "What does Groot give up to shield his friends?",
+              "When Quill boasts about his past relationships, whose perspective gets left out?",
+              "How does Groot’s choice during the crash change what Rocket stands to lose?"
+            ]
+          },
+          "studio_status": "repository_proposal_only_no_authenticated_session"
+        }
+      ]
     }
   ]
 }
