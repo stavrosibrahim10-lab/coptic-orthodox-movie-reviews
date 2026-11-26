@@ -268,6 +268,19 @@
       ],
       "remaining_missing_reviews": 70,
       "studio_status": "Private Studio export timed out. No authenticated session available. GitHub proposal and ledger readbacks verified."
+    },
+    {
+      "date": "2026-11-26",
+      "batch_file": "editorial/review-drafts-marvel-batch-08.json",
+      "branch": "editorial/review-completion",
+      "commit": "7415e18c5f692d1089f8ad49d584de423e874a1b",
+      "ledger_commit": "c8c632425ac28f126773e5907a7bcd1e8bfda64c",
+      "film_ids": [
+        "marvel-2021-black-widow",
+        "marvel-2021-shang-chi-and-the-legend-of-the-ten-rings"
+      ],
+      "remaining_missing_reviews": 68,
+      "studio_status": "Private export timed out; no authenticated Studio save available. GitHub draft and ledger readbacks verified."
     }
   ],
   "stage4_batches": [
