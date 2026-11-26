@@ -155,8 +155,15 @@
 .theme-preview-header button:focus-visible { outline: 2px solid var(--forest); outline-offset: 2px; }
 .theme-preview-list {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(min(100%, 220px), 1fr));
-  gap: 8px 20px;
+  --themes-per-page: 2;
+  position: relative;
+  min-width: 0;
+  grid-auto-flow: column;
+  grid-auto-columns: calc((100% - 12px) / 2);
+  gap: 12px;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scrollbar-width: none;
   list-style: none;
   padding: 0;
   margin: 6px 0 0;
@@ -166,3 +173,38 @@
 .theme-preview-list div small { display: block; color: #495c51; text-transform: capitalize; }
 .theme-preview-score { font-size: 22px; font-variant-numeric: tabular-nums; white-space: nowrap; }
 .theme-preview-score small { font-size: 13px; font-weight: 500; }
+
+.theme-slider { display: flex; align-items: center; gap: 8px; }
+.theme-slider .theme-preview-list { flex: 1; }
+.theme-preview-list::-webkit-scrollbar { display: none; }
+.theme-preview-list li { min-width: 0; scroll-snap-align: start; }
+.theme-preview-score { flex: none; }
+.theme-arrow {
+  flex: none;
+  width: 40px;
+  height: 44px;
+  border: 1px solid #b9cbbd;
+  border-radius: 6px;
+  background: var(--paper);
+  color: var(--forest);
+  font: 26px/1 Georgia, serif;
+}
+.theme-arrow[aria-disabled="true"] { opacity: .45; cursor: default; }
+.theme-slider :focus-visible { outline: 2px solid var(--forest); outline-offset: 2px; }
+.theme-position { display: block; text-align: center; color: #495c51; font-variant-numeric: tabular-nums; }
+.theme-breakdown > summary { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+.theme-breakdown > summary::-webkit-details-marker { display: none; }
+.theme-chevron { width: 10px; height: 10px; flex: none; border: solid currentColor; border-width: 0 2px 2px 0; transform: rotate(45deg); margin-inline-end: 4px; }
+.theme-breakdown[open] > summary { border-bottom: 1px solid var(--border); }
+.theme-breakdown[open] .theme-chevron { transform: rotate(225deg); }
+@media (prefers-reduced-motion: no-preference) {
+  .theme-chevron { transition: transform .18s ease; }
+}
+@media (prefers-reduced-motion: reduce) { html:has(.theme-preview) { scroll-behavior: auto; } }
+@media (max-width: 650px) {
+  .theme-preview-list { --themes-per-page: 1; grid-auto-columns: 100%; }
+  .theme-preview { padding-inline: 10px; }
+}
+
+.theme-preview-list:has(> li:only-child) { grid-auto-columns: 100%; }
+.review-page > div:first-child, .review-page .paper-panel { min-width: 0; }
