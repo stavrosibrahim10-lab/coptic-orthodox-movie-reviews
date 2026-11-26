@@ -233,6 +233,20 @@
       ],
       "remaining_missing_reviews": 73,
       "studio_status": "No authenticated private Studio session available. GitHub proposals and ledger verified by readback."
+    },
+    {
+      "date": "2026-11-26",
+      "batch_file": "editorial/review-drafts-marvel-batch-07.json",
+      "branch": "editorial/review-completion",
+      "commit": "0ffef2acbab2ecf60120bb1ed67c708d0239bf42",
+      "ledger_commit": "2eb7bf694fad337ef4876b1137ff6fbcaa43e0bb",
+      "film_ids": [
+        "marvel-2000-x-men",
+        "marvel-2003-x2",
+        "marvel-2006-x-men-the-last-stand"
+      ],
+      "remaining_missing_reviews": 70,
+      "studio_status": "Private Studio export timed out. No authenticated session available. GitHub proposal and ledger readbacks verified."
     }
   ],
   "stage4_batches": [
