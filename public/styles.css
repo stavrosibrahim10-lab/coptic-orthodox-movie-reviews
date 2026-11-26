@@ -127,3 +127,42 @@
   .review-page .paper-panel:has(>.review-banner){order:-3}
   .review-target{scroll-margin-top:94px}
 }
+
+.theme-preview {
+  margin-top: 18px;
+  padding: 14px 18px;
+  background: #eff4ef;
+  border-inline-start: 3px solid var(--forest);
+  border-radius: 4px;
+}
+.theme-preview-header, .theme-preview-list li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+.theme-preview-header { flex-wrap: wrap; }
+.theme-preview-header h2 { font-size: 21px; color: var(--forest); }
+.theme-preview-header button {
+  border: 0;
+  background: transparent;
+  color: var(--forest);
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  padding: 5px 2px;
+}
+.theme-preview-header button:focus-visible { outline: 2px solid var(--forest); outline-offset: 2px; }
+.theme-preview-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 220px), 1fr));
+  gap: 8px 20px;
+  list-style: none;
+  padding: 0;
+  margin: 6px 0 0;
+}
+.theme-preview-list li { border-top: 1px solid #cbd9cc; padding-top: 8px; }
+.theme-preview-list strong { overflow-wrap: anywhere; }
+.theme-preview-list div small { display: block; color: #495c51; text-transform: capitalize; }
+.theme-preview-score { font-size: 22px; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.theme-preview-score small { font-size: 13px; font-weight: 500; }
