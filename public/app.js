@@ -136,6 +136,7 @@ function home(){
   <section class="section recent-section"><div class="container"><div class="section-header"><div><div class="eyebrow">Fresh recommendations</div><h2>Best recent movies</h2><p>Explore recent releases and see what families can discuss together.</p></div><a href="/#browse" class="text-link">Browse all movies →</a></div><div class="movie-grid recent-feature">${recent.map(card).join('')}</div><p class="recent-note">We display authentic published movie posters when available through our verified poster sources. If a poster is unavailable, a text cover is shown instead; no AI-generated substitute is used.</p></div></section>
   <section class="section"><div class="container"><div class="section-header"><div><div class="eyebrow">Actively reviewed</div><h2>The Orthodox Lens review library</h2><p>${allMovies().length} films in the catalog. Explore reviews with age guidance, Scripture references, and family discussion questions.</p></div><a href="/#about/approach" class="text-link">Read our framework →</a></div><div class="movie-grid">${reviewed.map(card).join('')}</div></div></section>
   ${faithPrompts()}${newsletter()}
+  <section class="section"><div class="container"><h2>All movie pages</h2><details><summary>Open the full alphabetical movie directory (${allMovies().length})</summary><ul class="film-directory">${[...allMovies()].sort((a,b)=>a.title.localeCompare(b.title)||a.year-b.year).map(m=>`<li><a href="${esc(moviePath(m))}">${esc(m.title)} (${esc(m.year)})</a></li>`).join('')}</ul></details></div></section>
   `;
 }
 
@@ -661,13 +662,16 @@ function loadPosters(){
 }
 
 function render(){
+  if(location.hash==='#content'){app.focus();return;}
   const slug=location.pathname.match(/^\/movies\/([^/]+)\/?$/)?.[1];
   const routeMovie=slug?allMovies().find(m=>movieSlug(m)===slug):null;
   let route=location.hash.slice(1)||(slug?(routeMovie?'review/'+routeMovie.id:'review/not-found'):'home');
   try{route=decodeURIComponent(route)}catch{route='review/not-found'}
   if(route.startsWith('browse/'))currentCollection=route.slice(7);
+  else if(route==='browse')currentCollection='all';
   const hash=route==='method'?'about/approach':route;
   if(hash==='admin'){location.replace('/studio/');return;}
+  if(slug&&!routeMovie&&!location.hash&&app.querySelector('.review-back')){wire();loadPosters();return;}
   app.innerHTML=hash==='home'?home():(hash==='browse'||hash.startsWith('browse/'))?browse():(hash==='about'||hash==='about/approach')?about():hash==='suggest'?suggestionPage():hash.startsWith('suggest/')?suggestionPage(hash.slice(8)):hash.startsWith('review/')?detail(hash.slice(7)):home();
   if(hash.startsWith('review/')){
     const id=hash.slice(7);const movie=allMovies().find(x=>x.id===id||x.contentEvidenceId===id);
