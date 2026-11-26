@@ -295,6 +295,19 @@
       ],
       "remaining_missing_reviews": 65,
       "studio_status": "Private Studio request timed out. Verified the three GitHub proposals and refreshed ledger by commit readback."
+    },
+    {
+      "date": "2026-11-26",
+      "batch_file": "editorial/review-drafts-marvel-batch-10.json",
+      "branch": "editorial/review-completion",
+      "commit": "acee8c07b567ee8cff3ed2c890b21bc1c8844698",
+      "ledger_commit": "6c47e7281003ca7249f68227450d538c35dcd2dd",
+      "film_ids": [
+        "marvel-2022-black-panther-wakanda-forever",
+        "marvel-2023-guardians-of-the-galaxy-vol-3"
+      ],
+      "remaining_missing_reviews": 63,
+      "studio_status": "Private Studio request timed out. Both repository proposals passed the draft validator and full ledger checks; GitHub readbacks verified."
     }
   ],
   "stage4_batches": [
