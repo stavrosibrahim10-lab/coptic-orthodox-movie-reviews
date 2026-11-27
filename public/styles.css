@@ -272,7 +272,7 @@
 .share-control:active{background:#dce8de}
 .share-control:focus-visible{outline:2px solid var(--forest);outline-offset:3px}
 .share-status{position:absolute;z-index:2;top:calc(100% + 6px);right:0;width:max-content;max-width:min(260px,70vw);padding:8px 12px;background:var(--paper);border:1px solid var(--border);border-radius:8px;box-shadow:var(--shadow);font-size:12px;color:#495c51;overflow-wrap:anywhere;user-select:text}
-.share-status:empty{display:none}
+.share-status:empty{width:1px;height:1px;padding:0;border:0;overflow:hidden;clip-path:inset(50%);box-shadow:none}
 @media(max-width:480px){
   .review-banner{flex-wrap:wrap}
   .review-banner-info{flex:0 0 100%;width:100%}
