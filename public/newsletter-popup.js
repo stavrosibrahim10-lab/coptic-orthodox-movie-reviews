@@ -1,7 +1,8 @@
 // Progressive enhancement; the footer and home CTA link to a native fallback form.
+import {trackAudience} from './audience.js';
 const dialog=document.getElementById('newsletter-dialog');
 if(dialog&&typeof dialog.showModal==='function'){
-  const key='tol-newsletter-prompt-until';
+  const key='tol-interest-prompt-until';
   let shown=false,timer,previousFocus;
   function postpone(days=7){try{localStorage.setItem(key,String(Date.now()+days*86400000));}catch{}}
   function canAuto(){try{return Number(localStorage.getItem(key)||0)<=Date.now();}catch{return true;}}
@@ -9,7 +10,7 @@ if(dialog&&typeof dialog.showModal==='function'){
   function open(manual=false){
     if(dialog.open)return;
     clearTimeout(timer);shown=true;previousFocus=document.activeElement;
-    dialog.showModal();
+    dialog.showModal();trackAudience({kind:'interest_prompt'});
     if(!manual)postpone();
   }
   document.addEventListener('click',event=>{
@@ -24,13 +25,13 @@ if(dialog&&typeof dialog.showModal==='function'){
   });
   dialog.addEventListener('close',()=>{postpone();if(previousFocus?.isConnected)previousFocus.focus();});
   const form=dialog.querySelector('form');
-  form.addEventListener('submit',()=>{postpone(30);const button=form.querySelector('button[type=submit]');button.disabled=true;button.textContent='Submitting…';});
-  window.addEventListener('pageshow',()=>{const button=form.querySelector('button[type=submit]');button.disabled=false;button.textContent='Subscribe to the newsletter →';});
+  form.addEventListener('submit',()=>{postpone(30);trackAudience({kind:'interest_submit'});const button=form.querySelector('button[type=submit]');button.disabled=true;button.textContent='Submitting…';});
+  window.addEventListener('pageshow',()=>{const button=form.querySelector('button[type=submit]');button.disabled=false;button.textContent='Register interest →';});
   function schedule(){
     clearTimeout(timer);
     if(home()&&!shown&&canAuto())timer=setTimeout(()=>{
       if(home()&&document.visibilityState==='visible'&&!document.querySelector('dialog[open]')&&!document.activeElement?.matches('input,textarea,select,[contenteditable=true]'))open();
-    },12000);
+    },25000);
   }
   window.addEventListener('hashchange',schedule);
   schedule();

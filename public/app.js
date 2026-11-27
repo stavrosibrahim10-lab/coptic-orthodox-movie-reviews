@@ -1,3 +1,4 @@
+import {trackAudience} from "./audience.js";
 import {movieSlug,moviePath,publicSynopsis,reviewStatus,warningCategories,warningFinding,inCollection,guidanceKey,faithPrompts,newsletter,shareLinks} from './discovery.js';
 import {catalogFilmKey, marvelCatalog} from './marvel-catalog.js';
 import {scriptureQuotes} from './scripture-quotes.js';
@@ -132,7 +133,6 @@ function home(){
   ${howToUse()}
   ${summaryStrip()}
   ${guidanceKey()}
-  <section class="section"><div class="container"><h2>Find a film for the occasion</h2><div class="method-grid"><a class="method-card" href="/#browse/family"><h3>Family movie night →</h3><p>Edifying films with suggested ages 10+ or younger. Check each review first.</p></a></div></div></section>
   <section class="section recent-section"><div class="container"><div class="section-header"><div><div class="eyebrow">Fresh recommendations</div><h2>Best recent movies</h2><p>Explore recent releases and see what families can discuss together.</p></div><a href="/#browse" class="text-link">Browse all movies →</a></div><div class="movie-grid recent-feature">${recent.map(card).join('')}</div><p class="recent-note">We display authentic published movie posters when available through our verified poster sources. If a poster is unavailable, a text cover is shown instead; no AI-generated substitute is used.</p></div></section>
   <section class="section"><div class="container"><div class="section-header"><div><div class="eyebrow">Actively reviewed</div><h2>The Orthodox Lens review library</h2><p>${allMovies().length} films in the catalog. Explore reviews with age guidance, Scripture references, and family discussion questions.</p></div><a href="/#about/approach" class="text-link">Read our framework →</a></div><div class="movie-grid">${reviewed.map(card).join('')}</div></div></section>
   ${faithPrompts()}${newsletter()}
@@ -567,10 +567,8 @@ async function refreshPublished(){
  }catch(e){published=[];console.warn('Published reviews unavailable',e.message);}
 }
 let metricTimer;
-function trackPublicEvent(evt){
- if(location.protocol==='file:'||!navigator.onLine)return;
- fetch('/api/events',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(evt),keepalive:true,credentials:'omit'}).catch(()=>{});
-}
+function trackPublicEvent(evt){trackAudience(evt);}
+let lastTrackedRoute='';
 function updateNav(hash){
   document.querySelectorAll('[data-nav]').forEach(a=>a.classList.toggle('active',hash.split('/')[0]===a.dataset.nav));
 }
@@ -588,7 +586,7 @@ async function sendSuggestion(event){
     const data=await response.json().catch(()=>({}));
     if(!response.ok)throw Error(data.error||'Unable to send the suggestion.');
     status.textContent='Thank you! Your idea was received and is awaiting editorial review. It has not been published.';
-    status.classList.add('good');event.target.reset();
+    status.classList.add('good');trackAudience({kind:'suggestion'});event.target.reset();
   }catch(error){status.textContent=error.message;status.classList.add('bad')}
   finally{button.disabled=false}
 }
@@ -598,9 +596,9 @@ function wire(){
     clearTimeout(button.shareReset);
     status.textContent='';
     try{
-      if(navigator.share){await navigator.share({title:button.dataset.shareTitle,url:button.dataset.shareUrl});}
+      if(navigator.share){await navigator.share({title:button.dataset.shareTitle,url:button.dataset.shareUrl});trackAudience({kind:'share'});}
       else{
-        await navigator.clipboard.writeText(button.dataset.shareUrl);
+        await navigator.clipboard.writeText(button.dataset.shareUrl);trackAudience({kind:'share'});
         status.textContent='Link copied.';
         button.shareReset=setTimeout(()=>{status.textContent='';},2500);
       }
@@ -637,7 +635,7 @@ function wire(){
     suggestionForm.addEventListener('submit',sendSuggestion);
     configureFields();
   }
-  document.getElementById('heroSearch')?.addEventListener('submit',e=>{e.preventDefault();currentSearch=document.getElementById('heroInput').value;location.hash='#browse';if(location.hash==='#browse') render();});
+  document.getElementById('heroSearch')?.addEventListener('submit',e=>{e.preventDefault();currentSearch=document.getElementById('heroInput').value;location.hash='#browse';if(location.hash==='#browse') render();const q=currentSearch.trim();if(q.length>=2&&q.length<=60)trackPublicEvent({kind:'search',query_term:q,result_count:allMovies().filter(matchesFilters).length});});
   if(document.getElementById('filteredResults')){
     for(const [id,setter] of [['searchFilter',v=>currentSearch=v],['verdictFilter',v=>currentVerdict=v],['ageFilter',v=>currentAge=v],['genreFilter',v=>currentGenre=v],['themeFilter',v=>currentTheme=v],['warningFilter',v=>currentWarning=v],['collectionFilter',v=>currentCollection=v]]){
       document.getElementById(id).addEventListener(id==='searchFilter'?'input':'change',e=>{setter(e.target.value);drawFiltered();});
@@ -691,9 +689,14 @@ function render(){
   if(hash==='admin'){location.replace('/studio/');return;}
   if(slug&&!routeMovie&&!location.hash&&app.querySelector('.review-back')){wire();loadPosters();return;}
   app.innerHTML=hash==='home'?home():(hash==='browse'||hash.startsWith('browse/'))?browse():(hash==='about'||hash==='about/approach')?about():hash==='suggest'?suggestionPage():hash.startsWith('suggest/')?suggestionPage(hash.slice(8)):hash.startsWith('review/')?detail(hash.slice(7)):home();
+  const routeChanged=lastTrackedRoute!==hash;
+  if(routeChanged){
+    lastTrackedRoute=hash;
+    trackAudience({kind:'page_view',page:hash.startsWith('review/')?'movie':hash.startsWith('browse')?'browse':hash.startsWith('about')?'about':hash.startsWith('suggest')?'suggestions':'home'});
+  }
   if(hash.startsWith('review/')){
     const id=hash.slice(7);const movie=allMovies().find(x=>x.id===id||x.contentEvidenceId===id);
-    if(movie){trackPublicEvent({kind:'movie_view',movie_id:movie.id,movie_title:movie.title});loadCommunityIdeas(movie.id)}
+    if(movie){if(routeChanged)trackPublicEvent({kind:'movie_view',movie_id:movie.id,movie_title:movie.title});loadCommunityIdeas(movie.id)}
   }
   updateNav(hash);
   wire();

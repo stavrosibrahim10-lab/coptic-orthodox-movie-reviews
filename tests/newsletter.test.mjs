@@ -78,5 +78,5 @@ test('popup has accessible dialog, consent and fallback',async()=>{
   assert.match(html,/<dialog id="newsletter-dialog" aria-labelledby="newsletter-dialog-title"/);
   assert.match(html,/name="consent" value="yes" required/);assert.match(html,/href="\/newsletter-signup\/" data-newsletter-open/);
   const fallback=await readFile(new URL('../public/newsletter-signup/index.html',import.meta.url),'utf8');
-  assert.match(fallback,/method="POST" action="\/api\/newsletter"/);
+  assert.match(fallback,/method="POST" action="\/api\/newsletter-interest"/);
 });

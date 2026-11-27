@@ -225,7 +225,7 @@ export default async function handler(req){
     if(method==='GET'&&action==='item')return reply(await getItem(normalizeId(query.get('id'))));
     if(method==='GET'&&action==='metrics'){
       const days=Math.min(365,Math.max(1,Number(query.get('days'))||30));
-      const r=await supabase('/rest/v1/rpc/studio_analytics_snapshot',{method:'POST',body:{p_days:days}});
+      const r=await supabase('/rest/v1/rpc/studio_analytics_snapshot',{method:'POST',body:{p_days:Math.floor(days)}});
       return reply({days,...r});
     }
     if(method==='GET'&&action==='export'){

@@ -83,4 +83,5 @@ export function createHandler(env=process.env,fetcher=globalThis.fetch,clock=()=
     }catch{console.warn('[monthly-newsletter] Configuration or upstream error');return json(503,'Newsletter automation unavailable');}
   };
 }
-export default createHandler();
+// Do not generate drafts or send campaigns until an explicit launch decision.
+export default async function handler(){if(process.env.NEWSLETTER_LAUNCH_ENABLED!=='true')return json(200,'Launch paused');return createHandler()();}
