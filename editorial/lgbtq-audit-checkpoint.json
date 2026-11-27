@@ -9999,6 +9999,222 @@
           "studio_status": "repository_draft_validated_no_authenticated_studio_save"
         }
       ]
+    },
+    {
+      "number": 18,
+      "date": "2026-11-27",
+      "review_completion_branch": "editorial/stage-4-completion",
+      "review_completion_ledger": "editorial/review-completion.tsv",
+      "films": [
+        {
+          "movie_id": "marvel-2006-ultimate-avengers",
+          "title": "Ultimate Avengers",
+          "year": 2006,
+          "version": "2006 US direct-to-DVD animated feature also released as Ultimate Avengers: The Movie",
+          "status": "proposal_saved",
+          "review_baseline": "editorial/review-drafts-marvel-batch-20.json",
+          "review_baseline_blob": "c93e8cddf78b3343baddac52a3c5bc5430c6467b",
+          "sources": [
+            "https://animatedviews.com/2006/ultimate-avengers-the-movie/",
+            "https://www.commonsensemedia.org/movie-reviews/ultimate-avengers-the-movie",
+            "https://www.comingsoon.net/dvd/reviews/13234-ultimate-avengers-the-movie",
+            "https://www.imdb.com/title/tt0491703/parentalguide/"
+          ],
+          "on_screen": "Steve stops a wartime missile and is recovered decades later. The Hulk turns on his own teammates.",
+          "on_screen_source": "https://www.comingsoon.net/dvd/reviews/13234-ultimate-avengers-the-movie",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Steve’s opening rescue shows what strength is for before the team even exists. The Hulk later puts his own allies in danger. The contrast gives the battles a moral consequence: power becomes trustworthy when someone accepts responsibility for the people in its path.",
+            "age": "13+",
+            "age_rationale": "The missile sequence puts a city at risk, and the closing battle turns teammates against each other. Blows, gunfire and injured heroes make this a better fit for teenagers even though little blood is shown.",
+            "age_source": "https://www.commonsensemedia.org/movie-reviews/ultimate-avengers-the-movie",
+            "theme_ratings": [
+              {
+                "name": "Self-sacrifice",
+                "score": 5,
+                "evidence": "Steve diverts the missile despite the danger and loses decades of his own life. That cost frames his whole return to service.",
+                "rating_rationale": "The opening rescue determines Steve’s fate across decades.",
+                "sources": [
+                  "https://www.comingsoon.net/dvd/reviews/13234-ultimate-avengers-the-movie",
+                  "https://animatedviews.com/2006/ultimate-avengers-the-movie/"
+                ]
+              },
+              {
+                "name": "Cooperation",
+                "score": 4,
+                "evidence": "Fury assembles heroes accustomed to acting alone. Learning to fight together matters both in the invasion and when the Hulk endangers them.",
+                "rating_rationale": "Teamwork becomes necessary twice, against invaders and against a teammate.",
+                "sources": [
+                  "https://www.commonsensemedia.org/movie-reviews/ultimate-avengers-the-movie",
+                  "https://animatedviews.com/2006/ultimate-avengers-the-movie/"
+                ]
+              },
+              {
+                "name": "Uncontrolled force",
+                "score": 4,
+                "evidence": "The team must defend itself against the very power Banner hoped would help. The closing battle makes that danger tangible.",
+                "rating_rationale": "The scale and placement of the final attack give loss of control substantial weight.",
+                "sources": [
+                  "https://www.imdb.com/title/tt0491703/parentalguide/",
+                  "https://animatedviews.com/2006/ultimate-avengers-the-movie/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "Sources describe flirting and jealousy without a complete accounting of relationships. Check the original first film on DVD before assigning a prominence score.",
+            "sources": [
+              "https://www.commonsensemedia.org/movie-reviews/ultimate-avengers-the-movie"
+            ],
+            "next_step": "Review the complete 2006 DVD feature for relationship context and prominence."
+          },
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "marvel-2006-ultimate-avengers-2-rise-of-the-panther",
+          "title": "Ultimate Avengers 2: Rise of the Panther",
+          "year": 2006,
+          "version": "2006 US direct-to-DVD animated sequel featuring T’Challa",
+          "status": "proposal_saved",
+          "review_baseline": "editorial/review-drafts-marvel-batch-20.json",
+          "review_baseline_blob": "c93e8cddf78b3343baddac52a3c5bc5430c6467b",
+          "sources": [
+            "https://animatedviews.com/2006/ultimate-avengers-2/",
+            "https://www.commonsensemedia.org/movie-reviews/ultimate-avengers-2-rise-of-the-panther",
+            "https://www.imdb.com/title/tt0803093/parentalguide/"
+          ],
+          "on_screen": "After his father dies, T’Challa shares information with Captain America and loses his crown. Hank’s growth experiment alarms Janet.",
+          "on_screen_source": "https://animatedviews.com/2006/ultimate-avengers-2/",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "T’Challa accepts personal loss to protect his people. Yet the Avengers also enter Wakanda against his wishes, and Captain America repeatedly acts alone. The story gives families grounds to admire costly trust while questioning how easily a rescuer can disregard the judgment of those he wants to help.",
+            "age": "16+",
+            "age_rationale": "The sequel sustains the fighting across multiple attacks and gives several losses lasting emotional weight, including the death of T’Challa’s father. Frightening visions and the death of a teammate support an older-teen recommendation even with limited blood.",
+            "age_source": "https://www.commonsensemedia.org/movie-reviews/ultimate-avengers-2-rise-of-the-panther",
+            "theme_ratings": [
+              {
+                "name": "Responsibility",
+                "score": 4,
+                "evidence": "T’Challa shares information that could protect Wakanda, knowing cooperation risks his standing. Losing his crown makes the cost explicit.",
+                "rating_rationale": "The crown is the price of helping, so the choice changes both family and political obligations.",
+                "sources": [
+                  "https://animatedviews.com/2006/ultimate-avengers-2/"
+                ]
+              },
+              {
+                "name": "Care for a spouse",
+                "score": 3,
+                "evidence": "Janet voices concern after Hank almost dies testing his powers. Her care carries weight in their marriage even when he resents it.",
+                "rating_rationale": "Janet’s warning is a significant moment in the marriage subplot.",
+                "sources": [
+                  "https://animatedviews.com/2006/ultimate-avengers-2/"
+                ]
+              },
+              {
+                "name": "Recklessness",
+                "score": 4,
+                "evidence": "Hank endangers himself while testing his limits, and Captain America keeps leaving the team. Separate storylines show who else must carry the risk.",
+                "rating_rationale": "Both Hank and Steve risk others’ safety through independent action.",
+                "sources": [
+                  "https://animatedviews.com/2006/ultimate-avengers-2/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "Sources describe a kiss and marital conflict without a complete accounting of relationships. Check the original sequel on DVD before assigning a prominence score.",
+            "sources": [
+              "https://www.commonsensemedia.org/movie-reviews/ultimate-avengers-2-rise-of-the-panther"
+            ],
+            "next_step": "Review the complete 2006 DVD feature for relationship context and prominence."
+          },
+          "open_evidence": [
+            {
+              "field": "language",
+              "reason": "Common Sense Media marks language absent. An IMDb contributor reports one mild swear.",
+              "next_step": "Check English dialogue against the original DVD captions and record the time and speaker.",
+              "sources": [
+                "https://www.commonsensemedia.org/movie-reviews/ultimate-avengers-2-rise-of-the-panther",
+                "https://www.imdb.com/title/tt0803093/parentalguide/"
+              ]
+            }
+          ],
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "film-elio-2025",
+          "title": "Elio",
+          "year": 2025,
+          "version": "2025 Pixar PG animated theatrical feature",
+          "review_baseline": "public/seed-reviews.js",
+          "review_baseline_blob": "65cf4053ad16b37541068fb57362e212670115b7",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pixar.com/elio",
+            "https://www.classificationoffice.govt.nz/find-a-rating/quick-takes/elio/",
+            "https://kids-in-mind.com/e/elio-parents-guide-movie-review-rating.htm",
+            "https://themoviespoiler.com/movies/elio/"
+          ],
+          "on_screen": "Elio offers Glordon a way to stay with him by sending a clone to Grigon. Olga discovers the missing eye beneath the patch of the duplicate left with her.",
+          "on_screen_source": "https://themoviespoiler.com/movies/elio/",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Elio recognizes that Glordon also feels lonely and wants a say in his future. Using substitutes to avoid the adults’ reactions causes further hurt. The consequences invite families to ask how love can make it easier to tell the truth.",
+            "age": "7+",
+            "age_rationale": "A fight injures Elio’s eye and leaves a visible bruise. Bereavement, bullying and the strange physical changes of his duplicate may be upsetting to younger children.",
+            "age_source": "https://www.classificationoffice.govt.nz/find-a-rating/quick-takes/elio/",
+            "theme_ratings": [
+              {
+                "name": "Compassion and service",
+                "score": 4,
+                "evidence": "Elio tries to give Glordon the freedom to choose his own future.",
+                "rating_rationale": "Concern for Glordon shapes the central friendship, even when Elio’s plan is misguided.",
+                "sources": [
+                  "https://themoviespoiler.com/movies/elio/"
+                ]
+              },
+              {
+                "name": "Family and responsibility",
+                "score": 4,
+                "evidence": "Olga cares for Elio after his parents die; his absence and the substitute strain their relationship.",
+                "rating_rationale": "The consequences of leaving home extend across the Earth and space storylines.",
+                "sources": [
+                  "https://www.pixar.com/elio"
+                ]
+              },
+              {
+                "name": "Violence and cruelty",
+                "score": 2,
+                "evidence": "A camp fight leaves Elio needing an eye patch.",
+                "rating_rationale": "Bullying has a visible consequence, with additional peril in the space adventure.",
+                "sources": [
+                  "https://www.classificationoffice.govt.nz/find-a-rating/quick-takes/elio/"
+                ]
+              },
+              {
+                "name": "Language / religious exclamations",
+                "score": 1,
+                "evidence": "The parental guide documents name-calling.",
+                "rating_rationale": "The recorded insults have limited narrative weight. The score is supported by name-calling alone.",
+                "sources": [
+                  "https://kids-in-mind.com/e/elio-parents-guide-movie-review-rating.htm"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "Friendship with Glordon does not establish a romantic relationship. The released feature must supply any evidence for a prominence score.",
+            "sources": [
+              "https://www.pixar.com/elio"
+            ],
+            "next_step": "Screen the released feature for dialogue and visible material, keeping accounts of earlier versions separate."
+          },
+          "studio_status": "repository_proposal_no_authenticated_studio_save"
+        }
+      ]
     }
   ]
 }
