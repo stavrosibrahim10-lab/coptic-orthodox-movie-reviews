@@ -10215,6 +10215,219 @@
           "studio_status": "repository_proposal_no_authenticated_studio_save"
         }
       ]
+    },
+    {
+      "number": 19,
+      "date": "2026-11-27",
+      "review_completion_branch": "editorial/stage-4-completion",
+      "review_completion_ledger": "editorial/review-completion.tsv",
+      "films": [
+        {
+          "movie_id": "marvel-2008-next-avengers-heroes-of-tomorrow",
+          "title": "Next Avengers: Heroes of Tomorrow",
+          "year": 2008,
+          "version": "2008 US Lionsgate animated DVD feature",
+          "status": "proposal_saved",
+          "review_baseline": "editorial/review-drafts-marvel-batch-21.json",
+          "review_baseline_blob": "ffbbd279a92395d55e57543a7edee5724f538263",
+          "sources": [
+            "https://www.commonsensemedia.org/movie-reviews/next-avengers-heroes-of-tomorrow",
+            "https://comicvine.gamespot.com/articles/next-avengers-heroes-of-tomorrow-dvd-review/1100-135175/",
+            "https://en.wikipedia.org/wiki/Next_Avengers:_Heroes_of_Tomorrow",
+            "https://www.dvdreview.com/2008/10/next-avengers-heroes-of-tomorrow/"
+          ],
+          "on_screen": "Tony raises the children after Ultron kills their parents. James activates the robots and the children subsequently go to rescue Tony.",
+          "on_screen_source": "https://comicvine.gamespot.com/articles/next-avengers-heroes-of-tomorrow-dvd-review/1100-135175/",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Tony spends years doing a guardian’s work after the other Avengers fall. The children in turn risk themselves for him. Avenging their parents gives the fighting an angry edge, but freeing the person who raised them gives them a purpose that defeating an enemy alone could never fulfill.",
+            "age": "10+",
+            "age_rationale": "Repeated robot battles and the threat of losing a second caregiver give this adventure weight for a child. Children who have lost a parent may find Tony’s capture harder than the fighting.",
+            "age_source": "https://www.commonsensemedia.org/movie-reviews/next-avengers-heroes-of-tomorrow",
+            "theme_ratings": [
+              {
+                "name": "Faithful care",
+                "score": 5,
+                "evidence": "Tony’s years as guardian establish the family bond behind the rescue and explain why his capture matters.",
+                "rating_rationale": "Care motivates both generations throughout the story.",
+                "sources": [
+                  "https://comicvine.gamespot.com/articles/next-avengers-heroes-of-tomorrow-dvd-review/1100-135175/"
+                ]
+              },
+              {
+                "name": "Courage in service",
+                "score": 4,
+                "evidence": "The young heroes enter Ultron’s city and join forces with Francis to bring Tony out. Courage serves a particular person at risk.",
+                "rating_rationale": "Courage drives the rescue once the children leave shelter.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/Next_Avengers:_Heroes_of_Tomorrow"
+                ]
+              },
+              {
+                "name": "Vengeance",
+                "score": 3,
+                "evidence": "The children face the killer of their parents. The wish to avenge them accompanies the conflict, though their immediate rescue mission gives them another reason to act.",
+                "rating_rationale": "Revenge recurs but shares the children’s motivation with rescue.",
+                "sources": [
+                  "https://www.commonsensemedia.org/movie-reviews/next-avengers-heroes-of-tomorrow"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The guide describes competitive flirting. The evidence does not establish film-wide prominence. Check the original 2008 DVD and record relevant scenes before assigning a score.",
+            "sources": [
+              "https://www.commonsensemedia.org/movie-reviews/next-avengers-heroes-of-tomorrow"
+            ],
+            "next_step": "Check the original DVD and document screening coverage."
+          },
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "marvel-2010-planet-hulk",
+          "title": "Planet Hulk",
+          "year": 2010,
+          "version": "2010 US Lionsgate animated DVD feature",
+          "status": "proposal_saved",
+          "review_baseline": "editorial/review-drafts-marvel-batch-21.json",
+          "review_baseline_blob": "ffbbd279a92395d55e57543a7edee5724f538263",
+          "sources": [
+            "https://www.commonsensemedia.org/movie-reviews/planet-hulk",
+            "https://www.ahml.info/catalog/record/1936491",
+            "https://www.wired.com/2010/02/review-planet-hulk/",
+            "https://www.chud.com/22794/dvd-review-planet-hulk-2-disc-special-edition/"
+          ],
+          "on_screen": "Captives fight at the Red King’s command. Hulk continues striking a fallen opponent. Fellow captives stand by Hulk.",
+          "on_screen_source": "https://www.commonsensemedia.org/movie-reviews/planet-hulk",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "The captives’ refusal to abandon Hulk gives their fellowship moral force. The arena exposes a ruler who treats persons as property. Yet the film also invites viewers to enjoy the same punishing blows that entertain an arena crowd. Families have reason to admire the prisoners’ loyalty and to question that pleasure.",
+            "age": "16+",
+            "age_rationale": "Sustained animated combat includes severed bodies and bloody blows to a fallen opponent. Creatures invade victims’ bodies. These sequences warrant older-teen guidance even for viewers familiar with lighter Hulk adventures.",
+            "age_source": "https://www.commonsensemedia.org/movie-reviews/planet-hulk",
+            "theme_ratings": [
+              {
+                "name": "Solidarity",
+                "score": 4,
+                "evidence": "Miek and the other captives claim Hulk as one of their own and persist when he withdraws. Belonging changes what escape would mean.",
+                "rating_rationale": "Loyalty recurs through the prisoners’ decision to stay together.",
+                "sources": [
+                  "https://www.commonsensemedia.org/movie-reviews/planet-hulk"
+                ]
+              },
+              {
+                "name": "Domination",
+                "score": 5,
+                "evidence": "The Red King’s regime sells captives into arena combat. Coercion is the premise for the entire gladiator story.",
+                "rating_rationale": "Coercion organizes the entire arena narrative.",
+                "sources": [
+                  "https://www.ahml.info/catalog/record/1936491"
+                ]
+              },
+              {
+                "name": "Anger and cruelty",
+                "score": 5,
+                "evidence": "Hulk keeps striking a fallen opponent. The frequency and bloody detail of the fights compete with the story’s criticism of forced combat.",
+                "rating_rationale": "Repeated graphic blows receive sustained attention, including after an opponent falls.",
+                "sources": [
+                  "https://www.commonsensemedia.org/movie-reviews/planet-hulk"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The guide describes Hulk and Caiera’s encounter. The evidence does not establish film-wide prominence. Check the original 2010 DVD and record relevant scenes before assigning a score.",
+            "sources": [
+              "https://www.commonsensemedia.org/movie-reviews/planet-hulk"
+            ],
+            "next_step": "Check the original DVD and document screening coverage."
+          },
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "researched-lilo-stitch-2025",
+          "title": "Lilo & Stitch",
+          "year": 2025,
+          "version": "2025 live-action theatrical feature",
+          "status": "proposal_saved",
+          "review_baseline": "public/seed-reviews.js",
+          "review_baseline_blob": "65cf4053ad16b37541068fb57362e212670115b7",
+          "sources": [
+            "https://movies.disney.com/lilo-and-stitch-2025",
+            "https://www.classificationoffice.govt.nz/find-a-rating/quick-takes/lilo-stitch-2025/",
+            "https://kids-in-mind.com/l/lilo-stitch-parents-guide-movie-review-rating.htm",
+            "https://en.wikipedia.org/wiki/Lilo_%26_Stitch_%282025_film%29"
+          ],
+          "on_screen": "After the spacecraft crashes in the water, Stitch releases Lilo so she can surface. Nani returns for Stitch. The council permits him to stay with the family.",
+          "on_screen_source": "https://en.wikipedia.org/wiki/Lilo_%26_Stitch_%282025_film%29",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Stitch initially endangers his hosts. His decision to protect Lilo at a cost to himself gives the council a reason to recognize his change. Nani extends the same care to him.",
+            "age": "7+",
+            "age_rationale": "Grief over the parents’ deaths and fear of losing another family member may linger after the underwater peril ends. The comic chase scenes also include bullying and weapons.",
+            "age_source": "https://www.classificationoffice.govt.nz/find-a-rating/quick-takes/lilo-stitch-2025/",
+            "theme_ratings": [
+              {
+                "name": "Family and responsibility",
+                "score": 5,
+                "evidence": "Nani cares for her sister under threat of separation and returns for Stitch. Protecting this household drives the story.",
+                "rating_rationale": "Nani cares for her sister under threat of separation and returns for Stitch. Protecting this household drives the story.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/Lilo_%26_Stitch_%282025_film%29"
+                ]
+              },
+              {
+                "name": "Love and self-sacrifice",
+                "score": 5,
+                "evidence": "Stitch releases Lilo despite his inability to swim. Nani then risks herself for him. Both decisions determine the ending.",
+                "rating_rationale": "Stitch releases Lilo despite his inability to swim. Nani then risks herself for him. Both decisions determine the ending.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/Lilo_%26_Stitch_%282025_film%29"
+                ]
+              },
+              {
+                "name": "Humility and repentance",
+                "score": 3,
+                "evidence": "Stitch changes his conduct toward his hosts. His protective act supports a reading of repentance, though the scene establishes no explicit confession.",
+                "rating_rationale": "Stitch changes his conduct toward his hosts. His protective act supports a reading of repentance, though the scene establishes no explicit confession.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/Lilo_%26_Stitch_%282025_film%29"
+                ]
+              },
+              {
+                "name": "Violence and cruelty",
+                "score": 2,
+                "evidence": "Bullying and fantasy attacks recur in short bursts. The underwater rescue carries greater emotional weight.",
+                "rating_rationale": "Bullying and fantasy attacks recur in short bursts. The underwater rescue carries greater emotional weight.",
+                "sources": [
+                  "https://www.classificationoffice.govt.nz/find-a-rating/quick-takes/lilo-stitch-2025/"
+                ]
+              },
+              {
+                "name": "Profanity and blasphemy",
+                "score": 1,
+                "evidence": "The parental guide identifies mild exclamations and insults. These carry little narrative weight.",
+                "rating_rationale": "The parental guide identifies mild exclamations and insults. These carry little narrative weight.",
+                "sources": [
+                  "https://kids-in-mind.com/l/lilo-stitch-parents-guide-movie-review-rating.htm"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "Available sources do not establish film-wide prominence.",
+            "sources": [
+              "https://www.classificationoffice.govt.nz/find-a-rating/quick-takes/lilo-stitch-2025/",
+              "https://kids-in-mind.com/l/lilo-stitch-parents-guide-movie-review-rating.htm"
+            ],
+            "next_step": "Screen the 2025 live-action theatrical version and document coverage."
+          },
+          "studio_status": "repository_proposal_no_authenticated_studio_save"
+        }
+      ]
     }
   ]
 }
