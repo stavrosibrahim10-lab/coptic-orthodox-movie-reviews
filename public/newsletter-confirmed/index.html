@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="robots" content="noindex,follow">
+  <meta name="referrer" content="no-referrer">
+  <meta name="theme-color" content="#101d1f">
+  <title>Subscription confirmed | The Orthodox Lens</title>
+  <link rel="stylesheet" href="/styles.css">
+  <style>
+    .confirmation-page{min-height:100vh;min-height:100svh;display:grid;place-items:center;padding:32px 20px;background:var(--cream)}
+    .confirmation-card{width:100%;max-width:660px;overflow:hidden;border:1px solid var(--border);border-radius:12px;background:var(--paper);box-shadow:var(--shadow);text-align:center}
+    .confirmation-brand{padding:28px 20px;background:var(--deep);color:var(--paper)}
+    .confirmation-brand a{display:inline-flex;align-items:center;gap:12px;text-align:left}
+    .confirmation-brand .brand-mark{color:var(--gold);font-size:40px}
+    .confirmation-brand strong{display:block;font-size:13px;letter-spacing:.13em}
+    .confirmation-brand small{display:block;color:var(--gold);font-size:10px;letter-spacing:.22em}
+    .confirmation-content{padding:48px 32px 40px}
+    .confirmation-icon{display:grid;place-items:center;width:62px;height:62px;margin:0 auto 24px;border-radius:50%;background:var(--mint);color:var(--forest)}
+    .confirmation-content h1{font-size:clamp(28px,5vw,44px);margin:13px 0 18px}
+    .confirmation-content p{max-width:470px;margin:0 auto 16px;color:var(--muted);font-size:16px;line-height:1.75}
+    .confirmation-actions{display:flex;justify-content:center;flex-wrap:wrap;gap:12px;margin:28px 0}
+    .confirmation-note{border-top:1px solid var(--border);padding-top:24px;margin-top:28px}
+    .confirmation-note p{font-size:13px}
+    .confirmation-footer{padding:18px 20px;border-top:1px solid var(--border);color:var(--forest);font-size:11px;letter-spacing:.13em;font-weight:700;text-transform:uppercase}
+    a:focus-visible{outline:2px solid var(--forest);outline-offset:4px}
+    @media(max-width:480px){.confirmation-content{padding:32px 20px}.confirmation-actions .btn{width:100%}}
+  </style>
+</head>
+<body>
+  <main class="confirmation-page">
+    <article class="confirmation-card" aria-labelledby="confirmation-heading">
+      <header class="confirmation-brand">
+        <a href="/" aria-label="The Orthodox Lens home">
+          <span class="brand-mark" aria-hidden="true">✣</span>
+          <span><strong>THE ORTHODOX LENS</strong><small>WATCH WITH DISCERNMENT</small></span>
+        </a>
+      </header>
+      <div class="confirmation-content">
+        <div class="confirmation-icon" aria-hidden="true">
+          <svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 4 4L19 6"/></svg>
+        </div>
+        <div class="eyebrow">Subscription confirmed</div>
+        <h1 id="confirmation-heading">You're subscribed!</h1>
+        <p>Thank you for confirming your email address. Welcome to The Orthodox Lens newsletter.</p>
+        <p>Look forward to thoughtful film recommendations, Christian reflections and meaningful family discussion questions each month.</p>
+        <div class="confirmation-actions">
+          <a class="btn gold" href="/#browse">Explore movie reviews <span aria-hidden="true">→</span></a>
+          <a class="btn outline" href="/">Return home</a>
+        </div>
+        <div class="confirmation-note"><p>You can unsubscribe at any time using the link in our newsletters.</p></div>
+      </div>
+      <footer class="confirmation-footer">Faith. Film. Discernment. &nbsp;·&nbsp; Philippians 4:8</footer>
+    </article>
+  </main>
+</body>
+</html>

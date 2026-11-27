@@ -11,7 +11,7 @@ test('DOI payload contains only the intended list and template',async()=>{
     calls++;
     assert.equal(url,'https://api.brevo.com/v3/contacts/doubleOptinConfirmation');
     assert.equal(options.headers['api-key'],'fake-secret');
-    assert.deepEqual(JSON.parse(options.body),{email:'reader@example.com',includeListIds:[3],templateId:42,redirectionUrl:'https://theorthodoxlens.org/'});
+    assert.deepEqual(JSON.parse(options.body),{email:'reader@example.com',includeListIds:[3],templateId:42,redirectionUrl:'https://theorthodoxlens.org/newsletter-confirmed/'});
     return new Response(null,{status:201});
   });
   const result=await run(req());
@@ -33,4 +33,12 @@ test('upstream errors do not expose credentials or subscriber information',async
   const run=createHandler(env,async()=>new Response('private details',{status:401}));
   const response=await run(req());
   assert.equal(response.status,503);assert.doesNotMatch(await response.text(),/fake-secret|private details|reader@example.com/);
+});
+
+import {readFile} from 'node:fs/promises';
+test('confirmation destination exists and is not indexable',async()=>{
+  const html=await readFile(new URL('../public/newsletter-confirmed/index.html',import.meta.url),'utf8');
+  assert.match(html,/You're subscribed!/);
+  assert.match(html,/name="robots" content="noindex,follow"/);
+  assert.match(html,/href="\/#browse"/);
 });

@@ -23,7 +23,7 @@ export function createHandler(env=process.env,send=globalThis.fetch){
     try{
       const response=await send('https://api.brevo.com/v3/contacts/doubleOptinConfirmation',{
         method:'POST',headers:{'api-key':env.BREVO_API_KEY,'Content-Type':'application/json','Accept':'application/json'},
-        body:JSON.stringify({email,includeListIds:[list],templateId:template,redirectionUrl:site+'/'}),signal:AbortSignal.timeout(10000)
+        body:JSON.stringify({email,includeListIds:[list],templateId:template,redirectionUrl:site+'/newsletter-confirmed/'}),signal:AbortSignal.timeout(10000)
       });
       if(response.ok)return success();
       const info=await response.json().catch(()=>({}));
