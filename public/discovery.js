@@ -45,5 +45,5 @@ export function newsletter(){
 }
 export function shareLinks(movie){
   const url=SITE+moviePath(movie), title=movie.title+' | The Orthodox Lens';
-  return '<div class="review-share"><button type="button" class="share-control" data-share-url="'+escapeHtml(url)+'" data-share-title="'+escapeHtml(title)+'" aria-label="Share '+escapeHtml(movie.title)+'"><svg aria-hidden="true" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 15V3m-4 4 4-4 4 4M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-7"/></svg><span data-share-label>Share</span></button><span role="status" id="share-status" class="share-status"></span></div>';
+  return '<div class="review-share"><button type="button" class="share-control" data-share-url="'+escapeHtml(url)+'" data-share-title="'+escapeHtml(title)+'" aria-label="Share '+escapeHtml(movie.title)+'" title="Share movie"><svg aria-hidden="true" focusable="false" width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 15V3m-4 4 4-4 4 4M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-7"/></svg></button><span role="status" aria-live="polite" aria-atomic="true" id="share-status" class="share-status"></span></div>';
 }

@@ -278,11 +278,12 @@ function researchLinksBlock(r){
 
 function reviewBanner(r){
   const metadata=[r.year,r.genre||'Film',r.runtime,r.officialRating].filter(value=>value&&!/unverified/i.test(String(value)));
-  return `<div class="paper-panel"><div class="review-banner">${renderCover(r,{large:true})}<div>
-    <h1>${esc(r.title)}</h1><p class="meta">${metadata.map(esc).join(' · ')}</p>
-    ${r.verdict?pill(r.verdict):`<p class="review-status">${esc(reviewStatus(r))}</p>`}${shareLinks(r)}
-    ${r.age?`<div class="tag-row"><span class="tag">Suggested age: ${esc(r.age)}</span></div>`:''}
-    ${publicSynopsis(r)?`<p class="movie-synopsis">${esc(publicSynopsis(r))}</p>`:''}
+  const synopsis=publicSynopsis(r);
+  return `<div class="paper-panel"><div class="review-banner">${renderCover(r,{large:true})}<div class="review-banner-info">
+    <div class="review-title-row"><h1>${esc(r.title)}</h1>${shareLinks(r)}</div>
+    <p class="meta">${metadata.map(esc).join(' · ')}</p>
+    ${r.verdict?`<div class="review-badges">${pill(r.verdict)}${r.age?`<span class="tag">Suggested age: ${esc(r.age)}</span>`:''}</div>`:`<p class="review-status">${esc(reviewStatus(r))}</p>`}
+    ${synopsis?`<p class="movie-synopsis">${esc(synopsis)}</p>`:''}
   </div></div>${r.verdict ? themeRatingPreview(r) : ''}</div>`;
 }
 
@@ -592,7 +593,21 @@ async function sendSuggestion(event){
   finally{button.disabled=false}
 }
 function wire(){
-  app.querySelectorAll('[data-share-url]').forEach(button=>button.addEventListener('click',async()=>{const status=document.getElementById('share-status');try{if(navigator.share)await navigator.share({title:button.dataset.shareTitle,url:button.dataset.shareUrl});else{await navigator.clipboard.writeText(button.dataset.shareUrl);status.textContent='Link copied.';const label=button.querySelector('[data-share-label]');if(label){label.textContent='Copied!';clearTimeout(button.shareReset);button.shareReset=setTimeout(()=>{label.textContent='Share';status.textContent='';},2000);}}}catch(error){if(error.name!=='AbortError')status.textContent='Copy this URL: '+button.dataset.shareUrl;}}));
+  app.querySelectorAll('[data-share-url]').forEach(button=>button.addEventListener('click',async()=>{
+    const status=button.parentElement.querySelector('.share-status');
+    clearTimeout(button.shareReset);
+    status.textContent='';
+    try{
+      if(navigator.share){await navigator.share({title:button.dataset.shareTitle,url:button.dataset.shareUrl});}
+      else{
+        await navigator.clipboard.writeText(button.dataset.shareUrl);
+        status.textContent='Link copied.';
+        button.shareReset=setTimeout(()=>{status.textContent='';},2500);
+      }
+    }catch(error){
+      if(error.name!=='AbortError')status.textContent='Copy this URL: '+button.dataset.shareUrl;
+    }
+  }));
   const track = document.getElementById('theme-track');
   if (track) wireThemeSlider(track);
   app.querySelectorAll('[data-review-jump]').forEach(button=>button.addEventListener('click',()=>{

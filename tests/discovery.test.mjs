@@ -35,3 +35,13 @@ test('public synopsis expands the known short King of Kings description only',()
   assert.equal(publicSynopsis({...movie,year:1961}),movie.synopsis);
   assert.equal(publicSynopsis({title:'Other movie'}),'');
 });
+
+
+test('movie sharing is an icon-only control with an accessible name and status',()=>{
+  const html=shareLinks({title:'A & B',year:2020});
+  assert.match(html,/aria-label="Share A &amp; B"/);
+  assert.match(html,/title="Share movie"/);
+  assert.match(html,/<svg aria-hidden="true" focusable="false"/);
+  assert.doesNotMatch(html,/data-share-label|>Share</);
+  assert.match(html,/role="status" aria-live="polite" aria-atomic="true"/);
+});
