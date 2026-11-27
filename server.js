@@ -8,6 +8,7 @@ import studioHandler from './netlify/functions/studio.mjs';
 import reviewsHandler from './netlify/functions/reviews.mjs';
 import eventsHandler from './netlify/functions/events.mjs';
 import posterHandler from './netlify/functions/poster.mjs';
+import newsletterFilmsHandler from './netlify/functions/newsletter-films.mjs';
 import suggestionsHandler from './netlify/functions/suggestions.mjs';
 const root=path.dirname(fileURLToPath(import.meta.url));
 const publicRoot=path.join(root,'public');
@@ -27,7 +28,7 @@ async function invoke(req,res,handler){
 const server=http.createServer(async(req,res)=>{
   try{
     const url=new URL(req.url,`http://${req.headers.host||`localhost:${PORT}`}`);
-    const api={'/api/studio':studioHandler,'/api/reviews':reviewsHandler,'/api/events':eventsHandler,'/api/poster':posterHandler,'/api/suggestions':suggestionsHandler};
+    const api={'/api/studio':studioHandler,'/api/reviews':reviewsHandler,'/api/events':eventsHandler,'/api/poster':posterHandler,'/api/suggestions':suggestionsHandler,'/api/newsletter-films':newsletterFilmsHandler};
     if(api[url.pathname])return await invoke(req,res,api[url.pathname]);
     if(url.pathname.startsWith('/api/admin/'))return respond(res,410,{error:'The previous single-password admin API was retired. Use /studio/.'});
     if(url.pathname.startsWith('/api/'))return respond(res,404,{error:'Unknown API route'});
