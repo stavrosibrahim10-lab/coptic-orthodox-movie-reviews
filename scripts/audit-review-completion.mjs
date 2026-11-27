@@ -36,8 +36,10 @@ function addScreening(records, scoreKey, provenance, sourceCheck) {
 }
 const readEditorial = name => JSON.parse(readFileSync(new URL(name, editorialDir), 'utf8'));
 const rollingArg = process.argv.find(arg => arg.startsWith('--rolling='));
-if (rollingArg) {
-  const rolling = JSON.parse(readFileSync(rollingArg.slice('--rolling='.length), 'utf8'));
+{
+  const rolling = rollingArg
+    ? JSON.parse(readFileSync(rollingArg.slice('--rolling='.length), 'utf8'))
+    : readEditorial('lgbtq-audit-checkpoint.json');
   for (const batch of rolling.stage4_batches ?? []) {
     for (const film of batch.films) stage4.set(film.movie_id, `batch ${batch.number}: ${film.status}`);
   }
