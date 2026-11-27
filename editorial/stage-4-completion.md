@@ -4,7 +4,7 @@ Status: in progress. The opening catalog has 315 films, including 59 without a f
 
 ## Current Stage 4 audit
 
-The catalog contains 315 distinct IDs. Of the original 59 missing reviews, 35 now have validated first drafts and 24 remain. Across the full catalog, 291 have review records. The rolling checkpoint contains Stage 4 proposals for 147 films, leaving 144 existing records awaiting this audit and 24 awaiting a first review. All original queue IDs occur exactly once in the catalog.
+The catalog contains 315 distinct IDs. Of the original 59 missing reviews, 38 now have validated first drafts and 21 remain. Across the full catalog, 294 have review records. The rolling checkpoint contains Stage 4 proposals for 150 films, leaving 144 existing records awaiting this audit and 21 awaiting a first review. All original queue IDs occur exactly once in the catalog.
 
 Batch 11 independently checked the seven new queue drafts. Their saved draft files contain the proposed assessments. The checkpoint records scene evidence, the reason for each theme score, age guidance and outstanding screening fields. Six film-wide LGBTQ prominence scores remain open in this batch. The New Mutants carries a documented proposal of 4. Private Studio saves are unverified. Human acceptance is pending.
 
@@ -34,9 +34,11 @@ Batch 23 checked the 2010 and 2013 theatrical Kick-Ass films and the three live-
 
 Batch 24 audited four releases: the two 1979 Captain America television films (both Edifying, 10+), Hoppers (2026, Edifying, 7+) and Harry Potter and the Sorcerer’s Stone (2001 theatrical, Neutral, 10+). The sequel’s transcript supplies a specific mild swear. The ledger now incorporates sourced checkpoint findings for open categories. Hoppers has a proposed increase in Violence and cruelty from 1 to 3 for a death and pursuit for revenge. All four film-wide LGBTQ scores await screening. Repository proposals are verified; private Studio saves are unverified.
 
-At 1:25 p.m. Eastern on November 27, 25 proposals had been audited that day. Reaching 60 today requires 35 more, about 3.3 per remaining hour. From 147, the cumulative targets require 53 more by the end of November 28, another 60 on November 29, and 55 on November 30. The last milestone also depends on first reviews for the remaining 24 films and documented decisions on evidence exceptions.
+Batch 25 checked the 1978 Dr. Strange television pilot, the 2007 animated DVD and the 2022 Multiverse of Madness theatrical film. Each retains a proposed Neutral verdict. The proposed ages are 13+, 13+ and 16+, respectively. The checkpoint adds a sourced finding about Morgan’s attempted seduction in the pilot. Film-wide LGBTQ prominence remains open for the first two releases. The 2022 memory of America’s two mothers supports a provisional score of 1. Private Studio saves remain unverified.
 
-The full repository checklist passes for nine titles and includes later-stage fields. Stage 4 progress above counts audited proposals, independently of that checklist.
+As of this November 27 afternoon batch, 28 distinct proposals have been audited today. The daily goal requires 32 more, roughly 3.3 per hour through midnight Eastern. From 150 cumulative, the November 28 milestone requires 50 more, followed by 60 for November 29 and 55 for November 30. Reconciliation depends on the 21 outstanding first reviews and explicit disposition of evidence exceptions.
+
+The full repository checklist passes for ten titles and includes later-stage fields. Stage 4 progress above counts audited proposals, independently of that checklist.
 
 ## Release decision
 
