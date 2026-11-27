@@ -422,7 +422,9 @@ function publicReviewText(value){
     .replace(/^Conservative provisional site suggestion/i,'Conservative age suggestion')
     .replace(/\s*This classification is based on the documented premise and major themes, not a full scene-by-scene verification; further content research could change it\./g,
       ' The assessment draws on the documented premise and major themes.')
-    .replace(/\s*Complete content verification may require a different age recommendation\./g,'');
+    .replace(/\s*Complete content verification may require a different age recommendation\./g,'')
+    .trimStart()
+    .replace(/^[a-z]/, letter => letter.toUpperCase());
 }
 
 function themeRatingPreview(review){
@@ -432,20 +434,20 @@ function themeRatingPreview(review){
   ).filter(Boolean);
   const ordered = [...new Set([...leaders, ...themes])];
   if (!ordered.length) return '';
-  const arrow = (direction, label, symbol) => `<button type="button" class="theme-arrow" data-step="${direction}"
-    aria-label="${label}" aria-controls="theme-track" hidden><span aria-hidden="true">${symbol}</span></button>`;
+  const arrow = (direction, label) => `<button type="button" class="theme-arrow" data-step="${direction}"
+    aria-label="${label}" aria-controls="theme-track" hidden><svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="${direction < 0 ? 'M15 6l-6 6 6 6' : 'M9 6l6 6-6 6'}"/></svg></button>`;
   return `<section class="theme-preview" aria-labelledby="theme-preview-heading">
     <header class="theme-preview-header">
       <h2 id="theme-preview-heading">Spiritual theme ratings</h2>
       <button type="button" data-review-jump="theme-ratings" aria-label="View all spiritual theme ratings">View all <span aria-hidden="true">↓</span></button>
     </header>
     <div class="theme-slider">
-      ${arrow(-1, 'Previous theme ratings', '‹')}
+      ${arrow(-1, 'Previous theme ratings')}
       <ul id="theme-track" class="theme-preview-list" aria-label="Spiritual theme scores">${ordered.map(theme =>
         `<li><div><strong>${esc(theme.name)}</strong>${theme.portrayal ? `<small>${esc(theme.portrayal)}</small>` : ''}</div>
           <b class="theme-preview-score">${esc(theme.score)}<small>/5</small></b></li>`
       ).join('')}</ul>
-      ${arrow(1, 'Next theme ratings', '›')}
+      ${arrow(1, 'Next theme ratings')}
     </div>
     <small class="theme-position" aria-live="polite" aria-atomic="true"></small>
   </section>`;
