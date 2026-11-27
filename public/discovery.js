@@ -6,6 +6,14 @@ export function movieSlug(movie){
   return (title||'film')+'-'+String(movie.year||'unknown').replace(/[^a-z0-9]/gi,'');
 }
 export const moviePath=movie=>'/movies/'+movieSlug(movie)+'/';
+// Expand a known short catalog synopsis without overwriting newer editorial copy.
+export function publicSynopsis(movie){
+  const synopsis=movie.synopsis||'';
+  if(movieSlug(movie)==='the-king-of-kings-2025' && synopsis==='Charles Dickens narrates the life of Jesus Christ to his young son in an animated retelling.'){
+    return 'Charles Dickens tells his young son the story of Jesus Christ in this animated retelling of the Gospel. Through the life, teachings and miracles of Jesus, the boy encounters a story of faith, love and sacrifice that leads to the Crucifixion and Resurrection.';
+  }
+  return synopsis;
+}
 export const warningCategories={
   sexual_content:'Sexual content',language:'Language & blasphemy',violence:'Violence & peril',
   spiritual_material:'Occult / spiritual material',substance_use:'Alcohol, drugs & smoking',moral_themes:'Moral themes'

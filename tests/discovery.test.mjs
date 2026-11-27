@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import {moviePath,reviewStatus,inCollection,warningFinding,shareLinks,escapeHtml} from '../public/discovery.js';
+import {moviePath,publicSynopsis,reviewStatus,inCollection,warningFinding,shareLinks,escapeHtml} from '../public/discovery.js';
 test('movie URLs disambiguate remakes and normalize titles',()=>{
   assert.equal(moviePath({title:'Spider-Man: No Way Home',year:2021}),'/movies/spider-man-no-way-home-2021/');
   assert.notEqual(moviePath({title:'Captain America',year:1979}),moviePath({title:'Captain America',year:1990}));
@@ -25,4 +25,13 @@ test('sharing uses a canonical URL and HTML escaping',()=>{
   assert.doesNotMatch(shareLinks({title:'A & B',year:2020}),/mailto:/);
   assert.match(shareLinks({title:'A & B',year:2020}),/share-control/);
   assert.equal(escapeHtml('<script>'),'&lt;script&gt;');
+});
+
+
+test('public synopsis expands the known short King of Kings description only',()=>{
+  const movie={title:'The King of Kings',year:2025,synopsis:'Charles Dickens narrates the life of Jesus Christ to his young son in an animated retelling.'};
+  assert.ok(publicSynopsis(movie).length>movie.synopsis.length);
+  assert.equal(publicSynopsis({...movie,synopsis:'New editorial synopsis'}),'New editorial synopsis');
+  assert.equal(publicSynopsis({...movie,year:1961}),movie.synopsis);
+  assert.equal(publicSynopsis({title:'Other movie'}),'');
 });
