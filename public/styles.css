@@ -260,3 +260,13 @@
 .movie-card:focus-visible{outline-offset:3px}
 @media(max-width:650px){.featured-discovery .movie-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.featured-discovery .movie-card-body{padding:10px}.hero-inner{padding-top:48px;padding-bottom:48px}.review-share{align-items:flex-start}.filters{grid-template-columns:1fr}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important}}
+
+/* Compact, accessible review share control */
+.review-share{display:flex;align-items:center;gap:10px;margin:10px 0;flex-wrap:wrap}
+.share-control{display:inline-flex;align-items:center;justify-content:center;gap:7px;min-height:44px;padding:0 14px;border:1px solid #cbd7d0;border-radius:999px;color:#2d6553;background:transparent;font:inherit;line-height:1;cursor:pointer}
+.share-control span{font-size:13px;font-weight:700}
+.share-control:hover{background:#e9eee8;border-color:#2d6553}
+.share-control:active{background:#dce8de}
+.share-control:focus-visible{outline:2px solid #2d6553;outline-offset:3px}
+.share-status{font-size:12px;color:#495c51;overflow-wrap:anywhere}
+.share-status:empty{display:none}

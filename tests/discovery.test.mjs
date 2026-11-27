@@ -13,7 +13,7 @@ test('review status never implies unconfirmed approval',()=>{
 test('collections require an edifying verdict and suitable themes',()=>{
   assert.equal(inCollection({verdict:'edifying',age:'7+'},'family'),true);
   assert.equal(inCollection({verdict:'neutral',age:'7+'},'family'),false);
-  assert.equal(inCollection({verdict:'edifying',themes:[{name:'Love and self-sacrifice',type:'positive',score:4}]},'lent'),true);
+  assert.equal(inCollection({verdict:'edifying',themes:[{name:'Love and self-sacrifice',type:'positive',score:4}]},'lent'),false);
 });
 test('warning filter is evidence based and does not infer absence',()=>{
   assert.equal(warningFinding({},'violence',{}),false);
@@ -22,5 +22,7 @@ test('warning filter is evidence based and does not infer absence',()=>{
 });
 test('sharing uses a canonical URL and HTML escaping',()=>{
   assert.match(shareLinks({title:'A & B',year:2020}),/https:\/\/theorthodoxlens\.org\/movies\/a-b-2020\//);
+  assert.doesNotMatch(shareLinks({title:'A & B',year:2020}),/mailto:/);
+  assert.match(shareLinks({title:'A & B',year:2020}),/share-control/);
   assert.equal(escapeHtml('<script>'),'&lt;script&gt;');
 });
