@@ -26,14 +26,21 @@ export function createHandler(env=process.env,send=globalThis.fetch){
         body:JSON.stringify({email,includeListIds:[list],templateId:template,redirectionUrl:site+'/'}),signal:AbortSignal.timeout(10000)
       });
       if(response.ok)return success();
-      if(response.status===400){
-        // Do not disclose existing subscription status or upstream personal data.
-        const info=await response.json().catch(()=>({}));
-        if(info.code==='duplicate_parameter')return success();
-      }
+      const info=await response.json().catch(()=>({}));
+      if(response.status===400&&info?.code==='duplicate_parameter')return success();
+      // Log only fixed categories and numeric HTTP status, never upstream text or contact data.
+      const detail=typeof info?.message==='string'?info.message:'';
+      const reason=/ip address|whitelist|allowlist|unauthorized ip/i.test(detail)?'ip-restriction':
+        /permission|scope|access right/i.test(detail)?'permission':
+        /template|double.opt.in|DOIurl/i.test(detail)?'template':
+        /sender|domain/i.test(detail)?'sender':
+        /list/i.test(detail)?'list':
+        response.status===401?'authentication':
+        response.status===403?'forbidden':'other';
+      console.warn('[newsletter] Brevo rejected DOI request', {status:response.status,reason});
       if(response.status===429)return page('Registration is busy. Please try again later.',429);
       return page('Registration is temporarily unavailable. Please try again later.',503);
-    }catch{return page('Registration is temporarily unavailable. Please try again later.',503);}
+    }catch(error){console.warn('[newsletter] Brevo request failed', {reason:error?.name==='TimeoutError'?'timeout':'network-or-runtime'});return page('Registration is temporarily unavailable. Please try again later.',503);}
   };
 }
 export default createHandler();
