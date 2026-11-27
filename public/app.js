@@ -280,9 +280,9 @@ function reviewBanner(r){
   const metadata=[r.year,r.genre||'Film',r.runtime,r.officialRating].filter(value=>value&&!/unverified/i.test(String(value)));
   return `<div class="paper-panel"><div class="review-banner">${renderCover(r,{large:true})}<div>
     <h1>${esc(r.title)}</h1><p class="meta">${metadata.map(esc).join(' · ')}</p>
-    ${r.verdict?pill(r.verdict):''}<p class="review-status">${esc(reviewStatus(r))}</p>${shareLinks(r)}
+    ${r.verdict?pill(r.verdict):`<p class="review-status">${esc(reviewStatus(r))}</p>`}${shareLinks(r)}
     ${r.age?`<div class="tag-row"><span class="tag">Suggested age: ${esc(r.age)}</span></div>`:''}
-    ${r.synopsis?`<p>${esc(r.synopsis)}</p>`:''}
+    ${r.synopsis?`<p class="movie-synopsis">${esc(r.synopsis)}</p>`:''}
   </div></div>${r.verdict ? themeRatingPreview(r) : ''}</div>`;
 }
 
@@ -410,6 +410,7 @@ function reviewSources(r){
   const links=(r.sources||[]).filter(source=>/^https:\/\//i.test(source?.url||''));
   return `<section id="review-sources" class="paper-panel detail-section review-target" tabindex="-1">
     <h2>Sources</h2>
+    ${r.verdict?`<p class="review-status source-review-status">${esc(reviewStatus(r))}</p>`:''}
     ${links.length?`<ul class="source-list">${links.map(source=>
       `<li><a href="${esc(source.url)}" rel="noopener noreferrer" target="_blank">${esc(source.label||source.url)}</a></li>`).join('')}</ul>`:''}
     ${researchLinksBlock(r)}
