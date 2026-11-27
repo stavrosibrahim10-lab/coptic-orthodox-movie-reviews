@@ -1,0 +1,374 @@
+[
+  {
+    "id": "marvel-1979-captain-america",
+    "title": "Captain America",
+    "year": 1979,
+    "edition": "the 1979 television pilot starring Reb Brown as Steve Rogers",
+    "sources": [
+      {
+        "label": "Reactor retrospective on both television films",
+        "url": "https://reactormag.com/not-the-hero-of-world-war-ii-captain-america-and-captain-america-ii-death-too-soon/"
+      },
+      {
+        "label": "Viewer-contributed content guide",
+        "url": "https://www.imdb.com/title/tt0078937/parentalguide/"
+      },
+      {
+        "label": "Film synopsis and identification",
+        "url": "https://comic-watch.com/movies/encyclopedia-of-superheroes-captain-america-2"
+      }
+    ],
+    "genre": "Television adventure",
+    "verdict": "edifying",
+    "age": "10+",
+    "synopsis": "Steve hopes to travel and draw after military service. An experimental serum saves him after a crash. Two hostages give him a reason to use his new strength.",
+    "verdictRationale": "Steve chooses to enter alone because a show of force could cost Tina and Dr. Day their lives. Their safety guides his choice before he puts on the costume. Brackett exploits Tina’s desire to clear her father’s name. The rescue shows the difference between earning trust and abusing it.",
+    "ageRationale": "Steve is badly injured in a crash. Two women are held at gunpoint, and the bomb threatens people outside the immediate fight. Children may need help understanding why the adults hesitate to rush in.",
+    "reflection": "Mills can outfit Steve for a rescue, but the costume cannot tell him whose needs come first. His most thoughtful decision comes when he considers what the hostages will face once he walks through the door.",
+    "themes": [
+      {
+        "name": "Prudence",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "Steve argues for a smaller rescue because a larger intervention endangers the captives. His judgment shapes the mission.",
+        "references": [
+          {
+            "label": "Reactor retrospective on both television films",
+            "url": "https://reactormag.com/not-the-hero-of-world-war-ii-captain-america-and-captain-america-ii-death-too-soon/"
+          }
+        ]
+      },
+      {
+        "name": "Service",
+        "type": "positive",
+        "score": 4,
+        "portrayal": "affirmed",
+        "evidence": "After freeing the women, Steve continues to pursue the truck. His willingness to protect people he has never met drives the climax.",
+        "references": [
+          {
+            "label": "Reactor retrospective on both television films",
+            "url": "https://reactormag.com/not-the-hero-of-world-war-ii-captain-america-and-captain-america-ii-death-too-soon/"
+          }
+        ]
+      },
+      {
+        "name": "Betrayal of trust",
+        "type": "harmful",
+        "score": 4,
+        "portrayal": "condemned",
+        "evidence": "Brackett claims he can clear Tina’s father and then takes her captive. Exploiting her trust enables his scheme.",
+        "references": [
+          {
+            "label": "Reactor retrospective on both television films",
+            "url": "https://reactormag.com/not-the-hero-of-world-war-ii-captain-america-and-captain-america-ii-death-too-soon/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Check dialogue and background visuals throughout the 1979 television pilot starring Reb Brown as Steve Rogers. The available scene guides give selective coverage.",
+        "references": [
+          {
+            "label": "Viewer-contributed content guide",
+            "url": "https://www.imdb.com/title/tt0078937/parentalguide/"
+          }
+        ]
+      }
+    ],
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "unverified",
+          "findings": [],
+          "evidence": [],
+          "absence_verified": false,
+          "next_step": "Check personal conversations and physical contact in the pilot. The viewer poll supplies no scene descriptions."
+        },
+        "language": {
+          "status": "unverified",
+          "findings": [],
+          "evidence": [],
+          "absence_verified": false,
+          "next_step": "Check the original English dialogue. Viewer votes alone do not establish language coverage."
+        },
+        "substance_use": {
+          "status": "unverified",
+          "findings": [],
+          "evidence": [],
+          "absence_verified": false,
+          "next_step": "The FLAG injection is a fictional medical intervention. Check separately for recreational substances."
+        },
+        "spiritual_material": {
+          "status": "unverified",
+          "findings": [],
+          "evidence": [],
+          "absence_verified": false,
+          "next_step": "Check references to Steve’s father and any religious imagery; family legacy alone is insufficient evidence."
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Steve survives a serious vehicle crash. Brackett takes Tina and Dr. Day at gunpoint."
+          ],
+          "absence_verified": false,
+          "evidence": [
+            {
+              "provider": "Reactor retrospective on both television films",
+              "url": "https://reactormag.com/not-the-hero-of-world-war-ii-captain-america-and-captain-america-ii-death-too-soon/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ]
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Steve asks to undertake the rescue himself because sending a large force could put the hostages in greater danger."
+          ],
+          "absence_verified": false,
+          "evidence": [
+            {
+              "provider": "Reactor retrospective on both television films",
+              "url": "https://reactormag.com/not-the-hero-of-world-war-ii-captain-america-and-captain-america-ii-death-too-soon/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ]
+        }
+      }
+    },
+    "warnings": [
+      {
+        "name": "Violence and peril",
+        "severity": "Moderate",
+        "details": "Steve survives a serious vehicle crash. Brackett takes Tina and Dr. Day at gunpoint.",
+        "sourceUrl": "https://reactormag.com/not-the-hero-of-world-war-ii-captain-america-and-captain-america-ii-death-too-soon/"
+      }
+    ],
+    "scripture": [
+      "Galatians 6:2"
+    ],
+    "themeScripture": {
+      "reference": "Galatians 6:2",
+      "translation": "KJV",
+      "text": "Bear ye one another's burdens, and so fulfil the law of Christ.",
+      "url": "https://www.biblegateway.com/passage/?search=Galatians+6%3A2&version=KJV",
+      "connection": "Paul asks Christians to bear one another’s burdens. Steve considers what his intended help would cost the two people with the least control over the rescue."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homilies on the Gospel of John",
+      "section": "Homily 77, on Christ’s commandment of love",
+      "text": "But wherefore does He everywhere exalt love? Because this is the mark of the disciples, this the bond of virtue.",
+      "url": "https://www.newadvent.org/fathers/240177.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "Bearing the cost of another person’s safety",
+        "filmMoment": "Steve asks to undertake the rescue himself because sending a large force could put the hostages in greater danger.",
+        "sourceUrl": "https://reactormag.com/not-the-hero-of-world-war-ii-captain-america-and-captain-america-ii-death-too-soon/",
+        "scriptureReference": "Galatians 6:2",
+        "reflection": "Paul asks Christians to bear one another’s burdens. Steve considers what his intended help would cost the two people with the least control over the rescue."
+      }
+    ],
+    "questions": [
+      "Why does Steve initially decline the serum?",
+      "Why would Brackett’s offer appeal to Tina?",
+      "What does Steve understand about the hostages that a larger force might overlook?",
+      "Whom does Steve still need to protect after the women are free?",
+      "How could Mills respect Steve’s hopes for his own life while asking him to serve?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending"
+  },
+  {
+    "id": "marvel-1979-captain-america-ii-death-too-soon",
+    "title": "Captain America II: Death Too Soon",
+    "year": 1979,
+    "edition": "the two-part CBS sequel starring Reb Brown and Christopher Lee, broadcast November 23–24, 1979",
+    "sources": [
+      {
+        "label": "Reactor retrospective on both television films",
+        "url": "https://reactormag.com/not-the-hero-of-world-war-ii-captain-america-and-captain-america-ii-death-too-soon/"
+      },
+      {
+        "label": "Viewer-contributed content guide",
+        "url": "https://www.imdb.com/title/tt0078938/parentalguide"
+      },
+      {
+        "label": "Film synopsis and identification",
+        "url": "https://en.wikipedia.org/wiki/Captain_America_II:_Death_Too_Soon"
+      }
+    ],
+    "genre": "Television adventure",
+    "verdict": "edifying",
+    "age": "10+",
+    "synopsis": "Steve helps an older woman whose neighbors have been robbed. His next investigation leads him to a town whose residents depend on treatment controlled by the man who made them ill.",
+    "verdictRationale": "Steve makes time to hear Mrs. Shaw’s account of the stolen checks. Later, Helen’s explanation helps him understand why an entire town has kept quiet. His willingness to listen matters to the rescue. Miguel’s hold over the town shows the cruelty of making care conditional on obedience.",
+    "ageRationale": "People age against their will and fear losing treatment. Dogs threaten Steve during the rescue. The loss of control over one’s body may particularly trouble children worried about an older relative.",
+    "reflection": "A frightened neighbor can appear uncooperative while protecting people who have been threatened. Helen’s disclosure gives Steve both knowledge and an obligation to use it for people who cannot speak safely.",
+    "themes": [
+      {
+        "name": "Care for vulnerable neighbors",
+        "type": "positive",
+        "score": 5,
+        "portrayal": "affirmed",
+        "evidence": "Steve responds to the thefts Mrs. Shaw describes and helps bring the antidote to Portland. Protection connects the opening encounter to the ending.",
+        "references": [
+          {
+            "label": "Reactor retrospective on both television films",
+            "url": "https://reactormag.com/not-the-hero-of-world-war-ii-captain-america-and-captain-america-ii-death-too-soon/"
+          }
+        ]
+      },
+      {
+        "name": "Courage in telling the truth",
+        "type": "positive",
+        "score": 3,
+        "portrayal": "affirmed",
+        "evidence": "Helen explains how Miguel keeps the town compliant. One disclosure changes what Steve understands about the residents’ silence.",
+        "references": [
+          {
+            "label": "Reactor retrospective on both television films",
+            "url": "https://reactormag.com/not-the-hero-of-world-war-ii-captain-america-and-captain-america-ii-death-too-soon/"
+          }
+        ]
+      },
+      {
+        "name": "Coercion",
+        "type": "harmful",
+        "score": 5,
+        "portrayal": "condemned",
+        "evidence": "Miguel uses access to treatment to silence Belleville and demands money under threat to Portland. Coercion governs both conflicts.",
+        "references": [
+          {
+            "label": "Reactor retrospective on both television films",
+            "url": "https://reactormag.com/not-the-hero-of-world-war-ii-captain-america-and-captain-america-ii-death-too-soon/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Check dialogue and background visuals throughout the two-part CBS sequel starring Reb Brown and Christopher Lee, broadcast November 23–24, 1979. The available scene guides give selective coverage.",
+        "references": [
+          {
+            "label": "Viewer-contributed content guide",
+            "url": "https://www.imdb.com/title/tt0078938/parentalguide"
+          }
+        ]
+      }
+    ],
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "unverified",
+          "findings": [],
+          "evidence": [],
+          "absence_verified": false,
+          "next_step": "Check interactions with Helen and incidental scenes across both CBS parts; the viewer poll gives no concrete scenes."
+        },
+        "language": {
+          "status": "unverified",
+          "findings": [],
+          "evidence": [],
+          "absence_verified": false,
+          "next_step": "Check both parts against English captions before assigning a language finding."
+        },
+        "substance_use": {
+          "status": "unverified",
+          "findings": [],
+          "evidence": [],
+          "absence_verified": false,
+          "next_step": "The fictional aging substance and antidote explain the peril. Check separately for alcohol, tobacco and other recreational use."
+        },
+        "spiritual_material": {
+          "status": "unverified",
+          "findings": [],
+          "evidence": [],
+          "absence_verified": false,
+          "next_step": "Check both parts for explicit religious references. The accelerated aging is presented as fictional science."
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Residents suffer forced rapid aging. Dogs pursue Steve as Miguel leaves the prison."
+          ],
+          "absence_verified": false,
+          "evidence": [
+            {
+              "provider": "Reactor retrospective on both television films",
+              "url": "https://reactormag.com/not-the-hero-of-world-war-ii-captain-america-and-captain-america-ii-death-too-soon/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ]
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Helen tells Steve that access to the antidote depends on the town staying silent."
+          ],
+          "absence_verified": false,
+          "evidence": [
+            {
+              "provider": "Reactor retrospective on both television films",
+              "url": "https://reactormag.com/not-the-hero-of-world-war-ii-captain-america-and-captain-america-ii-death-too-soon/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ]
+        }
+      }
+    },
+    "warnings": [
+      {
+        "name": "Violence and peril",
+        "severity": "Moderate",
+        "details": "Residents suffer forced rapid aging. Dogs pursue Steve as Miguel leaves the prison.",
+        "sourceUrl": "https://reactormag.com/not-the-hero-of-world-war-ii-captain-america-and-captain-america-ii-death-too-soon/"
+      }
+    ],
+    "scripture": [
+      "Galatians 6:2"
+    ],
+    "themeScripture": {
+      "reference": "Galatians 6:2",
+      "translation": "KJV",
+      "text": "Bear ye one another's burdens, and so fulfil the law of Christ.",
+      "url": "https://www.biblegateway.com/passage/?search=Galatians+6%3A2&version=KJV",
+      "connection": "Bearing Helen’s burden starts with recognizing what it costs her to speak. Steve now shares responsibility for the people who trusted her to keep them safe."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homilies on the Gospel of John",
+      "section": "Homily 77, on Christ’s commandment of love",
+      "text": "But wherefore does He everywhere exalt love? Because this is the mark of the disciples, this the bond of virtue.",
+      "url": "https://www.newadvent.org/fathers/240177.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "Bearing the cost of another person’s safety",
+        "filmMoment": "Helen tells Steve that access to the antidote depends on the town staying silent.",
+        "sourceUrl": "https://reactormag.com/not-the-hero-of-world-war-ii-captain-america-and-captain-america-ii-death-too-soon/",
+        "scriptureReference": "Galatians 6:2",
+        "reflection": "Bearing Helen’s burden starts with recognizing what it costs her to speak. Steve now shares responsibility for the people who trusted her to keep them safe."
+      }
+    ],
+    "questions": [
+      "What does Steve learn while sketching Mrs. Shaw?",
+      "How could Steve respect Mrs. Shaw’s wishes while asking for her help?",
+      "What does Helen risk by telling Steve why Belleville is silent?",
+      "How does withholding the antidote give Miguel power when he is elsewhere?",
+      "What does returning the antidote accomplish that defeating Miguel alone could never do?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending"
+  }
+]
