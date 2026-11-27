@@ -9861,6 +9861,144 @@
           "studio_status": "repository_draft_validated_no_authenticated_studio_save"
         }
       ]
+    },
+    {
+      "number": 17,
+      "date": "2026-11-27",
+      "review_completion_branch": "editorial/stage-4-completion",
+      "review_completion_ledger": "editorial/review-completion.tsv",
+      "films": [
+        {
+          "movie_id": "marvel-2024-argylle",
+          "title": "Argylle",
+          "year": 2024,
+          "version": "2024 theatrical feature directed by Matthew Vaughn",
+          "status": "proposal_saved",
+          "review_baseline": "editorial/review-drafts-marvel-batch-19.json",
+          "review_baseline_blob": "b571eafbf93980ac56710d338b05724a94f3187c",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/argylle-2024/",
+            "https://www.classification.gov.au/titles/argylle"
+          ],
+          "on_screen": "During the flight, Aiden describes a climb that frightened him. Later he reminds Elly of her kindness.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/argylle-2024/",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Aiden’s most generous act is listening closely enough to help Elly name her fear. The story values her kindness even as she becomes more capable under pressure. Its elaborate fights, however, make the deaths of anonymous opponents feel like the punch line of a joke.",
+            "age": "13+",
+            "age_rationale": "The train ambush and later extended fights put Elly in peril. Comic timing and limited wound detail soften the images, but repeated killings, coarse language and suggestive dancing warrant guidance for younger teens.",
+            "age_source": "https://www.classification.gov.au/titles/argylle",
+            "theme_ratings": [
+              {
+                "name": "Encouragement",
+                "score": 4,
+                "evidence": "Aiden helps Elly through immediate danger and later shares his own fear of heights. His continuing care gives her room to act.",
+                "rating_rationale": "Aiden’s practical and emotional support recurs during the escape and the journey.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/argylle-2024/"
+                ]
+              },
+              {
+                "name": "Kindness",
+                "score": 3,
+                "evidence": "When Elly’s skills change, Aiden singles out the kindness he already valued in her. This becomes an explicit standard for judging her growth.",
+                "rating_rationale": "Aiden explicitly praises kindness at a turning point in Elly’s development.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/argylle-2024/"
+                ]
+              },
+              {
+                "name": "Violence as entertainment",
+                "score": 4,
+                "evidence": "The attackers on the train pose a real threat. Later, choreographed blows and kills recur as visual jokes, drawing attention away from the people being hurt.",
+                "rating_rationale": "Lethal fights repeatedly supply comic spectacle.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/argylle-2024/",
+                  "https://www.classification.gov.au/titles/argylle"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The guide describes a remark about a shared past and acknowledges ambiguity. Its suggested romantic reading is an interpretation.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/argylle-2024/"
+            ],
+            "next_step": "Check the complete Argylle theatrical cut and record relevant dialogue and context before scoring."
+          },
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "marvel-2024-kraven-the-hunter",
+          "title": "Kraven the Hunter",
+          "year": 2024,
+          "version": "2024 theatrical feature directed by J. C. Chandor",
+          "status": "proposal_saved",
+          "review_baseline": "editorial/review-drafts-marvel-batch-19.json",
+          "review_baseline_blob": "b571eafbf93980ac56710d338b05724a94f3187c",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/kraven-the-hunter-2024/",
+            "https://www.classification.gov.au/titles/kraven-hunter"
+          ],
+          "on_screen": "Calypso saves the injured young Sergei. Dmitri forgives Sergei for leaving him, and Sergei searches for Dmitri after his kidnapping.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/kraven-the-hunter-2024/",
+          "draft_proposal": {
+            "verdict": "destructive",
+            "verdict_rationale": "Dmitri’s forgiveness repairs something Sergei could never put right by force. Calypso likewise saves a stranger before knowing what he will become. Yet the action repeatedly presents Sergei’s power to decide who dies as the satisfying answer to injustice. His rejection of his father’s criminal business leaves his father’s habit of domination intact.",
+            "age": "18+",
+            "age_rationale": "Adult guidance reflects repeated graphic killings, a mauling and the sight of people injured in traps. The intimacy of a father pressuring his sons and the threat of losing a brother add distress beyond the combat.",
+            "age_source": "https://www.classification.gov.au/titles/kraven-hunter",
+            "theme_ratings": [
+              {
+                "name": "Brotherly loyalty",
+                "score": 4,
+                "evidence": "Annual birthday visits keep the brothers in touch. Dmitri’s abduction turns that bond into a sustained rescue effort.",
+                "rating_rationale": "The birthday ritual links the brothers across years and the abduction drives the later rescue.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/kraven-the-hunter-2024/"
+                ]
+              },
+              {
+                "name": "Mercy",
+                "score": 3,
+                "evidence": "Calypso saves the wounded boy and Dmitri forgives his abandonment. These decisions restore life and relationship at distinct turning points.",
+                "rating_rationale": "Calypso’s intervention and Dmitri’s forgiveness are two distinct acts with lasting consequences.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/kraven-the-hunter-2024/"
+                ]
+              },
+              {
+                "name": "Vigilantism",
+                "score": 5,
+                "evidence": "Sergei makes hunting criminals his vocation. Calypso questions his methods, but the film repeatedly uses his killings as heroic payoffs.",
+                "rating_rationale": "The pursuit and killing of criminals defines Sergei’s adult vocation.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/kraven-the-hunter-2024/"
+                ]
+              },
+              {
+                "name": "Parental coercion",
+                "score": 4,
+                "evidence": "Nikolai’s lion hunt pressures Sergei to prove himself. The father’s favoritism continues to divide the brothers into adulthood.",
+                "rating_rationale": "The hunting trip introduces pressure that continues through the father’s favoritism.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/kraven-the-hunter-2024/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The available evidence describes family ties and infidelity without establishing film-wide prominence.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/kraven-the-hunter-2024/"
+            ],
+            "next_step": "Check the complete Kraven the Hunter theatrical cut and record relevant dialogue and context before scoring."
+          },
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        }
+      ]
     }
   ]
 }
