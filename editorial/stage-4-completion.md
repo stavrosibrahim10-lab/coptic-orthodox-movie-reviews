@@ -4,13 +4,15 @@ Status: in progress. The opening catalog has 315 films, including 59 without a f
 
 ## Current Stage 4 audit
 
-The catalog contains 315 distinct IDs. Of the original 59 missing reviews, 12 now have validated first drafts and 47 remain. Across the full catalog, 268 have review records. The rolling checkpoint contains Stage 4 proposals for 113 films, leaving 155 existing records awaiting this audit and 47 awaiting a first review. All original queue IDs occur exactly once in the catalog.
+The catalog contains 315 distinct IDs. Of the original 59 missing reviews, 12 now have validated first drafts and 47 remain. Across the full catalog, 268 have review records. The rolling checkpoint contains Stage 4 proposals for 117 films, leaving 151 existing records awaiting this audit and 47 awaiting a first review. All original queue IDs occur exactly once in the catalog.
 
 Batch 11 independently checked the seven new queue drafts. Their saved draft files contain the proposed assessments. The checkpoint records scene evidence, the reason for each theme score, age guidance and outstanding screening fields. Six film-wide LGBTQ prominence scores remain open in this batch. The New Mutants carries a documented proposal of 4. Private Studio saves are unverified. Human acceptance is pending.
 
 Batch 12 checked Ghost Rider (2007), Ghost Rider: Spirit of Vengeance (2011 catalog entry, 2012 US theatrical release) and Daredevil (2003 theatrical cut). Each has four justified numerical theme scores and separate age guidance. Film-wide LGBTQ prominence remains unknown for each. The checkpoint links the exact draft revision, scene evidence and proposed judgments. Studio saves remain unverified.
 
 Batch 13 checked both Venom sequels and the existing review of The Forge (2024). The Last Dance assessment uses “several men” because two classification boards differ on the count in the dog-fighting sequence. The checkpoint records both sources and the outstanding count check. All three film-wide LGBTQ prominence scores remain open. Each assessment includes a proposed verdict, scored themes with reasons and separate age guidance.
+
+Batch 14 audited The King of Kings, A Minecraft Movie, Dog Man and the live-action How to Train Your Dragon (all 2025). Dog Man has a proposed verdict change from Neutral to Edifying based on Petey’s decision to protect the kitten he abandoned. Four film-wide screening scores and five other theme scores await the specific evidence listed in the checkpoint. Existing public reviews retain their editorial status.
 
 The full repository checklist passes for seven titles and includes later-stage fields. Stage 4 progress above counts audited proposals, independently of that checklist.
 

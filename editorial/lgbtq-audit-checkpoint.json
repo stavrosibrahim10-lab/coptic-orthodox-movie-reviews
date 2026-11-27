@@ -9227,6 +9227,276 @@
           "studio_status": "repository_proposal_no_authenticated_studio_save"
         }
       ]
+    },
+    {
+      "number": 14,
+      "date": "2026-11-26",
+      "review_completion_branch": "editorial/stage-4-completion",
+      "review_completion_ledger": "editorial/review-completion.tsv",
+      "films": [
+        {
+          "movie_id": "film-king-of-kings",
+          "title": "The King of Kings",
+          "year": 2025,
+          "version": "2025 animated feature told through Charles Dickens and his son Walter",
+          "review_baseline": "public/seed-reviews.js",
+          "review_baseline_blob": "65cf4053ad16b37541068fb57362e212670115b7",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/king-of-kings-2025/",
+            "https://www.bbfc.co.uk/release/the-king-of-kings-q29sbgvjdglvbjpwwc0xmdi4mjyx"
+          ],
+          "on_screen": "After telling Walter about Christ, Charles takes down the sign that kept his children out of his study.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/king-of-kings-2025/",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Charles makes time for the son he had pushed away. Walter’s distress at cruelty leads into the Passion and Resurrection, and the father’s changed conduct gives families a practical example of repentance.",
+            "age": "10+",
+            "age_rationale": "Herod’s soldiers threaten a family, and Jesus is flogged and crucified. A child might need accompaniment even though the nailing happens off camera.",
+            "age_source": "https://www.pluggedin.com/movie-reviews/king-of-kings-2025/",
+            "theme_ratings": [
+              {
+                "name": "Faith and trust in God",
+                "score": 5,
+                "evidence": "Walter follows Jesus’ ministry through the Resurrection. Faith structures the whole narrative.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/king-of-kings-2025/"
+                ],
+                "rating_rationale": "Walter follows Jesus’ ministry through the Resurrection. Faith structures the whole narrative."
+              },
+              {
+                "name": "Love and self-sacrifice",
+                "score": 5,
+                "evidence": "Jesus takes Walter’s place in the imagined drowning scene. The sequence makes self-giving central to the climax.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/king-of-kings-2025/"
+                ],
+                "rating_rationale": "Jesus takes Walter’s place in the imagined drowning scene. The sequence makes self-giving central to the climax."
+              },
+              {
+                "name": "Forgiveness and reconciliation",
+                "score": 3,
+                "evidence": "Charles opens his study to his children. Repairing his relationship with Walter gives the framing story its resolution.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/king-of-kings-2025/"
+                ],
+                "rating_rationale": "Charles opens his study to his children. Repairing his relationship with Walter gives the framing story its resolution."
+              },
+              {
+                "name": "Violence and cruelty",
+                "score": 3,
+                "evidence": "The scourging and Crucifixion give suffering sustained emotional weight despite restrained imagery.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/king-of-kings-2025/"
+                ],
+                "rating_rationale": "The scourging and Crucifixion give suffering sustained emotional weight despite restrained imagery."
+              }
+            ],
+            "unresolved_theme_evidence": "The prior occult score of 1 lacks an identified misleading teaching. Distinguish the dramatized temptation from an endorsement of occult practice before scoring."
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The reviewed scene evidence does not establish film-wide prominence.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/king-of-kings-2025/"
+            ],
+            "next_step": "Check the full 2025 animated feature told through Charles Dickens and his son Walter for relevant dialogue, relationships and recurrence."
+          },
+          "studio_status": "repository_proposal_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "film-minecraft-movie",
+          "title": "A Minecraft Movie",
+          "year": 2025,
+          "version": "2025 live-action and animated theatrical feature with Jack Black as Steve",
+          "review_baseline": "public/seed-reviews.js",
+          "review_baseline_blob": "65cf4053ad16b37541068fb57362e212670115b7",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/minecraft-movie-2025/",
+            "https://www.bbfc.co.uk/release/a-minecraft-movie-q29sbgvjdglvbjpwwc0xmdi0mdm0"
+          ],
+          "on_screen": "Steve sends his wolf to hide the orb when Malgosha seeks it. Henry and Steve later choose to bring their creativity home.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/minecraft-movie-2025/",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Steve protects others by keeping the orb from Malgosha, and Henry finds a use for his talents. Those choices offer families something to admire. The repeated joke of defeated enemies becoming food also invites laughter at their destruction.",
+            "age": "10+",
+            "age_rationale": "Night attacks by skeletons, repeated weapon fights and suggestive jokes in the vice principal’s storyline support the 10+ proposal.",
+            "age_source": "https://www.pluggedin.com/movie-reviews/minecraft-movie-2025/",
+            "theme_ratings": [
+              {
+                "name": "Courage and hope",
+                "score": 3,
+                "evidence": "Steve protects the orb under threat, and the group repeatedly risks danger for others. Courage supports the action.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/minecraft-movie-2025/"
+                ],
+                "rating_rationale": "Steve protects the orb under threat, and the group repeatedly risks danger for others. Courage supports the action."
+              },
+              {
+                "name": "Violence and cruelty",
+                "score": 3,
+                "evidence": "Several battles turn defeated piglins into impaled meat. Recurrence warrants raising the baseline 2 to 3 despite stylized effects.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/minecraft-movie-2025/"
+                ],
+                "rating_rationale": "Several battles turn defeated piglins into impaled meat. Recurrence warrants raising the baseline 2 to 3 despite stylized effects."
+              },
+              {
+                "name": "Fantasy magic / supernatural imagery",
+                "score": 2,
+                "evidence": "The orb opens a portal and attracts Malgosha. Magic has a concrete plot function within the fantasy.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/minecraft-movie-2025/"
+                ],
+                "rating_rationale": "The orb opens a portal and attracts Malgosha. Magic has a concrete plot function within the fantasy."
+              }
+            ],
+            "unresolved_theme_evidence": "The sibling relationship is established, but the cited rescue descriptions do not isolate Natalie’s actions well enough to validate the family-responsibility score. Check her decisions in the theatrical cut."
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The reviewed scene evidence does not establish film-wide prominence.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/minecraft-movie-2025/"
+            ],
+            "next_step": "Check the full 2025 live-action and animated theatrical feature with Jack Black as Steve for relevant dialogue, relationships and recurrence."
+          },
+          "studio_status": "repository_proposal_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "researched-dog-man",
+          "title": "Dog Man",
+          "year": 2025,
+          "version": "2025 animated Peter Hastings feature",
+          "review_baseline": "public/seed-reviews.js",
+          "review_baseline_blob": "65cf4053ad16b37541068fb57362e212670115b7",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/dog-man-2025/",
+            "https://www.commonsensemedia.org/movie-reviews/dog-man"
+          ],
+          "on_screen": "Petey discards the control that could undo his cloning of Li’l Petey.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/dog-man-2025/",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Dog Man gives the abandoned kitten a home. Petey eventually risks himself for the child he once rejected. The choice to keep and protect Li’l Petey gives the story a stronger moral resolution than the baseline Neutral verdict conveys.",
+            "age": "7+",
+            "age_rationale": "An explosion sends a man and his dog to surgery. A kitten is abandoned and destructive fights follow. The comedy softens the images, but the loss and separation may upset younger children.",
+            "age_source": "https://www.pluggedin.com/movie-reviews/dog-man-2025/",
+            "theme_ratings": [
+              {
+                "name": "Compassion and service",
+                "score": 4,
+                "evidence": "Taking the kitten in changes Dog Man’s daily life and the direction of the story.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/dog-man-2025/"
+                ],
+                "rating_rationale": "Taking the kitten in changes Dog Man’s daily life and the direction of the story."
+              },
+              {
+                "name": "Family and responsibility",
+                "score": 5,
+                "evidence": "Petey moves from abandonment to protection and discards the undo control. His change as a parent drives the resolution.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/dog-man-2025/"
+                ],
+                "rating_rationale": "Petey moves from abandonment to protection and discards the undo control. His change as a parent drives the resolution."
+              },
+              {
+                "name": "Courage and hope",
+                "score": 3,
+                "evidence": "Petey risks harm to protect his clone. This is a decisive instance of courage within the family story.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/dog-man-2025/"
+                ],
+                "rating_rationale": "Petey risks harm to protect his clone. This is a decisive instance of courage within the family story."
+              },
+              {
+                "name": "Violence and cruelty",
+                "score": 2,
+                "evidence": "Cars explode and animated buildings fight. Repeated slapstick keeps peril visible without dwelling on injury.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/dog-man-2025/"
+                ],
+                "rating_rationale": "Cars explode and animated buildings fight. Repeated slapstick keeps peril visible without dwelling on injury."
+              }
+            ],
+            "unresolved_theme_evidence": "The opening schemes show selfishness but do not establish the baseline score for self-glorification. Check Petey’s stated motives before retaining that score."
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The reviewed scene evidence does not establish film-wide prominence.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/dog-man-2025/"
+            ],
+            "next_step": "Check the full 2025 animated Peter Hastings feature for relevant dialogue, relationships and recurrence."
+          },
+          "studio_status": "repository_proposal_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "researched-how-to-train-your-dragon-2025",
+          "title": "How to Train Your Dragon",
+          "year": 2025,
+          "version": "2025 live-action theatrical remake with Mason Thames as Hiccup",
+          "review_baseline": "public/seed-reviews.js",
+          "review_baseline_blob": "65cf4053ad16b37541068fb57362e212670115b7",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/how-to-train-your-dragon-2025/",
+            "https://www.commonsensemedia.org/movie-reviews/how-to-train-your-dragon-2025"
+          ],
+          "on_screen": "Hiccup builds a replacement tail fin for Toothless and learns to operate it in flight.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/how-to-train-your-dragon-2025/",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Hiccup responds to an injury he caused by patiently restoring Toothless’s mobility. The dragon later risks his own safety for Hiccup. Their mutual care challenges the village custom of proving courage by killing a dragon.",
+            "age": "10+",
+            "age_rationale": "Live-action dragons swallow smaller creatures and threaten Vikings with fire. A near-drowning and the final battle give the danger greater emotional weight than the early training mishaps.",
+            "age_source": "https://www.pluggedin.com/movie-reviews/how-to-train-your-dragon-2025/",
+            "theme_ratings": [
+              {
+                "name": "Compassion and service",
+                "score": 5,
+                "evidence": "Building and operating the fin makes practical care a continuing commitment and the basis of trust.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/how-to-train-your-dragon-2025/"
+                ],
+                "rating_rationale": "Building and operating the fin makes practical care a continuing commitment and the basis of trust."
+              },
+              {
+                "name": "Courage and hope",
+                "score": 4,
+                "evidence": "Hiccup risks flight with Toothless and challenges the village’s expectations. Courage recurs across both conflicts.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/how-to-train-your-dragon-2025/"
+                ],
+                "rating_rationale": "Hiccup risks flight with Toothless and challenges the village’s expectations. Courage recurs across both conflicts."
+              },
+              {
+                "name": "Violence and cruelty",
+                "score": 4,
+                "evidence": "Fire, axe blows and a near-drowning recur in extended encounters. The framing shows the cost of the hostilities.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/how-to-train-your-dragon-2025/"
+                ],
+                "rating_rationale": "Fire, axe blows and a near-drowning recur in extended encounters. The framing shows the cost of the hostilities."
+              }
+            ],
+            "unresolved_theme_evidence": "Verify the baseline integrity score against the timing of Hiccup’s concealment and disclosure. Confirm exact audible language before retaining a numeric profanity score."
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The reviewed scene evidence does not establish film-wide prominence.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/how-to-train-your-dragon-2025/"
+            ],
+            "next_step": "Check the full 2025 live-action theatrical remake with Mason Thames as Hiccup for relevant dialogue, relationships and recurrence."
+          },
+          "studio_status": "repository_proposal_no_authenticated_studio_save"
+        }
+      ]
     }
   ]
 }
