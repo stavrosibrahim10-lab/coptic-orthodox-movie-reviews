@@ -4,7 +4,7 @@ Status: in progress. The opening catalog has 315 films, including 59 without a f
 
 ## Current Stage 4 audit
 
-The catalog contains 315 distinct IDs. Of the original 59 missing reviews, 24 now have validated first drafts and 35 remain. Across the full catalog, 280 have review records. The rolling checkpoint contains Stage 4 proposals for 133 films, leaving 147 existing records awaiting this audit and 35 awaiting a first review. All original queue IDs occur exactly once in the catalog.
+The catalog contains 315 distinct IDs. Of the original 59 missing reviews, 26 now have validated first drafts and 33 remain. Across the full catalog, 282 have review records. The rolling checkpoint contains Stage 4 proposals for 136 films, leaving 146 existing records awaiting this audit and 33 awaiting a first review. All original queue IDs occur exactly once in the catalog.
 
 Batch 11 independently checked the seven new queue drafts. Their saved draft files contain the proposed assessments. The checkpoint records scene evidence, the reason for each theme score, age guidance and outstanding screening fields. Six film-wide LGBTQ prominence scores remain open in this batch. The New Mutants carries a documented proposal of 4. Private Studio saves are unverified. Human acceptance is pending.
 
@@ -25,6 +25,8 @@ Batch 18 checked both 2006 Ultimate Avengers DVD films and the existing Elio (20
 Batch 19 checked Next Avengers: Heroes of Tomorrow (2008), Planet Hulk (2010) and the live-action Lilo & Stitch (2025). The two DVD proposals retain their verdicts and ages. The Lilo & Stitch proposal retains Edifying and 7+, raises Love and self-sacrifice to 5, and proposes Violence and cruelty at 2 and Profanity and blasphemy at 1. All three film-wide LGBTQ scores still need screening. Studio saves remain unverified.
 
 Batch 20 checked Thor: Tales of Asgard (2011 animated DVD), The Invincible Iron Man (2007 animated DVD) and The Fellowship of the Ring (2001 theatrical edition). The Fellowship proposal retains Edifying and 13+ and moves Humility and repentance from 5 to 4. All three film-wide LGBTQ scores await screening. Iron Man also needs scene evidence for language and substance use. Thor’s US classification needs confirmation. Studio saves remain unverified.
+
+Batch 21 checked both animated Heroes United features (2013 and 2014) and Zootopia 2 (2025). The two Marvel assessments retain their draft verdicts and age guidance. For Zootopia 2 the proposal retains Edifying and 10+ and raises Truthfulness and integrity from 4 to 5 for the investigation that restores credit to the patent’s author. Each film’s LGBTQ prominence score awaits screening. The checkpoint lists remaining film-specific content checks. Private Studio saves are unverified.
 
 The full repository checklist passes for eight titles and includes later-stage fields. Stage 4 progress above counts audited proposals, independently of that checklist.
 
