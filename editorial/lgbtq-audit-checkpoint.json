@@ -9497,6 +9497,224 @@
           "studio_status": "repository_proposal_no_authenticated_studio_save"
         }
       ]
+    },
+    {
+      "number": 15,
+      "date": "2026-11-26",
+      "review_completion_branch": "editorial/stage-4-completion",
+      "review_completion_ledger": "editorial/review-completion.tsv",
+      "films": [
+        {
+          "movie_id": "marvel-2004-the-punisher",
+          "title": "The Punisher",
+          "year": 2004,
+          "version": "2004 US R-rated theatrical feature starring Thomas Jane",
+          "status": "proposal_saved",
+          "review_baseline": "editorial/review-drafts-marvel-batch-17.json",
+          "review_baseline_blob": "864e6b52a5b9d957566419f9274aab7dae1ffa47",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/punisher/",
+            "https://www.bbfc.co.uk/release/the-punisher-q29sbgvjdglvbjpwwc0zntq4mzy",
+            "https://www.rogerebert.com/reviews/the-punisher-2004"
+          ],
+          "on_screen": "Frank protects a neighbor from an abusive boyfriend. His neighbors later shelter him when killers come looking for him.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/punisher/",
+          "draft_proposal": {
+            "verdict": "destructive",
+            "verdict_rationale": "Frank and his neighbors show courage in protecting one another. But his campaign against Saint asks the audience to anticipate and enjoy the suffering Frank arranges. Grief makes his anger understandable. It cannot give him authority to decide who deserves death.",
+            "age": "18+",
+            "age_rationale": "The killing of a family, sustained torture, brief nudity and repeated strong profanity warrant adult guidance. Frank’s heavy drinking and suicidal despair make the aftermath of violence particularly distressing.",
+            "age_source": "https://www.pluggedin.com/movie-reviews/punisher/",
+            "theme_ratings": [
+              {
+                "name": "Neighborly care",
+                "score": 3,
+                "evidence": "Frank intervenes when a neighbor faces abuse. Later the neighbors put themselves at risk to protect him. Their mutual care forms a supporting storyline.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/punisher/"
+                ],
+                "rating_rationale": "The neighbors’ reciprocal aid matters in several apartment scenes and remains secondary to Frank’s pursuit."
+              },
+              {
+                "name": "Family affection",
+                "score": 3,
+                "evidence": "Frank’s tenderness toward his wife and son gives the reunion its emotional weight before the massacre.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/punisher/"
+                ],
+                "rating_rationale": "The reunion establishes the family bond that shapes Frank’s grief. Its direct portrayal is concentrated early."
+              },
+              {
+                "name": "Vengeance",
+                "score": 5,
+                "evidence": "Frank makes punishing Saint his purpose after the attack and defends his authority to take lives.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/punisher/"
+                ],
+                "rating_rationale": "Payback organizes Frank’s choices from his recovery to the final confrontation."
+              },
+              {
+                "name": "Cruelty",
+                "score": 5,
+                "evidence": "The campaign gives prolonged suffering dramatic weight, from the torture of a neighbor to the deaths that conclude the retaliation.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/punisher/"
+                ],
+                "rating_rationale": "Extended punishment is repeatedly staged for the audience to anticipate, alongside the torture of people who help Frank."
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": 2,
+            "observation": "A supporting character kisses his male partner, and the relationship is used for blackmail. This is a minor relationship with a plot consequence under the prominence rubric.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/punisher/"
+            ],
+            "next_step": "Retain the 2004-specific source and the minor-relationship rationale during editor review."
+          },
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "marvel-2008-punisher-war-zone",
+          "title": "Punisher: War Zone",
+          "year": 2008,
+          "version": "2008 US R-rated theatrical feature directed by Lexi Alexander, starring Ray Stevenson",
+          "status": "proposal_saved",
+          "review_baseline": "editorial/review-drafts-marvel-batch-17.json",
+          "review_baseline_blob": "864e6b52a5b9d957566419f9274aab7dae1ffa47",
+          "sources": [
+            "https://www.commonsensemedia.org/movie-reviews/punisher-war-zone",
+            "https://www.comingsoon.net/movies/reviews/50948-punisher-war-zone-2",
+            "https://christiananswers.net/spotlight/movies/2008/punisher2008.html"
+          ],
+          "on_screen": "Frank kills an undercover agent in the raid. He later intervenes to protect the man’s widow and daughter.",
+          "on_screen_source": "https://www.comingsoon.net/movies/reviews/50948-punisher-war-zone-2",
+          "draft_proposal": {
+            "verdict": "destructive",
+            "verdict_rationale": "Frank’s hesitation after killing an innocent man is morally important. Protecting the agent’s grieving family is the most admirable use of his courage. Yet the film repeatedly makes violent executions satisfying and surrounds Frank with officers willing to excuse them. The widow’s loss gives families reason to question the power the film grants him.",
+            "age": "18+",
+            "age_rationale": "Graphic injuries, sustained killings, cocaine use and pervasive strong language support an adults-only recommendation. An innocent parent’s sudden death adds emotional distress.",
+            "age_source": "https://www.commonsensemedia.org/movie-reviews/punisher-war-zone",
+            "theme_ratings": [
+              {
+                "name": "Responsibility",
+                "score": 4,
+                "evidence": "Killing an undercover agent leads Frank to reconsider his campaign and take responsibility for the danger facing the surviving family.",
+                "sources": [
+                  "https://www.comingsoon.net/movies/reviews/50948-punisher-war-zone-2"
+                ],
+                "rating_rationale": "The agent’s death changes Frank’s sense of obligation and motivates repeated efforts to help his family."
+              },
+              {
+                "name": "Protection of the vulnerable",
+                "score": 4,
+                "evidence": "The widow and daughter become targets. Their safety gives Frank a sustained obligation to particular people.",
+                "sources": [
+                  "https://www.comingsoon.net/movies/reviews/50948-punisher-war-zone-2"
+                ],
+                "rating_rationale": "Keeping the surviving family safe is a continuing counterweight to the pursuit of Jigsaw."
+              },
+              {
+                "name": "Vigilantism",
+                "score": 5,
+                "evidence": "The agent’s death exposes the cost of summary punishment, yet the film repeatedly rewards Frank’s methods and some officers assist him.",
+                "sources": [
+                  "https://www.commonsensemedia.org/movie-reviews/punisher-war-zone"
+                ],
+                "rating_rationale": "Extrajudicial killing drives the action even after the raid demonstrates the cost of a mistake."
+              },
+              {
+                "name": "Vengeance",
+                "score": 4,
+                "evidence": "Russoti’s disfigurement fuels his retaliation and brings new danger to the dead agent’s family.",
+                "sources": [
+                  "https://www.comingsoon.net/movies/reviews/50948-punisher-war-zone-2"
+                ],
+                "rating_rationale": "Russoti’s pursuit of retaliation repeatedly exposes the agent’s family to danger."
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The guides detail the widow and the undercover agent’s family. They do not establish film-wide LGBTQ prominence. Check the released cut and log pertinent dialogue and relationships.",
+            "sources": [
+              "https://www.commonsensemedia.org/movie-reviews/punisher-war-zone"
+            ],
+            "next_step": "Check the full 2008 theatrical release for relevant scenes and their frequency."
+          },
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "batch1-2017-the-star",
+          "title": "The Star",
+          "year": 2017,
+          "version": "2017 PG animated theatrical Nativity feature, 86 minutes, told from Bo the donkey’s perspective.",
+          "review_baseline": "public/seed-reviews.js",
+          "review_baseline_blob": "65cf4053ad16b37541068fb57362e212670115b7",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/the-star-2017/",
+            "https://www.commonsensemedia.org/movie-reviews/the-star"
+          ],
+          "on_screen": "Bo and Dave put aside their ambition to protect Mary. Later Bo tells one of the hunter’s dogs that he can choose how to live now that he is free.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/the-star-2017/",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Bo’s ambition gives way to service when Mary is in danger. He also offers the dogs who hunted her a future beyond their past behavior. These choices make mercy concrete for a child. Families can distinguish the imagined adventures of the animals from the Gospel account of Christ’s birth.",
+            "age": "7+",
+            "age_rationale": "The hunter approaches Mary with a sword and chokes another character. His fall from a bridge leaves him motionless. These threats may frighten young children even alongside the slapstick.",
+            "age_source": "https://www.pluggedin.com/movie-reviews/the-star-2017/",
+            "theme_ratings": [
+              {
+                "name": "Faith and trust in God",
+                "score": 5,
+                "evidence": "Mary and Joseph discuss their fear and continue to Bethlehem. Bo prays for help.",
+                "rating_rationale": "Trust in God shapes the family’s journey and its resolution at the manger.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/the-star-2017/"
+                ]
+              },
+              {
+                "name": "Compassion and service",
+                "score": 4,
+                "evidence": "Bo sets aside his own dream to guard Mary and later encourages Rufus to choose good.",
+                "rating_rationale": "Mercy towards both a friend and a former enemy shapes major decisions.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/the-star-2017/"
+                ]
+              },
+              {
+                "name": "Courage and hope",
+                "score": 4,
+                "evidence": "Bo, Dave and Ruth repeatedly distract the hunter to protect Mary.",
+                "rating_rationale": "Courage recurs across the pursuit and depends on the friends acting together.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/the-star-2017/"
+                ]
+              },
+              {
+                "name": "Violence and cruelty",
+                "score": 2,
+                "evidence": "Herod threatens children, and his hunter pursues Mary. Falls also feature in lighter slapstick scenes.",
+                "rating_rationale": "Brief, stylized physical violence accompanies a sustained threat that matters separately for age guidance.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/the-star-2017/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The cited guide describes mild flirting by Dave. That scene cannot establish film-wide LGBTQ prominence.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/the-star-2017/",
+              "https://www.commonsensemedia.org/movie-reviews/the-star"
+            ],
+            "next_step": "Screen the identified 2017 animated feature for relevant relationships, dialogue and recurrence."
+          },
+          "studio_status": "repository_proposal_no_authenticated_studio_save"
+        }
+      ]
     }
   ]
 }
