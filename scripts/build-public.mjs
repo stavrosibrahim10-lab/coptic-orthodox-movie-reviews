@@ -2,7 +2,7 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import vm from 'node:vm';
 import {fileURLToPath} from 'node:url';
-import {SITE,moviePath,escapeHtml as esc,reviewStatus} from '../public/discovery.js';
+import {SITE,moviePath,escapeHtml as esc,reviewStatus,publicSynopsis} from '../public/discovery.js';
 import reviewsHandler from '../netlify/functions/reviews.mjs';
 const root=fileURLToPath(new URL('../public/',import.meta.url));
 // Load the same trusted repository scripts as the browser, in the same order.
@@ -35,7 +35,7 @@ for(const movie of movies){
   if(seen.has(route))throw new Error('Duplicate movie URL: '+route);
   seen.add(route);
   const url=SITE+route,title=movie.title+' ('+movie.year+') | Christian Movie Review | The Orthodox Lens';
-  const description=(movie.verdict?'Christian movie review of '+movie.title+' ('+movie.year+'). '+(movie.age?'Suggested age: '+movie.age+'. ':'')+reviewStatus(movie)+'. ':movie.title+' ('+movie.year+'): research pending. ')+(movie.synopsis||'');
+  const description=(movie.verdict?'Christian movie review of '+movie.title+' ('+movie.year+'). '+(movie.age?'Suggested age: '+movie.age+'. ':'')+reviewStatus(movie)+'. ':movie.title+' ('+movie.year+'): research pending. ')+publicSynopsis(movie);
   let html=main(template,movie.verdict?reviewedDetail(movie):pendingDetail(movie));
   html=html.replace(/<title>[\s\S]*?<\/title>/,()=>'<title>'+esc(title)+'</title>').replace(/<link rel="canonical" href="[^"]*"\s*\/?\s*>/,()=>'<link rel="canonical" href="'+esc(url)+'">');
   for(const [key,value,attr] of [['description',description.slice(0,230),'name'],['og:title',title,'property'],['og:description',description.slice(0,230),'property'],['og:url',url,'property'],['og:type','article','property'],['twitter:title',title,'name'],['twitter:description',description.slice(0,230),'name']])html=meta(html,key,value,attr);
