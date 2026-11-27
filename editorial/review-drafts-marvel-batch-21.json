@@ -1,0 +1,470 @@
+[
+  {
+    "id": "marvel-2008-next-avengers-heroes-of-tomorrow",
+    "title": "Next Avengers: Heroes of Tomorrow",
+    "year": 2008,
+    "edition": "2008 US Lionsgate animated DVD feature",
+    "genre": "Marvel · Animation",
+    "officialRating": "PG",
+    "age": "10+",
+    "verdict": "edifying",
+    "sources": [
+      {
+        "label": "Common Sense Media",
+        "url": "https://www.commonsensemedia.org/movie-reviews/next-avengers-heroes-of-tomorrow"
+      },
+      {
+        "label": "Comic Vine DVD review",
+        "url": "https://comicvine.gamespot.com/articles/next-avengers-heroes-of-tomorrow-dvd-review/1100-135175/"
+      },
+      {
+        "label": "Released film plot summary",
+        "url": "https://en.wikipedia.org/wiki/Next_Avengers:_Heroes_of_Tomorrow"
+      }
+    ],
+    "synopsis": "Tony Stark raises the children of fallen Avengers in hiding. When James activates robotic copies of their parents, Ultron traces the machines back to their home and captures Tony.",
+    "verdictRationale": "Tony spends years doing a guardian’s work after the other Avengers fall. The children in turn risk themselves for him. Avenging their parents gives the fighting an angry edge, but freeing the person who raised them gives them a purpose that defeating an enemy alone could never fulfill.",
+    "ageRationale": "Repeated robot battles and the threat of losing a second caregiver give this adventure weight for a child. Children who have lost a parent may find Tony’s capture harder than the fighting.",
+    "reflection": "Tony’s armor buys the children time to escape. Long before that moment, his daily care gave them someone to come home to. Which form of service would be easier for a bystander to miss?",
+    "themes": [
+      {
+        "name": "Faithful care",
+        "score": 5,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Tony’s years as guardian establish the family bond behind the rescue and explain why his capture matters.",
+        "references": [
+          {
+            "label": "Comic Vine DVD review",
+            "url": "https://comicvine.gamespot.com/articles/next-avengers-heroes-of-tomorrow-dvd-review/1100-135175/"
+          }
+        ]
+      },
+      {
+        "name": "Courage in service",
+        "score": 4,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "The young heroes enter Ultron’s city and join forces with Francis to bring Tony out. Courage serves a particular person at risk.",
+        "references": [
+          {
+            "label": "Released film plot summary",
+            "url": "https://en.wikipedia.org/wiki/Next_Avengers:_Heroes_of_Tomorrow"
+          }
+        ]
+      },
+      {
+        "name": "Vengeance",
+        "score": 3,
+        "type": "harmful",
+        "portrayal": "mixed",
+        "evidence": "The children face the killer of their parents. The wish to avenge them accompanies the conflict, though their immediate rescue mission gives them another reason to act.",
+        "references": [
+          {
+            "label": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/next-avengers-heroes-of-tomorrow"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "score": null,
+        "type": "context",
+        "portrayal": "unverified",
+        "evidence": "The guide describes competitive flirting. The evidence does not establish film-wide prominence. Check the original 2008 DVD and record relevant scenes before assigning a score.",
+        "references": [
+          {
+            "label": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/next-avengers-heroes-of-tomorrow"
+          }
+        ]
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "details": "Two youths flirt with the same teammate.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.commonsensemedia.org/movie-reviews/next-avengers-heroes-of-tomorrow"
+      },
+      {
+        "name": "Violence",
+        "details": "Ultron turns Stark’s robots against him and captures him as the children escape.",
+        "severity": "Moderate",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Next_Avengers:_Heroes_of_Tomorrow"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "Torunn identifies herself as Thor’s daughter in the film’s mythological family story.",
+        "severity": "Mild",
+        "sourceUrl": "https://comicvine.gamespot.com/articles/next-avengers-heroes-of-tomorrow-dvd-review/1100-135175/"
+      }
+    ],
+    "scripture": [
+      "Galatians 6:2"
+    ],
+    "themeScripture": {
+      "reference": "Galatians 6:2",
+      "translation": "KJV",
+      "text": "Bear ye one another's burdens, and so fulfil the law of Christ.",
+      "url": "https://www.biblegateway.com/passage/?search=Galatians+6%3A2&version=KJV",
+      "connection": "Paul’s instruction can apply across generations. Here the children recognize a burden their guardian can no longer carry alone."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homilies on the Gospel of John",
+      "section": "Homily 77, section 1, on love",
+      "text": "Because this is the mark of the disciples, this the bond of virtue.",
+      "url": "https://www.newadvent.org/fathers/240177.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "The guardian needs help",
+        "filmMoment": "The children enter Ultra City to rescue the man who raised them.",
+        "scriptureReference": "Galatians 6:2",
+        "reflection": "Paul’s instruction can apply across generations. Here the children recognize a burden their guardian can no longer carry alone.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Next_Avengers:_Heroes_of_Tomorrow"
+      }
+    ],
+    "questions": [
+      "What does Tony give the children during the years in hiding that his armor cannot give them?",
+      "After the robots reveal their home, what responsibility can James take for an accident?",
+      "What makes Francis a partner the other children need during the rescue?",
+      "How might the children’s choices differ if their only goal were to hurt Ultron?",
+      "Which of Tony’s habits would be worth inheriting even for a child with no powers?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Two youths flirt with the same teammate."
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media",
+              "url": "https://www.commonsensemedia.org/movie-reviews/next-avengers-heroes-of-tomorrow",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "source_reports_not_present",
+          "findings": [
+            "Common Sense Media lists language as not present in its review."
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media",
+              "url": "https://www.commonsensemedia.org/movie-reviews/next-avengers-heroes-of-tomorrow",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Ultron turns Stark’s robots against him and captures him as the children escape."
+          ],
+          "evidence": [
+            {
+              "provider": "Released film plot summary",
+              "url": "https://en.wikipedia.org/wiki/Next_Avengers:_Heroes_of_Tomorrow",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Torunn identifies herself as Thor’s daughter in the film’s mythological family story."
+          ],
+          "evidence": [
+            {
+              "provider": "Comic Vine DVD review",
+              "url": "https://comicvine.gamespot.com/articles/next-avengers-heroes-of-tomorrow-dvd-review/1100-135175/",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "source_reports_not_present",
+          "findings": [
+            "Common Sense Media lists drinking, drugs and smoking as not present in its review."
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media",
+              "url": "https://www.commonsensemedia.org/movie-reviews/next-avengers-heroes-of-tomorrow",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "After Tony protects the children, they return to free him."
+          ],
+          "evidence": [
+            {
+              "provider": "Released film plot summary",
+              "url": "https://en.wikipedia.org/wiki/Next_Avengers:_Heroes_of_Tomorrow",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2010-planet-hulk",
+    "title": "Planet Hulk",
+    "year": 2010,
+    "edition": "2010 US Lionsgate animated DVD feature",
+    "genre": "Marvel · Animation",
+    "officialRating": "NR",
+    "age": "16+",
+    "verdict": "neutral",
+    "sources": [
+      {
+        "label": "Common Sense Media",
+        "url": "https://www.commonsensemedia.org/movie-reviews/planet-hulk"
+      },
+      {
+        "label": "Arlington Heights Memorial Library DVD record",
+        "url": "https://www.ahml.info/catalog/record/1936491"
+      },
+      {
+        "label": "Wired DVD review",
+        "url": "https://www.wired.com/2010/02/review-planet-hulk/"
+      }
+    ],
+    "synopsis": "Exiled to Sakaar, Hulk is enslaved and made to fight for the Red King. The other captives begin to regard him as one of their own.",
+    "verdictRationale": "The captives’ refusal to abandon Hulk gives their fellowship moral force. The arena exposes a ruler who treats persons as property. Yet the film also invites viewers to enjoy the same punishing blows that entertain an arena crowd. Families have reason to admire the prisoners’ loyalty and to question that pleasure.",
+    "ageRationale": "Sustained animated combat includes severed bodies and bloody blows to a fallen opponent. Creatures invade victims’ bodies. These sequences warrant older-teen guidance even for viewers familiar with lighter Hulk adventures.",
+    "reflection": "Hulk’s companions offer him a place among them while he still wants to stand alone. Their patience raises a question a contest of strength cannot answer: how does someone learn to receive another person’s care?",
+    "themes": [
+      {
+        "name": "Solidarity",
+        "score": 4,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Miek and the other captives claim Hulk as one of their own and persist when he withdraws. Belonging changes what escape would mean.",
+        "references": [
+          {
+            "label": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/planet-hulk"
+          }
+        ]
+      },
+      {
+        "name": "Domination",
+        "score": 5,
+        "type": "harmful",
+        "portrayal": "criticized",
+        "evidence": "The Red King’s regime sells captives into arena combat. Coercion is the premise for the entire gladiator story.",
+        "references": [
+          {
+            "label": "Arlington Heights Memorial Library DVD record",
+            "url": "https://www.ahml.info/catalog/record/1936491"
+          }
+        ]
+      },
+      {
+        "name": "Anger and cruelty",
+        "score": 5,
+        "type": "harmful",
+        "portrayal": "mixed",
+        "evidence": "Hulk keeps striking a fallen opponent. The frequency and bloody detail of the fights compete with the story’s criticism of forced combat.",
+        "references": [
+          {
+            "label": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/planet-hulk"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "score": null,
+        "type": "context",
+        "portrayal": "unverified",
+        "evidence": "The guide describes Hulk and Caiera’s encounter. The evidence does not establish film-wide prominence. Check the original 2010 DVD and record relevant scenes before assigning a score.",
+        "references": [
+          {
+            "label": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/planet-hulk"
+          }
+        ]
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "details": "Hulk and Caiera come close to kissing.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.commonsensemedia.org/movie-reviews/planet-hulk"
+      },
+      {
+        "name": "Language",
+        "details": "A character uses an invented exclamation.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.commonsensemedia.org/movie-reviews/planet-hulk"
+      },
+      {
+        "name": "Violence",
+        "details": "A creature is cut in half and Hulk repeatedly strikes a downed opponent.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.commonsensemedia.org/movie-reviews/planet-hulk"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "Sakaar’s people interpret Hulk through their expectation of a savior.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.wired.com/2010/02/review-planet-hulk/"
+      }
+    ],
+    "scripture": [
+      "Romans 12:21"
+    ],
+    "themeScripture": {
+      "reference": "Romans 12:21",
+      "translation": "KJV",
+      "text": "Be not overcome of evil, but overcome evil with good.",
+      "url": "https://www.biblegateway.com/passage/?search=Romans+12%3A21&version=KJV",
+      "connection": "Paul’s counsel invites a distinction between defeating an oppressor and choosing a different way to treat someone who has turned away."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homilies on Romans",
+      "section": "Homily 22, on Romans 12:20–21",
+      "text": "For I even insist upon your doing kindness.",
+      "url": "https://www.newadvent.org/fathers/210222.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "What does freedom change?",
+        "filmMoment": "Hulk’s fellow captives continue to treat him as kin despite his withdrawal.",
+        "scriptureReference": "Romans 12:21",
+        "reflection": "Paul’s counsel invites a distinction between defeating an oppressor and choosing a different way to treat someone who has turned away.",
+        "sourceUrl": "https://www.commonsensemedia.org/movie-reviews/planet-hulk"
+      }
+    ],
+    "questions": [
+      "What makes Miek regard Hulk as kin while they are still captives?",
+      "When Hulk keeps striking a fallen opponent, what do you want him to do next, and why?",
+      "How does the arena encourage its audience to see a captive as entertainment?",
+      "What expectations do the people of Sakaar place on someone they regard as a savior?",
+      "If freedom meant only becoming the strongest fighter, what part of the prisoners’ friendship would be lost?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Hulk and Caiera come close to kissing."
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media",
+              "url": "https://www.commonsensemedia.org/movie-reviews/planet-hulk",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A character uses an invented exclamation."
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media",
+              "url": "https://www.commonsensemedia.org/movie-reviews/planet-hulk",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A creature is cut in half and Hulk repeatedly strikes a downed opponent."
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media",
+              "url": "https://www.commonsensemedia.org/movie-reviews/planet-hulk",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Sakaar’s people interpret Hulk through their expectation of a savior."
+          ],
+          "evidence": [
+            {
+              "provider": "Wired DVD review",
+              "url": "https://www.wired.com/2010/02/review-planet-hulk/",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "source_reports_not_present",
+          "findings": [
+            "Common Sense Media lists drinking, drugs and smoking as not present in its review."
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media",
+              "url": "https://www.commonsensemedia.org/movie-reviews/planet-hulk",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Fellow prisoners keep faith with Hulk when he pulls away."
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media",
+              "url": "https://www.commonsensemedia.org/movie-reviews/planet-hulk",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  }
+]
