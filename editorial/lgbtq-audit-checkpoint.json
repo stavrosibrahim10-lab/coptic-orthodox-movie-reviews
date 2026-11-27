@@ -11365,6 +11365,336 @@
           "studio_status": "repository_draft_validated_no_authenticated_studio_save"
         }
       ]
+    },
+    {
+      "number": 24,
+      "date": "2026-11-27",
+      "review_completion_branch": "editorial/stage-4-completion",
+      "review_completion_ledger": "editorial/review-completion.tsv",
+      "films": [
+        {
+          "movie_id": "marvel-1979-captain-america",
+          "title": "Captain America",
+          "year": 1979,
+          "version": "the 1979 television pilot starring Reb Brown as Steve Rogers",
+          "status": "proposal_saved",
+          "review_baseline": "editorial/review-drafts-marvel-batch-27.json",
+          "review_baseline_blob": "8109183e1ad44310fe1fc81ebf07a838d0ef4981",
+          "sources": [
+            "https://reactormag.com/not-the-hero-of-world-war-ii-captain-america-and-captain-america-ii-death-too-soon/",
+            "https://www.imdb.com/title/tt0078937/parentalguide/",
+            "https://comic-watch.com/movies/encyclopedia-of-superheroes-captain-america-2"
+          ],
+          "on_screen": "Steve frees Tina and Dr. Day before going after the truck.",
+          "on_screen_source": "https://reactormag.com/not-the-hero-of-world-war-ii-captain-america-and-captain-america-ii-death-too-soon/",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Steve chooses to enter alone because a show of force could cost Tina and Dr. Day their lives. Their safety guides his choice before he puts on the costume. Brackett exploits Tina’s desire to clear her father’s name. The rescue shows the difference between earning trust and abusing it.",
+            "age": "10+",
+            "age_rationale": "Steve is badly injured in a crash. Two women are held at gunpoint, and the bomb threatens people outside the immediate fight. Children may need help understanding why the adults hesitate to rush in.",
+            "age_source": "https://reactormag.com/not-the-hero-of-world-war-ii-captain-america-and-captain-america-ii-death-too-soon/",
+            "theme_ratings": [
+              {
+                "name": "Prudence",
+                "score": 4,
+                "evidence": "Steve argues for a smaller rescue because a larger intervention endangers the captives. His judgment shapes the mission.",
+                "rating_rationale": "His judgment shapes the mission.",
+                "sources": [
+                  "https://reactormag.com/not-the-hero-of-world-war-ii-captain-america-and-captain-america-ii-death-too-soon/"
+                ]
+              },
+              {
+                "name": "Service",
+                "score": 4,
+                "evidence": "After freeing the women, Steve continues to pursue the truck. His willingness to protect people he has never met drives the climax.",
+                "rating_rationale": "His willingness to protect people he has never met drives the climax.",
+                "sources": [
+                  "https://reactormag.com/not-the-hero-of-world-war-ii-captain-america-and-captain-america-ii-death-too-soon/"
+                ]
+              },
+              {
+                "name": "Betrayal of trust",
+                "score": 4,
+                "evidence": "Brackett claims he can clear Tina’s father and then takes her captive. Exploiting her trust enables his scheme.",
+                "rating_rationale": "Exploiting her trust enables his scheme.",
+                "sources": [
+                  "https://reactormag.com/not-the-hero-of-world-war-ii-captain-america-and-captain-america-ii-death-too-soon/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "Check dialogue and background visuals throughout the 1979 television pilot starring Reb Brown as Steve Rogers. The available scene guides give selective coverage.",
+            "next_step": "Screen the full identified broadcast.",
+            "sources": [
+              "https://www.imdb.com/title/tt0078937/parentalguide/"
+            ]
+          },
+          "other_open_fields": [
+            {
+              "field": "sexual_content",
+              "next_step": "Check personal conversations and physical contact in the pilot. The viewer poll supplies no scene descriptions."
+            },
+            {
+              "field": "language",
+              "next_step": "Check the original English dialogue. Viewer votes alone do not establish language coverage."
+            },
+            {
+              "field": "substance_use",
+              "next_step": "The FLAG injection is a fictional medical intervention. Check separately for recreational substances."
+            },
+            {
+              "field": "spiritual_material",
+              "next_step": "Check references to Steve’s father and any religious imagery; family legacy alone is insufficient evidence."
+            }
+          ],
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "marvel-1979-captain-america-ii-death-too-soon",
+          "title": "Captain America II: Death Too Soon",
+          "year": 1979,
+          "version": "the two-part CBS sequel starring Reb Brown and Christopher Lee, broadcast November 23–24, 1979",
+          "status": "proposal_saved",
+          "review_baseline": "editorial/review-drafts-marvel-batch-27.json",
+          "review_baseline_blob": "8109183e1ad44310fe1fc81ebf07a838d0ef4981",
+          "sources": [
+            "https://reactormag.com/not-the-hero-of-world-war-ii-captain-america-and-captain-america-ii-death-too-soon/",
+            "https://www.imdb.com/title/tt0078938/parentalguide",
+            "https://en.wikipedia.org/wiki/Captain_America_II:_Death_Too_Soon",
+            "https://transcripts.foreverdreaming.org/viewtopic.php?t=144736"
+          ],
+          "on_screen": "Helen explains the threat to withdraw the town’s treatment. Steve helps return the antidote to Portland.",
+          "on_screen_source": "https://reactormag.com/not-the-hero-of-world-war-ii-captain-america-and-captain-america-ii-death-too-soon/",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Steve makes time to hear Mrs. Shaw’s account of the stolen checks. Later, Helen’s explanation helps him understand why an entire town has kept quiet. His willingness to listen matters to the rescue. Miguel’s hold over the town shows the cruelty of making care conditional on obedience.",
+            "age": "10+",
+            "age_rationale": "People age against their will and fear losing treatment. Dogs threaten Steve during the rescue. The loss of control over one’s body may particularly trouble children worried about an older relative.",
+            "age_source": "https://reactormag.com/not-the-hero-of-world-war-ii-captain-america-and-captain-america-ii-death-too-soon/",
+            "theme_ratings": [
+              {
+                "name": "Care for vulnerable neighbors",
+                "score": 5,
+                "evidence": "Steve responds to the thefts Mrs. Shaw describes and helps bring the antidote to Portland. Protection connects the opening encounter to the ending.",
+                "rating_rationale": "Protection connects the opening encounter to the ending.",
+                "sources": [
+                  "https://reactormag.com/not-the-hero-of-world-war-ii-captain-america-and-captain-america-ii-death-too-soon/"
+                ]
+              },
+              {
+                "name": "Courage in telling the truth",
+                "score": 3,
+                "evidence": "Helen explains how Miguel keeps the town compliant. One disclosure changes what Steve understands about the residents’ silence.",
+                "rating_rationale": "One disclosure changes what Steve understands about the residents’ silence.",
+                "sources": [
+                  "https://reactormag.com/not-the-hero-of-world-war-ii-captain-america-and-captain-america-ii-death-too-soon/"
+                ]
+              },
+              {
+                "name": "Coercion",
+                "score": 5,
+                "evidence": "Miguel uses access to treatment to silence Belleville and demands money under threat to Portland. Coercion governs both conflicts.",
+                "rating_rationale": "Coercion governs both conflicts.",
+                "sources": [
+                  "https://reactormag.com/not-the-hero-of-world-war-ii-captain-america-and-captain-america-ii-death-too-soon/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "Check dialogue and background visuals throughout the two-part CBS sequel starring Reb Brown and Christopher Lee, broadcast November 23–24, 1979. The available scene guides give selective coverage.",
+            "next_step": "Screen the full identified broadcast.",
+            "sources": [
+              "https://www.imdb.com/title/tt0078938/parentalguide"
+            ]
+          },
+          "other_open_fields": [
+            {
+              "field": "sexual_content",
+              "next_step": "Check interactions with Helen and incidental scenes across both CBS parts; the viewer poll gives no concrete scenes."
+            },
+            {
+              "field": "substance_use",
+              "next_step": "The fictional aging substance and antidote explain the peril. Check separately for alcohol, tobacco and other recreational use."
+            },
+            {
+              "field": "spiritual_material",
+              "next_step": "Check both parts for explicit religious references. The accelerated aging is presented as fictional science."
+            }
+          ],
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save",
+          "content_categories": {
+            "language": {
+              "status": "specific_findings_verified",
+              "findings": [
+                "The transcribed dialogue uses ‘damn’ in a complaint about Captain America’s motorcycle."
+              ],
+              "evidence": [
+                {
+                  "provider": "Forever Dreaming feature transcript",
+                  "url": "https://transcripts.foreverdreaming.org/viewtopic.php?t=144736",
+                  "scope": "transcribed_dialogue",
+                  "checked_at": "2026-11-27"
+                }
+              ],
+              "absence_verified": false
+            }
+          }
+        },
+        {
+          "movie_id": "film-hoppers",
+          "title": "Hoppers",
+          "year": 2026,
+          "version": "Disney/Pixar animated theatrical feature (2026)",
+          "status": "proposal_saved",
+          "review_baseline": "public/seed-reviews.js",
+          "review_baseline_blob": "65cf4053ad16b37541068fb57362e212670115b7",
+          "sources": [
+            "https://lumiere-a.akamaihd.net/v1/documents/hoppers_advanced_production_notes_final_26_9574a0fd.pdf",
+            "https://www.pluggedin.com/movie-reviews/hoppers-2026/",
+            "https://en.wikipedia.org/wiki/Hoppers_(film)",
+            "https://www.washingtonpost.com/dc-md-va/2026/03/06/common-sense-media-hoppers-scream-7/"
+          ],
+          "on_screen": "Mabel reconciles with Jerry. Jerry helps her escape, and animals dismantle their dam to put out the fire.",
+          "on_screen_source": "https://en.wikipedia.org/wiki/Hoppers_(film)",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Mabel sets out to preserve a place she loves, but her anger also puts its inhabitants at risk. Accepting help from Jerry and helping dismantle the dam make her concern credible: she can give up part of what she wanted to save the lives involved.",
+            "age": "7+",
+            "age_rationale": "The wildfire and a shark chasing a human can sustain fear longer than the short predator jokes. A butterfly’s sudden death may upset a child who expects it to recover.",
+            "age_source": "https://www.washingtonpost.com/dc-md-va/2026/03/06/common-sense-media-hoppers-scream-7/",
+            "theme_ratings": [
+              {
+                "name": "Compassion and service",
+                "score": 5,
+                "evidence": "The animals help break their dam to put out the fire.",
+                "rating_rationale": "The costly cooperative rescue resolves the main conflict.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/Hoppers_(film)"
+                ]
+              },
+              {
+                "name": "Courage and hope",
+                "score": 3,
+                "evidence": "Jerry joins Mabel’s escape using the robotic beaver.",
+                "rating_rationale": "An opponent takes a material risk in a pivotal sequence.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/Hoppers_(film)"
+                ]
+              },
+              {
+                "name": "Truthfulness and integrity",
+                "score": 3,
+                "evidence": "Mabel recognizes the harm of her campaign and reconciles with Jerry.",
+                "rating_rationale": "Owning her part makes cooperation possible.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/Hoppers_(film)"
+                ]
+              },
+              {
+                "name": "Violence and cruelty",
+                "score": 3,
+                "evidence": "After the insect queen dies, the animals turn on George and Mabel.",
+                "rating_rationale": "A death and pursuit for revenge recur beyond the short predation jokes.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/hoppers-2026/"
+                ]
+              },
+              {
+                "name": "Profanity and blasphemy",
+                "score": 1,
+                "evidence": "Characters exchange mild insults and use a pun on a coarse expression.",
+                "rating_rationale": "These isolated language concerns have little narrative weight.",
+                "sources": [
+                  "https://www.washingtonpost.com/dc-md-va/2026/03/06/common-sense-media-hoppers-scream-7/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The selected sources document individual scenes. They do not establish prominence across the released feature.",
+            "next_step": "Screen the full theatrical edition and record dialogue and visual coverage.",
+            "sources": [
+              "https://www.washingtonpost.com/dc-md-va/2026/03/06/common-sense-media-hoppers-scream-7/"
+            ]
+          },
+          "studio_status": "repository_proposal_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "batch1-2001-harry-potter-and-the-sorcerer-s-stone",
+          "title": "Harry Potter and the Sorcerer’s Stone",
+          "year": 2001,
+          "version": "Chris Columbus’s 2001 English-language theatrical feature, US title",
+          "status": "proposal_saved",
+          "review_baseline": "public/seed-reviews.js",
+          "review_baseline_blob": "65cf4053ad16b37541068fb57362e212670115b7",
+          "sources": [
+            "https://www.harrypotter.com/discover/films/harry-potter-and-the-philosophers-stone",
+            "https://www.findtowatch.com/parents-guide/harry-potter-and-the-sorcerers-stone/",
+            "https://www.imdb.com/title/tt0241527/parentalguide/certificates"
+          ],
+          "on_screen": "During the life-size chess match, Ron’s piece is struck and Ron is knocked unconscious, allowing his friends to continue.",
+          "on_screen_source": "https://www.findtowatch.com/parents-guide/harry-potter-and-the-sorcerers-stone/",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Ron accepts an injury so his friends can continue. Courage and loyalty are worth discussing on their own terms. Hogwarts also presents learning spells as a desirable education, giving families reason to explain how this invented world differs from Orthodox spiritual life.",
+            "age": "10+",
+            "age_rationale": "The troll attack and the chess piece striking Ron make the danger to children tangible. A viewer sensitive to threatening creatures may find the giant dog especially frightening.",
+            "age_source": "https://www.findtowatch.com/parents-guide/harry-potter-and-the-sorcerers-stone/",
+            "theme_ratings": [
+              {
+                "name": "Courage and hope",
+                "score": 4,
+                "evidence": "Harry continues through the obstacles toward a confrontation with the Dark Wizard.",
+                "rating_rationale": "His willingness to face danger links the school adventure to its climax.",
+                "sources": [
+                  "https://www.harrypotter.com/discover/films/harry-potter-and-the-philosophers-stone"
+                ]
+              },
+              {
+                "name": "Love and self-sacrifice",
+                "score": 4,
+                "evidence": "Ron allows his piece to be taken in the chess match.",
+                "rating_rationale": "The injury is a deliberate cost he accepts for his friends.",
+                "sources": [
+                  "https://www.findtowatch.com/parents-guide/harry-potter-and-the-sorcerers-stone/"
+                ]
+              },
+              {
+                "name": "Occult or misleading spirituality",
+                "score": 4,
+                "evidence": "Hogwarts teaches Harry to use his magical abilities.",
+                "rating_rationale": "Learning magic is central to the setting and celebrated as an achievement.",
+                "sources": [
+                  "https://www.harrypotter.com/discover/films/harry-potter-and-the-philosophers-stone"
+                ]
+              },
+              {
+                "name": "Violence and cruelty",
+                "score": 2,
+                "evidence": "A troll threatens the children and Ron is knocked unconscious during chess.",
+                "rating_rationale": "The consequences are visible, though the fights occur in distinct fantasy sequences.",
+                "sources": [
+                  "https://www.findtowatch.com/parents-guide/harry-potter-and-the-sorcerers-stone/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The selected sources document individual scenes. They do not establish prominence across the released feature.",
+            "next_step": "Screen the full theatrical edition and record dialogue and visual coverage.",
+            "sources": [
+              "https://www.findtowatch.com/parents-guide/harry-potter-and-the-sorcerers-stone/"
+            ]
+          },
+          "studio_status": "repository_proposal_no_authenticated_studio_save"
+        }
+      ]
     }
   ]
 }
