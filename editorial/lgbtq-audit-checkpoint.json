@@ -11017,6 +11017,354 @@
           "studio_status": "repository_draft_validated_no_authenticated_studio_save"
         }
       ]
+    },
+    {
+      "number": 23,
+      "date": "2026-11-27",
+      "review_completion_branch": "editorial/stage-4-completion",
+      "review_completion_ledger": "editorial/review-completion.tsv",
+      "films": [
+        {
+          "movie_id": "marvel-2010-kick-ass",
+          "title": "Kick-Ass",
+          "year": 2010,
+          "version": "Matthew Vaughn’s 2010 theatrical feature starring Aaron Johnson and Chloë Grace Moretz",
+          "status": "proposal_saved",
+          "review_baseline": "editorial/review-drafts-marvel-batch-25.json",
+          "review_baseline_blob": "46d1bbfe18107d36cab42c64d6e72940d0afe490",
+          "sources": [
+            "https://www.bbfc.co.uk/release/kick-ass-q29sbgvjdglvbjpwwc00mjgyotc",
+            "https://en.wikipedia.org/wiki/Kick-Ass_(film)",
+            "https://www.movieguide.org/reviews/movies/kick-ass.html",
+            "https://www.rogerebert.com/reviews/kick-ass-2010"
+          ],
+          "on_screen": "Dave intervenes when a gang attacks a stranger. Later, Damon’s campaign against D’Amico ends with his own fatal burns.",
+          "on_screen_source": "https://en.wikipedia.org/wiki/Kick-Ass_(film)",
+          "draft_proposal": {
+            "verdict": "destructive",
+            "verdict_rationale": "Dave risks injury to help a stranger who is being beaten. That act of courage gives way to a family revenge story in which a child’s skill at killing supplies some of the biggest laughs. Big Daddy’s death shows what revenge can cost, yet the climax rewards his daughter for carrying his campaign forward.",
+            "age": "18+",
+            "age_rationale": "Adults only is the proposed guidance. A captive father burns to death during a rescue, and the film combines graphic injury with a child carrying out repeated killings. Teen sex and frequent strong language add to the concern.",
+            "age_source": "https://www.bbfc.co.uk/release/kick-ass-q29sbgvjdglvbjpwwc00mjgyotc",
+            "theme_ratings": [
+              {
+                "name": "Courage",
+                "score": 3,
+                "evidence": "Dave intervenes in a gang assault despite being outnumbered. This early rescue establishes why his example appeals to others.",
+                "rating_rationale": "This early rescue establishes why his example appeals to others.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/Kick-Ass_(film)"
+                ]
+              },
+              {
+                "name": "Vengeance",
+                "score": 5,
+                "evidence": "Damon trains Mindy to avenge his family, and the pair’s feud leads into the final confrontation. Revenge shapes her upbringing and the climax.",
+                "rating_rationale": "Revenge shapes her upbringing and the climax.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/Kick-Ass_(film)"
+                ]
+              },
+              {
+                "name": "Violence and cruelty",
+                "score": 5,
+                "evidence": "The father’s torture is frightening, while other killings by the child are choreographed for laughter. Both recur within the film’s main attraction.",
+                "rating_rationale": "Both recur within the film’s main attraction.",
+                "sources": [
+                  "https://www.bbfc.co.uk/release/kick-ass-q29sbgvjdglvbjpwwc00mjgyotc"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": 2,
+            "observation": "A school rumor that Dave is gay shapes his friendship with Katie until he corrects it. The score reflects repeated references in their subplot. Dave explicitly disavows the rumor.",
+            "sources": [
+              "https://en.wikipedia.org/wiki/Kick-Ass_(film)"
+            ],
+            "next_step": "Check the complete identified edition for other references before final scoring."
+          },
+          "other_open_fields": [
+            {
+              "field": "spiritual_material",
+              "next_step": "Check Dave’s narration and funeral dialogue against theatrical audio or captions before assigning a spiritual-material finding."
+            }
+          ],
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "marvel-2013-kick-ass-2",
+          "title": "Kick-Ass 2",
+          "year": 2013,
+          "version": "Jeff Wadlow’s 2013 theatrical feature, 102m 57s UK cinema classification",
+          "status": "proposal_saved",
+          "review_baseline": "editorial/review-drafts-marvel-batch-25.json",
+          "review_baseline_blob": "46d1bbfe18107d36cab42c64d6e72940d0afe490",
+          "sources": [
+            "https://www.bbfc.co.uk/release/kick-ass-2-q29sbgvjdglvbjpwwc00mza4mta",
+            "https://www.pluggedin.com/movie-reviews/kick-a-2/",
+            "https://en.wikipedia.org/wiki/Kick-Ass_2_(film)",
+            "https://www.imdb.com/title/tt1650554/characters/nm3016166/",
+            "https://www.rottentomatoes.com/m/kick_ass_2_2013",
+            "https://reactormag.com/i-used-to-hang-out-with-a-lot-of-losers-kick-ass-2//"
+          ],
+          "on_screen": "Mindy retaliates against school bullies by causing them to become ill in front of others.",
+          "on_screen_source": "https://www.bbfc.co.uk/release/kick-ass-2-q29sbgvjdglvbjpwwc00mza4mta",
+          "draft_proposal": {
+            "verdict": "destructive",
+            "verdict_rationale": "Marcus wants Mindy to have a life in which someone else looks after her. Dave’s father also takes a risk to protect his son. These are credible pictures of parental care. The film gives a teenager’s humiliating revenge on school bullies the payoff of a comedy routine, even as the loss of Dave’s father exposes the cost of retaliation elsewhere. The sustained invitation to enjoy cruelty weighs most heavily in this proposal.",
+            "age": "18+",
+            "age_rationale": "Proposed for adults. The threat of sexual assault, bloody dismemberment and attacks on loved ones can distress viewers independently of how they understand the satire. A school bullying sequence also dwells on public bodily humiliation.",
+            "age_source": "https://www.bbfc.co.uk/release/kick-ass-2-q29sbgvjdglvbjpwwc00mza4mta",
+            "theme_ratings": [
+              {
+                "name": "Parental love",
+                "score": 4,
+                "evidence": "Dave’s father takes responsibility for the costume, and Marcus tries to keep Mindy safe. The two households give this theme sustained weight.",
+                "rating_rationale": "The two households give this theme sustained weight.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/Kick-Ass_2_(film)"
+                ]
+              },
+              {
+                "name": "Vengeance",
+                "score": 5,
+                "evidence": "Chris builds an organization around retaliation for his father’s death. His pursuit drives the conflict and reaches Dave’s family.",
+                "rating_rationale": "His pursuit drives the conflict and reaches Dave’s family.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/Kick-Ass_2_(film)"
+                ]
+              },
+              {
+                "name": "Humiliation",
+                "score": 3,
+                "evidence": "Mindy makes her school tormentors violently ill in public. One extended reversal turns their suffering into the joke.",
+                "rating_rationale": "One extended reversal turns their suffering into the joke.",
+                "sources": [
+                  "https://www.bbfc.co.uk/release/kick-ass-2-q29sbgvjdglvbjpwwc00mza4mta"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": 1,
+            "observation": "Insect Man introduces himself by explaining that being bullied for being gay moved him to defend others. This brief account of his motive supports a provisional 1. Check the feature for additional scenes before finalizing prominence.",
+            "sources": [
+              "https://www.imdb.com/title/tt1650554/characters/nm3016166/"
+            ],
+            "next_step": "Check the complete identified edition for other references before final scoring."
+          },
+          "other_open_fields": [],
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "marvel-1988-the-incredible-hulk-returns",
+          "title": "The Incredible Hulk Returns",
+          "year": 1988,
+          "version": "1988 live-action television reunion with Bill Bixby and Lou Ferrigno; Thor is the warrior summoned by Donald Blake.",
+          "status": "proposal_saved",
+          "review_baseline": "editorial/review-drafts-marvel-batch-26.json",
+          "review_baseline_blob": "53d6b5985c82b64d50f9c83bb084333f02312af4",
+          "sources": [
+            "https://www.rottentomatoes.com/m/incredible_hulk_returns",
+            "https://www.imdb.com/title/tt0095368/parentalguide/",
+            "https://en.wikipedia.org/wiki/The_Incredible_Hulk_Returns",
+            "https://www.imdb.com/title/tt0095368/plotsummary/",
+            "https://reactormag.com/first-draft-of-the-mcu-the-incredible-hulk-returns-the-trial-of-the-incredible-hulk-and-the-death-of-the-incredible-hulk//"
+          ],
+          "on_screen": "Blake and Banner enlist Thor to help recover Maggie after her abductors demand the transponder.",
+          "on_screen_source": "https://www.imdb.com/title/tt0095368/plotsummary/",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Giving up a chance at a cure so that Maggie can come home is David’s most admirable decision. The picture also makes a spectacle of the very power he has spent years trying to control. Its strongest invitation to compassion comes late, after an extended contest of strength.",
+            "age": "10+",
+            "age_rationale": "Maggie is held to force an exchange. A child may find the separation and the Hulk’s physical changes more unsettling than the brief blows. Thor’s drinking is played as barroom entertainment.",
+            "age_source": "https://www.imdb.com/title/tt0095368/parentalguide/",
+            "theme_ratings": [
+              {
+                "name": "Sacrificial care",
+                "score": 4,
+                "evidence": "David puts Maggie’s rescue ahead of his chance to use the transponder. The choice redirects the final act.",
+                "rating_rationale": "The choice redirects the final act.",
+                "sources": [
+                  "https://www.imdb.com/title/tt0095368/plotsummary/"
+                ]
+              },
+              {
+                "name": "Cooperation",
+                "score": 3,
+                "evidence": "Thor and Hulk initially clash and later combine their strength in the rescue. Their change matters most near the end.",
+                "rating_rationale": "Their change matters most near the end.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/The_Incredible_Hulk_Returns"
+                ]
+              },
+              {
+                "name": "Coercion",
+                "score": 4,
+                "evidence": "The kidnappers use Maggie as the price of obtaining David’s invention. Her captivity drives the rescue.",
+                "rating_rationale": "Her captivity drives the rescue.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/The_Incredible_Hulk_Returns"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "Scene coverage in the linked guides is selective. Review the full 1988 television feature, including dialogue and background visuals, before assigning a prominence score.",
+            "sources": [
+              "https://www.imdb.com/title/tt0095368/parentalguide/"
+            ],
+            "next_step": "Check the complete identified edition for other references before final scoring."
+          },
+          "other_open_fields": [],
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "marvel-1989-the-trial-of-the-incredible-hulk",
+          "title": "The Trial of the Incredible Hulk",
+          "year": 1989,
+          "version": "1989 live-action Bill Bixby television feature with Rex Smith as Matt Murdock.",
+          "status": "proposal_saved",
+          "review_baseline": "editorial/review-drafts-marvel-batch-26.json",
+          "review_baseline_blob": "53d6b5985c82b64d50f9c83bb084333f02312af4",
+          "sources": [
+            "https://tv.apple.com/us/movie/the-trial-of-the-incredible-hulk/umc.cmc.4rdxcbojls2ctgbukl47vw8fv",
+            "https://www.imdb.com/title/tt0098512/parentalguide/",
+            "https://www.tvguide.com/movies/the-trial-of-the-incredible-hulk/2030344665/",
+            "https://en.wikipedia.org/wiki/The_Trial_of_the_Incredible_Hulk",
+            "https://reactormag.com/first-draft-of-the-mcu-the-incredible-hulk-returns-the-trial-of-the-incredible-hulk-and-the-death-of-the-incredible-hulk//"
+          ],
+          "on_screen": "Ellie offers to speak if her parents can be protected. David’s courtroom transformation is dreamed while he is in custody.",
+          "on_screen_source": "https://en.wikipedia.org/wiki/The_Trial_of_the_Incredible_Hulk",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "David’s first intervention costs him his freedom. Matt offers legal help to a man who cannot pay him, and later needs David to save him when Fisk exploits his sensitive hearing. Each man gets a turn at being vulnerable. Ellie’s fear for her parents gives her false account a human context and makes witness protection a moral issue.",
+            "age": "13+",
+            "age_rationale": "The train assault carries a sexual threat. Fisk also threatens Ellie’s family, and Matt is deliberately disoriented and severely beaten. The danger to a witness and the targeting of a disability warrant discussion with teens.",
+            "age_source": "https://www.imdb.com/title/tt0098512/parentalguide/",
+            "theme_ratings": [
+              {
+                "name": "Protection of the vulnerable",
+                "score": 5,
+                "evidence": "David steps in on the train and later saves Matt from Fisk’s men. Two costly interventions frame the partnership.",
+                "rating_rationale": "Two costly interventions frame the partnership.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/The_Trial_of_the_Incredible_Hulk"
+                ]
+              },
+              {
+                "name": "Service",
+                "score": 4,
+                "evidence": "Matt offers representation despite David’s inability to pay and continues investigating Ellie’s account. His help sustains the case.",
+                "rating_rationale": "His help sustains the case.",
+                "sources": [
+                  "https://www.tvguide.com/movies/the-trial-of-the-incredible-hulk/2030344665/"
+                ]
+              },
+              {
+                "name": "Intimidation",
+                "score": 5,
+                "evidence": "Threats against Ellie’s parents silence her. Fisk then has her abducted when she offers to speak. Coercion drives the investigation.",
+                "rating_rationale": "Fisk then has her abducted when she offers to speak. Coercion drives the investigation.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/The_Trial_of_the_Incredible_Hulk"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "Scene coverage in the linked guides is selective. Review the full 1989 television feature, including dialogue and background visuals, before assigning a prominence score.",
+            "sources": [
+              "https://www.imdb.com/title/tt0098512/parentalguide/"
+            ],
+            "next_step": "Check the complete identified edition for other references before final scoring."
+          },
+          "other_open_fields": [
+            {
+              "field": "spiritual_material",
+              "next_step": "Check original broadcast dialogue for explicit spiritual practices or claims. The documented courtroom transformation is a nightmare."
+            },
+            {
+              "field": "substance_use",
+              "next_step": "Check the original cut for recreational substances. A viewer category vote does not document a scene."
+            }
+          ],
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "marvel-1990-the-death-of-the-incredible-hulk",
+          "title": "The Death of the Incredible Hulk",
+          "year": 1990,
+          "version": "1990 live-action television finale with Bill Bixby as David and Lou Ferrigno as Hulk.",
+          "status": "proposal_saved",
+          "review_baseline": "editorial/review-drafts-marvel-batch-26.json",
+          "review_baseline_blob": "53d6b5985c82b64d50f9c83bb084333f02312af4",
+          "sources": [
+            "https://www.rottentomatoes.com/m/death_of_the_incredible_hulk",
+            "https://www.imdb.com/title/tt0099387/parentalguide/",
+            "https://en.wikipedia.org/wiki/The_Death_of_the_Incredible_Hulk",
+            "https://www.inverse.com/entertainment/the-death-of-the-incredible-hulk-35-year-anniversary",
+            "https://reactormag.com/first-draft-of-the-mcu-the-incredible-hulk-returns-the-trial-of-the-incredible-hulk-and-the-death-of-the-incredible-hulk//",
+            "https://www.imdb.com/title/tt0099387/characters/nm0084642/"
+          ],
+          "on_screen": "David abandons his escape plan to help the Pratts. As he dies, he tells Jasmine he is free. The exchange leaves the meaning of freedom open.",
+          "on_screen_source": "https://en.wikipedia.org/wiki/The_Death_of_the_Incredible_Hulk",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "The decision to turn back gives the finale its moral weight. David first helps the Pratts escape and then runs toward a plane threatening Jasmine. His death leaves people who loved him grieving. Families can admire the care that took him there and allow that loss to hurt.",
+            "age": "13+",
+            "age_rationale": "Gunfire, a plane explosion and David’s fatal fall lead to a sustained farewell. Younger viewers attached to the television hero may find his death in human form especially distressing.",
+            "age_source": "https://www.imdb.com/title/tt0099387/parentalguide/",
+            "theme_ratings": [
+              {
+                "name": "Self-sacrifice",
+                "score": 5,
+                "evidence": "David gives up escape to help the Pratts and takes a fatal risk protecting Jasmine. The climax gives these choices lasting consequences.",
+                "rating_rationale": "The climax gives these choices lasting consequences.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/The_Death_of_the_Incredible_Hulk"
+                ]
+              },
+              {
+                "name": "Mercy",
+                "score": 3,
+                "evidence": "David treats Jasmine’s wound after her involvement with the spies. A short private act of care changes their relationship.",
+                "rating_rationale": "A short private act of care changes their relationship.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/The_Death_of_the_Incredible_Hulk"
+                ]
+              },
+              {
+                "name": "Manipulation",
+                "score": 4,
+                "evidence": "Bella’s supposed captivity is a deception that exploits Jasmine’s loyalty. Its discovery breaks her allegiance to the network.",
+                "rating_rationale": "Its discovery breaks her allegiance to the network.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/The_Death_of_the_Incredible_Hulk"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "Scene coverage in the linked guides is selective. Review the full 1990 television feature, including dialogue and background visuals, before assigning a prominence score.",
+            "sources": [
+              "https://www.imdb.com/title/tt0099387/parentalguide/"
+            ],
+            "next_step": "Check the complete identified edition for other references before final scoring."
+          },
+          "other_open_fields": [
+            {
+              "field": "spiritual_material",
+              "next_step": "Dialogue checked: David says he is free. Review the broadcast context before classifying this as an explicit spiritual claim."
+            }
+          ],
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        }
+      ]
     }
   ]
 }
