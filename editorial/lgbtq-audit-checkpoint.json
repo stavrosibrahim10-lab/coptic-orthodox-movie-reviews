@@ -8992,6 +8992,241 @@
           "studio_status": "repository_draft_validated_no_authenticated_studio_save"
         }
       ]
+    },
+    {
+      "number": 13,
+      "date": "2026-11-26",
+      "review_completion_branch": "editorial/stage-4-completion",
+      "review_completion_ledger": "editorial/review-completion.tsv",
+      "films": [
+        {
+          "movie_id": "marvel-2021-venom-let-there-be-carnage",
+          "title": "Venom: Let There Be Carnage",
+          "year": 2021,
+          "version": "Original 2021 US PG-13 theatrical feature starring Tom Hardy",
+          "review_baseline": "editorial/review-drafts-marvel-batch-16.json",
+          "review_baseline_blob": "2ffdfa7a75cc28dcf98c783fb213834352b8e807",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/venom-let-there-be-carnage-2021/",
+            "https://www.abc.net.au/news/2021-11-25/venom-let-there-be-carnage-film-review-tom-hardy-woody-harrelson/100646252",
+            "https://www.rogerebert.com/reviews/venom-let-there-be-carnage-2021",
+            "https://www.slashfilm.com/621470/venom-let-there-be-carnage-ending-explained-its-a-nice-day-for-a-red-wedding/"
+          ],
+          "on_screen": "During their quarrel Venom breaks Eddie’s nose, heals it and breaks it again.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/venom-let-there-be-carnage-2021/",
+          "draft_proposal": {
+            "verdict": "destructive",
+            "verdict_rationale": "Dan helps Anne rescue her former fiancé, and Eddie and Venom must repair their friendship to save her. Yet Venom injures Eddie, heals him and repeats the injury as a gag. Other hosts die during his night out with little attention to their loss. The pleasure the film takes in its hero’s cruelty weighs more heavily in this proposal than the reconciliation at the end.",
+            "age": "16+",
+            "age_rationale": "A prison escape includes mutilation. A threatened execution, the murder of a priest and scenes recalling childhood abuse may trouble teens even when the effects look cartoonish.",
+            "age_source": "https://www.pluggedin.com/movie-reviews/venom-let-there-be-carnage-2021/",
+            "theme_ratings": [
+              {
+                "name": "Reconciliation",
+                "score": 4,
+                "evidence": "Eddie and Venom’s separation leaves Anne in danger. Their reunion makes her rescue possible.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/venom-let-there-be-carnage-2021/"
+                ],
+                "rating_rationale": "The reunion changes the outcome of the cathedral rescue."
+              },
+              {
+                "name": "Generosity",
+                "score": 3,
+                "evidence": "Dan repeatedly assists Anne and Eddie despite the romantic history. His help supports the rescue.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/venom-let-there-be-carnage-2021/"
+                ],
+                "rating_rationale": "Dan’s help recurs in a supporting role."
+              },
+              {
+                "name": "Cruelty",
+                "score": 5,
+                "evidence": "Carnage’s escape and the cathedral killings make lethal spectacle central. Even Venom hurts Eddie during a comic argument.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/venom-let-there-be-carnage-2021/"
+                ],
+                "rating_rationale": "Both the villain’s escape and the hero’s comic violence give cruelty sustained prominence."
+              },
+              {
+                "name": "Vengeance",
+                "score": 4,
+                "evidence": "Frances pursues the officer who injured her. Retaliation follows her from captivity into the wedding.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/venom-let-there-be-carnage-2021/"
+                ],
+                "rating_rationale": "Frances carries her wish for retaliation into the climax."
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "At a dance club, Venom uses a closet metaphor about leaving Eddie. ABC reads the speech as a coming-out allusion. The line identifies neither a human partner nor a character’s orientation. Check the theatrical cut for other explicit references before assigning film-wide prominence.",
+            "sources": [
+              "https://www.abc.net.au/news/2021-11-25/venom-let-there-be-carnage-film-review-tom-hardy-woody-harrelson/100646252"
+            ],
+            "next_step": "Check dialogue and recurrence across the US theatrical cut."
+          },
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "marvel-2024-venom-the-last-dance",
+          "title": "Venom: The Last Dance",
+          "year": 2024,
+          "version": "Original 2024 US PG-13 theatrical feature starring Tom Hardy",
+          "review_baseline": "editorial/review-drafts-marvel-batch-16.json",
+          "review_baseline_blob": "2ffdfa7a75cc28dcf98c783fb213834352b8e807",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/venom-last-dance-2024/",
+            "https://themoviespoiler.com/movies/venom-the-last-dance/",
+            "https://www.jesusfreakhideout.com/movies/VenomTheLastDance.asp",
+            "https://www.bbfc.co.uk/release/venom-the-last-dance-q29sbgvjdglvbjpwwc0xmdixntix",
+            "https://time.com/7099007/venom-the-last-dance-post-credit-scenes/",
+            "https://www.classificationoffice.govt.nz/find-a-rating/quick-takes/venom-the-last-dance/"
+          ],
+          "on_screen": "Venom leads the pursuing creatures into the acid and releases Eddie.",
+          "on_screen_source": "https://time.com/7099007/venom-the-last-dance-post-credit-scenes/",
+          "evidence_exception": "The BBFC counts four decapitations and the NZ Classification Office counts five. Use ‘several men’ in the verdict until the US theatrical sequence is counted directly.",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Venom finally accepts the loss of his life and his companionship with Eddie to protect others. That choice gives their friendship real weight. Earlier, the hero eats several men who mistreat dogs, and the scene treats their deaths as a satisfying punishment. Families have grounds to admire the farewell while questioning what the film invites them to enjoy along the way.",
+            "age": "16+",
+            "age_rationale": "Creatures consume soldiers and spray blood. One survivor loses both legs. These images, a child’s death in a lightning flashback and strong language warrant older-teen guidance.",
+            "age_source": "https://www.pluggedin.com/movie-reviews/venom-last-dance-2024/",
+            "theme_ratings": [
+              {
+                "name": "Self-sacrifice",
+                "score": 5,
+                "evidence": "Venom gives up his bond and draws the attacking creatures to their destruction. The resolution depends on his choice.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/venom-last-dance-2024/",
+                  "https://themoviespoiler.com/movies/venom-the-last-dance/",
+                  "https://time.com/7099007/venom-the-last-dance-post-credit-scenes/"
+                ],
+                "rating_rationale": "Venom's decision resolves the central threat at the cost of his companionship with Eddie."
+              },
+              {
+                "name": "Cooperation",
+                "score": 4,
+                "evidence": "Humans and symbiotes defend one another at the base after the military pursued them for much of the story.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/venom-last-dance-2024/"
+                ],
+                "rating_rationale": "The alliance reverses the earlier pursuit and lasts through the final fight."
+              },
+              {
+                "name": "Retribution",
+                "score": 3,
+                "evidence": "Venom decapitates the men involved in dog fighting. It is an early episode of lethal punishment by the hero.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/venom-last-dance-2024/"
+                ],
+                "rating_rationale": "The retaliation is graphic and concentrated in the opening encounter."
+              },
+              {
+                "name": "Domination",
+                "score": 5,
+                "evidence": "Knull sends creatures to seize the Codex and free him. The resulting threat drives the pursuit to its end.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/venom-last-dance-2024/"
+                ],
+                "rating_rationale": "Knull’s ambition motivates the pursuit throughout the story."
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The theatrical guide describes Eddie and Venom’s friendship. Its comparison to marriage also draws on advertising. Check the released film for explicit dialogue or relationships before assigning a film-wide score.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/venom-last-dance-2024/"
+            ],
+            "next_step": "Check dialogue and recurrence across the US theatrical cut."
+          },
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "film-the-forge",
+          "title": "The Forge",
+          "year": 2024,
+          "version": "Alex Kendrick’s 2024 feature. BBFC content record for the 2D VOD cut, 117m 46s.",
+          "review_baseline": "public/seed-reviews.js",
+          "review_baseline_blob": "65cf4053ad16b37541068fb57362e212670115b7",
+          "status": "proposal_saved",
+          "sources": [
+            "https://www.bbfc.co.uk/release/the-forge-q29sbgvjdglvbjpwwc0xmdizodmx",
+            "https://www.pluggedin.com/movie-reviews/forge-2024/"
+          ],
+          "on_screen": "A supervisor intervenes when Isaiah persists in flirting with a barista. Isaiah later apologizes.",
+          "on_screen_source": "https://www.bbfc.co.uk/release/the-forge-q29sbgvjdglvbjpwwc0xmdizodmx",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Joshua offers Isaiah a job after a rude first meeting and gives up time each week to mentor him. The barista’s discomfort matters in its own right, and the film brings Isaiah back to acknowledge what he did. His growing willingness to accept correction makes discipleship visible in daily conduct.",
+            "age": "13+",
+            "age_rationale": "The barista faces persistent unwanted attention while at work. Isaiah’s father has left the family. Those experiences carry more emotional weight than the brief, mild video-game gunfire and support retaining the cautious family guidance.",
+            "age_source": "https://www.bbfc.co.uk/release/the-forge-q29sbgvjdglvbjpwwc0xmdizodmx",
+            "additional_age_source": "https://www.pluggedin.com/movie-reviews/forge-2024/",
+            "theme_ratings": [
+              {
+                "name": "Faith and trust in God",
+                "score": 4,
+                "evidence": "Joshua makes Christian discipleship part of weekly mentoring.",
+                "rating_rationale": "Faith guides the recurring meetings and Isaiah’s change of direction.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/forge-2024/"
+                ]
+              },
+              {
+                "name": "Humility and repentance",
+                "score": 4,
+                "evidence": "Isaiah returns to apologize to the barista.",
+                "rating_rationale": "The apology gives a concrete consequence to the broader story of accepting correction.",
+                "sources": [
+                  "https://www.bbfc.co.uk/release/the-forge-q29sbgvjdglvbjpwwc0xmdizodmx"
+                ]
+              },
+              {
+                "name": "Family and responsibility",
+                "score": 4,
+                "evidence": "Cynthia asks Isaiah to find work and contribute to their home.",
+                "rating_rationale": "Her decision initiates the sustained work and mentoring plot.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/forge-2024/"
+                ]
+              },
+              {
+                "name": "Sexual content and immodesty",
+                "score": 1,
+                "evidence": "Persistent flirting prompts the supervisor to intervene.",
+                "rating_rationale": "One brief harassment incident receives explicit correction.",
+                "sources": [
+                  "https://www.bbfc.co.uk/release/the-forge-q29sbgvjdglvbjpwwc0xmdizodmx"
+                ]
+              },
+              {
+                "name": "Violence and cruelty",
+                "score": 1,
+                "evidence": "Video-game sequences show gunfire and explosions.",
+                "rating_rationale": "The sequences are brief and undetailed.",
+                "sources": [
+                  "https://www.bbfc.co.uk/release/the-forge-q29sbgvjdglvbjpwwc0xmdizodmx"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The barista incident documents harassment. It supplies no basis for a film-wide LGBTQ prominence score.",
+            "sources": [
+              "https://www.bbfc.co.uk/release/the-forge-q29sbgvjdglvbjpwwc0xmdizodmx",
+              "https://www.pluggedin.com/movie-reviews/forge-2024/"
+            ],
+            "next_step": "Check the full identified cut for relevant dialogue and relationships."
+          },
+          "studio_status": "repository_proposal_no_authenticated_studio_save"
+        }
+      ]
     }
   ]
 }
