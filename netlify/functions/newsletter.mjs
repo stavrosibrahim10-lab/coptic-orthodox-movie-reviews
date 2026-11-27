@@ -61,4 +61,5 @@ export function createHandler(env=process.env,send=globalThis.fetch,claims=creat
     }catch(error){console.warn('[newsletter] Brevo request failed', {reason:error?.name==='TimeoutError'?'timeout':'network-or-runtime'});return page('Registration is temporarily unavailable. Please try again later.',503);}
   };
 }
-export default createHandler();
+// Explicit launch switch: old links cannot start sending confirmation emails while paused.
+export default async function handler(req){if(process.env.NEWSLETTER_LAUNCH_ENABLED!=='true')return page('Newsletter registration is paused. Register interest on our website instead.',503);return createHandler()(req);}
