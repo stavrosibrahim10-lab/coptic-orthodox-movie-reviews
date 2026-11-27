@@ -9715,6 +9715,152 @@
           "studio_status": "repository_proposal_no_authenticated_studio_save"
         }
       ]
+    },
+    {
+      "number": 16,
+      "date": "2026-11-26",
+      "review_completion_branch": "editorial/stage-4-completion",
+      "review_completion_ledger": "editorial/review-completion.tsv",
+      "films": [
+        {
+          "movie_id": "marvel-2002-blade-ii",
+          "title": "Blade II",
+          "year": 2002,
+          "version": "2002 US R-rated theatrical film directed by Guillermo del Toro",
+          "status": "proposal_saved",
+          "review_baseline": "editorial/review-drafts-marvel-batch-18.json",
+          "review_baseline_blob": "56796da4f9a0aba46ac15031a93edbb3805d3141",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/bladeii/",
+            "https://www.commonsensemedia.org/movie-reviews/blade-ii"
+          ],
+          "on_screen": "Blade risks his life to recover Whistler. Whistler later helps Blade. Nyssa learns that her father experimented on Jared.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/bladeii/",
+          "draft_proposal": {
+            "verdict": "destructive",
+            "verdict_rationale": "Blade risks his safety for Whistler, and Nyssa challenges her own father’s cruelty. Those choices deserve admiration. The proposed Destructive verdict rests on the film’s sustained invitation to enjoy bodily destruction as spectacle, even as its story exposes the evil of treating a son as an experiment.",
+            "age": "18+",
+            "age_rationale": "18+ for prolonged, graphic feeding, torture and bodily injury. The nightclub combines predation with sexual imagery. The intensity and duration weigh more heavily here than the fantasy setting.",
+            "age_source": "https://www.pluggedin.com/movie-reviews/bladeii/",
+            "theme_ratings": [
+              {
+                "name": "Loyalty",
+                "score": 4,
+                "evidence": "Blade risks his life to recover Whistler, who in turn helps him. Their mutual obligation shapes the opening rescue and pays off later.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/bladeii/"
+                ],
+                "rating_rationale": "The opening rescue and its reversal establish sustained loyalty."
+              },
+              {
+                "name": "Moral courage",
+                "score": 3,
+                "evidence": "Nyssa’s confrontation with her father makes the cost of telling the truth visible in one family’s story.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/bladeii/"
+                ],
+                "rating_rationale": "Nyssa’s objection is decisive within the family subplot."
+              },
+              {
+                "name": "Exploitation",
+                "score": 5,
+                "evidence": "Damaskinos treats Jared as material for an experiment. That choice drives the Reaper conflict and costs him his daughter’s trust.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/bladeii/"
+                ],
+                "rating_rationale": "The experiment on Jared sets the central conflict in motion."
+              },
+              {
+                "name": "Cruelty",
+                "score": 5,
+                "evidence": "Torture and feeding recur. The family story exposes the cost of cruelty, while the fights repeatedly display damaged bodies for excitement.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/bladeii/"
+                ],
+                "rating_rationale": "Feeding and torture recur throughout the film."
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The guide does not establish a film-wide prominence score.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/bladeii/"
+            ],
+            "next_step": "Screen the 2002 theatrical cut and document the scene, dialogue and prominence before assigning a value."
+          },
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "marvel-2004-blade-trinity",
+          "title": "Blade: Trinity",
+          "year": 2004,
+          "version": "2004 US R-rated theatrical cut directed by David S. Goyer",
+          "status": "proposal_saved",
+          "review_baseline": "editorial/review-drafts-marvel-batch-18.json",
+          "review_baseline_blob": "56796da4f9a0aba46ac15031a93edbb3805d3141",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/bladetrinity/",
+            "https://comicsalliance.com/comicsalliance-reviews-blade-trinity-2004-part-two/"
+          ],
+          "on_screen": "Officers die at the hands of Blade’s allies. Vampires keep human beings alive to harvest their blood. A child speaks to Drake about heaven.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/bladetrinity/",
+          "draft_proposal": {
+            "verdict": "destructive",
+            "verdict_rationale": "The Nightstalkers earn admiration by going back for one another. The human harvesting operation exposes the vampires’ contempt for life, yet the heroes’ own violence against officers receives little moral attention. That uneven concern for human life, combined with the spectacle of predation and killing, supports a proposed Destructive verdict.",
+            "age": "18+",
+            "age_rationale": "18+ for sustained bloody violence, a child in danger alongside her mother, captive humans harvested for blood, and repeated sexually degrading language. The threat to a family can be disturbing apart from the fight scenes.",
+            "age_source": "https://www.pluggedin.com/movie-reviews/bladetrinity/",
+            "theme_ratings": [
+              {
+                "name": "Mutual aid",
+                "score": 4,
+                "evidence": "Abigail and King help extract Blade, and Abigail later frees King. Rescue repeatedly moves the plot forward.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/bladetrinity/"
+                ],
+                "rating_rationale": "The rescues of Blade and King organize two major turns."
+              },
+              {
+                "name": "Courage",
+                "score": 3,
+                "evidence": "A child voices her hope of heaven to Drake while at his mercy. This small exchange gives moral courage a place apart from combat.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/bladetrinity/"
+                ],
+                "rating_rationale": "The child’s answer is a brief but consequential expression of conviction."
+              },
+              {
+                "name": "Exploitation",
+                "score": 5,
+                "evidence": "The vampires maintain a facility for taking blood from captive people, making the reduction of people to a commodity a major revelation.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/bladetrinity/"
+                ],
+                "rating_rationale": "Organized predation culminates in the discovery of captive people."
+              },
+              {
+                "name": "Disregard for human life",
+                "score": 4,
+                "evidence": "Officers are killed during the conflict, including people carrying out their duties. The film gives their loss less weight than the capture of a hero.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/bladetrinity/"
+                ],
+                "rating_rationale": "The heroes repeatedly use lethal force against officers, with little attention to the cost."
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The guide does not establish a film-wide prominence score.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/bladetrinity/"
+            ],
+            "next_step": "Screen the 2004 theatrical cut and document the scene, dialogue and prominence before assigning a value."
+          },
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        }
+      ]
     }
   ]
 }
