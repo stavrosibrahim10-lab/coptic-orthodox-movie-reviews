@@ -248,7 +248,6 @@
 .newsletter-form input[type=email]{padding:12px;border:1px solid #677d70;border-radius:6px;min-width:0;width:100%}
 .newsletter-consent{display:flex;align-items:flex-start;gap:10px}
 .newsletter-consent input{width:20px;height:20px;flex:none}
-.review-share{display:flex;flex-wrap:wrap;align-items:center;gap:10px;margin:12px 0}
 .review-status{font-size:13px;color:#495c51;font-weight:700}
 .review-banner .movie-synopsis{font-size:17px;line-height:1.7;margin:16px 0 0;overflow-wrap:break-word}
 .source-review-status{font-weight:400;line-height:1.5}
@@ -257,15 +256,26 @@
 .filters>*{min-width:0}
 .filters select,.filters input,.review-share button,.review-share a,.mobile-nav{min-height:44px}
 .movie-card:focus-visible{outline-offset:3px}
-@media(max-width:650px){.featured-discovery .movie-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.featured-discovery .movie-card-body{padding:10px}.hero-inner{padding-top:48px;padding-bottom:48px}.review-share{align-items:flex-start}.filters{grid-template-columns:1fr}}
+@media(max-width:650px){.featured-discovery .movie-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.featured-discovery .movie-card-body{padding:10px}.hero-inner{padding-top:48px;padding-bottom:48px}.filters{grid-template-columns:1fr}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important}}
 
-/* Compact, accessible review share control */
-.review-share{display:flex;align-items:center;gap:10px;margin:10px 0;flex-wrap:wrap}
-.share-control{display:inline-flex;align-items:center;justify-content:center;gap:7px;min-height:44px;padding:0 14px;border:1px solid #cbd7d0;border-radius:999px;color:#2d6553;background:transparent;font:inherit;line-height:1;cursor:pointer}
-.share-control span{font-size:13px;font-weight:700}
-.share-control:hover{background:#e9eee8;border-color:#2d6553}
+/* Movie header and compact, accessible share control */
+.review-banner{position:relative}
+.review-banner-info{flex:1;min-width:0}
+.review-title-row{display:flex;align-items:flex-start;justify-content:space-between;gap:12px}
+.review-title-row h1{min-width:0;overflow-wrap:anywhere}
+.review-badges{display:flex;align-items:center;flex-wrap:wrap;gap:8px 10px}
+.review-badges .pill{white-space:normal}
+.review-share{position:relative;flex:0 0 auto;margin:0}
+.share-control{display:inline-flex;align-items:center;justify-content:center;width:44px;height:44px;padding:0;border:1px solid transparent;border-radius:50%;color:var(--forest);background:transparent;font:inherit;cursor:pointer}
+.share-control:hover{background:#e9eee8;border-color:#cbd7d0}
 .share-control:active{background:#dce8de}
-.share-control:focus-visible{outline:2px solid #2d6553;outline-offset:3px}
-.share-status{font-size:12px;color:#495c51;overflow-wrap:anywhere}
+.share-control:focus-visible{outline:2px solid var(--forest);outline-offset:3px}
+.share-status{position:absolute;z-index:2;top:calc(100% + 6px);right:0;width:max-content;max-width:min(260px,70vw);padding:8px 12px;background:var(--paper);border:1px solid var(--border);border-radius:8px;box-shadow:var(--shadow);font-size:12px;color:#495c51;overflow-wrap:anywhere;user-select:text}
 .share-status:empty{display:none}
+@media(max-width:480px){
+  .review-banner{flex-wrap:wrap}
+  .review-banner-info{flex:0 0 100%;width:100%}
+  .review-title-row{display:block}
+  .review-title-row .review-share{position:absolute;top:0;right:0}
+}
