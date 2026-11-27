@@ -4,7 +4,7 @@ Status: in progress. The opening catalog has 315 films, including 59 without a f
 
 ## Current Stage 4 audit
 
-The catalog contains 315 distinct IDs. Of the original 59 missing reviews, 28 now have validated first drafts and 31 remain. Across the full catalog, 284 have review records. The rolling checkpoint contains Stage 4 proposals for 138 films, leaving 146 existing records awaiting this audit and 31 awaiting a first review. All original queue IDs occur exactly once in the catalog.
+The catalog contains 315 distinct IDs. Of the original 59 missing reviews, 33 now have validated first drafts and 26 remain. Across the full catalog, 289 have review records. The rolling checkpoint contains Stage 4 proposals for 143 films, leaving 146 existing records awaiting this audit and 26 awaiting a first review. All original queue IDs occur exactly once in the catalog.
 
 Batch 11 independently checked the seven new queue drafts. Their saved draft files contain the proposed assessments. The checkpoint records scene evidence, the reason for each theme score, age guidance and outstanding screening fields. Six film-wide LGBTQ prominence scores remain open in this batch. The New Mutants carries a documented proposal of 4. Private Studio saves are unverified. Human acceptance is pending.
 
@@ -30,7 +30,9 @@ Batch 21 checked both animated Heroes United features (2013 and 2014) and Zootop
 
 Batch 22 checked Frost Fight! (2015 Disney+ edition, Neutral, 7+) and Marvel Rising: Secret Warriors (2018 television feature, Edifying, 10+). The Frost Fight! prominence score remains unknown. America's brief recollection of her mothers supports a provisional 1 for Secret Warriors, with full-broadcast coverage outstanding. The checkpoint records separate age rationales and the sources for all six positive and concerning theme scores. Private Studio saves remain unverified.
 
-The full repository checklist passes for eight titles and includes later-stage fields. Stage 4 progress above counts audited proposals, independently of that checklist.
+Batch 23 checked the 2010 and 2013 theatrical Kick-Ass films and the three live-action Hulk television reunions (1988–1990). All five have sourced verdict proposals, separate age guidance and numerical theme rationales. The two theatrical films have provisional LGBTQ prominence scores of 2 and 1 respectively. The three television films need full-version screening for that field. The 1990 finale’s dialogue about freedom does not establish a specific teaching about an afterlife. Individual source references and open fields are in the checkpoint. Private Studio saves remain unverified.
+
+The full repository checklist passes for nine titles and includes later-stage fields. Stage 4 progress above counts audited proposals, independently of that checklist.
 
 ## Release decision
 
