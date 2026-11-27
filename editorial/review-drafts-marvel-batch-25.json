@@ -1,0 +1,480 @@
+[
+  {
+    "id": "marvel-2010-kick-ass",
+    "title": "Kick-Ass",
+    "year": 2010,
+    "edition": "Matthew Vaughn’s 2010 theatrical feature starring Aaron Johnson and Chloë Grace Moretz",
+    "officialRating": "R (US theatrical release)",
+    "age": "18+",
+    "verdict": "destructive",
+    "synopsis": "Dave tries to protect strangers in a homemade costume. His intervention brings him into a feud between a crime boss and a father who has trained his daughter to kill.",
+    "verdictRationale": "Dave risks injury to help a stranger who is being beaten. That act of courage gives way to a family revenge story in which a child’s skill at killing supplies some of the biggest laughs. Big Daddy’s death shows what revenge can cost, yet the climax rewards his daughter for carrying his campaign forward.",
+    "ageRationale": "Adults only is the proposed guidance. A captive father burns to death during a rescue, and the film combines graphic injury with a child carrying out repeated killings. Teen sex and frequent strong language add to the concern.",
+    "reflection": "Big Daddy passes a grievance on to Mindy as if settling it were her inheritance. Remembering a parent’s suffering can be an act of love. A child should also be free to grieve and to lay that grievance down.",
+    "genre": "Action · Satire",
+    "sources": [
+      {
+        "label": "BBFC feature classification",
+        "url": "https://www.bbfc.co.uk/release/kick-ass-q29sbgvjdglvbjpwwc00mjgyotc"
+      },
+      {
+        "label": "Released film plot",
+        "url": "https://en.wikipedia.org/wiki/Kick-Ass_(film)"
+      },
+      {
+        "label": "Movieguide theatrical review",
+        "url": "https://www.movieguide.org/reviews/movies/kick-ass.html"
+      },
+      {
+        "label": "Roger Ebert theatrical review",
+        "url": "https://www.rogerebert.com/reviews/kick-ass-2010"
+      }
+    ],
+    "themes": [
+      {
+        "name": "Courage",
+        "score": 3,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Dave intervenes in a gang assault despite being outnumbered. This early rescue establishes why his example appeals to others.",
+        "references": [
+          {
+            "label": "Released film plot",
+            "url": "https://en.wikipedia.org/wiki/Kick-Ass_(film)"
+          }
+        ]
+      },
+      {
+        "name": "Vengeance",
+        "score": 5,
+        "type": "harmful",
+        "portrayal": "mixed",
+        "evidence": "Damon trains Mindy to avenge his family, and the pair’s feud leads into the final confrontation. Revenge shapes her upbringing and the climax.",
+        "references": [
+          {
+            "label": "Released film plot",
+            "url": "https://en.wikipedia.org/wiki/Kick-Ass_(film)"
+          }
+        ]
+      },
+      {
+        "name": "Violence and cruelty",
+        "score": 5,
+        "type": "harmful",
+        "portrayal": "mixed",
+        "evidence": "The father’s torture is frightening, while other killings by the child are choreographed for laughter. Both recur within the film’s main attraction.",
+        "references": [
+          {
+            "label": "BBFC feature classification",
+            "url": "https://www.bbfc.co.uk/release/kick-ass-q29sbgvjdglvbjpwwc00mjgyotc"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "score": 2,
+        "type": "context",
+        "portrayal": "descriptive",
+        "evidence": "A school rumor that Dave is gay shapes his friendship with Katie until he corrects it. The score reflects repeated references in their subplot. Dave explicitly disavows the rumor.",
+        "references": [
+          {
+            "label": "Released film plot",
+            "url": "https://en.wikipedia.org/wiki/Kick-Ass_(film)"
+          }
+        ]
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "details": "The film depicts sexual activity between teenagers.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.movieguide.org/reviews/movies/kick-ass.html"
+      },
+      {
+        "name": "Language",
+        "details": "Hit-Girl directs a very strong insult at a gang.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.bbfc.co.uk/release/kick-ass-q29sbgvjdglvbjpwwc00mjgyotc"
+      },
+      {
+        "name": "Violence",
+        "details": "Dave and Big Daddy are tortured on a broadcast. Mindy reaches her father after he has suffered fatal burns.",
+        "severity": "Strong",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kick-Ass_(film)"
+      },
+      {
+        "name": "Drugs",
+        "details": "Katie asks Dave for help with a drug dealer. The gang’s drug operation becomes a target.",
+        "severity": "Moderate",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kick-Ass_(film)"
+      }
+    ],
+    "scripture": [
+      "Romans 12:21"
+    ],
+    "themeScripture": {
+      "reference": "Romans 12:21",
+      "translation": "KJV",
+      "text": "Be not overcome of evil, but overcome evil with good.",
+      "url": "https://www.biblegateway.com/passage/?search=Romans+12%3A21&version=KJV",
+      "connection": "Paul asks what good could still be done after an injury. For Damon, one answer would have been to give his daughter a childhood outside his feud."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homilies on Romans",
+      "section": "Homily 22, on Romans 12:14",
+      "text": "He did not say, be not spiteful or revengeful, but required something far better.",
+      "url": "https://www.newadvent.org/fathers/210222.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "Whose wrong must Mindy carry?",
+        "filmMoment": "Damon makes his grievance against D’Amico the purpose of his daughter’s training.",
+        "scriptureReference": "Romans 12:21",
+        "reflection": "Paul asks what good could still be done after an injury. For Damon, one answer would have been to give his daughter a childhood outside his feud.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kick-Ass_(film)"
+      }
+    ],
+    "questions": [
+      "What makes Dave’s intervention in the gang attack courageous?",
+      "What responsibility does Dave have to correct Katie’s mistaken belief about him?",
+      "What could Damon have told Mindy about her mother without giving her someone to punish?",
+      "What changes when the assault on the two captives becomes a broadcast?",
+      "How does the ending invite us to feel about Mindy’s skill, and what has learning it cost her?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The film depicts sexual activity between teenagers."
+          ],
+          "evidence": [
+            {
+              "provider": "Movieguide theatrical review",
+              "url": "https://www.movieguide.org/reviews/movies/kick-ass.html",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Hit-Girl directs a very strong insult at a gang."
+          ],
+          "evidence": [
+            {
+              "provider": "BBFC feature classification",
+              "url": "https://www.bbfc.co.uk/release/kick-ass-q29sbgvjdglvbjpwwc00mjgyotc",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Dave and Big Daddy are tortured on a broadcast. Mindy reaches her father after he has suffered fatal burns."
+          ],
+          "evidence": [
+            {
+              "provider": "Released film plot",
+              "url": "https://en.wikipedia.org/wiki/Kick-Ass_(film)",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "unverified",
+          "findings": [],
+          "next_step": "Check Dave’s narration and funeral dialogue against theatrical audio or captions before assigning a spiritual-material finding.",
+          "evidence": [],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Katie asks Dave for help with a drug dealer. The gang’s drug operation becomes a target."
+          ],
+          "evidence": [
+            {
+              "provider": "Released film plot",
+              "url": "https://en.wikipedia.org/wiki/Kick-Ass_(film)",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Damon raises Mindy to take revenge on the man he blames for his family’s losses."
+          ],
+          "evidence": [
+            {
+              "provider": "Released film plot",
+              "url": "https://en.wikipedia.org/wiki/Kick-Ass_(film)",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2013-kick-ass-2",
+    "title": "Kick-Ass 2",
+    "year": 2013,
+    "edition": "Jeff Wadlow’s 2013 theatrical feature, 102m 57s UK cinema classification",
+    "officialRating": "R (US theatrical release)",
+    "age": "18+",
+    "verdict": "destructive",
+    "synopsis": "Dave joins Justice Forever while Mindy tries to keep a promise to her guardian. Chris seeks revenge for his father’s death, drawing the heroes’ families into the fighting.",
+    "verdictRationale": "Marcus wants Mindy to have a life in which someone else looks after her. Dave’s father also takes a risk to protect his son. These are credible pictures of parental care. The film gives a teenager’s humiliating revenge on school bullies the payoff of a comedy routine, even as the loss of Dave’s father exposes the cost of retaliation elsewhere. The sustained invitation to enjoy cruelty weighs most heavily in this proposal.",
+    "ageRationale": "Proposed for adults. The threat of sexual assault, bloody dismemberment and attacks on loved ones can distress viewers independently of how they understand the satire. A school bullying sequence also dwells on public bodily humiliation.",
+    "reflection": "Marcus asks Mindy to imagine a future beyond the one her father trained her for. An adult who helps a child give up a dangerous role may have to stay beside her through the loss of the identity it gave her.",
+    "genre": "Action · Satire",
+    "sources": [
+      {
+        "label": "BBFC theatrical classification",
+        "url": "https://www.bbfc.co.uk/release/kick-ass-2-q29sbgvjdglvbjpwwc00mza4mta"
+      },
+      {
+        "label": "Plugged In theatrical review",
+        "url": "https://www.pluggedin.com/movie-reviews/kick-a-2/"
+      },
+      {
+        "label": "Released film plot",
+        "url": "https://en.wikipedia.org/wiki/Kick-Ass_2_(film)"
+      },
+      {
+        "label": "Insect Man dialogue",
+        "url": "https://www.imdb.com/title/tt1650554/characters/nm3016166/"
+      },
+      {
+        "label": "Theatrical cast and release",
+        "url": "https://www.rottentomatoes.com/m/kick_ass_2_2013"
+      }
+    ],
+    "themes": [
+      {
+        "name": "Parental love",
+        "score": 4,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Dave’s father takes responsibility for the costume, and Marcus tries to keep Mindy safe. The two households give this theme sustained weight.",
+        "references": [
+          {
+            "label": "Released film plot",
+            "url": "https://en.wikipedia.org/wiki/Kick-Ass_2_(film)"
+          }
+        ]
+      },
+      {
+        "name": "Vengeance",
+        "score": 5,
+        "type": "harmful",
+        "portrayal": "mixed",
+        "evidence": "Chris builds an organization around retaliation for his father’s death. His pursuit drives the conflict and reaches Dave’s family.",
+        "references": [
+          {
+            "label": "Released film plot",
+            "url": "https://en.wikipedia.org/wiki/Kick-Ass_2_(film)"
+          }
+        ]
+      },
+      {
+        "name": "Humiliation",
+        "score": 3,
+        "type": "harmful",
+        "portrayal": "mixed",
+        "evidence": "Mindy makes her school tormentors violently ill in public. One extended reversal turns their suffering into the joke.",
+        "references": [
+          {
+            "label": "BBFC theatrical classification",
+            "url": "https://www.bbfc.co.uk/release/kick-ass-2-q29sbgvjdglvbjpwwc00mza4mta"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "score": 1,
+        "type": "context",
+        "portrayal": "descriptive",
+        "evidence": "Insect Man introduces himself by explaining that being bullied for being gay moved him to defend others. This brief account of his motive supports a provisional 1. Check the feature for additional scenes before finalizing prominence.",
+        "references": [
+          {
+            "label": "Insect Man dialogue",
+            "url": "https://www.imdb.com/title/tt1650554/characters/nm3016166/"
+          }
+        ]
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "details": "The villain threatens sexual assault. A separate pool scene includes breast nudity.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.bbfc.co.uk/release/kick-ass-2-q29sbgvjdglvbjpwwc00mza4mta"
+      },
+      {
+        "name": "Language",
+        "details": "Frequent strong profanity includes a discriminatory slur spoken by a hostile character.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.bbfc.co.uk/release/kick-ass-2-q29sbgvjdglvbjpwwc00mza4mta"
+      },
+      {
+        "name": "Violence",
+        "details": "Fights show severed limbs and bloody injuries. At school, Mindy deliberately makes bullies vomit and soil themselves.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.bbfc.co.uk/release/kick-ass-2-q29sbgvjdglvbjpwwc00mza4mta"
+      },
+      {
+        "name": "Alcohol",
+        "details": "Teenagers drink at a party.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/kick-a-2/"
+      }
+    ],
+    "scripture": [
+      "Romans 12:21"
+    ],
+    "themeScripture": {
+      "reference": "Romans 12:21",
+      "translation": "KJV",
+      "text": "Be not overcome of evil, but overcome evil with good.",
+      "url": "https://www.biblegateway.com/passage/?search=Romans+12%3A21&version=KJV",
+      "connection": "Romans 12:21 gives families a question about these two responses to danger. Who accepts a cost himself, and who makes somebody else pay?"
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homilies on Romans",
+      "section": "Homily 22, on Romans 12:14",
+      "text": "He did not say, be not spiteful or revengeful, but required something far better.",
+      "url": "https://www.newadvent.org/fathers/210222.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "What protection costs",
+        "filmMoment": "Dave’s father risks imprisonment to shield him, while Chris pursues the family of the person he holds responsible for his loss.",
+        "scriptureReference": "Romans 12:21",
+        "reflection": "Romans 12:21 gives families a question about these two responses to danger. Who accepts a cost himself, and who makes somebody else pay?",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kick-Ass_2_(film)"
+      }
+    ],
+    "questions": [
+      "What future does Marcus hope Mindy can have?",
+      "What changes for Dave when his father takes responsibility for the costume?",
+      "Why does Insect Man connect his experience of bullying with defending other people?",
+      "What would repairing the harm at school require of Mindy and of the girls who bullied her?",
+      "How does Chris’s pursuit of another family affect the way he remembers his own father?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The villain threatens sexual assault. A separate pool scene includes breast nudity."
+          ],
+          "evidence": [
+            {
+              "provider": "BBFC theatrical classification",
+              "url": "https://www.bbfc.co.uk/release/kick-ass-2-q29sbgvjdglvbjpwwc00mza4mta",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Frequent strong profanity includes a discriminatory slur spoken by a hostile character."
+          ],
+          "evidence": [
+            {
+              "provider": "BBFC theatrical classification",
+              "url": "https://www.bbfc.co.uk/release/kick-ass-2-q29sbgvjdglvbjpwwc00mza4mta",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Fights show severed limbs and bloody injuries. At school, Mindy deliberately makes bullies vomit and soil themselves."
+          ],
+          "evidence": [
+            {
+              "provider": "BBFC theatrical classification",
+              "url": "https://www.bbfc.co.uk/release/kick-ass-2-q29sbgvjdglvbjpwwc00mza4mta",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The Colonel is introduced as a former mobster who has become a born-again Christian."
+          ],
+          "evidence": [
+            {
+              "provider": "Released film plot",
+              "url": "https://en.wikipedia.org/wiki/Kick-Ass_2_(film)",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Teenagers drink at a party."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In theatrical review",
+              "url": "https://www.pluggedin.com/movie-reviews/kick-a-2/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Dave’s father takes the blame to protect his son after discovering his costume."
+          ],
+          "evidence": [
+            {
+              "provider": "Released film plot",
+              "url": "https://en.wikipedia.org/wiki/Kick-Ass_2_(film)",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  }
+]
