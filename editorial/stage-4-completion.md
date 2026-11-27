@@ -4,7 +4,7 @@ Status: in progress. The opening catalog has 315 films, including 59 without a f
 
 ## Current Stage 4 audit
 
-The catalog contains 315 distinct IDs. Of the original 59 missing reviews, 20 now have validated first drafts and 39 remain. Across the full catalog, 276 have review records. The rolling checkpoint contains Stage 4 proposals for 127 films, leaving 149 existing records awaiting this audit and 39 awaiting a first review. All original queue IDs occur exactly once in the catalog.
+The catalog contains 315 distinct IDs. Of the original 59 missing reviews, 22 now have validated first drafts and 37 remain. Across the full catalog, 278 have review records. The rolling checkpoint contains Stage 4 proposals for 130 films, leaving 148 existing records awaiting this audit and 37 awaiting a first review. All original queue IDs occur exactly once in the catalog.
 
 Batch 11 independently checked the seven new queue drafts. Their saved draft files contain the proposed assessments. The checkpoint records scene evidence, the reason for each theme score, age guidance and outstanding screening fields. Six film-wide LGBTQ prominence scores remain open in this batch. The New Mutants carries a documented proposal of 4. Private Studio saves are unverified. Human acceptance is pending.
 
@@ -21,6 +21,8 @@ Batch 16 checked the R-rated theatrical versions of Blade II (2002) and Blade: T
 Batch 17 audited Argylle (2024, Neutral, 13+) and Kraven the Hunter (2024, Destructive, 18+). The checkpoint links the theatrical versions and separates seven numerical theme judgments from scene observations. Both film-wide LGBTQ scores await screening. The reported remark in Argylle is ambiguous. Neither private Studio save has been verified.
 
 Batch 18 checked both 2006 Ultimate Avengers DVD films and the existing Elio (2025) review. The Elio proposal retains Edifying and 7+, raises Family and responsibility from 3 to 4, and raises Violence and cruelty from 1 to 2. Both DVD drafts retain their proposed verdicts and ages. Original DVD audio or captions are needed to resolve the sequel’s disputed language finding. Film-wide LGBTQ scores remain unknown for all three. Private Studio saves are unverified.
+
+Batch 19 checked Next Avengers: Heroes of Tomorrow (2008), Planet Hulk (2010) and the live-action Lilo & Stitch (2025). The two DVD proposals retain their verdicts and ages. The Lilo & Stitch proposal retains Edifying and 7+, raises Love and self-sacrifice to 5, and proposes Violence and cruelty at 2 and Profanity and blasphemy at 1. All three film-wide LGBTQ scores still need screening. Studio saves remain unverified.
 
 The full repository checklist passes for eight titles and includes later-stage fields. Stage 4 progress above counts audited proposals, independently of that checklist.
 
