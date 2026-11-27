@@ -263,7 +263,7 @@
 
 /* Compact, accessible review share control */
 .review-share{display:flex;align-items:center;gap:10px;margin:10px 0;flex-wrap:wrap}
-.share-control{display:inline-flex;align-items:center;justify-content:center;gap:7px;min-height:44px;padding:0 14px;border:1px solid #cbd7d0;border-radius:999px;color:#2d6553;background:transparent;font:700 13px/1 inherit;cursor:pointer}
+.share-control{display:inline-flex;align-items:center;justify-content:center;gap:7px;min-height:44px;padding:0 14px;border:1px solid #cbd7d0;border-radius:999px;color:#2d6553;background:transparent;font:inherit;line-height:1;cursor:pointer}
 .share-control span{font-size:13px;font-weight:700}
 .share-control:hover{background:#e9eee8;border-color:#2d6553}
 .share-control:active{background:#dce8de}
