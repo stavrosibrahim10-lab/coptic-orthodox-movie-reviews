@@ -1,0 +1,686 @@
+[
+  {
+    "id": "marvel-1978-dr-strange",
+    "title": "Dr. Strange",
+    "year": 1978,
+    "edition": "1978 US television pilot directed by Philip DeGuere, with Peter Hooten and Jessica Walter",
+    "genre": "Marvel · Fantasy",
+    "age": "13+",
+    "verdict": "neutral",
+    "synopsis": "A hospital psychiatrist cares for Clea Lake after Morgan le Fay takes control of her. Lindmer asks him to enter the astral realm to bring her back.",
+    "verdictRationale": "Strange follows up on a patient whose distress others can quiet with sedation. His concern for Clea is admirable, and Morgan’s use of her body against another person is frightening. The proposed Neutral verdict also weighs the film’s presentation of astral travel and initiation into sorcery as desirable ways to heal.",
+    "ageRationale": "Clea loses control of her actions, pushes someone over a railing and later sees Morgan in mirrors. The fear that a person cannot trust her own movements may linger after the dated effects.",
+    "reflection": "Clea first needs someone to take her fear seriously. Families can consider how to sit with a frightened patient even when no one yet understands what is wrong.",
+    "sources": [
+      {
+        "label": "Reactor television retrospective",
+        "url": "https://reactormag.com/with-great-power-comes-great-boredom-spider-man-1977-and-dr-strange-1978/"
+      },
+      {
+        "label": "Released pilot narrative",
+        "url": "https://en.wikipedia.org/wiki/Dr._Strange_(1978_film)"
+      },
+      {
+        "label": "Scene-based viewer guide",
+        "url": "https://www.imdb.com/title/tt0077469/parentalguide/"
+      }
+    ],
+    "themes": [
+      {
+        "name": "Compassion and service",
+        "score": 4,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Strange seeks Lindmer’s help and goes after Clea when she slips into a coma. Her safety motivates his entry into the astral realm.",
+        "references": [
+          {
+            "label": "Released pilot narrative",
+            "url": "https://en.wikipedia.org/wiki/Dr._Strange_(1978_film)"
+          }
+        ]
+      },
+      {
+        "name": "Coercion",
+        "score": 4,
+        "type": "harmful",
+        "portrayal": "condemned",
+        "evidence": "Morgan commandeers Clea’s body and makes her push Lindmer. The violation initiates the conflict and follows Clea into the hospital.",
+        "references": [
+          {
+            "label": "Reactor television retrospective",
+            "url": "https://reactormag.com/with-great-power-comes-great-boredom-spider-man-1977-and-dr-strange-1978/"
+          }
+        ]
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "score": 5,
+        "type": "harmful",
+        "portrayal": "mixed",
+        "evidence": "Lindmer guides Strange in astral travel. Learning to exercise this power is central to the pilot’s heroic succession story.",
+        "references": [
+          {
+            "label": "Released pilot narrative",
+            "url": "https://en.wikipedia.org/wiki/Dr._Strange_(1978_film)"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "score": null,
+        "type": "context",
+        "portrayal": "unverified",
+        "evidence": "The plot and viewer guide do not cover every encounter. Screen the Hooten pilot and record explicit dialogue and visual evidence.",
+        "references": [
+          {
+            "label": "Scene-based viewer guide",
+            "url": "https://www.imdb.com/title/tt0077469/parentalguide/"
+          }
+        ]
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Violence and peril",
+        "details": "Clea pushes Lindmer over a railing while under Morgan’s control.",
+        "severity": "Moderate",
+        "sourceUrl": "https://reactormag.com/with-great-power-comes-great-boredom-spider-man-1977-and-dr-strange-1978/"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "Morgan serves a demonic master, while Strange uses astral travel to rescue Clea.",
+        "severity": "Strong",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dr._Strange_(1978_film)"
+      },
+      {
+        "name": "Substances",
+        "details": "The hospital scenes include patients seeking drugs and a patient experiencing alcoholism, according to the viewer guide.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.imdb.com/title/tt0077469/parentalguide/"
+      }
+    ],
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "unverified",
+          "findings": [],
+          "evidence": [],
+          "absence_verified": false,
+          "next_step": "Check the pilot’s encounters between Morgan and Strange for the extent of sexual suggestion."
+        },
+        "language": {
+          "status": "unverified",
+          "findings": [],
+          "evidence": [],
+          "absence_verified": false,
+          "next_step": "Check original dialogue. The parental guide supplies votes without representative lines."
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Clea pushes Lindmer over a railing while under Morgan’s control."
+          ],
+          "evidence": [
+            {
+              "provider": "Reactor television retrospective",
+              "url": "https://reactormag.com/with-great-power-comes-great-boredom-spider-man-1977-and-dr-strange-1978/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Morgan serves a demonic master, while Strange uses astral travel to rescue Clea."
+          ],
+          "evidence": [
+            {
+              "provider": "Released pilot narrative",
+              "url": "https://en.wikipedia.org/wiki/Dr._Strange_(1978_film)",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The hospital scenes include patients seeking drugs and a patient experiencing alcoholism, according to the viewer guide."
+          ],
+          "evidence": [
+            {
+              "provider": "Scene-based viewer guide",
+              "url": "https://www.imdb.com/title/tt0077469/parentalguide/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Strange seeks further help when Clea’s condition worsens."
+          ],
+          "evidence": [
+            {
+              "provider": "Released pilot narrative",
+              "url": "https://en.wikipedia.org/wiki/Dr._Strange_(1978_film)",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    },
+    "scripture": [
+      "Galatians 6:2"
+    ],
+    "themeScripture": {
+      "reference": "Galatians 6:2",
+      "translation": "KJV",
+      "text": "Bear ye one another's burdens, and so fulfil the law of Christ.",
+      "url": "https://www.biblegateway.com/passage/?search=Galatians+6%3A2&version=KJV",
+      "connection": "Paul’s call to bear a burden can begin at a bedside. Taking Clea’s fear seriously is a form of care families can practice in ordinary circumstances."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homilies on the Gospel of John",
+      "section": "Homily 77, on Christ’s commandment of love",
+      "text": "But wherefore does He everywhere exalt love? Because this is the mark of the disciples, this the bond of virtue.",
+      "url": "https://www.newadvent.org/fathers/240177.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "Staying with a patient",
+        "filmMoment": "Strange follows up on Clea after her loss of consciousness.",
+        "reflection": "Paul’s call to bear a burden can begin at a bedside. Taking Clea’s fear seriously is a form of care families can practice in ordinary circumstances.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dr._Strange_(1978_film)",
+        "scriptureReference": "Galatians 6:2"
+      }
+    ],
+    "questions": [
+      "How much control does Clea have when she pushes Lindmer?",
+      "How might hospital staff misunderstand her account of the mirrors?",
+      "What does Strange do after sedation fails to resolve Clea’s distress?",
+      "What makes Lindmer’s offer attractive to a doctor who wants to rescue a patient?",
+      "What kind of help could you give Clea without claiming to know why she is frightened?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending"
+  },
+  {
+    "id": "marvel-2007-doctor-strange-the-sorcerer-supreme",
+    "title": "Doctor Strange: The Sorcerer Supreme",
+    "year": 2007,
+    "edition": "2007 Lionsgate animated DVD feature, 76 minutes, Jay Oliva; Bryce Johnson voices Strange",
+    "genre": "Marvel · Fantasy",
+    "age": "13+",
+    "verdict": "neutral",
+    "synopsis": "Strange walks away from a mother whose daughter lies in a coma. An injury to his own hands sends the surgeon in search of a new teacher, and the children’s nightmares acquire a face he recognizes.",
+    "verdictRationale": "Gina challenges a gifted doctor who has withdrawn from other people’s suffering. The memory of his sister April gives his withdrawal a human cost. His return to help the children is worth discussing, while the film makes mastery of occult power the answer to their peril.",
+    "ageRationale": "A child briefly wakes from a coma in terror, a parent begs for help, and magical combat reduces bodies to skeletons. These images can disturb a viewer even in animation.",
+    "reflection": "There is a difference between being unable to cure someone and abandoning the person who asked for help. April’s death helps explain why Camille’s mother finds Strange so hard to reach.",
+    "sources": [
+      {
+        "label": "Common Sense Media film guide",
+        "url": "https://www.commonsensemedia.org/movie-reviews/doctor-strange-the-sorcerer-supreme"
+      },
+      {
+        "label": "Scene-by-scene retrospective",
+        "url": "https://casualcomixcritique.com/2016/04/30/marvel-animated-features-part-4-doctor-strange-the-sorcerer-supreme/"
+      },
+      {
+        "label": "DVD Talk release review",
+        "url": "https://www.dvdtalk.com/reviews/review/29840"
+      }
+    ],
+    "themes": [
+      {
+        "name": "Compassion and service",
+        "score": 4,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Gina challenges Strange over the children and he eventually opposes the power behind their suffering. His response to the ward marks his change.",
+        "references": [
+          {
+            "label": "Scene-by-scene retrospective",
+            "url": "https://casualcomixcritique.com/2016/04/30/marvel-animated-features-part-4-doctor-strange-the-sorcerer-supreme/"
+          }
+        ]
+      },
+      {
+        "name": "Pride",
+        "score": 3,
+        "type": "harmful",
+        "portrayal": "criticized",
+        "evidence": "When Camille’s mother begs for help, Strange leaves. Gina’s rebuke names the cost of his self-absorption in a pivotal early scene.",
+        "references": [
+          {
+            "label": "Scene-by-scene retrospective",
+            "url": "https://casualcomixcritique.com/2016/04/30/marvel-animated-features-part-4-doctor-strange-the-sorcerer-supreme/"
+          }
+        ]
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "score": 5,
+        "type": "harmful",
+        "portrayal": "mixed",
+        "evidence": "Training in sorcery and the battle against Dormammu supply the central route to protection. The film presents the mantle of sorcerer as an honor.",
+        "references": [
+          {
+            "label": "Common Sense Media film guide",
+            "url": "https://www.commonsensemedia.org/movie-reviews/doctor-strange-the-sorcerer-supreme"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "score": null,
+        "type": "context",
+        "portrayal": "unverified",
+        "evidence": "A content-guide entry on sex does not address every reference to family or identity. Screen the 76-minute animated feature.",
+        "references": [
+          {
+            "label": "Common Sense Media film guide",
+            "url": "https://www.commonsensemedia.org/movie-reviews/doctor-strange-the-sorcerer-supreme"
+          }
+        ]
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Violence and peril",
+        "details": "Magical battles show deaths and bodies reduced to skeletons.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.commonsensemedia.org/movie-reviews/doctor-strange-the-sorcerer-supreme"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "Strange trains with sorcerers and faces Dormammu.",
+        "severity": "Strong",
+        "sourceUrl": "https://casualcomixcritique.com/2016/04/30/marvel-animated-features-part-4-doctor-strange-the-sorcerer-supreme/"
+      }
+    ],
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "source_reports_not_present",
+          "findings": [
+            "The cited guide reports no sex, romance or nudity."
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media film guide",
+              "url": "https://www.commonsensemedia.org/movie-reviews/doctor-strange-the-sorcerer-supreme",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "source_reports_not_present",
+          "findings": [
+            "The cited guide lists language as absent."
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media film guide",
+              "url": "https://www.commonsensemedia.org/movie-reviews/doctor-strange-the-sorcerer-supreme",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Magical battles show deaths and bodies reduced to skeletons."
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media film guide",
+              "url": "https://www.commonsensemedia.org/movie-reviews/doctor-strange-the-sorcerer-supreme",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Strange trains with sorcerers and faces Dormammu."
+          ],
+          "evidence": [
+            {
+              "provider": "Scene-by-scene retrospective",
+              "url": "https://casualcomixcritique.com/2016/04/30/marvel-animated-features-part-4-doctor-strange-the-sorcerer-supreme/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "source_reports_not_present",
+          "findings": [
+            "The cited guide reports no drinking, drugs or smoking."
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media film guide",
+              "url": "https://www.commonsensemedia.org/movie-reviews/doctor-strange-the-sorcerer-supreme",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Gina confronts Strange after he leaves the ward of children in comas."
+          ],
+          "evidence": [
+            {
+              "provider": "Scene-by-scene retrospective",
+              "url": "https://casualcomixcritique.com/2016/04/30/marvel-animated-features-part-4-doctor-strange-the-sorcerer-supreme/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    },
+    "scripture": [
+      "Galatians 6:2"
+    ],
+    "themeScripture": {
+      "reference": "Galatians 6:2",
+      "translation": "KJV",
+      "text": "Bear ye one another's burdens, and so fulfil the law of Christ.",
+      "url": "https://www.biblegateway.com/passage/?search=Galatians+6%3A2&version=KJV",
+      "connection": "Bearing this mother’s burden could begin with letting her finish speaking. That possibility remains even when a doctor has no cure to give."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homilies on the Gospel of John",
+      "section": "Homily 77, on Christ’s commandment of love",
+      "text": "But wherefore does He everywhere exalt love? Because this is the mark of the disciples, this the bond of virtue.",
+      "url": "https://www.newadvent.org/fathers/240177.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "The limits of a cure",
+        "filmMoment": "Camille’s mother asks for help after Strange has seen what terrifies her daughter.",
+        "reflection": "Bearing this mother’s burden could begin with letting her finish speaking. That possibility remains even when a doctor has no cure to give.",
+        "sourceUrl": "https://casualcomixcritique.com/2016/04/30/marvel-animated-features-part-4-doctor-strange-the-sorcerer-supreme/",
+        "scriptureReference": "Galatians 6:2"
+      }
+    ],
+    "questions": [
+      "What does Camille do when she briefly wakes?",
+      "What is Gina asking Strange to change in his treatment of the families?",
+      "How might losing April affect the way he hears Camille’s mother?",
+      "Why might the promise of recovering his hands make Strange especially eager to trust a teacher?",
+      "How would a visit to the ward near the end differ from his first visit?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending"
+  },
+  {
+    "id": "marvel-2022-doctor-strange-in-the-multiverse-of-madness",
+    "title": "Doctor Strange in the Multiverse of Madness",
+    "year": 2022,
+    "edition": "Sam Raimi’s 2022 theatrical MCU feature, 126 minutes, Benedict Cumberbatch and Xochitl Gomez",
+    "genre": "Marvel · Fantasy",
+    "age": "16+",
+    "verdict": "neutral",
+    "synopsis": "Wanda pursues America Chavez, whose power could reunite Wanda with children in another universe. Strange must decide whether protecting America requires taking control of her gift.",
+    "verdictRationale": "Wanda’s grief is recognizable, but the terror of the children she wants to mother exposes the harm of trying to possess them. Strange finally trusts America to act. Alongside that change, the film gives its hero a victory assisted by forbidden magic and the use of a corpse. Those choices complicate the spiritual assessment.",
+    "ageRationale": "A man’s head implodes, another character is cut in two, and an animated corpse figures prominently in the finale. These horror images are more sustained and bodily than a typical superhero chase.",
+    "reflection": "America allows Wanda to see the children’s fear from the other side of her wish. Love has to make room for the child who actually stands before the adult, including the child who says no.",
+    "sources": [
+      {
+        "label": "Plugged In theatrical review",
+        "url": "https://www.pluggedin.com/movie-reviews/doctor-strange-in-the-multiverse-of-madness-2022/"
+      },
+      {
+        "label": "Alberta Film Classification",
+        "url": "https://www.alberta.ca/search-movie-ratings.aspx?fid=25822"
+      },
+      {
+        "label": "Time on the released film’s ending",
+        "url": "https://time.com/6174219/doctor-strange-2-mcu-future/"
+      },
+      {
+        "label": "Common Sense Media theatrical identification",
+        "url": "https://www.commonsensemedia.org/movie-reviews/doctor-strange-in-the-multiverse-of-madness"
+      }
+    ],
+    "themes": [
+      {
+        "name": "Trust and responsibility",
+        "score": 4,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Strange encourages America to use her own ability in the final encounter. Giving up control is decisive to their partnership.",
+        "references": [
+          {
+            "label": "Plugged In theatrical review",
+            "url": "https://www.pluggedin.com/movie-reviews/doctor-strange-in-the-multiverse-of-madness-2022/"
+          }
+        ]
+      },
+      {
+        "name": "Possessiveness",
+        "score": 5,
+        "type": "harmful",
+        "portrayal": "condemned",
+        "evidence": "Wanda pursues America at mortal cost for another family’s children. Seeing their fear breaks the pursuit that drives the film.",
+        "references": [
+          {
+            "label": "Time on the released film’s ending",
+            "url": "https://time.com/6174219/doctor-strange-2-mcu-future/"
+          }
+        ]
+      },
+      {
+        "name": "Occult or misleading spirituality",
+        "score": 5,
+        "type": "harmful",
+        "portrayal": "mixed",
+        "evidence": "The Darkhold corrupts Wanda, yet Strange also uses its forbidden power to inhabit a dead body. Both sides of the conflict depend on sorcery.",
+        "references": [
+          {
+            "label": "Plugged In theatrical review",
+            "url": "https://www.pluggedin.com/movie-reviews/doctor-strange-in-the-multiverse-of-madness-2022/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "score": 1,
+        "type": "context",
+        "portrayal": "descriptive",
+        "evidence": "A memory shows America with her two mothers before their separation. The guide identifies a brief family reference. The film evidence describes her parents and leaves America’s orientation unspecified.",
+        "references": [
+          {
+            "label": "Plugged In theatrical review",
+            "url": "https://www.pluggedin.com/movie-reviews/doctor-strange-in-the-multiverse-of-madness-2022/"
+          }
+        ]
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sex and relationships",
+        "details": "Strange attends Christine’s wedding and later speaks of his love for her.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/doctor-strange-in-the-multiverse-of-madness-2022/"
+      },
+      {
+        "name": "Language",
+        "details": "The classification board records occasional profanity, cursing and scatological slang.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.alberta.ca/search-movie-ratings.aspx?fid=25822"
+      },
+      {
+        "name": "Violence and peril",
+        "details": "A character’s head implodes; another is cut through the torso.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/doctor-strange-in-the-multiverse-of-madness-2022/"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "Dreamwalking allows Strange to occupy a corpse.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/doctor-strange-in-the-multiverse-of-madness-2022/"
+      },
+      {
+        "name": "Substances",
+        "details": "The classification board identifies a brief depiction of recreational alcohol use.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.alberta.ca/search-movie-ratings.aspx?fid=25822"
+      }
+    ],
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Strange attends Christine’s wedding and later speaks of his love for her."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In theatrical review",
+              "url": "https://www.pluggedin.com/movie-reviews/doctor-strange-in-the-multiverse-of-madness-2022/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The classification board records occasional profanity, cursing and scatological slang."
+          ],
+          "evidence": [
+            {
+              "provider": "Alberta Film Classification",
+              "url": "https://www.alberta.ca/search-movie-ratings.aspx?fid=25822",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A character’s head implodes; another is cut through the torso."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In theatrical review",
+              "url": "https://www.pluggedin.com/movie-reviews/doctor-strange-in-the-multiverse-of-madness-2022/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Dreamwalking allows Strange to occupy a corpse."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In theatrical review",
+              "url": "https://www.pluggedin.com/movie-reviews/doctor-strange-in-the-multiverse-of-madness-2022/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The classification board identifies a brief depiction of recreational alcohol use."
+          ],
+          "evidence": [
+            {
+              "provider": "Alberta Film Classification",
+              "url": "https://www.alberta.ca/search-movie-ratings.aspx?fid=25822",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "America confronts Wanda with how the boys respond to her actions."
+          ],
+          "evidence": [
+            {
+              "provider": "Time on the released film’s ending",
+              "url": "https://time.com/6174219/doctor-strange-2-mcu-future/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    },
+    "scripture": [
+      "Galatians 6:2"
+    ],
+    "themeScripture": {
+      "reference": "Galatians 6:2",
+      "translation": "KJV",
+      "text": "Bear ye one another's burdens, and so fulfil the law of Christ.",
+      "url": "https://www.biblegateway.com/passage/?search=Galatians+6%3A2&version=KJV",
+      "connection": "Sharing America’s danger means trusting her judgment as well as shielding her from harm. A protector can bear a burden without taking away the other person’s choice."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homilies on the Gospel of John",
+      "section": "Homily 77, on Christ’s commandment of love",
+      "text": "But wherefore does He everywhere exalt love? Because this is the mark of the disciples, this the bond of virtue.",
+      "url": "https://www.newadvent.org/fathers/240177.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "Trusting the person one protects",
+        "filmMoment": "Strange leaves America room to choose how to confront Wanda.",
+        "reflection": "Sharing America’s danger means trusting her judgment as well as shielding her from harm. A protector can bear a burden without taking away the other person’s choice.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/doctor-strange-in-the-multiverse-of-madness-2022/",
+        "scriptureReference": "Galatians 6:2"
+      }
+    ],
+    "questions": [
+      "What does America lose when her portal opens unexpectedly as a child?",
+      "What does Christine’s wedding reveal about what Strange finds hard to accept?",
+      "Why would taking America’s power betray his promise to protect her?",
+      "What do the boys see when Wanda finally reaches them?",
+      "How does Wanda’s final decision answer the fear America has shown her?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending"
+  }
+]
