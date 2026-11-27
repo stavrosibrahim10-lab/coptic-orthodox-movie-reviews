@@ -10428,6 +10428,224 @@
           "studio_status": "repository_proposal_no_authenticated_studio_save"
         }
       ]
+    },
+    {
+      "number": 20,
+      "date": "2026-11-27",
+      "review_completion_branch": "editorial/stage-4-completion",
+      "review_completion_ledger": "editorial/review-completion.tsv",
+      "films": [
+        {
+          "movie_id": "marvel-2011-thor-tales-of-asgard",
+          "title": "Thor: Tales of Asgard",
+          "year": 2011,
+          "version": "2011 Lionsgate animated DVD feature directed by Sam Liu, 77 minutes",
+          "status": "proposal_saved",
+          "review_baseline": "editorial/review-drafts-marvel-batch-22.json",
+          "review_baseline_blob": "8d85254ec79ac7a112f212e698eb410176d57047",
+          "sources": [
+            "https://www.commonsensemedia.org/movie-reviews/thor-tales-of-asgard",
+            "https://www.springfieldspringfield.co.uk/movie_script.php?movie=thor-tales-of-asgard",
+            "https://tv.apple.com/us/movie/thor-tales-of-asgard/umc.cmc.7b0gkigi391xo4hgqe96zcmpl",
+            "https://www.shockya.com/news/2011/05/20/dvd-review-thor-tales-of-asgard/"
+          ],
+          "on_screen": "Thor returns the sword and offers to become Thrym’s prisoner. Thrym releases him. Loki later acknowledges his own desire for vengeance.",
+          "on_screen_source": "https://www.springfieldspringfield.co.uk/movie_script.php?movie=thor-tales-of-asgard",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Thor earns his father’s respect when he gives up the sword and offers to answer for the dead sentries. The king who lost them shows mercy. Even Loki, who saved his family, questions the vengeance behind his act. These scenes give families grounds to admire peacemaking and honest self-examination.",
+            "age": "13+",
+            "age_rationale": "Repeated armed battles, the deaths of two sentries and a son’s fear for his wounded father may weigh on younger viewers. The tavern humor includes drinking and sexual innuendo.",
+            "age_source": "https://www.commonsensemedia.org/movie-reviews/thor-tales-of-asgard",
+            "theme_ratings": [
+              {
+                "name": "Humility and repentance",
+                "score": 5,
+                "evidence": "Thor returns the sword and offers himself as a prisoner. Accepting responsibility ends the central conflict.",
+                "rating_rationale": "Restitution settles the central conflict.",
+                "sources": [
+                  "https://www.springfieldspringfield.co.uk/movie_script.php?movie=thor-tales-of-asgard"
+                ]
+              },
+              {
+                "name": "Mercy",
+                "score": 4,
+                "evidence": "Thrym releases Thor to tend to Odin despite the deaths of his sentries. His decision makes reconciliation possible.",
+                "rating_rationale": "Thrym’s mercy determines the ending but occupies a shorter part of the story.",
+                "sources": [
+                  "https://www.springfieldspringfield.co.uk/movie_script.php?movie=thor-tales-of-asgard"
+                ]
+              },
+              {
+                "name": "Pride",
+                "score": 4,
+                "evidence": "Thor admits to Odin that his need to prove himself drew two kingdoms toward war. Its cost follows him through the adventure.",
+                "rating_rationale": "The desire for recognition motivates the quest and threatens the truce.",
+                "sources": [
+                  "https://www.springfieldspringfield.co.uk/movie_script.php?movie=thor-tales-of-asgard"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "Available scene descriptions do not establish a film-wide score. Screen the 2011 animated DVD and log relevant dialogue and visual context.",
+            "sources": [
+              "https://www.commonsensemedia.org/movie-reviews/thor-tales-of-asgard"
+            ],
+            "next_step": "Screen the identified DVD and document dialogue and visuals."
+          },
+          "other_open_fields": [
+            "Check original US classification record or disc packaging for the official rating."
+          ],
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "marvel-2007-the-invincible-iron-man",
+          "title": "The Invincible Iron Man",
+          "year": 2007,
+          "version": "2007 Lions Gate US animated DVD, approximately 83 minutes, Marc Worden as Tony Stark",
+          "status": "proposal_saved",
+          "review_baseline": "editorial/review-drafts-marvel-batch-22.json",
+          "review_baseline_blob": "8d85254ec79ac7a112f212e698eb410176d57047",
+          "sources": [
+            "https://www.kpl.gov/catalog/item/?i=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1552910",
+            "https://transcripts.foreverdreaming.org/viewtopic.php?t=144741",
+            "https://www.imdb.com/title/tt0903135/parentalguide/",
+            "https://www.springfieldspringfield.co.uk/movie_script.php?movie=the-invincible-iron-man",
+            "https://insidepulse.com/2007/01/25/64166/"
+          ],
+          "on_screen": "Li Mei admits she arranged Tony’s arrest, tells him to leave and later resists the Mandarin’s order to kill him. Tony calls her by name.",
+          "on_screen_source": "https://transcripts.foreverdreaming.org/viewtopic.php?t=144741",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Tony stays beside Li Mei after she admits deceiving him. He calls her by name when the Mandarin claims her, and her choice helps save them both. The story gives that loyalty real weight, while its spectacle dwells on possession and the exposure of a woman whose body is under another’s control.",
+            "age": "13+",
+            "age_rationale": "The animated feature combines sustained threats of killing with a possession sequence involving partial nudity. The loss of control over Li Mei’s body may be more disturbing than the armored battles.",
+            "age_source": "https://www.imdb.com/title/tt0903135/parentalguide/",
+            "theme_ratings": [
+              {
+                "name": "Faithful care",
+                "score": 4,
+                "evidence": "Tony remains when Li Mei warns him away and appeals to her during possession. His loyalty is decisive in the climax.",
+                "rating_rationale": "Tony’s choice to stay is pivotal in the climax.",
+                "sources": [
+                  "https://transcripts.foreverdreaming.org/viewtopic.php?t=144741"
+                ]
+              },
+              {
+                "name": "Coercion",
+                "score": 5,
+                "evidence": "Li Mei’s father makes obedience to an ancestor the purpose of her life. Her expected surrender of her own body drives the climax.",
+                "rating_rationale": "The claim on Li Mei’s body shapes the conflict across generations.",
+                "sources": [
+                  "https://www.springfieldspringfield.co.uk/movie_script.php?movie=the-invincible-iron-man"
+                ]
+              },
+              {
+                "name": "Deception",
+                "score": 2,
+                "evidence": "Li Mei admits providing documents to have Tony arrested to keep him out of danger. A protective intention complicates the betrayal in this limited subplot.",
+                "rating_rationale": "The betrayal and later disclosure concern one limited subplot.",
+                "sources": [
+                  "https://transcripts.foreverdreaming.org/viewtopic.php?t=144741"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "Available scene descriptions do not establish a film-wide score. Screen the 2007 animated DVD and log relevant dialogue and visual context.",
+            "sources": [
+              "https://www.imdb.com/title/tt0903135/parentalguide/"
+            ],
+            "next_step": "Screen the identified DVD and document dialogue and visuals."
+          },
+          "other_open_fields": [
+            "Check English dialogue for language and footage for substance use. Severity labels alone do not identify scenes."
+          ],
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "batch1-2001-the-lord-of-the-rings-the-fellowship-of-the-ring",
+          "title": "The Lord of the Rings: The Fellowship of the Ring",
+          "year": 2001,
+          "version": "Peter Jackson’s 2001 theatrical feature, 178 minutes",
+          "status": "proposal_saved",
+          "review_baseline": "public/seed-reviews.js",
+          "review_baseline_blob": "65cf4053ad16b37541068fb57362e212670115b7",
+          "sources": [
+            "https://www.bbfc.co.uk/release/the-lord-of-the-rings-the-fellowship-of-the-ring-q29sbgvjdglvbjpwwc0zntaxmda",
+            "https://raisingchildren.net.au/guides/movie-reviews/lord-of-the-rings-the-fellowship-of-the-ring",
+            "https://assets.scriptslug.com/live/pdf/scripts/the-lord-of-the-rings-the-fellowship-of-the-ring-2001.pdf"
+          ],
+          "on_screen": "Boromir tries to take the Ring from Frodo. He later protects Merry and Pippin, suffers arrow wounds and admits his attempt to Aragorn.",
+          "on_screen_source": "https://assets.scriptslug.com/live/pdf/scripts/the-lord-of-the-rings-the-fellowship-of-the-ring-2001.pdf",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Boromir’s attempt to overpower Frodo exposes the harm in his claim that he needs the Ring to protect Gondor. The film honors him when he protects the hobbits and tells Aragorn the truth. Frodo likewise accepts personal danger for the sake of his home.",
+            "age": "13+",
+            "age_rationale": "The riders stab Frodo, and Boromir’s slow death by arrows includes visible injuries and a farewell. The length of the pursuit and the grief after battle can weigh on younger children.",
+            "age_source": "https://raisingchildren.net.au/guides/movie-reviews/lord-of-the-rings-the-fellowship-of-the-ring",
+            "theme_ratings": [
+              {
+                "name": "Humility and repentance",
+                "score": 4,
+                "evidence": "Boromir admits to Aragorn that he tried to take the Ring.",
+                "rating_rationale": "His confession is decisive but concentrated near the ending.",
+                "sources": [
+                  "https://assets.scriptslug.com/live/pdf/scripts/the-lord-of-the-rings-the-fellowship-of-the-ring-2001.pdf"
+                ]
+              },
+              {
+                "name": "Love and self-sacrifice",
+                "score": 5,
+                "evidence": "Frodo accepts the burden and Boromir protects the hobbits.",
+                "rating_rationale": "Risk accepted for others shapes the quest and its final battle.",
+                "sources": [
+                  "https://assets.scriptslug.com/live/pdf/scripts/the-lord-of-the-rings-the-fellowship-of-the-ring-2001.pdf"
+                ]
+              },
+              {
+                "name": "Courage and hope",
+                "score": 5,
+                "evidence": "The hobbits press on despite pursuit by the riders.",
+                "rating_rationale": "Persistence in danger runs from their departure to the Fellowship’s breaking.",
+                "sources": [
+                  "https://raisingchildren.net.au/guides/movie-reviews/lord-of-the-rings-the-fellowship-of-the-ring"
+                ]
+              },
+              {
+                "name": "Greed and materialism",
+                "score": 4,
+                "evidence": "Boromir reaches for the Ring to defend his people.",
+                "rating_rationale": "The strong score reflects the temptation to possess power for a supposedly good purpose.",
+                "sources": [
+                  "https://assets.scriptslug.com/live/pdf/scripts/the-lord-of-the-rings-the-fellowship-of-the-ring-2001.pdf"
+                ]
+              },
+              {
+                "name": "Violence and cruelty",
+                "score": 4,
+                "evidence": "The riders stab Frodo. Boromir takes multiple arrows.",
+                "rating_rationale": "Wounds, terror and grief recur throughout the journey.",
+                "sources": [
+                  "https://raisingchildren.net.au/guides/movie-reviews/lord-of-the-rings-the-fellowship-of-the-ring"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The theatrical guide describes Arwen and Aragorn kissing. It does not establish film-wide prominence.",
+            "next_step": "Screen the theatrical edition and document coverage.",
+            "sources": [
+              "https://raisingchildren.net.au/guides/movie-reviews/lord-of-the-rings-the-fellowship-of-the-ring"
+            ]
+          },
+          "studio_status": "repository_proposal_no_authenticated_studio_save"
+        }
+      ]
     }
   ]
 }
