@@ -1,0 +1,456 @@
+[
+  {
+    "id": "marvel-1986-howard-the-duck",
+    "title": "Howard the Duck",
+    "year": 1986,
+    "edition": "Willard Huyck’s 111-minute 1986 live-action feature with Lea Thompson.",
+    "genre": "Marvel · Science fiction · Comedy",
+    "age": "13+",
+    "verdict": "neutral",
+    "synopsis": "Stranded in Cleveland, Howard finds a friend in Beverly and a possible route home. The same technology opens Earth to an invader.",
+    "verdictRationale": "Howard has good reason to want his old life back. He gives up the way home when other lives depend on it. That costly choice deserves admiration. The film also regularly invites viewers to laugh at sexual embarrassment and leering. Its last act offers a clearer example of charity than much of its comedy.",
+    "ageRationale": "Beverly discovers a condom in Howard’s wallet during a bedroom joke. A scientist’s transformation and fights involving gunfire add a different kind of intensity. A teen audience is better placed to discuss both.",
+    "reflection": "Jennings first treats Howard as someone with a home to miss. Later Howard has to recognize that the people around him have homes to lose, too. Families might consider whose ordinary life they would interrupt their own plans to protect.",
+    "sources": [
+      {
+        "label": "Common Sense Media release guide",
+        "url": "https://www.commonsensemedia.org/movie-reviews/howard-the-duck"
+      },
+      {
+        "label": "Lucasfilm production record",
+        "url": "https://www.lucasfilm.com/productions/howard-the-duck/"
+      },
+      {
+        "label": "Universal home release",
+        "url": "https://www.universalpicturesathome.com/movies/howard-the-duck"
+      }
+    ],
+    "themes": [
+      {
+        "name": "Self-sacrifice",
+        "score": 4,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Giving up the way back to his planet costs Howard his original goal and settles the final conflict.",
+        "references": [
+          {
+            "label": "Common Sense Media release guide",
+            "url": "https://www.commonsensemedia.org/movie-reviews/howard-the-duck"
+          }
+        ]
+      },
+      {
+        "name": "Hospitality",
+        "score": 3,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Beverly befriends the stranded visitor and Jennings tries to send him home. Welcoming Howard sets the adventure in motion before the rescue takes over.",
+        "references": [
+          {
+            "label": "Common Sense Media release guide",
+            "url": "https://www.commonsensemedia.org/movie-reviews/howard-the-duck"
+          },
+          {
+            "label": "Lucasfilm production record",
+            "url": "https://www.lucasfilm.com/productions/howard-the-duck/"
+          }
+        ]
+      },
+      {
+        "name": "Sexualized humor",
+        "score": 3,
+        "type": "harmful",
+        "portrayal": "mixed",
+        "evidence": "An adult magazine gag and the bedroom encounter recur as comedy. They shape the tone, while Howard’s final decision turns on another concern.",
+        "references": [
+          {
+            "label": "Common Sense Media release guide",
+            "url": "https://www.commonsensemedia.org/movie-reviews/howard-the-duck"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "score": null,
+        "type": "context",
+        "portrayal": "unverified",
+        "evidence": "The guide documents Beverly and Howard’s flirtation. Screen the 111-minute feature for additional relationships, dialogue and background details before assigning prominence.",
+        "references": [
+          {
+            "label": "Common Sense Media release guide",
+            "url": "https://www.commonsensemedia.org/movie-reviews/howard-the-duck"
+          }
+        ]
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "details": "Beverly finds a condom while flirting with Howard in lingerie.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.commonsensemedia.org/movie-reviews/howard-the-duck"
+      },
+      {
+        "name": "Language",
+        "details": "The guide identifies mild profanity and irreverent use of God’s name.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.commonsensemedia.org/movie-reviews/howard-the-duck"
+      },
+      {
+        "name": "Violence",
+        "details": "Howard catches a punk’s earring with an ice pick. Other action includes gunfire and vehicle wrecks.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.commonsensemedia.org/movie-reviews/howard-the-duck"
+      },
+      {
+        "name": "Fantasy possession",
+        "details": "An alien takes control of Dr. Jennings in the science-fiction story.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.commonsensemedia.org/movie-reviews/howard-the-duck"
+      },
+      {
+        "name": "Substances",
+        "details": "Howard drinks beer and smokes.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.commonsensemedia.org/movie-reviews/howard-the-duck"
+      }
+    ],
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Beverly finds a condom while flirting with Howard in lingerie."
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media release guide",
+              "url": "https://www.commonsensemedia.org/movie-reviews/howard-the-duck",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The guide identifies mild profanity and irreverent use of God’s name."
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media release guide",
+              "url": "https://www.commonsensemedia.org/movie-reviews/howard-the-duck",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Howard catches a punk’s earring with an ice pick. Other action includes gunfire and vehicle wrecks."
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media release guide",
+              "url": "https://www.commonsensemedia.org/movie-reviews/howard-the-duck",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "An alien takes control of Dr. Jennings in the science-fiction story."
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media release guide",
+              "url": "https://www.commonsensemedia.org/movie-reviews/howard-the-duck",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Howard drinks beer and smokes."
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media release guide",
+              "url": "https://www.commonsensemedia.org/movie-reviews/howard-the-duck",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Howard sacrifices his opportunity to return home to protect Earth."
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media release guide",
+              "url": "https://www.commonsensemedia.org/movie-reviews/howard-the-duck",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    },
+    "scripture": [
+      "Philippians 2:4"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 2:4",
+      "translation": "KJV",
+      "text": "Look not every man on his own things, but every man also on the things of others.",
+      "url": "https://www.biblegateway.com/passage/?search=Philippians+2%3A4&version=KJV",
+      "connection": "Paul’s invitation to attend to others’ interests gives a family a way to name the good in Howard’s choice without treating the whole film as a moral example."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homilies on Matthew",
+      "section": "Homily 77, concluding exhortation (excerpt)",
+      "text": "he who seeks after the good of the rest pains no man, but pities all, helps them to the utmost of his powers",
+      "url": "https://www.newadvent.org/fathers/200177.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "Whose home is at stake?",
+        "filmMoment": "Howard gives up his route back to his planet.",
+        "reflection": "Paul’s invitation to attend to others’ interests gives a family a way to name the good in Howard’s choice without treating the whole film as a moral example.",
+        "sourceUrl": "https://www.commonsensemedia.org/movie-reviews/howard-the-duck",
+        "scriptureReference": "Philippians 2:4"
+      }
+    ],
+    "questions": [
+      "What might Beverly understand about Howard before anyone at the laboratory does?",
+      "What does Jennings owe Howard once a way home seems possible?",
+      "How does the bedroom joke change the way the film asks us to see Beverly?",
+      "Who would bear the risk if Howard kept his route home open?",
+      "What makes giving up that route an act of friendship toward people Howard barely knows?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending"
+  },
+  {
+    "id": "marvel-1990-captain-america",
+    "title": "Captain America",
+    "year": 1990,
+    "edition": "Albert Pyun’s standard release with Matt Salinger and Scott Paulin, identified by the bomb and recording in the castle finale.",
+    "genre": "Marvel · Action",
+    "age": "13+",
+    "verdict": "neutral",
+    "synopsis": "Decades after a wartime mission, Steve Rogers returns to a country he barely recognizes. Sharon helps him trace the Red Skull through an Italian diary and a recording made in the villain’s childhood home.",
+    "verdictRationale": "Sharon has just lost her mother, yet she uses her knowledge of Italian and risks capture to help others. Steve twice tries to leave a helper behind and finally uses a childhood trauma to distract his enemy. The rescue is courageous. The means Steve uses make his example a complicated one for families.",
+    "ageRationale": "Soldiers interrupt a child’s piano recital and kill his family in front of him. The sounds of that killing return during the climax. A child sensitive to the loss of a parent may find the recording harder to hear than the later action is to watch.",
+    "reflection": "Sharon has every reason to withdraw after Bernice dies. Instead, she listens, translates and goes back when Steve leaves her behind. A Christian family might ask what it costs to receive another person’s help when one is accustomed to being the rescuer.",
+    "sources": [
+      {
+        "label": "Reactor release retrospective",
+        "url": "https://reactormag.com/better-off-unreleased-captain-america-1990-and-fantastic-four-1994/"
+      },
+      {
+        "label": "Released film narrative",
+        "url": "https://en.wikipedia.org/wiki/Captain_America_(1990_film)"
+      },
+      {
+        "label": "IMDb viewer guide",
+        "url": "https://www.imdb.com/title/tt0103923/parentalguide/"
+      }
+    ],
+    "themes": [
+      {
+        "name": "Service and courage",
+        "score": 4,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Sharon translates the diary and later risks capture. Her choices repeatedly make the rescue possible.",
+        "references": [
+          {
+            "label": "Reactor release retrospective",
+            "url": "https://reactormag.com/better-off-unreleased-captain-america-1990-and-fantastic-four-1994/"
+          }
+        ]
+      },
+      {
+        "name": "Coercion",
+        "score": 5,
+        "type": "harmful",
+        "portrayal": "condemned",
+        "evidence": "The child taken from his family grows into the man who plans to control a president with an implant. Coercion binds the origin and the central plot together.",
+        "references": [
+          {
+            "label": "Reactor release retrospective",
+            "url": "https://reactormag.com/better-off-unreleased-captain-america-1990-and-fantastic-four-1994/"
+          }
+        ]
+      },
+      {
+        "name": "Deceit",
+        "score": 3,
+        "type": "harmful",
+        "portrayal": "mixed",
+        "evidence": "Steve uses the same trick on two allies to obtain a car and leave them behind. Sharon has to find her own way to the village.",
+        "references": [
+          {
+            "label": "Reactor release retrospective",
+            "url": "https://reactormag.com/better-off-unreleased-captain-america-1990-and-fantastic-four-1994/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "score": null,
+        "type": "context",
+        "portrayal": "unverified",
+        "evidence": "Sharon’s relationship with Steve covers one story thread. Check dialogue and incidental characters throughout the standard release before scoring.",
+        "references": [
+          {
+            "label": "Reactor release retrospective",
+            "url": "https://reactormag.com/better-off-unreleased-captain-america-1990-and-fantastic-four-1994/"
+          }
+        ]
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Violence",
+        "details": "A boy watches soldiers kill his family during a piano recital. A recording replays the event at the castle.",
+        "severity": "Strong",
+        "sourceUrl": "https://reactormag.com/better-off-unreleased-captain-america-1990-and-fantastic-four-1994/"
+      },
+      {
+        "name": "Smoking",
+        "details": "The viewer guide reports cigarette and cigar smoking.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.imdb.com/title/tt0103923/parentalguide/"
+      }
+    ],
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Rogers and Sharon embrace after the confrontation."
+          ],
+          "evidence": [
+            {
+              "provider": "Released film narrative",
+              "url": "https://en.wikipedia.org/wiki/Captain_America_(1990_film)",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "unverified",
+          "findings": [],
+          "evidence": [],
+          "absence_verified": false,
+          "next_step": "Check dialogue in the European and American sequences of the standard release against captions for specific words."
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A boy watches soldiers kill his family during a piano recital. A recording replays the event at the castle."
+          ],
+          "evidence": [
+            {
+              "provider": "Reactor release retrospective",
+              "url": "https://reactormag.com/better-off-unreleased-captain-america-1990-and-fantastic-four-1994/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "unverified",
+          "findings": [],
+          "evidence": [],
+          "absence_verified": false,
+          "next_step": "Check the Italian home and castle sequences for religious imagery and distinguish any such imagery from the scientific origin plot."
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The viewer guide reports cigarette and cigar smoking."
+          ],
+          "evidence": [
+            {
+              "provider": "IMDb viewer guide",
+              "url": "https://www.imdb.com/title/tt0103923/parentalguide/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Sharon arranges a distraction by exposing herself to capture."
+          ],
+          "evidence": [
+            {
+              "provider": "Reactor release retrospective",
+              "url": "https://reactormag.com/better-off-unreleased-captain-america-1990-and-fantastic-four-1994/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    },
+    "scripture": [
+      "Philippians 2:4"
+    ],
+    "themeScripture": {
+      "reference": "Philippians 2:4",
+      "translation": "KJV",
+      "text": "Look not every man on his own things, but every man also on the things of others.",
+      "url": "https://www.biblegateway.com/passage/?search=Philippians+2%3A4&version=KJV",
+      "connection": "Sharon attends to the need in front of her even after Steve brushes her aside. Paul’s words also invite Steve to consider what his helper needs from him."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homilies on Matthew",
+      "section": "Homily 77, concluding exhortation (excerpt)",
+      "text": "he who seeks after the good of the rest pains no man, but pities all, helps them to the utmost of his powers",
+      "url": "https://www.newadvent.org/fathers/200177.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "The gift Steve needs",
+        "filmMoment": "Sharon follows Steve and translates for him at the Red Skull’s childhood home.",
+        "reflection": "Sharon attends to the need in front of her even after Steve brushes her aside. Paul’s words also invite Steve to consider what his helper needs from him.",
+        "sourceUrl": "https://reactormag.com/better-off-unreleased-captain-america-1990-and-fantastic-four-1994/",
+        "scriptureReference": "Philippians 2:4"
+      }
+    ],
+    "questions": [
+      "What does the piano recital let us learn about the boy before we meet the Red Skull?",
+      "What does Steve assume about Sharon when he drives away?",
+      "Why does knowing Italian matter more than having a shield in the village?",
+      "What might Sharon need from Steve after Bernice’s death?",
+      "How do you judge playing the recording when lives are at stake at the castle?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending"
+  }
+]
