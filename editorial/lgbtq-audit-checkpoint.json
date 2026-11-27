@@ -11695,6 +11695,230 @@
           "studio_status": "repository_proposal_no_authenticated_studio_save"
         }
       ]
+    },
+    {
+      "number": 25,
+      "date": "2026-11-27",
+      "review_completion_branch": "editorial/stage-4-completion",
+      "review_completion_ledger": "editorial/review-completion.tsv",
+      "films": [
+        {
+          "movie_id": "marvel-1978-dr-strange",
+          "title": "Dr. Strange",
+          "year": 1978,
+          "version": "1978 US television pilot directed by Philip DeGuere, with Peter Hooten and Jessica Walter",
+          "status": "proposal_saved",
+          "review_baseline": "editorial/review-drafts-marvel-batch-28.json",
+          "review_baseline_blob": "115a2155a17296b050a4eca51c883f59670a9650",
+          "sources": [
+            "https://reactormag.com/with-great-power-comes-great-boredom-spider-man-1977-and-dr-strange-1978/",
+            "https://en.wikipedia.org/wiki/Dr._Strange_(1978_film)",
+            "https://www.imdb.com/title/tt0077469/parentalguide/",
+            "https://christopherlbennett.wordpress.com/2017/03/25/supernatural-tv-pilots-of-the-70s-roddenberrys-spectre-and-marvels-dr-strange/"
+          ],
+          "on_screen": "Morgan makes Clea push Lindmer over a railing and later possesses her during a date with Strange.",
+          "on_screen_source": "https://reactormag.com/with-great-power-comes-great-boredom-spider-man-1977-and-dr-strange-1978/",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Strange follows up on a patient whose distress others can quiet with sedation. His concern for Clea is admirable, and Morgan’s use of her body against another person is frightening. The proposed Neutral verdict also weighs the film’s presentation of astral travel and initiation into sorcery as desirable ways to heal.",
+            "age": "13+",
+            "age_rationale": "Clea loses control of her actions, pushes someone over a railing and later sees Morgan in mirrors. The fear that a person cannot trust her own movements may linger after the dated effects.",
+            "age_source": "https://reactormag.com/with-great-power-comes-great-boredom-spider-man-1977-and-dr-strange-1978/",
+            "theme_ratings": [
+              {
+                "name": "Compassion and service",
+                "score": 4,
+                "evidence": "Strange seeks Lindmer’s help and goes after Clea when she slips into a coma. Her safety motivates his entry into the astral realm.",
+                "rating_rationale": "Clea’s rescue governs his decision to follow Lindmer into danger.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/Dr._Strange_(1978_film)"
+                ]
+              },
+              {
+                "name": "Coercion",
+                "score": 4,
+                "evidence": "Morgan commandeers Clea’s body and makes her push Lindmer. The violation initiates the conflict and follows Clea into the hospital.",
+                "rating_rationale": "Morgan uses Clea more than once, first against Lindmer and again during her date with Strange.",
+                "sources": [
+                  "https://reactormag.com/with-great-power-comes-great-boredom-spider-man-1977-and-dr-strange-1978/"
+                ]
+              },
+              {
+                "name": "Occult or misleading spirituality",
+                "score": 5,
+                "evidence": "Lindmer guides Strange in astral travel. Learning to exercise this power is central to the pilot’s heroic succession story.",
+                "rating_rationale": "Both the rescue and the succession depend on supernatural initiation.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/Dr._Strange_(1978_film)"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The plot and viewer guide do not cover every encounter. Screen the Hooten pilot and record explicit dialogue and visual evidence.",
+            "next_step": "Check full identified version for dialogue and visuals beyond the cited scenes.",
+            "sources": [
+              "https://www.imdb.com/title/tt0077469/parentalguide/"
+            ]
+          },
+          "other_open_fields": [
+            {
+              "field": "sexual_content",
+              "next_step": "Check the pilot’s encounters between Morgan and Strange for the extent of sexual suggestion."
+            },
+            {
+              "field": "language",
+              "next_step": "Check original dialogue. The parental guide supplies votes without representative lines."
+            }
+          ],
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save",
+          "content_categories": {
+            "sexual_content": {
+              "status": "specific_findings_verified",
+              "findings": [
+                "Morgan attempts to seduce Strange after taking control of Clea on a date."
+              ],
+              "evidence": [
+                {
+                  "provider": "Reactor television retrospective",
+                  "url": "https://reactormag.com/with-great-power-comes-great-boredom-spider-man-1977-and-dr-strange-1978/",
+                  "scope": "external_guide",
+                  "checked_at": "2026-11-27"
+                }
+              ],
+              "absence_verified": false
+            }
+          }
+        },
+        {
+          "movie_id": "marvel-2007-doctor-strange-the-sorcerer-supreme",
+          "title": "Doctor Strange: The Sorcerer Supreme",
+          "year": 2007,
+          "version": "2007 Lionsgate animated DVD feature, 76 minutes, Jay Oliva; Bryce Johnson voices Strange",
+          "status": "proposal_saved",
+          "review_baseline": "editorial/review-drafts-marvel-batch-28.json",
+          "review_baseline_blob": "115a2155a17296b050a4eca51c883f59670a9650",
+          "sources": [
+            "https://www.commonsensemedia.org/movie-reviews/doctor-strange-the-sorcerer-supreme",
+            "https://casualcomixcritique.com/2016/04/30/marvel-animated-features-part-4-doctor-strange-the-sorcerer-supreme/",
+            "https://www.dvdtalk.com/reviews/review/29840",
+            "https://www.dvdtalk.com/reviews/29680/doctor-strange-the-sorcerer-supreme/"
+          ],
+          "on_screen": "Camille grabs Strange in the ward. He leaves despite her mother’s plea and later returns to the ward to help the children.",
+          "on_screen_source": "https://casualcomixcritique.com/2016/04/30/marvel-animated-features-part-4-doctor-strange-the-sorcerer-supreme/",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Gina challenges a gifted doctor who has withdrawn from other people’s suffering. The memory of his sister April gives his withdrawal a human cost. His return to help the children is worth discussing, while the film makes mastery of occult power the answer to their peril.",
+            "age": "13+",
+            "age_rationale": "A child briefly wakes from a coma in terror, a parent begs for help, and magical combat reduces bodies to skeletons. These images can disturb a viewer even in animation.",
+            "age_source": "https://casualcomixcritique.com/2016/04/30/marvel-animated-features-part-4-doctor-strange-the-sorcerer-supreme/",
+            "theme_ratings": [
+              {
+                "name": "Compassion and service",
+                "score": 4,
+                "evidence": "Gina challenges Strange over the children and he eventually opposes the power behind their suffering. His response to the ward marks his change.",
+                "rating_rationale": "Returning to the same child he turned away from gives the change sustained narrative weight.",
+                "sources": [
+                  "https://casualcomixcritique.com/2016/04/30/marvel-animated-features-part-4-doctor-strange-the-sorcerer-supreme/"
+                ]
+              },
+              {
+                "name": "Pride",
+                "score": 3,
+                "evidence": "When Camille’s mother begs for help, Strange leaves. Gina’s rebuke names the cost of his self-absorption in a pivotal early scene.",
+                "rating_rationale": "The hospital confrontation establishes a failing he later acts to correct; grief also informs his withdrawal.",
+                "sources": [
+                  "https://casualcomixcritique.com/2016/04/30/marvel-animated-features-part-4-doctor-strange-the-sorcerer-supreme/"
+                ]
+              },
+              {
+                "name": "Occult or misleading spirituality",
+                "score": 5,
+                "evidence": "Training in sorcery and the battle against Dormammu supply the central route to protection. The film presents the mantle of sorcerer as an honor.",
+                "rating_rationale": "Training becomes his vocation and supplies the means of saving the children.",
+                "sources": [
+                  "https://www.commonsensemedia.org/movie-reviews/doctor-strange-the-sorcerer-supreme"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "A content-guide entry on sex does not address every reference to family or identity. Screen the 76-minute animated feature.",
+            "next_step": "Check full identified version for dialogue and visuals beyond the cited scenes.",
+            "sources": [
+              "https://www.commonsensemedia.org/movie-reviews/doctor-strange-the-sorcerer-supreme"
+            ]
+          },
+          "other_open_fields": [],
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "marvel-2022-doctor-strange-in-the-multiverse-of-madness",
+          "title": "Doctor Strange in the Multiverse of Madness",
+          "year": 2022,
+          "version": "Sam Raimi’s 2022 theatrical MCU feature, 126 minutes, Benedict Cumberbatch and Xochitl Gomez",
+          "status": "proposal_saved",
+          "review_baseline": "editorial/review-drafts-marvel-batch-28.json",
+          "review_baseline_blob": "115a2155a17296b050a4eca51c883f59670a9650",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/doctor-strange-in-the-multiverse-of-madness-2022/",
+            "https://www.alberta.ca/search-movie-ratings.aspx?fid=25822",
+            "https://time.com/6174219/doctor-strange-2-mcu-future/",
+            "https://www.commonsensemedia.org/movie-reviews/doctor-strange-in-the-multiverse-of-madness",
+            "https://www.bbfc.co.uk/release/doctor-strange-in-the-multiverse-of-madness-q29sbgvjdglvbjpwwc0xmdaynzc2"
+          ],
+          "on_screen": "America remembers her two mothers. A reanimated corpse and severe head injuries appear in separate sequences.",
+          "on_screen_source": "https://www.commonsensemedia.org/movie-reviews/doctor-strange-in-the-multiverse-of-madness",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Wanda’s grief is recognizable, but the terror of the children she wants to mother exposes the harm of trying to possess them. Strange finally trusts America to act. Alongside that change, the film gives its hero a victory assisted by forbidden magic and the use of a corpse. Those choices complicate the spiritual assessment.",
+            "age": "16+",
+            "age_rationale": "A man’s head implodes, another character is cut in two, and an animated corpse figures prominently in the finale. These horror images are more sustained and bodily than a typical superhero chase.",
+            "age_source": "https://www.bbfc.co.uk/release/doctor-strange-in-the-multiverse-of-madness-q29sbgvjdglvbjpwwc0xmdaynzc2",
+            "theme_ratings": [
+              {
+                "name": "Trust and responsibility",
+                "score": 4,
+                "evidence": "Strange encourages America to use her own ability in the final encounter. Giving up control is decisive to their partnership.",
+                "rating_rationale": "His decision to entrust the outcome to America reverses his earlier impulse to take control.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/doctor-strange-in-the-multiverse-of-madness-2022/"
+                ]
+              },
+              {
+                "name": "Possessiveness",
+                "score": 5,
+                "evidence": "Wanda pursues America at mortal cost for another family’s children. Seeing their fear breaks the pursuit that drives the film.",
+                "rating_rationale": "Wanda’s attempt to claim the children drives the pursuit until their fear confronts her with the harm.",
+                "sources": [
+                  "https://time.com/6174219/doctor-strange-2-mcu-future/"
+                ]
+              },
+              {
+                "name": "Occult or misleading spirituality",
+                "score": 5,
+                "evidence": "The Darkhold corrupts Wanda, yet Strange also uses its forbidden power to inhabit a dead body. Both sides of the conflict depend on sorcery.",
+                "rating_rationale": "The villain’s corruption and the hero’s use of a corpse put the practice at the center of both arcs.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/doctor-strange-in-the-multiverse-of-madness-2022/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": 1,
+            "observation": "A memory shows America with her two mothers before their separation. The guide identifies a brief family reference. The film evidence describes her parents and leaves America’s orientation unspecified.",
+            "next_step": "Check full identified version for dialogue and visuals beyond the cited scenes.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/doctor-strange-in-the-multiverse-of-madness-2022/"
+            ]
+          },
+          "other_open_fields": [],
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        }
+      ]
     }
   ]
 }
