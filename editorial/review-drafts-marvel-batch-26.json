@@ -1,0 +1,698 @@
+[
+  {
+    "id": "marvel-1988-the-incredible-hulk-returns",
+    "title": "The Incredible Hulk Returns",
+    "year": 1988,
+    "edition": "1988 live-action television reunion with Bill Bixby and Lou Ferrigno; Thor is the warrior summoned by Donald Blake.",
+    "age": "10+",
+    "verdict": "neutral",
+    "synopsis": "David is close to a cure when his former student brings a mysterious hammer into his laboratory. Maggie’s abductors want the device David hoped would heal him.",
+    "verdictRationale": "Giving up a chance at a cure so that Maggie can come home is David’s most admirable decision. The picture also makes a spectacle of the very power he has spent years trying to control. Its strongest invitation to compassion comes late, after an extended contest of strength.",
+    "ageRationale": "Maggie is held to force an exchange. A child may find the separation and the Hulk’s physical changes more unsettling than the brief blows. Thor’s drinking is played as barroom entertainment.",
+    "reflection": "David hopes for a quiet life with Maggie. When her safety depends on the machine meant to restore that life, he discovers which part of his hope he can surrender.",
+    "genre": "Marvel · Television adventure",
+    "sources": [
+      {
+        "label": "Feature listing",
+        "url": "https://www.rottentomatoes.com/m/incredible_hulk_returns"
+      },
+      {
+        "label": "Viewer-contributed scene guide",
+        "url": "https://www.imdb.com/title/tt0095368/parentalguide/"
+      },
+      {
+        "label": "Feature plot",
+        "url": "https://en.wikipedia.org/wiki/The_Incredible_Hulk_Returns"
+      },
+      {
+        "label": "Gamma transponder and rescue plot",
+        "url": "https://www.imdb.com/title/tt0095368/plotsummary/"
+      }
+    ],
+    "themes": [
+      {
+        "name": "Sacrificial care",
+        "score": 4,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "David puts Maggie’s rescue ahead of his chance to use the transponder. The choice redirects the final act.",
+        "references": [
+          {
+            "label": "Gamma transponder and rescue plot",
+            "url": "https://www.imdb.com/title/tt0095368/plotsummary/"
+          }
+        ]
+      },
+      {
+        "name": "Cooperation",
+        "score": 3,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Thor and Hulk initially clash and later combine their strength in the rescue. Their change matters most near the end.",
+        "references": [
+          {
+            "label": "Feature plot",
+            "url": "https://en.wikipedia.org/wiki/The_Incredible_Hulk_Returns"
+          }
+        ]
+      },
+      {
+        "name": "Coercion",
+        "score": 4,
+        "type": "harmful",
+        "portrayal": "condemned",
+        "evidence": "The kidnappers use Maggie as the price of obtaining David’s invention. Her captivity drives the rescue.",
+        "references": [
+          {
+            "label": "Feature plot",
+            "url": "https://en.wikipedia.org/wiki/The_Incredible_Hulk_Returns"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "portrayal": "unverified",
+        "score": null,
+        "evidence": "Scene coverage in the linked guides is selective. Review the full 1988 television feature, including dialogue and background visuals, before assigning a prominence score.",
+        "references": [
+          {
+            "label": "Viewer-contributed scene guide",
+            "url": "https://www.imdb.com/title/tt0095368/parentalguide/"
+          }
+        ]
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sex and relationships",
+        "details": "David and Maggie flirt over the telephone.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.imdb.com/title/tt0095368/parentalguide/"
+      },
+      {
+        "name": "Language",
+        "details": "A viewer reports mild swearing, including ‘hell’ and ‘damn’.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.imdb.com/title/tt0095368/parentalguide/"
+      },
+      {
+        "name": "Violence and peril",
+        "details": "Maggie is abducted during the attempt to obtain the transponder.",
+        "severity": "Moderate",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Incredible_Hulk_Returns"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "Blake invokes Odin to summon a Viking warrior bound to a hammer. Valhalla belongs to the adventure’s Norse mythology.",
+        "severity": "Moderate",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Incredible_Hulk_Returns"
+      },
+      {
+        "name": "Substance use",
+        "details": "Thor downs beer in a bar where people smoke.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.imdb.com/title/tt0095368/parentalguide/"
+      }
+    ],
+    "scripture": [
+      "Galatians 6:2"
+    ],
+    "themeScripture": {
+      "reference": "Galatians 6:2",
+      "translation": "KJV",
+      "text": "Bear ye one another's burdens, and so fulfil the law of Christ.",
+      "url": "https://www.biblegateway.com/passage/?search=Galatians+6%3A2&version=KJV",
+      "connection": "Paul asks Christians to carry a burden another person already bears. Maggie’s immediate danger changes what David is willing to do with his research."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homilies on the Gospel of John",
+      "section": "Homily 77, on Christ’s commandment of love",
+      "text": "But wherefore does He everywhere exalt love? Because this is the mark of the disciples, this the bond of virtue.",
+      "url": "https://www.newadvent.org/fathers/240177.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "A cure David can surrender",
+        "filmMoment": "The transponder matters to David personally when the kidnappers demand it for Maggie.",
+        "sourceUrl": "https://www.imdb.com/title/tt0095368/plotsummary/",
+        "scriptureReference": "Galatians 6:2",
+        "reflection": "Paul asks Christians to carry a burden another person already bears. Maggie’s immediate danger changes what David is willing to do with his research."
+      }
+    ],
+    "questions": [
+      "Why does the transponder matter to David before anyone threatens Maggie?",
+      "How does bringing Thor into the laboratory affect Blake’s responsibility for what happens there?",
+      "What changes between Hulk and Thor when they have someone to rescue?",
+      "If you were Maggie, what would you need after the rescue that physical strength could not provide?",
+      "Which decision costs David most, and who benefits from it?"
+    ],
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "David and Maggie flirt over the telephone."
+          ],
+          "evidence": [
+            {
+              "provider": "Viewer-contributed scene guide",
+              "url": "https://www.imdb.com/title/tt0095368/parentalguide/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A viewer reports mild swearing, including ‘hell’ and ‘damn’."
+          ],
+          "evidence": [
+            {
+              "provider": "Viewer-contributed scene guide",
+              "url": "https://www.imdb.com/title/tt0095368/parentalguide/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Maggie is abducted during the attempt to obtain the transponder."
+          ],
+          "evidence": [
+            {
+              "provider": "Feature plot",
+              "url": "https://en.wikipedia.org/wiki/The_Incredible_Hulk_Returns",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Blake invokes Odin to summon a Viking warrior bound to a hammer. Valhalla belongs to the adventure’s Norse mythology."
+          ],
+          "evidence": [
+            {
+              "provider": "Feature plot",
+              "url": "https://en.wikipedia.org/wiki/The_Incredible_Hulk_Returns",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Thor downs beer in a bar where people smoke."
+          ],
+          "evidence": [
+            {
+              "provider": "Viewer-contributed scene guide",
+              "url": "https://www.imdb.com/title/tt0095368/parentalguide/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Banner accepts losing his chance at a cure to help rescue Maggie."
+          ],
+          "evidence": [
+            {
+              "provider": "Gamma transponder and rescue plot",
+              "url": "https://www.imdb.com/title/tt0095368/plotsummary/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    },
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending"
+  },
+  {
+    "id": "marvel-1989-the-trial-of-the-incredible-hulk",
+    "title": "The Trial of the Incredible Hulk",
+    "year": 1989,
+    "edition": "1989 live-action Bill Bixby television feature with Rex Smith as Matt Murdock.",
+    "age": "13+",
+    "verdict": "edifying",
+    "synopsis": "David intervenes when two men assault Ellie on a train. After he is accused of the attack, Matt Murdock takes his case and tries to learn why Ellie fears telling the truth.",
+    "verdictRationale": "David’s first intervention costs him his freedom. Matt offers legal help to a man who cannot pay him, and later needs David to save him when Fisk exploits his sensitive hearing. Each man gets a turn at being vulnerable. Ellie’s fear for her parents gives her false account a human context and makes witness protection a moral issue.",
+    "ageRationale": "The train assault carries a sexual threat. Fisk also threatens Ellie’s family, and Matt is deliberately disoriented and severely beaten. The danger to a witness and the targeting of a disability warrant discussion with teens.",
+    "reflection": "When Ellie changes her story, the question becomes who will keep her parents safe. Asking a frightened witness to be brave creates an obligation for the people who hear her.",
+    "genre": "Marvel · Television adventure",
+    "sources": [
+      {
+        "label": "Apple TV feature record",
+        "url": "https://tv.apple.com/us/movie/the-trial-of-the-incredible-hulk/umc.cmc.4rdxcbojls2ctgbukl47vw8fv"
+      },
+      {
+        "label": "Viewer-contributed scene guide",
+        "url": "https://www.imdb.com/title/tt0098512/parentalguide/"
+      },
+      {
+        "label": "TV Guide synopsis",
+        "url": "https://www.tvguide.com/movies/the-trial-of-the-incredible-hulk/2030344665/"
+      },
+      {
+        "label": "Feature narrative",
+        "url": "https://en.wikipedia.org/wiki/The_Trial_of_the_Incredible_Hulk"
+      }
+    ],
+    "themes": [
+      {
+        "name": "Protection of the vulnerable",
+        "score": 5,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "David steps in on the train and later saves Matt from Fisk’s men. Two costly interventions frame the partnership.",
+        "references": [
+          {
+            "label": "Feature narrative",
+            "url": "https://en.wikipedia.org/wiki/The_Trial_of_the_Incredible_Hulk"
+          }
+        ]
+      },
+      {
+        "name": "Service",
+        "score": 4,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Matt offers representation despite David’s inability to pay and continues investigating Ellie’s account. His help sustains the case.",
+        "references": [
+          {
+            "label": "TV Guide synopsis",
+            "url": "https://www.tvguide.com/movies/the-trial-of-the-incredible-hulk/2030344665/"
+          }
+        ]
+      },
+      {
+        "name": "Intimidation",
+        "score": 5,
+        "type": "harmful",
+        "portrayal": "condemned",
+        "evidence": "Threats against Ellie’s parents silence her. Fisk then has her abducted when she offers to speak. Coercion drives the investigation.",
+        "references": [
+          {
+            "label": "Feature narrative",
+            "url": "https://en.wikipedia.org/wiki/The_Trial_of_the_Incredible_Hulk"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "portrayal": "unverified",
+        "score": null,
+        "evidence": "Scene coverage in the linked guides is selective. Review the full 1989 television feature, including dialogue and background visuals, before assigning a prominence score.",
+        "references": [
+          {
+            "label": "Viewer-contributed scene guide",
+            "url": "https://www.imdb.com/title/tt0098512/parentalguide/"
+          }
+        ]
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sex and relationships",
+        "details": "Two passengers shove Ellie and make suggestive remarks during the subway assault.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.imdb.com/title/tt0098512/parentalguide/"
+      },
+      {
+        "name": "Language",
+        "details": "A viewer reports mild profanity.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.imdb.com/title/tt0098512/parentalguide/"
+      },
+      {
+        "name": "Violence and peril",
+        "details": "Fisk’s men overwhelm Matt with sound and beat him. David sees the Hulk disrupt a courtroom in a nightmare.",
+        "severity": "Strong",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Trial_of_the_Incredible_Hulk"
+      }
+    ],
+    "scripture": [
+      "Galatians 6:2"
+    ],
+    "themeScripture": {
+      "reference": "Galatians 6:2",
+      "translation": "KJV",
+      "text": "Bear ye one another's burdens, and so fulfil the law of Christ.",
+      "url": "https://www.biblegateway.com/passage/?search=Galatians+6%3A2&version=KJV",
+      "connection": "Bearing Ellie’s burden means taking the threat to her parents seriously, even after her earlier account helped put David in jail."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homilies on the Gospel of John",
+      "section": "Homily 77, on Christ’s commandment of love",
+      "text": "But wherefore does He everywhere exalt love? Because this is the mark of the disciples, this the bond of virtue.",
+      "url": "https://www.newadvent.org/fathers/240177.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "The cost of hearing a witness",
+        "filmMoment": "Ellie offers Matt the truth and asks that her parents be kept safe.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Trial_of_the_Incredible_Hulk",
+        "scriptureReference": "Galatians 6:2",
+        "reflection": "Bearing Ellie’s burden means taking the threat to her parents seriously, even after her earlier account helped put David in jail."
+      }
+    ],
+    "questions": [
+      "What does David risk by intervening on the train?",
+      "What might Matt miss if he thinks only about disproving Ellie’s first account?",
+      "Why does Ellie ask about her parents before she will speak?",
+      "What does David fear in his dreamed courtroom that an actual hearing might handle differently?",
+      "How does saving Matt change who gets to give and receive help?"
+    ],
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Two passengers shove Ellie and make suggestive remarks during the subway assault."
+          ],
+          "evidence": [
+            {
+              "provider": "Viewer-contributed scene guide",
+              "url": "https://www.imdb.com/title/tt0098512/parentalguide/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A viewer reports mild profanity."
+          ],
+          "evidence": [
+            {
+              "provider": "Viewer-contributed scene guide",
+              "url": "https://www.imdb.com/title/tt0098512/parentalguide/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Fisk’s men overwhelm Matt with sound and beat him. David sees the Hulk disrupt a courtroom in a nightmare."
+          ],
+          "evidence": [
+            {
+              "provider": "Feature narrative",
+              "url": "https://en.wikipedia.org/wiki/The_Trial_of_the_Incredible_Hulk",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "unverified",
+          "findings": [],
+          "evidence": [],
+          "next_step": "Check original broadcast dialogue for explicit spiritual practices or claims. The documented courtroom transformation is a nightmare.",
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "unverified",
+          "findings": [],
+          "evidence": [],
+          "next_step": "Check the original cut for recreational substances. A viewer category vote does not document a scene.",
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Ellie asks that her parents be protected before she gives her account."
+          ],
+          "evidence": [
+            {
+              "provider": "Feature narrative",
+              "url": "https://en.wikipedia.org/wiki/The_Trial_of_the_Incredible_Hulk",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    },
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending"
+  },
+  {
+    "id": "marvel-1990-the-death-of-the-incredible-hulk",
+    "title": "The Death of the Incredible Hulk",
+    "year": 1990,
+    "edition": "1990 live-action television finale with Bill Bixby as David and Lou Ferrigno as Hulk.",
+    "age": "13+",
+    "verdict": "edifying",
+    "synopsis": "David and Jasmine have a chance to flee together. Learning that the Pratts are captives, they go to the airfield to help them instead.",
+    "verdictRationale": "The decision to turn back gives the finale its moral weight. David first helps the Pratts escape and then runs toward a plane threatening Jasmine. His death leaves people who loved him grieving. Families can admire the care that took him there and allow that loss to hurt.",
+    "ageRationale": "Gunfire, a plane explosion and David’s fatal fall lead to a sustained farewell. Younger viewers attached to the television hero may find his death in human form especially distressing.",
+    "reflection": "David tends Jasmine’s wound when he has reason to distrust her. Long before his last rescue, this ordinary act of mercy lets two people accustomed to hiding begin to trust each other.",
+    "genre": "Marvel · Television adventure",
+    "sources": [
+      {
+        "label": "Released feature record",
+        "url": "https://www.rottentomatoes.com/m/death_of_the_incredible_hulk"
+      },
+      {
+        "label": "Viewer-contributed scene guide",
+        "url": "https://www.imdb.com/title/tt0099387/parentalguide/"
+      },
+      {
+        "label": "Feature narrative",
+        "url": "https://en.wikipedia.org/wiki/The_Death_of_the_Incredible_Hulk"
+      },
+      {
+        "label": "Retrospective on the ending",
+        "url": "https://www.inverse.com/entertainment/the-death-of-the-incredible-hulk-35-year-anniversary"
+      }
+    ],
+    "themes": [
+      {
+        "name": "Self-sacrifice",
+        "score": 5,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "David gives up escape to help the Pratts and takes a fatal risk protecting Jasmine. The climax gives these choices lasting consequences.",
+        "references": [
+          {
+            "label": "Feature narrative",
+            "url": "https://en.wikipedia.org/wiki/The_Death_of_the_Incredible_Hulk"
+          }
+        ]
+      },
+      {
+        "name": "Mercy",
+        "score": 3,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "David treats Jasmine’s wound after her involvement with the spies. A short private act of care changes their relationship.",
+        "references": [
+          {
+            "label": "Feature narrative",
+            "url": "https://en.wikipedia.org/wiki/The_Death_of_the_Incredible_Hulk"
+          }
+        ]
+      },
+      {
+        "name": "Manipulation",
+        "score": 4,
+        "type": "harmful",
+        "portrayal": "condemned",
+        "evidence": "Bella’s supposed captivity is a deception that exploits Jasmine’s loyalty. Its discovery breaks her allegiance to the network.",
+        "references": [
+          {
+            "label": "Feature narrative",
+            "url": "https://en.wikipedia.org/wiki/The_Death_of_the_Incredible_Hulk"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "portrayal": "unverified",
+        "score": null,
+        "evidence": "Scene coverage in the linked guides is selective. Review the full 1990 television feature, including dialogue and background visuals, before assigning a prominence score.",
+        "references": [
+          {
+            "label": "Viewer-contributed scene guide",
+            "url": "https://www.imdb.com/title/tt0099387/parentalguide/"
+          }
+        ]
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sex and relationships",
+        "details": "A couple kisses. A viewer also describes a shower interruption in which a woman is given her robe.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.imdb.com/title/tt0099387/parentalguide/"
+      },
+      {
+        "name": "Language",
+        "details": "A viewer reports mild swearing, including ‘hell’.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.imdb.com/title/tt0099387/parentalguide/"
+      },
+      {
+        "name": "Violence and peril",
+        "details": "David falls from an exploding aircraft and dies with loved ones nearby.",
+        "severity": "Strong",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Death_of_the_Incredible_Hulk"
+      },
+      {
+        "name": "Substance use",
+        "details": "Jasmine pretends to take a suicide pill to deceive her captor. The scene depicts a feint.",
+        "severity": "Moderate",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Death_of_the_Incredible_Hulk"
+      }
+    ],
+    "scripture": [
+      "John 15:13"
+    ],
+    "themeScripture": {
+      "reference": "John 15:13",
+      "translation": "KJV",
+      "text": "Greater love hath no man than this, that a man lay down his life for his friends.",
+      "url": "https://www.biblegateway.com/passage/?search=JOHN+15%3A13-15&version=KJV",
+      "connection": "Christ’s words invite families to attend to David’s intention. He wants the threatened people to live and accepts the danger that protecting them entails."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homilies on the Gospel of John",
+      "section": "Homily 77, on Christ’s commandment of love",
+      "text": "But wherefore does He everywhere exalt love? Because this is the mark of the disciples, this the bond of virtue.",
+      "url": "https://www.newadvent.org/fathers/240177.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "Turning back for friends",
+        "filmMoment": "David goes to the airfield and intervenes again when Jasmine is in danger.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Death_of_the_Incredible_Hulk",
+        "scriptureReference": "John 15:13",
+        "reflection": "Christ’s words invite families to attend to David’s intention. He wants the threatened people to live and accepts the danger that protecting them entails."
+      }
+    ],
+    "questions": [
+      "What does treating Jasmine’s wound reveal about David before they become close?",
+      "How does Bella use Jasmine’s loyalty against her?",
+      "What could David and Jasmine have gained by leaving the country immediately?",
+      "Why does David run back into danger after the Pratts are safe?",
+      "What might comfort Jasmine after the rescue without asking her to hide her grief?"
+    ],
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A couple kisses. A viewer also describes a shower interruption in which a woman is given her robe."
+          ],
+          "evidence": [
+            {
+              "provider": "Viewer-contributed scene guide",
+              "url": "https://www.imdb.com/title/tt0099387/parentalguide/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A viewer reports mild swearing, including ‘hell’."
+          ],
+          "evidence": [
+            {
+              "provider": "Viewer-contributed scene guide",
+              "url": "https://www.imdb.com/title/tt0099387/parentalguide/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "David falls from an exploding aircraft and dies with loved ones nearby."
+          ],
+          "evidence": [
+            {
+              "provider": "Feature narrative",
+              "url": "https://en.wikipedia.org/wiki/The_Death_of_the_Incredible_Hulk",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "unverified",
+          "findings": [],
+          "evidence": [],
+          "next_step": "Check the final conversation for spiritual claims. David’s death and his friends’ grief alone cannot establish a teaching about the afterlife.",
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Jasmine pretends to take a suicide pill to deceive her captor. The scene depicts a feint."
+          ],
+          "evidence": [
+            {
+              "provider": "Feature narrative",
+              "url": "https://en.wikipedia.org/wiki/The_Death_of_the_Incredible_Hulk",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "David and Jasmine abandon their escape plan when they learn that the Pratts have been kidnapped."
+          ],
+          "evidence": [
+            {
+              "provider": "Feature narrative",
+              "url": "https://en.wikipedia.org/wiki/The_Death_of_the_Incredible_Hulk",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    },
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending"
+  }
+]
