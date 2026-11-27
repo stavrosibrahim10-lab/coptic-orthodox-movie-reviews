@@ -35,23 +35,23 @@ with bounds as (
 ), previous as (
  select count(*) filter(where kind='movie_view') views,count(*) filter(where kind='page_view') pageviews,count(distinct visitor_id) browsers,count(distinct session_id) sessions,count(*) filter(where kind='search') searches from prior
 ), daily as (
- select to_char(g.day,'YYYY-MM-DD') day,count(f.id) filter(where f.kind='movie_view') views,count(f.id) filter(where f.kind='search') searches,count(f.id) filter(where f.kind='page_view') pageviews,count(distinct f.visitor_id) browsers
- from dates d cross join lateral generate_series(d.today-d.n+1,d.today,interval '1 day') g(day)
+ select to_char(g.day,'YYYY-MM-DD') AS "day",count(f.id) filter(where f.kind='movie_view') views,count(f.id) filter(where f.kind='search') searches,count(f.id) filter(where f.kind='page_view') pageviews,count(distinct f.visitor_id) browsers
+ from dates d cross join lateral generate_series(d.today-d.n+1,d.today,interval '1 day') g("day")
  left join f on (f.created_at at time zone 'UTC')::date=g.day::date group by g.day order by g.day
 ), movies as (
  select movie_id,max(movie_title) title,count(*) views from f where kind='movie_view' group by movie_id order by views desc,movie_id limit 12
 ), searches as (
- select query_term term,count(*) count,count(*) filter(where result_count=0) no_results from f where kind='search' and query_term is not null group by query_term order by count desc,term limit 15
+ select query_term term,count(*) AS count,count(*) filter(where result_count=0) no_results from f where kind='search' and query_term is not null group by query_term order by count desc,term limit 15
 ), misses as (
- select query_term term,count(*) count from f where kind='search' and result_count=0 and query_term is not null group by query_term order by count desc,term limit 15
+ select query_term term,count(*) AS count from f where kind='search' and result_count=0 and query_term is not null group by query_term order by count desc,term limit 15
 ), pages as (
- select page label,count(*) count from f where kind='page_view' and page is not null group by page order by count desc
+ select page label,count(*) AS count from f where kind='page_view' and page is not null group by page order by count desc
 ), session_dimensions as (
  select distinct on(session_id) session_id,source,device from f where session_id is not null and kind='page_view' order by session_id,created_at,id
 ), sources as (
- select source label,count(*) count from session_dimensions where source is not null group by source order by count desc
+ select source label,count(*) AS count from session_dimensions where source is not null group by source order by count desc
 ), devices as (
- select device label,count(*) count from session_dimensions where device is not null group by device order by count desc
+ select device label,count(*) AS count from session_dimensions where device is not null group by device order by count desc
 ), interest as (
  select count(*) total,count(*) filter(where created_at>=d.start_at) added,count(*) filter(where created_at>=d.prior_at and created_at<d.start_at) previous from public.newsletter_interest cross join dates d
 )
