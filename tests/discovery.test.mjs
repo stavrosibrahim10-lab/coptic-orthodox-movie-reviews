@@ -42,6 +42,6 @@ test('movie sharing is an icon-only control with an accessible name and status',
   assert.match(html,/aria-label="Share A &amp; B"/);
   assert.match(html,/title="Share movie"/);
   assert.match(html,/<svg aria-hidden="true" focusable="false"/);
-  assert.doesNotMatch(html,/data-share-label|>Share< /);
+  assert.doesNotMatch(html,/data-share-label|>Share</);
   assert.match(html,/role="status" aria-live="polite" aria-atomic="true"/);
 });
