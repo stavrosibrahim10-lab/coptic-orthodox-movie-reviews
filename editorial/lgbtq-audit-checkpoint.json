@@ -10646,6 +10646,236 @@
           "studio_status": "repository_proposal_no_authenticated_studio_save"
         }
       ]
+    },
+    {
+      "number": 21,
+      "date": "2026-11-27",
+      "review_completion_branch": "editorial/stage-4-completion",
+      "review_completion_ledger": "editorial/review-completion.tsv",
+      "films": [
+        {
+          "movie_id": "marvel-2013-iron-man-hulk-heroes-united",
+          "title": "Iron Man & Hulk: Heroes United",
+          "year": 2013,
+          "version": "2013 US Disney animated home-video feature released December 3",
+          "status": "proposal_saved",
+          "review_baseline": "editorial/review-drafts-marvel-batch-23.json",
+          "review_baseline_blob": "6514dcda74356bc6679c9ee06a65029c9c9c72dd",
+          "sources": [
+            "https://movies.disney.com/iron-man-and-hulk-heroes-united",
+            "https://www.dvdtalk.com/reviews/review/62148",
+            "https://transcripts.foreverdreaming.org/viewtopic.php?t=37673",
+            "https://www.imdb.com/title/tt3221698/parentalguide/"
+          ],
+          "on_screen": "During the Wendigo attack, Hulk cannot see and Tony cannot move independently. Tony guides Hulk through the fight.",
+          "on_screen_source": "https://www.dvdtalk.com/reviews/review/62148",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "In the cemetery, Hulk can move but cannot see, while Tony can see but cannot move freely. Asking for help lets both men protect the other. Their earlier fight makes this change in how they treat each other worth noticing, even amid the long stretches of combat.",
+            "age": "10+",
+            "age_rationale": "Proposed 10+ for repeated fights, Hulk’s temporary blindness and an attack by creatures in a cemetery. Children sensitive to losing sight or being surrounded may find that encounter particularly frightening.",
+            "age_source": "https://www.dvdtalk.com/reviews/review/62148",
+            "theme_ratings": [
+              {
+                "name": "Mutual care",
+                "score": 5,
+                "evidence": "Tony guides Hulk through the cemetery while Hulk supplies the movement Tony lacks. Their dependence gives the partnership its clearest expression.",
+                "rating_rationale": "The physical dependence in the cemetery gives concrete form to the central partnership.",
+                "sources": [
+                  "https://www.dvdtalk.com/reviews/review/62148"
+                ]
+              },
+              {
+                "name": "Humility",
+                "score": 3,
+                "evidence": "Tony credits Hulk with a good idea about Zzzax. The acknowledgment briefly interrupts their rivalry.",
+                "rating_rationale": "Acknowledging Hulk’s insight is meaningful but occupies a short exchange.",
+                "sources": [
+                  "https://transcripts.foreverdreaming.org/viewtopic.php?t=37673"
+                ]
+              },
+              {
+                "name": "Exploitation",
+                "score": 4,
+                "evidence": "HYDRA pits Hulk and Abomination against one another and drains them to fuel its device. Treating captives as resources sets the crisis in motion.",
+                "rating_rationale": "Draining the captives supplies the energy that starts the disaster.",
+                "sources": [
+                  "https://www.dvdtalk.com/reviews/review/62148"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The guide does not establish a film-wide prominence score. Check the full 2013 feature, including dialogue and visual context.",
+            "sources": [
+              "https://www.dvdtalk.com/reviews/review/62148"
+            ],
+            "next_step": "Screen the specified feature and record coverage."
+          },
+          "other_open_fields": [
+            {
+              "field": "sexual_content",
+              "next_step": "Review the full disc for romantic or sexual material. The action-focused disc review does not assess this category."
+            },
+            {
+              "field": "language",
+              "next_step": "Check the original English audio and identify the line in context."
+            },
+            {
+              "field": "substance_use",
+              "next_step": "Screen the disc for alcohol, tobacco and drug use. The available review focuses on combat."
+            }
+          ],
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "marvel-2014-iron-man-captain-america-heroes-united",
+          "title": "Iron Man & Captain America: Heroes United",
+          "year": 2014,
+          "version": "2014 US computer-animated feature, 71 minutes, Adrian Pasdar and Roger Craig Smith",
+          "status": "proposal_saved",
+          "review_baseline": "editorial/review-drafts-marvel-batch-23.json",
+          "review_baseline_blob": "6514dcda74356bc6679c9ee06a65029c9c9c72dd",
+          "sources": [
+            "https://www.rottentomatoes.com/m/iron_man_and_captain_america_heroes_united_2014",
+            "https://www.commonsensemedia.org/movie-reviews/iron-man-captain-america-heroes-united",
+            "https://transcripts.foreverdreaming.org/viewtopic.php?t=144747"
+          ],
+          "on_screen": "Steve spars with Tony to teach him how to defend himself. Red Skull says he intends to transform millions into soldiers under his control.",
+          "on_screen_source": "https://transcripts.foreverdreaming.org/viewtopic.php?t=144747",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Steve risks annoying a friend to teach him how to fight if his armor fails. Later Tony clears a path for them both. Their friendship offers something to admire, but much of the film’s attention goes to bigger fights and competitive taunts, with little time to consider the people threatened by Red Skull.",
+            "age": "10+",
+            "age_rationale": "Proposed 10+ for near-continuous animated combat and an attempt to bend a captive’s will. Red Skull’s plan to change people against their wishes can be unsettling apart from the physical fighting.",
+            "age_source": "https://www.commonsensemedia.org/movie-reviews/iron-man-captain-america-heroes-united",
+            "theme_ratings": [
+              {
+                "name": "Friendship and correction",
+                "score": 3,
+                "evidence": "Steve deliberately exposes a weakness during sparring and explains his concern. It gives their opening contest a purpose beyond winning.",
+                "rating_rationale": "The opening lesson establishes Steve’s concern but combat receives more attention.",
+                "sources": [
+                  "https://transcripts.foreverdreaming.org/viewtopic.php?t=144747"
+                ]
+              },
+              {
+                "name": "Cooperation",
+                "score": 4,
+                "evidence": "Facing troops equipped with stolen abilities, Steve calls for a retreat and Tony clears their route. Each relies on the other’s judgment under pressure.",
+                "rating_rationale": "Acting on each other’s decisions repeatedly makes the escape and defense possible.",
+                "sources": [
+                  "https://transcripts.foreverdreaming.org/viewtopic.php?t=144747"
+                ]
+              },
+              {
+                "name": "Domination",
+                "score": 5,
+                "evidence": "Red Skull tries to control Steve’s mind and plans to transform millions into soldiers. The threat to others’ freedom drives the conflict.",
+                "rating_rationale": "The stated aim of changing millions against their will drives the central conflict.",
+                "sources": [
+                  "https://transcripts.foreverdreaming.org/viewtopic.php?t=144747"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The guide does not establish a film-wide prominence score. Check the full 2014 feature, including dialogue and visual context.",
+            "sources": [
+              "https://www.commonsensemedia.org/movie-reviews/iron-man-captain-america-heroes-united"
+            ],
+            "next_step": "Screen the specified feature and record coverage."
+          },
+          "other_open_fields": [
+            {
+              "field": "spiritual_material",
+              "next_step": "Check the 71-minute feature for religious imagery or dialogue. The documented mind-control scene alone cannot settle that question."
+            }
+          ],
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "researched-zootopia-2",
+          "title": "Zootopia 2",
+          "year": 2025,
+          "version": "2025 Disney animated theatrical sequel, English-language feature",
+          "status": "proposal_saved",
+          "review_baseline": "public/seed-reviews.js",
+          "review_baseline_blob": "65cf4053ad16b37541068fb57362e212670115b7",
+          "sources": [
+            "https://assets.debut.disney.com/documents/Zootopia%202%20Script.pdf",
+            "https://themoviespoiler.com/movies/zootopia-2/",
+            "https://www.pluggedin.com/movie-reviews/zootopia-2-2025/"
+          ],
+          "on_screen": "Pawbert poisons Judy while trying to suppress the original patent. Nick and Gary help save her with antivenom. The investigation restores recognition to Gary’s family.",
+          "on_screen_source": "https://themoviespoiler.com/movies/zootopia-2/",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Gary helps save the officer who first suspected him. Judy and Nick pursue evidence that changes whose work the city honors. Their actions give families grounds to discuss how repairing a public lie can require both a personal apology and giving people back their due.",
+            "age": "10+",
+            "age_rationale": "Judy nearly drowns and later loses consciousness after being poisoned. These episodes include drawn-out uncertainty about whether a trusted friend will survive.",
+            "age_source": "https://www.pluggedin.com/movie-reviews/zootopia-2-2025/",
+            "theme_ratings": [
+              {
+                "name": "Truthfulness and integrity",
+                "score": 5,
+                "evidence": "The investigators recover the patent Pawbert intends to destroy.",
+                "rating_rationale": "Establishing its genuine authorship drives the investigation and changes the city’s treatment of reptiles.",
+                "sources": [
+                  "https://themoviespoiler.com/movies/zootopia-2/"
+                ]
+              },
+              {
+                "name": "Compassion and service",
+                "score": 4,
+                "evidence": "Gary and Nick attend to Judy after Pawbert poisons her.",
+                "rating_rationale": "Helping someone who had suspected him is a decisive choice by Gary.",
+                "sources": [
+                  "https://themoviespoiler.com/movies/zootopia-2/"
+                ]
+              },
+              {
+                "name": "Forgiveness and reconciliation",
+                "score": 3,
+                "evidence": "Nick and Judy acknowledge their bond after disputes over the investigation.",
+                "rating_rationale": "Repairing their partnership is significant alongside the wider case.",
+                "sources": [
+                  "https://themoviespoiler.com/movies/zootopia-2/"
+                ]
+              },
+              {
+                "name": "Violence and cruelty",
+                "score": 3,
+                "evidence": "Pawbert poisons Judy and puts Gary in the cold.",
+                "rating_rationale": "These deliberate attacks have potentially fatal consequences within an animated adventure.",
+                "sources": [
+                  "https://themoviespoiler.com/movies/zootopia-2/"
+                ]
+              },
+              {
+                "name": "Sexual content and immodesty",
+                "score": 1,
+                "evidence": "The guide describes suggestive outfits at the Burning Mammal festival.",
+                "rating_rationale": "The concern is confined to a comic setting and carries little narrative weight.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/zootopia-2-2025/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The prejudice against reptiles is part of the fictional setting. The reviewed scenes do not establish a film-wide LGBTQ score.",
+            "next_step": "Screen the theatrical feature for direct dialogue and visual evidence.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/zootopia-2-2025/"
+            ]
+          },
+          "studio_status": "repository_proposal_no_authenticated_studio_save"
+        }
+      ]
     }
   ]
 }
