@@ -1,4 +1,4 @@
-import {movieSlug,moviePath,reviewStatus,warningCategories,warningFinding,inCollection,guidanceKey,faithPrompts,newsletter,shareLinks} from './discovery.js';
+import {movieSlug,moviePath,publicSynopsis,reviewStatus,warningCategories,warningFinding,inCollection,guidanceKey,faithPrompts,newsletter,shareLinks} from './discovery.js';
 import {catalogFilmKey, marvelCatalog} from './marvel-catalog.js';
 import {scriptureQuotes} from './scripture-quotes.js';
 import {applyFamilyReviewRecommendation, supplementalReviews, supplementalContentEvidenceById} from './family-review-ratings.js';
@@ -282,7 +282,7 @@ function reviewBanner(r){
     <h1>${esc(r.title)}</h1><p class="meta">${metadata.map(esc).join(' · ')}</p>
     ${r.verdict?pill(r.verdict):`<p class="review-status">${esc(reviewStatus(r))}</p>`}${shareLinks(r)}
     ${r.age?`<div class="tag-row"><span class="tag">Suggested age: ${esc(r.age)}</span></div>`:''}
-    ${r.synopsis?`<p class="movie-synopsis">${esc(r.synopsis)}</p>`:''}
+    ${publicSynopsis(r)?`<p class="movie-synopsis">${esc(publicSynopsis(r))}</p>`:''}
   </div></div>${r.verdict ? themeRatingPreview(r) : ''}</div>`;
 }
 
