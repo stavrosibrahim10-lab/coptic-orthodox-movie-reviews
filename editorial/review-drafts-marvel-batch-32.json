@@ -1,0 +1,461 @@
+[
+  {
+    "id": "marvel-2013-iron-man-rise-of-technovore",
+    "title": "Iron Man: Rise of Technovore",
+    "year": 2013,
+    "edition": "2013 Madhouse animated feature, North American English-language direct-to-video release.",
+    "genre": "Marvel · Animated action",
+    "age": "13+",
+    "verdict": "neutral",
+    "synopsis": "Tony Stark believes Rhodey has died during an attack on a satellite launch. He evades questioning and follows the weapons trail with Frank Castle, whose treatment of a suspect forces Tony to intervene.",
+    "verdictRationale": "Tony interrupts Castle before he kills a witness. He needs information, so the rescue is an imperfect act of mercy. His strongest choice comes later when he gives Rhodey the power to put Tony himself in danger to save others. The film admires that trust while also making an armed pursuit driven by revenge exciting.",
+    "ageRationale": "Sustained animated gunfire and explosions accompany a friend’s apparent death and the loss of control over a living body. A younger teen disturbed by body horror or bereavement may want to skip it.",
+    "reflection": "Tony starts out trying to act for a friend he believes he has lost. At the end he has to act with that friend and accept help himself. Trust becomes harder, and more meaningful, when Rhodey must make the decision Tony cannot make for him.",
+    "sources": [
+      {
+        "url": "https://www.sonypictures.com/movies/ironmanriseoftechnovore",
+        "label": "Sony Pictures release record"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Iron_Man:_Rise_of_Technovore",
+        "label": "Released feature synopsis"
+      },
+      {
+        "url": "https://www.commonsensemedia.org/movie-reviews/iron-man-rise-of-technovore",
+        "label": "Common Sense Media parents’ guide"
+      }
+    ],
+    "themes": [
+      {
+        "name": "Self-sacrifice",
+        "score": 4,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Tony deliberately puts his own life within the satellite’s line of fire. His choice makes the final rescue possible.",
+        "references": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Iron_Man:_Rise_of_Technovore",
+            "label": "Released feature synopsis"
+          }
+        ]
+      },
+      {
+        "name": "Restraint",
+        "score": 2,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Tony interrupts an execution, but his immediate purpose is to question the prisoner. This moment of restraint has limits.",
+        "references": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Iron_Man:_Rise_of_Technovore",
+            "label": "Released feature synopsis"
+          }
+        ]
+      },
+      {
+        "name": "Domination",
+        "score": 4,
+        "type": "harmful",
+        "portrayal": "condemned",
+        "evidence": "Ezekiel plans to replace humanity and then loses command of his own body. The danger of control shapes both the threat and its outcome.",
+        "references": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Iron_Man:_Rise_of_Technovore",
+            "label": "Released feature synopsis"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "score": null,
+        "type": "context",
+        "portrayal": "unverified",
+        "evidence": "The guide describes Pepper and Tony flirting. Screen the full English feature before assigning a film-wide prominence score.",
+        "references": [
+          {
+            "url": "https://www.commonsensemedia.org/movie-reviews/iron-man-rise-of-technovore",
+            "label": "Common Sense Media parents’ guide"
+          }
+        ]
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sex and romance",
+        "details": "Pepper wears a bikini and exchanges flirtatious remarks with Tony.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.commonsensemedia.org/movie-reviews/iron-man-rise-of-technovore"
+      },
+      {
+        "name": "Language",
+        "details": "The English-language guide identifies swearing, including “bastard.”",
+        "severity": "Mild",
+        "sourceUrl": "https://www.commonsensemedia.org/movie-reviews/iron-man-rise-of-technovore"
+      },
+      {
+        "name": "Violence",
+        "details": "A launch-site attack leaves Rhodey apparently dead. Later Technovore takes control of Ezekiel.",
+        "severity": "Strong",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Iron_Man:_Rise_of_Technovore"
+      },
+      {
+        "name": "Substance use",
+        "details": "A joke suggests Tony drank too much. The guide establishes a reference rather than an observed episode of intoxication.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.commonsensemedia.org/movie-reviews/iron-man-rise-of-technovore"
+      }
+    ],
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Pepper wears a bikini and exchanges flirtatious remarks with Tony."
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media parents’ guide",
+              "url": "https://www.commonsensemedia.org/movie-reviews/iron-man-rise-of-technovore",
+              "scope": "external_guide",
+              "checked_at": "2026-11-28"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The English-language guide identifies swearing, including “bastard.”"
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media parents’ guide",
+              "url": "https://www.commonsensemedia.org/movie-reviews/iron-man-rise-of-technovore",
+              "scope": "external_guide",
+              "checked_at": "2026-11-28"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A launch-site attack leaves Rhodey apparently dead. Later Technovore takes control of Ezekiel."
+          ],
+          "evidence": [
+            {
+              "provider": "Released feature synopsis",
+              "url": "https://en.wikipedia.org/wiki/Iron_Man:_Rise_of_Technovore",
+              "scope": "external_guide",
+              "checked_at": "2026-11-28"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "unverified",
+          "findings": [],
+          "evidence": [],
+          "absence_verified": false,
+          "next_step": "Review Ezekiel’s English dialogue for explicit spiritual claims and distinguish them from his technological predictions."
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A joke suggests Tony drank too much. The guide establishes a reference rather than an observed episode of intoxication."
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media parents’ guide",
+              "url": "https://www.commonsensemedia.org/movie-reviews/iron-man-rise-of-technovore",
+              "scope": "external_guide",
+              "checked_at": "2026-11-28"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Tony prevents Castle from killing an A.I.M. witness and later entrusts his life to Rhodey."
+          ],
+          "evidence": [
+            {
+              "provider": "Released feature synopsis",
+              "url": "https://en.wikipedia.org/wiki/Iron_Man:_Rise_of_Technovore",
+              "scope": "external_guide",
+              "checked_at": "2026-11-28"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    },
+    "scripture": [
+      "John 15:13"
+    ],
+    "themeScripture": {
+      "reference": "John 15:13",
+      "translation": "KJV",
+      "text": "Greater love hath no man than this, that a man lay down his life for his friends.",
+      "url": "https://www.biblegateway.com/passage/?search=John+15%3A13&version=KJV",
+      "connection": "Christ describes love in terms of what a person will give. Consider what changes when Tony accepts the danger he previously asked others to face."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homilies on the Gospel of John",
+      "section": "Homily 77",
+      "text": "Because this is the mark of the disciples, this the bond of virtue.",
+      "url": "https://www.newadvent.org/fathers/240177.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "Rhodey’s decision",
+        "filmMoment": "Tony places himself at risk so Rhodey can stop Technovore.",
+        "reflection": "Christ describes love in terms of what a person will give. Consider what changes when Tony accepts the danger he previously asked others to face.",
+        "scriptureReference": "John 15:13",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Iron_Man:_Rise_of_Technovore"
+      }
+    ],
+    "questions": [
+      "Why does Tony protect the A.I.M. witness when Castle wants to kill him?",
+      "What does Fury stand to lose if his only witness pursues the attacker alone?",
+      "Who gets a say in the future Ezekiel wants to build?",
+      "Why does Tony need Rhodey to make the final decision at the satellite?",
+      "What does Rhodey do for Tony after carrying out that decision?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending"
+  },
+  {
+    "id": "marvel-2014-avengers-confidential-black-widow-punisher",
+    "title": "Avengers Confidential: Black Widow & Punisher",
+    "year": 2014,
+    "edition": "2014 Madhouse animated feature directed by Kenichi Shimizu, North American English-language home-video release.",
+    "genre": "Marvel · Animated action",
+    "age": "16+",
+    "verdict": "neutral",
+    "synopsis": "Natasha Romanoff and Frank Castle track stolen S.H.I.E.L.D. technology to an auction of captive super-soldiers. One of the people responsible is a scientist Natasha once loved.",
+    "verdictRationale": "Natasha asks what control Frank had over his actions before allowing him to be judged for killing agents. Elihas eventually turns on the project he helped create and takes a fatal blow for her. Yet the ending gives Frank freedom to kill again. His execution of Cain leaves a serious question about the kind of justice the heroes have accepted.",
+    "ageRationale": "The sustained action includes a brainwashed ally killing his own side, a fatal attack in front of a loved one and a final vigilante killing. Following the difference between coercion and a freely chosen act matters more here than familiarity with the Avengers.",
+    "reflection": "Natasha grants Frank the hearing she would want for someone she loved. Her later decision to release him raises a harder pastoral question. What does mercy ask of us when someone we defend still intends to hurt another person?",
+    "sources": [
+      {
+        "url": "https://www.sonypictures.com/movies/avengersconfidentialblackwidowpunisher",
+        "label": "Sony Pictures release record"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Avengers_Confidential:_Black_Widow_%26_Punisher",
+        "label": "Released feature synopsis"
+      },
+      {
+        "url": "https://www.filmratings.com/search-results/?search=avengers",
+        "label": "MPA classification"
+      },
+      {
+        "url": "https://www.transcripts.foreverdreaming.org/viewtopic.php?t=37613",
+        "label": "English dialogue transcript"
+      }
+    ],
+    "themes": [
+      {
+        "name": "Self-sacrifice",
+        "score": 4,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Elihas first helps disable his soldiers and then shields Natasha at the cost of his life. The climax gives his change of allegiance a cost.",
+        "references": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Avengers_Confidential:_Black_Widow_%26_Punisher",
+            "label": "Released feature synopsis"
+          }
+        ]
+      },
+      {
+        "name": "Fair judgment",
+        "score": 3,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Natasha challenges the decision to imprison Frank when evidence suggests another person controlled his actions.",
+        "references": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Avengers_Confidential:_Black_Widow_%26_Punisher",
+            "label": "Released feature synopsis"
+          }
+        ]
+      },
+      {
+        "name": "Vigilante killing",
+        "score": 4,
+        "type": "harmful",
+        "portrayal": "mixed",
+        "evidence": "Frank’s lethal methods cause friction with S.H.I.E.L.D., yet he is released and his killing of Cain supplies the ending.",
+        "references": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Avengers_Confidential:_Black_Widow_%26_Punisher",
+            "label": "Released feature synopsis"
+          }
+        ]
+      },
+      {
+        "name": "Coercion",
+        "score": 4,
+        "type": "harmful",
+        "portrayal": "condemned",
+        "evidence": "The auction treats captive people as weapons. Mind control also turns Frank against his allies, making lost agency central to the story.",
+        "references": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Avengers_Confidential:_Black_Widow_%26_Punisher",
+            "label": "Released feature synopsis"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "score": null,
+        "type": "context",
+        "portrayal": "unverified",
+        "evidence": "The documented kiss concerns Natasha and Elihas. Screen the remaining dialogue and background scenes before estimating prominence.",
+        "references": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Avengers_Confidential:_Black_Widow_%26_Punisher",
+            "label": "Released feature synopsis"
+          }
+        ]
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sex and romance",
+        "details": "Natasha and her former lover Elihas kiss after he pulls her to safety.",
+        "severity": "Mild",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Avengers_Confidential:_Black_Widow_%26_Punisher"
+      },
+      {
+        "name": "Language",
+        "details": "Frank uses “hell” while demanding to know where Cain obtained the weapons.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.transcripts.foreverdreaming.org/viewtopic.php?t=37613"
+      },
+      {
+        "name": "Violence",
+        "details": "A hypnotized Frank kills fellow agents. Elihas is fatally hit while protecting Natasha.",
+        "severity": "Strong",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Avengers_Confidential:_Black_Widow_%26_Punisher"
+      }
+    ],
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Natasha and her former lover Elihas kiss after he pulls her to safety."
+          ],
+          "evidence": [
+            {
+              "provider": "Released feature synopsis",
+              "url": "https://en.wikipedia.org/wiki/Avengers_Confidential:_Black_Widow_%26_Punisher",
+              "scope": "external_guide",
+              "checked_at": "2026-11-28"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Frank uses “hell” while demanding to know where Cain obtained the weapons."
+          ],
+          "evidence": [
+            {
+              "provider": "English dialogue transcript",
+              "url": "https://www.transcripts.foreverdreaming.org/viewtopic.php?t=37613",
+              "scope": "external_guide",
+              "checked_at": "2026-11-28"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A hypnotized Frank kills fellow agents. Elihas is fatally hit while protecting Natasha."
+          ],
+          "evidence": [
+            {
+              "provider": "Released feature synopsis",
+              "url": "https://en.wikipedia.org/wiki/Avengers_Confidential:_Black_Widow_%26_Punisher",
+              "scope": "external_guide",
+              "checked_at": "2026-11-28"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "unverified",
+          "findings": [],
+          "evidence": [],
+          "absence_verified": false,
+          "next_step": "Check the English release for ritual or religious dialogue; the plot synopsis establishes mind control through technology."
+        },
+        "substance_use": {
+          "status": "unverified",
+          "findings": [],
+          "evidence": [],
+          "absence_verified": false,
+          "next_step": "Check the Hong Kong meeting with Ren and the auction for identifiable alcohol or drug use. The serum is fictional technology."
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Natasha defends Frank after the mind-controlled attack. Later she lets him go and he intentionally kills Cain."
+          ],
+          "evidence": [
+            {
+              "provider": "Released feature synopsis",
+              "url": "https://en.wikipedia.org/wiki/Avengers_Confidential:_Black_Widow_%26_Punisher",
+              "scope": "external_guide",
+              "checked_at": "2026-11-28"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    },
+    "scripture": [
+      "John 15:13"
+    ],
+    "themeScripture": {
+      "reference": "John 15:13",
+      "translation": "KJV",
+      "text": "Greater love hath no man than this, that a man lay down his life for his friends.",
+      "url": "https://www.biblegateway.com/passage/?search=John+15%3A13&version=KJV",
+      "connection": "Elihas once tried to prove his worth through power over other people. Read Christ’s words about friendship alongside the moment he gives his life for someone else."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homilies on the Gospel of John",
+      "section": "Homily 77",
+      "text": "Because this is the mark of the disciples, this the bond of virtue.",
+      "url": "https://www.newadvent.org/fathers/240177.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "Elihas changes sides",
+        "filmMoment": "Elihas intercepts the attack meant for Natasha after helping her disable the soldiers.",
+        "reflection": "Elihas once tried to prove his worth through power over other people. Read Christ’s words about friendship alongside the moment he gives his life for someone else.",
+        "scriptureReference": "John 15:13",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Avengers_Confidential:_Black_Widow_%26_Punisher"
+      }
+    ],
+    "questions": [
+      "Why does Natasha argue against imprisoning Frank after the agents die?",
+      "What does Fury owe agents he sends into a mind-control operation?",
+      "When does Elihas begin repairing the harm his research caused?",
+      "How does Frank’s responsibility for Cain’s death differ from his responsibility for the agents’ deaths?",
+      "What could Natasha have done for Frank while also protecting Cain?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending"
+  }
+]
