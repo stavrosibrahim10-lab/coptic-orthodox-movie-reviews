@@ -4,7 +4,7 @@ Status: in progress. The opening catalog has 315 films, including 59 without a f
 
 ## Current Stage 4 audit
 
-The catalog contains 315 distinct IDs. Of the original 59 missing reviews, 42 now have validated first drafts and 17 remain. Across the full catalog, 298 have review records. The rolling checkpoint contains Stage 4 proposals for 173 films, leaving 125 existing records awaiting this audit and 17 awaiting a first review. All original queue IDs occur exactly once in the catalog.
+The catalog contains 315 distinct IDs. Of the original 59 missing reviews, 45 now have validated first drafts and 14 remain. Across the full catalog, 301 have review records. The rolling checkpoint contains Stage 4 proposals for 176 films, leaving 125 existing records awaiting this audit and 14 awaiting a first review. All original queue IDs occur exactly once in the catalog.
 
 Batch 11 independently checked the seven new queue drafts. Their saved draft files contain the proposed assessments. The checkpoint records scene evidence, the reason for each theme score, age guidance and outstanding screening fields. Six film-wide LGBTQ prominence scores remain open in this batch. The New Mutants carries a documented proposal of 4. Private Studio saves are unverified. Human acceptance is pending.
 
@@ -44,7 +44,9 @@ Batch 28 audited The Punisher (1989), Man-Thing (2005), Cars 3, Ferdinand, the 1
 
 Batch 29 audited The Secret Life of Pets, Shrek, Shrek 2, The Lego Batman Movie, The Princess Bride, The Polar Express, The Emperor’s New Groove and the 1984 Karate Kid. The checkpoint records separate age guidance and 31 numerical theme proposals. The Polar Express spiritual-material score and all eight film-wide LGBTQ prominence scores await further evidence. Private Studio saves are unverified.
 
-At 9:42 p.m. Eastern on November 27, 51 proposals had been audited today. Nine more would meet the daily target, roughly four per remaining hour. The November 28 cumulative milestone requires 27 more from 173, followed by 60 to reach 260 and 55 to reach 315. Seventeen first reviews remain outstanding.
+Batch 30 audited the UK cinema cut of Kingsman: The Secret Service, the UK home release of Kingsman: The Golden Circle and the 2021 feature The King’s Man. The checkpoint links the exact draft revision and gives reasons for eleven numerical theme ratings. All three film-wide LGBTQ prominence scores require the specific screening checks recorded there. Studio access and saves remain unverified.
+
+November 27 closed with 51 newly audited films, nine below the daily target. This first November 28 batch adds three, bringing the cumulative total to 176. Another 24 reach the November 28 milestone of 200. Another 57 reach the independent target of 60 audits today, requiring 19 more three-film batches or fewer larger batches. At the cumulative milestone pace, 60 more on November 29 reach 260 and 55 on November 30 reach 315. Fourteen first drafts remain outstanding.
 
 The full repository checklist passes for ten titles and includes later-stage fields. Stage 4 progress above counts audited proposals, independently of that checklist.
 
