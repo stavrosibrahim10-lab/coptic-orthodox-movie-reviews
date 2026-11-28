@@ -4,7 +4,7 @@ Status: in progress. The opening catalog has 315 films, including 59 without a f
 
 ## Current Stage 4 audit
 
-The catalog contains 315 distinct IDs. Of the original 59 missing reviews, 42 now have validated first drafts and 17 remain. Across the full catalog, 298 have review records. The rolling checkpoint contains Stage 4 proposals for 165 films, leaving 133 existing records awaiting this audit and 17 awaiting a first review. All original queue IDs occur exactly once in the catalog.
+The catalog contains 315 distinct IDs. Of the original 59 missing reviews, 42 now have validated first drafts and 17 remain. Across the full catalog, 298 have review records. The rolling checkpoint contains Stage 4 proposals for 173 films, leaving 125 existing records awaiting this audit and 17 awaiting a first review. All original queue IDs occur exactly once in the catalog.
 
 Batch 11 independently checked the seven new queue drafts. Their saved draft files contain the proposed assessments. The checkpoint records scene evidence, the reason for each theme score, age guidance and outstanding screening fields. Six film-wide LGBTQ prominence scores remain open in this batch. The New Mutants carries a documented proposal of 4. Private Studio saves are unverified. Human acceptance is pending.
 
@@ -42,7 +42,9 @@ Batch 27 audited the theatrical releases of The Iron Giant (1999), Wonder (2017)
 
 Batch 28 audited The Punisher (1989), Man-Thing (2005), Cars 3, Ferdinand, the 1998 animated Mulan, Big Hero 6 and Bolt. A released-film transcript supports a language finding for Castle’s confrontation with Berkowitz. The 1989 cut’s substance-use field and all seven film-wide LGBTQ prominence scores remain open. Individual evidence and separate age guidance are in the checkpoint. Private Studio saves remain unverified.
 
-At 8:42 p.m. Eastern on November 27, 43 proposals had been audited today. Seventeen more are needed for the daily target, roughly 5.2 per remaining hour. The November 28 milestone requires 35 more from 165, followed by 60 on November 29 and 55 on November 30. Seventeen first reviews remain outstanding.
+Batch 29 audited The Secret Life of Pets, Shrek, Shrek 2, The Lego Batman Movie, The Princess Bride, The Polar Express, The Emperor’s New Groove and the 1984 Karate Kid. The checkpoint records separate age guidance and 31 numerical theme proposals. The Polar Express spiritual-material score and all eight film-wide LGBTQ prominence scores await further evidence. Private Studio saves are unverified.
+
+At 9:42 p.m. Eastern on November 27, 51 proposals had been audited today. Nine more would meet the daily target, roughly four per remaining hour. The November 28 cumulative milestone requires 27 more from 173, followed by 60 to reach 260 and 55 to reach 315. Seventeen first reviews remain outstanding.
 
 The full repository checklist passes for ten titles and includes later-stage fields. Stage 4 progress above counts audited proposals, independently of that checklist.
 
