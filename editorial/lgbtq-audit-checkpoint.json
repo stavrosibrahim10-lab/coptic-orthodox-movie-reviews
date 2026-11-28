@@ -13037,6 +13037,616 @@
           "studio_status": "repository_draft_validated_no_authenticated_studio_save"
         }
       ]
+    },
+    {
+      "number": 29,
+      "date": "2026-11-27",
+      "review_completion_branch": "editorial/stage-4-completion",
+      "review_completion_ledger": "editorial/review-completion.tsv",
+      "films": [
+        {
+          "movie_id": "bbfc-2016-the-secret-life-of-pets",
+          "title": "The Secret Life of Pets",
+          "year": 2016,
+          "version": "2016 Illumination animated theatrical feature.",
+          "status": "proposal_saved",
+          "review_baseline": "public/seed-reviews.js",
+          "sources": [
+            "https://en.wikipedia.org/wiki/The_Secret_Life_of_Pets",
+            "https://www.bbfc.co.uk/release/the-secret-life-of-pets-q29sbgvjdglvbjpwwc00mzuwmdy",
+            "https://www.youtube.com/watch?v=CmmjhePeAyY"
+          ],
+          "on_screen": "Max follows Duke into the sinking animal-control van. Snowball brings the keys and helps them escape.",
+          "on_screen_source": "https://www.youtube.com/watch?v=CmmjhePeAyY",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Max begins by guarding his place in Katie’s home. His willingness to risk that place and his life for Duke gives the rivalry a generous ending. The chase comedy also invites laughter at other characters’ pain.",
+            "age": "7+",
+            "age_rationale": "The submerged van puts two familiar pets in danger of drowning. The quick rescue and comic animal fights support watching with a younger child who can manage that suspense.",
+            "age_source": "https://www.bbfc.co.uk/release/the-secret-life-of-pets-q29sbgvjdglvbjpwwc00mzuwmdy",
+            "theme_ratings": [
+              {
+                "name": "Family and responsibility",
+                "score": 3,
+                "evidence": "Accepting Duke as part of Katie’s household gives the rescue lasting meaning.",
+                "rating_rationale": "Family membership drives both the dispute and its repair.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/The_Secret_Life_of_Pets",
+                  "https://www.bbfc.co.uk/release/the-secret-life-of-pets-q29sbgvjdglvbjpwwc00mzuwmdy"
+                ]
+              },
+              {
+                "name": "Compassion and service",
+                "score": 2,
+                "evidence": "Snowball’s intervention makes an earlier enemy a decisive helper.",
+                "rating_rationale": "A single rescue supplies a strong but brief example.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/The_Secret_Life_of_Pets",
+                  "https://www.bbfc.co.uk/release/the-secret-life-of-pets-q29sbgvjdglvbjpwwc00mzuwmdy"
+                ]
+              },
+              {
+                "name": "Pride and self-glorification",
+                "score": 2,
+                "evidence": "Max tries to discredit the newly adopted dog to keep Katie’s affection. The consequences challenge his possessiveness.",
+                "rating_rationale": "Possessiveness motivates the opening rivalry and loses its appeal.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/The_Secret_Life_of_Pets",
+                  "https://www.bbfc.co.uk/release/the-secret-life-of-pets-q29sbgvjdglvbjpwwc00mzuwmdy"
+                ]
+              },
+              {
+                "name": "Violence and cruelty",
+                "score": 2,
+                "evidence": "Animal brawls and pursuit recur, with little injury detail.",
+                "rating_rationale": "Repeated encounters are short and comic.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/The_Secret_Life_of_Pets",
+                  "https://www.bbfc.co.uk/release/the-secret-life-of-pets-q29sbgvjdglvbjpwwc00mzuwmdy"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The cited scene and classification evidence does not establish film-wide prominence.",
+            "next_step": "Screen the 2016 feature in full, logging relevant dialogue, visual context and timecodes before scoring.",
+            "sources": [
+              "https://en.wikipedia.org/wiki/The_Secret_Life_of_Pets",
+              "https://www.bbfc.co.uk/release/the-secret-life-of-pets-q29sbgvjdglvbjpwwc00mzuwmdy"
+            ]
+          },
+          "other_open_fields": [],
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "bbfc-2001-shrek",
+          "title": "Shrek",
+          "year": 2001,
+          "version": "2001 DreamWorks original animated theatrical feature.",
+          "status": "proposal_saved",
+          "review_baseline": "public/seed-reviews.js",
+          "sources": [
+            "https://en.wikipedia.org/wiki/Shrek",
+            "https://www.bbfc.co.uk/release/shrek-q29sbgvjdglvbjpwwc0zndmxnte"
+          ],
+          "on_screen": "Donkey returns after Shrek sends him away and corrects Shrek’s mistaken reading of Fiona’s words. Shrek interrupts the wedding and accepts Fiona in ogre form.",
+          "on_screen_source": "https://en.wikipedia.org/wiki/Shrek",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Donkey gives a friend who rejected him another chance. Fiona’s appearance loses its power to determine whom she may marry. The dragon’s disposal of Farquaad also gives the audience a death to laugh at.",
+            "age": "10+",
+            "age_rationale": "Dragon pursuit, a threatened execution and jokes built around mild swearing warrant adult context even though the fights are largely comic.",
+            "age_source": "https://www.bbfc.co.uk/release/shrek-q29sbgvjdglvbjpwwc0zndmxnte",
+            "theme_ratings": [
+              {
+                "name": "Compassion and service",
+                "score": 3,
+                "evidence": "Donkey’s return after their quarrel makes reconciliation possible.",
+                "rating_rationale": "Donkey sustains the friendship through rejection.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/Shrek",
+                  "https://www.bbfc.co.uk/release/shrek-q29sbgvjdglvbjpwwc0zndmxnte"
+                ]
+              },
+              {
+                "name": "Truthfulness and integrity",
+                "score": 2,
+                "evidence": "Shrek finally tells Fiona what he feels. This decisive act repairs a misunderstanding.",
+                "rating_rationale": "One crucial correction restores trust.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/Shrek",
+                  "https://www.bbfc.co.uk/release/shrek-q29sbgvjdglvbjpwwc0zndmxnte"
+                ]
+              },
+              {
+                "name": "Profanity and blasphemy",
+                "score": 2,
+                "evidence": "Several mild terms supply punch lines, with little weight in the plot.",
+                "rating_rationale": "The language is mild but noticeable across multiple jokes.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/Shrek",
+                  "https://www.bbfc.co.uk/release/shrek-q29sbgvjdglvbjpwwc0zndmxnte"
+                ]
+              },
+              {
+                "name": "Violence and cruelty",
+                "score": 2,
+                "evidence": "The wrestling parody and dragon chase make physical aggression a recurring gag.",
+                "rating_rationale": "Fantasy limits the impact even when a character dies.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/Shrek",
+                  "https://www.bbfc.co.uk/release/shrek-q29sbgvjdglvbjpwwc0zndmxnte"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The cited scene and classification evidence does not establish film-wide prominence.",
+            "next_step": "Screen the 2001 feature in full, logging relevant dialogue, visual context and timecodes before scoring.",
+            "sources": [
+              "https://en.wikipedia.org/wiki/Shrek",
+              "https://www.bbfc.co.uk/release/shrek-q29sbgvjdglvbjpwwc0zndmxnte"
+            ]
+          },
+          "other_open_fields": [],
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "bbfc-2004-shrek-2",
+          "title": "Shrek 2",
+          "year": 2004,
+          "version": "2004 DreamWorks animated sequel theatrical feature.",
+          "status": "proposal_saved",
+          "review_baseline": "public/seed-reviews.js",
+          "sources": [
+            "https://en.wikipedia.org/wiki/Shrek_2",
+            "https://www.bbfc.co.uk/release/shrek-2-q29sbgvjdglvbjpwwc0zndc3odc"
+          ],
+          "on_screen": "Harold intercepts the Fairy Godmother’s spell. At midnight Fiona chooses her life with Shrek as an ogre.",
+          "on_screen_source": "https://en.wikipedia.org/wiki/Shrek_2",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Harold repairs the harm caused by trying to choose his daughter’s husband. Fiona’s choice gives marital loyalty more weight than the court’s ideal of beauty. Humiliation and bodily jokes still supply much of the comedy.",
+            "age": "10+",
+            "age_rationale": "The attack at the ball and apparent destruction of the Fairy Godmother add threat to the sequel’s coarse jokes.",
+            "age_source": "https://www.bbfc.co.uk/release/shrek-2-q29sbgvjdglvbjpwwc0zndc3odc",
+            "theme_ratings": [
+              {
+                "name": "Family and responsibility",
+                "score": 3,
+                "evidence": "Harold’s public blessing reverses his earlier interference in Fiona’s marriage.",
+                "rating_rationale": "Parental acceptance shapes the whole royal visit.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/Shrek_2",
+                  "https://www.bbfc.co.uk/release/shrek-2-q29sbgvjdglvbjpwwc0zndc3odc"
+                ]
+              },
+              {
+                "name": "Love and self-sacrifice",
+                "score": 3,
+                "evidence": "Harold steps into the path of a spell intended for Shrek, risking himself to protect his son-in-law.",
+                "rating_rationale": "One act of protection turns the climax.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/Shrek_2",
+                  "https://www.bbfc.co.uk/release/shrek-2-q29sbgvjdglvbjpwwc0zndc3odc"
+                ]
+              },
+              {
+                "name": "Profanity and blasphemy",
+                "score": 2,
+                "evidence": "Comic swearing recurs as verbal humor. The language guide identifies specific mild terms.",
+                "rating_rationale": "The words are mild and used for laughs.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/Shrek_2",
+                  "https://www.bbfc.co.uk/release/shrek-2-q29sbgvjdglvbjpwwc0zndc3odc"
+                ]
+              },
+              {
+                "name": "Violence and cruelty",
+                "score": 2,
+                "evidence": "The attack on the castle and the wand confrontation create sustained comic conflict.",
+                "rating_rationale": "Action escalates at the ball and resolves quickly.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/Shrek_2",
+                  "https://www.bbfc.co.uk/release/shrek-2-q29sbgvjdglvbjpwwc0zndc3odc"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The cited scene and classification evidence does not establish film-wide prominence.",
+            "next_step": "Screen the 2004 feature in full, logging relevant dialogue, visual context and timecodes before scoring.",
+            "sources": [
+              "https://en.wikipedia.org/wiki/Shrek_2",
+              "https://www.bbfc.co.uk/release/shrek-2-q29sbgvjdglvbjpwwc0zndc3odc"
+            ]
+          },
+          "other_open_fields": [],
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "bbfc-2017-the-lego-batman-movie",
+          "title": "The Lego Batman Movie",
+          "year": 2017,
+          "version": "2017 Chris McKay animated theatrical feature.",
+          "status": "proposal_saved",
+          "review_baseline": "public/seed-reviews.js",
+          "sources": [
+            "https://en.wikipedia.org/wiki/The_Lego_Batman_Movie",
+            "https://www.bbfc.co.uk/release/the-lego-batman-movie-q29sbgvjdglvbjpwwc0zodu4mji",
+            "https://transcripts.foreverdreaming.org/viewtopic.php?t=37979"
+          ],
+          "on_screen": "Batman asks the people of Gotham for help holding their city together. His rescue depends on the Joker joining them.",
+          "on_screen_source": "https://en.wikipedia.org/wiki/The_Lego_Batman_Movie",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Batman’s change becomes visible when he asks people he once pushed away for help. The film rewards admitting that he needs a family. Fast battles and mockery compete for attention with that lesson.",
+            "age": "7+",
+            "age_rationale": "The collapsing city and repeated explosions can overwhelm younger viewers even though the characters break apart like toys.",
+            "age_source": "https://www.bbfc.co.uk/release/the-lego-batman-movie-q29sbgvjdglvbjpwwc0zodu4mji",
+            "theme_ratings": [
+              {
+                "name": "Family and responsibility",
+                "score": 3,
+                "evidence": "Batman takes responsibility for Robin and learns to include his allies in the rescue.",
+                "rating_rationale": "Dependence on others changes the outcome for Gotham.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/The_Lego_Batman_Movie",
+                  "https://www.bbfc.co.uk/release/the-lego-batman-movie-q29sbgvjdglvbjpwwc0zodu4mji"
+                ]
+              },
+              {
+                "name": "Humility and repentance",
+                "score": 3,
+                "evidence": "Asking even the Joker to help costs Batman the solitary hero role he prized.",
+                "rating_rationale": "The final appeal reverses his earlier insistence on acting alone.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/The_Lego_Batman_Movie",
+                  "https://www.bbfc.co.uk/release/the-lego-batman-movie-q29sbgvjdglvbjpwwc0zodu4mji"
+                ]
+              },
+              {
+                "name": "Violence and cruelty",
+                "score": 2,
+                "evidence": "Frequent rapid fights and explosions are stylized as toy play.",
+                "rating_rationale": "Frequent combat has little realistic injury detail.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/The_Lego_Batman_Movie",
+                  "https://www.bbfc.co.uk/release/the-lego-batman-movie-q29sbgvjdglvbjpwwc0zodu4mji"
+                ]
+              },
+              {
+                "name": "Profanity and blasphemy",
+                "score": 1,
+                "evidence": "Occasional mild expressions such as ‘heck’ give the dialogue a teasing edge.",
+                "rating_rationale": "The documented language is very mild.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/The_Lego_Batman_Movie",
+                  "https://www.bbfc.co.uk/release/the-lego-batman-movie-q29sbgvjdglvbjpwwc0zodu4mji"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The cited scene and classification evidence does not establish film-wide prominence.",
+            "next_step": "Screen the 2017 feature in full, logging relevant dialogue, visual context and timecodes before scoring.",
+            "sources": [
+              "https://en.wikipedia.org/wiki/The_Lego_Batman_Movie",
+              "https://www.bbfc.co.uk/release/the-lego-batman-movie-q29sbgvjdglvbjpwwc0zodu4mji"
+            ]
+          },
+          "other_open_fields": [],
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "review-theprincessbride-1987",
+          "title": "The Princess Bride",
+          "year": 1987,
+          "version": "1987 Rob Reiner live-action theatrical feature.",
+          "status": "proposal_saved",
+          "review_baseline": "public/seed-reviews.js",
+          "sources": [
+            "https://en.wikipedia.org/wiki/The_Princess_Bride_(film)",
+            "https://www.bbfc.co.uk/release/the-princess-bride-q29sbgvjdglvbjpwwc0yotq4nzi",
+            "https://www.commonsensemedia.org/movie-reviews/the-princess-bride"
+          ],
+          "on_screen": "Inigo and Fezzik seek help for Westley, then enter the castle with him. Inigo pursues Rugen and kills the man who murdered his father.",
+          "on_screen_source": "https://en.wikipedia.org/wiki/The_Princess_Bride_(film)",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "The friends’ care for an incapacitated Westley gives courage a practical purpose. Inigo’s grief is understandable, yet the story makes personally avenging his father one of its most satisfying victories.",
+            "age": "10+",
+            "age_rationale": "Westley’s torture, a bloody animal bite and the killing of Rugen carry more emotional weight than the playful swordplay suggests.",
+            "age_source": "https://www.bbfc.co.uk/release/the-princess-bride-q29sbgvjdglvbjpwwc0yotq4nzi",
+            "theme_ratings": [
+              {
+                "name": "Love and self-sacrifice",
+                "score": 4,
+                "evidence": "Westley risks capture to reunite with Buttercup. Their fidelity drives the rescue.",
+                "rating_rationale": "Love motivates repeated costly decisions.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/The_Princess_Bride_(film)",
+                  "https://www.bbfc.co.uk/release/the-princess-bride-q29sbgvjdglvbjpwwc0yotq4nzi"
+                ]
+              },
+              {
+                "name": "Violence and cruelty",
+                "score": 3,
+                "evidence": "The torture machine causes deliberate suffering and the final duel ends in a fatal stabbing.",
+                "rating_rationale": "Deliberate suffering has greater weight than the earlier fencing.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/The_Princess_Bride_(film)",
+                  "https://www.bbfc.co.uk/release/the-princess-bride-q29sbgvjdglvbjpwwc0yotq4nzi"
+                ]
+              },
+              {
+                "name": "Loyalty and courage",
+                "score": 4,
+                "evidence": "Fezzik and Inigo help Westley when he can barely move, making rescue a shared undertaking.",
+                "rating_rationale": "Westley depends on his companions throughout the final rescue.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/The_Princess_Bride_(film)",
+                  "https://www.bbfc.co.uk/release/the-princess-bride-q29sbgvjdglvbjpwwc0yotq4nzi"
+                ]
+              },
+              {
+                "name": "Revenge and obsession",
+                "score": 3,
+                "evidence": "Inigo’s years of preparation end in killing Rugen. The climax offers revenge as emotional release.",
+                "rating_rationale": "Revenge supplies one of several major storylines.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/The_Princess_Bride_(film)",
+                  "https://www.bbfc.co.uk/release/the-princess-bride-q29sbgvjdglvbjpwwc0yotq4nzi"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The cited scene and classification evidence does not establish film-wide prominence.",
+            "next_step": "Screen the 1987 feature in full, logging relevant dialogue, visual context and timecodes before scoring.",
+            "sources": [
+              "https://en.wikipedia.org/wiki/The_Princess_Bride_(film)",
+              "https://www.bbfc.co.uk/release/the-princess-bride-q29sbgvjdglvbjpwwc0yotq4nzi"
+            ]
+          },
+          "other_open_fields": [],
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "review-thepolarexpress-2004",
+          "title": "The Polar Express",
+          "year": 2004,
+          "version": "2004 Robert Zemeckis animated theatrical feature.",
+          "status": "proposal_saved",
+          "review_baseline": "public/seed-reviews.js",
+          "sources": [
+            "https://en.wikipedia.org/wiki/The_Polar_Express_(film)",
+            "https://www.bbfc.co.uk/release/the-polar-express-q29sbgvjdglvbjpwwc0znty5ode"
+          ],
+          "on_screen": "One child stops the train for Billy. Another takes him hot chocolate. The train later skids onto a frozen lake.",
+          "on_screen_source": "https://en.wikipedia.org/wiki/The_Polar_Express_(film)",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Stopping for Billy and sharing the treat make kindness visible to a lonely child. The bell expresses confidence in Santa within this Christmas fantasy. Families can discuss what Christian faith rests on.",
+            "age": "7+",
+            "age_rationale": "The uncontrolled descent and sliding train sustain suspense. A younger child may need reassurance even after the immediate danger passes.",
+            "age_source": "https://www.bbfc.co.uk/release/the-polar-express-q29sbgvjdglvbjpwwc0znty5ode",
+            "theme_ratings": [
+              {
+                "name": "Courage and hope",
+                "score": 3,
+                "evidence": "Pulling the brake to help Billy board gives a hesitant passenger a reason to act.",
+                "rating_rationale": "The initial risk anticipates further acts of courage.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/The_Polar_Express_(film)",
+                  "https://www.bbfc.co.uk/release/the-polar-express-q29sbgvjdglvbjpwwc0znty5ode"
+                ]
+              },
+              {
+                "name": "Occult or misleading spirituality",
+                "score": null,
+                "evidence": "The bell is linked to belief in Santa. The evidence establishes a fantasy device and leaves a specifically occult reading indeterminate.",
+                "rating_rationale": "Review the bell and the hobo sequences against the spiritual-material rubric before assigning a number.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/The_Polar_Express_(film)",
+                  "https://www.bbfc.co.uk/release/the-polar-express-q29sbgvjdglvbjpwwc0znty5ode"
+                ]
+              },
+              {
+                "name": "Friendship and consideration",
+                "score": 3,
+                "evidence": "Taking a drink to the isolated passenger is a small kindness that develops into companionship.",
+                "rating_rationale": "Several choices gradually draw Billy into the group.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/The_Polar_Express_(film)",
+                  "https://www.bbfc.co.uk/release/the-polar-express-q29sbgvjdglvbjpwwc0znty5ode"
+                ]
+              },
+              {
+                "name": "Frightening peril",
+                "score": 2,
+                "evidence": "Loss of control and unstable ice sustain the danger through a full sequence.",
+                "rating_rationale": "An extended set piece carries the risk without realistic injury.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/The_Polar_Express_(film)",
+                  "https://www.bbfc.co.uk/release/the-polar-express-q29sbgvjdglvbjpwwc0znty5ode"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The cited scene and classification evidence does not establish film-wide prominence.",
+            "next_step": "Screen the 2004 feature in full, logging relevant dialogue, visual context and timecodes before scoring.",
+            "sources": [
+              "https://en.wikipedia.org/wiki/The_Polar_Express_(film)",
+              "https://www.bbfc.co.uk/release/the-polar-express-q29sbgvjdglvbjpwwc0znty5ode"
+            ]
+          },
+          "other_open_fields": [
+            {
+              "field": "Occult or misleading spirituality",
+              "next_step": "Review the bell and the hobo sequences against the spiritual-material rubric before assigning a number."
+            }
+          ],
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "catalog-2000-theemperorsnewgroove",
+          "title": "The Emperor’s New Groove",
+          "year": 2000,
+          "version": "2000 Disney animated theatrical feature.",
+          "status": "proposal_saved",
+          "review_baseline": "public/seed-reviews.js",
+          "sources": [
+            "https://en.wikipedia.org/wiki/The_Emperor%27s_New_Groove",
+            "https://www.bbfc.co.uk/release/the-emperors-new-groove-q29sbgvjdglvbjpwwc0zmty5mzc",
+            "https://movies.disney.com/the-emperors-new-groove"
+          ],
+          "on_screen": "Transformed into a llama, Kuzco needs Pacha’s help returning home. The emperor abandons his plan to take the hill where Pacha’s family lives.",
+          "on_screen_source": "https://en.wikipedia.org/wiki/The_Emperor%27s_New_Groove",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Kuzco’s apology matters because the family keeps its home. Pacha cares for someone who has wronged him while continuing to defend the people in his care. That change in conduct supports Edifying.",
+            "age": "7+",
+            "age_rationale": "The attempted poisoning and pursuit by jaguars can frighten some children. The quick reversals and slapstick moderate their intensity.",
+            "age_source": "https://www.bbfc.co.uk/release/the-emperors-new-groove-q29sbgvjdglvbjpwwc0zmty5mzc",
+            "theme_ratings": [
+              {
+                "name": "Humility and consideration",
+                "score": 5,
+                "evidence": "Kuzco’s reversal over the summer house repairs the concrete harm he intended.",
+                "rating_rationale": "The emperor’s change drives the plot and the ending.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/The_Emperor%27s_New_Groove",
+                  "https://www.bbfc.co.uk/release/the-emperors-new-groove-q29sbgvjdglvbjpwwc0zmty5mzc"
+                ]
+              },
+              {
+                "name": "Mercy and boundaries",
+                "score": 4,
+                "evidence": "Pacha helps the stranded emperor while repeatedly pressing the family’s claim to its home.",
+                "rating_rationale": "Pacha repeatedly accepts personal risk to help him.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/The_Emperor%27s_New_Groove",
+                  "https://www.bbfc.co.uk/release/the-emperors-new-groove-q29sbgvjdglvbjpwwc0zmty5mzc"
+                ]
+              },
+              {
+                "name": "Selfish rule and betrayal",
+                "score": 4,
+                "evidence": "Confiscating a home and plotting a ruler’s death drive the conflict. The story frustrates both abuses.",
+                "rating_rationale": "Both abuses shape the main conflict and incur consequences.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/The_Emperor%27s_New_Groove",
+                  "https://www.bbfc.co.uk/release/the-emperors-new-groove-q29sbgvjdglvbjpwwc0zmty5mzc"
+                ]
+              },
+              {
+                "name": "Comic peril and transformation",
+                "score": 2,
+                "evidence": "Mistaken potions and the jaguar chase create brief bursts of comic danger.",
+                "rating_rationale": "The threats are concrete but brief and stylized.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/The_Emperor%27s_New_Groove",
+                  "https://www.bbfc.co.uk/release/the-emperors-new-groove-q29sbgvjdglvbjpwwc0zmty5mzc"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The cited scene and classification evidence does not establish film-wide prominence.",
+            "next_step": "Screen the 2000 feature in full, logging relevant dialogue, visual context and timecodes before scoring.",
+            "sources": [
+              "https://en.wikipedia.org/wiki/The_Emperor%27s_New_Groove",
+              "https://www.bbfc.co.uk/release/the-emperors-new-groove-q29sbgvjdglvbjpwwc0zmty5mzc"
+            ]
+          },
+          "other_open_fields": [],
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "catalog-1984-thekaratekid",
+          "title": "The Karate Kid",
+          "year": 1984,
+          "version": "1984 John G. Avildsen live-action theatrical feature.",
+          "status": "proposal_saved",
+          "review_baseline": "public/seed-reviews.js",
+          "sources": [
+            "https://en.wikipedia.org/wiki/The_Karate_Kid_(1984_film)",
+            "https://www.bbfc.co.uk/release/the-karate-kid-q29sbgvjdglvbjpwwc0zmza0mjg",
+            "https://www.sonypictures.com/movies/thekaratekid0"
+          ],
+          "on_screen": "Kreese orders his students to exploit Daniel’s injury at the tournament. After the final point Johnny presents Daniel with the trophy.",
+          "on_screen_source": "https://en.wikipedia.org/wiki/The_Karate_Kid_(1984_film)",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Miyagi teaches Daniel to govern his response to humiliation. Johnny’s final gesture offers a better model of strength than his instructor’s demand for victory at another boy’s expense.",
+            "age": "10+",
+            "age_rationale": "Repeated group bullying and deliberate injury to a teenager’s knee can be distressing. The sporting setting gives the blows consequences a child can recognize.",
+            "age_source": "https://www.bbfc.co.uk/release/the-karate-kid-q29sbgvjdglvbjpwwc0zmza0mjg",
+            "theme_ratings": [
+              {
+                "name": "Discipline and wise mentorship",
+                "score": 5,
+                "evidence": "Repetitive chores become defensive practice. Patient instruction structures Daniel’s progress.",
+                "rating_rationale": "Sustained practice and the teacher’s example organize the entire film.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/The_Karate_Kid_(1984_film)",
+                  "https://www.bbfc.co.uk/release/the-karate-kid-q29sbgvjdglvbjpwwc0zmza0mjg"
+                ]
+              },
+              {
+                "name": "Restraint and courage",
+                "score": 4,
+                "evidence": "Miyagi steers the dispute toward a regulated contest. Johnny’s final gesture acknowledges his rival.",
+                "rating_rationale": "Choosing disciplined competition over retaliation shapes the resolution.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/The_Karate_Kid_(1984_film)",
+                  "https://www.bbfc.co.uk/release/the-karate-kid-q29sbgvjdglvbjpwwc0zmza0mjg"
+                ]
+              },
+              {
+                "name": "Bullying and intimidation",
+                "score": 4,
+                "evidence": "Harassment follows Daniel beyond the first encounter, and Kreese extends intimidation into the tournament.",
+                "rating_rationale": "Repeated intimidation drives the plot and has visible consequences.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/The_Karate_Kid_(1984_film)",
+                  "https://www.bbfc.co.uk/release/the-karate-kid-q29sbgvjdglvbjpwwc0zmza0mjg"
+                ]
+              },
+              {
+                "name": "Martial-arts combat and injury",
+                "score": 4,
+                "evidence": "A deliberate illegal hit takes Daniel out of competition temporarily. The injured leg remains a target during the final.",
+                "rating_rationale": "Realistic injury changes the course of the match.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/The_Karate_Kid_(1984_film)",
+                  "https://www.bbfc.co.uk/release/the-karate-kid-q29sbgvjdglvbjpwwc0zmza0mjg"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The cited scene and classification evidence does not establish film-wide prominence.",
+            "next_step": "Screen the 1984 feature in full, logging relevant dialogue, visual context and timecodes before scoring.",
+            "sources": [
+              "https://en.wikipedia.org/wiki/The_Karate_Kid_(1984_film)",
+              "https://www.bbfc.co.uk/release/the-karate-kid-q29sbgvjdglvbjpwwc0zmza0mjg"
+            ]
+          },
+          "other_open_fields": [],
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        }
+      ]
     }
   ]
 }
