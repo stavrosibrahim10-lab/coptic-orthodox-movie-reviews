@@ -1,0 +1,478 @@
+[
+  {
+    "title": "Thor: Tales of Asgard",
+    "id": "marvel-2011-thor-tales-of-asgard",
+    "year": 2011,
+    "edition": "2011 Lionsgate animated DVD feature directed by Sam Liu, 77 minutes",
+    "age": "13+",
+    "verdict": "edifying",
+    "officialRating": "US rating unverified",
+    "synopsis": "Thor secretly joins a voyage with Loki to find Surtur’s sword. Two sentries die by Thor’s hand, and a truce between kingdoms breaks down.",
+    "verdictRationale": "Thor earns his father’s respect when he gives up the sword and offers to answer for the dead sentries. The king who lost them shows mercy. Even Loki, who saved his family, questions the vengeance behind his act. These scenes give families grounds to admire peacemaking and honest self-examination.",
+    "ageRationale": "Repeated armed battles, the deaths of two sentries and a son’s fear for his wounded father may weigh on younger viewers. The tavern humor includes drinking and sexual innuendo.",
+    "reflection": "Thor cannot restore the sentries’ lives. He can tell their king the truth and surrender the prize that started the fighting. In confession, naming whom we have hurt can help us see what repair is still possible.",
+    "genre": "Marvel · Animation",
+    "sources": [
+      {
+        "label": "Common Sense Media",
+        "url": "https://www.commonsensemedia.org/movie-reviews/thor-tales-of-asgard"
+      },
+      {
+        "label": "English dialogue transcript",
+        "url": "https://www.springfieldspringfield.co.uk/movie_script.php?movie=thor-tales-of-asgard"
+      },
+      {
+        "label": "US distributor listing on Apple TV",
+        "url": "https://tv.apple.com/us/movie/thor-tales-of-asgard/umc.cmc.7b0gkigi391xo4hgqe96zcmpl"
+      }
+    ],
+    "themes": [
+      {
+        "name": "Humility and repentance",
+        "score": 5,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Thor returns the sword and offers himself as a prisoner. Accepting responsibility ends the central conflict.",
+        "references": [
+          {
+            "label": "English dialogue transcript",
+            "url": "https://www.springfieldspringfield.co.uk/movie_script.php?movie=thor-tales-of-asgard"
+          }
+        ]
+      },
+      {
+        "name": "Mercy",
+        "score": 4,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Thrym releases Thor to tend to Odin despite the deaths of his sentries. His decision makes reconciliation possible.",
+        "references": [
+          {
+            "label": "English dialogue transcript",
+            "url": "https://www.springfieldspringfield.co.uk/movie_script.php?movie=thor-tales-of-asgard"
+          }
+        ]
+      },
+      {
+        "name": "Pride",
+        "score": 4,
+        "type": "harmful",
+        "portrayal": "criticized",
+        "evidence": "Thor admits to Odin that his need to prove himself drew two kingdoms toward war. Its cost follows him through the adventure.",
+        "references": [
+          {
+            "label": "English dialogue transcript",
+            "url": "https://www.springfieldspringfield.co.uk/movie_script.php?movie=thor-tales-of-asgard"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "score": null,
+        "type": "context",
+        "portrayal": "unverified",
+        "evidence": "Available scene descriptions do not establish a film-wide score. Screen the 2011 animated DVD and log relevant dialogue and visual context.",
+        "references": [
+          {
+            "label": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/thor-tales-of-asgard"
+          }
+        ]
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "details": "A warrior flirts and the Valkyrie leader makes a suggestive remark.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.commonsensemedia.org/movie-reviews/thor-tales-of-asgard"
+      },
+      {
+        "name": "Language",
+        "details": "The English-language guide identifies the insult “wench.”",
+        "severity": "Mild",
+        "sourceUrl": "https://www.commonsensemedia.org/movie-reviews/thor-tales-of-asgard"
+      },
+      {
+        "name": "Violence",
+        "details": "Thor kills two sentries. Their king cites their deaths when Odin invokes the truce.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.springfieldspringfield.co.uk/movie_script.php?movie=thor-tales-of-asgard"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "Loki uses sorcery during the quest for Surtur’s sword in a world drawn from Norse mythology.",
+        "severity": "Mild",
+        "sourceUrl": "https://tv.apple.com/us/movie/thor-tales-of-asgard/umc.cmc.7b0gkigi391xo4hgqe96zcmpl"
+      },
+      {
+        "name": "Substance use",
+        "details": "The Warriors Three drink ale while boasting of their deeds.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.commonsensemedia.org/movie-reviews/thor-tales-of-asgard"
+      }
+    ],
+    "scripture": [
+      "Proverbs 16:18"
+    ],
+    "themeScripture": {
+      "reference": "Proverbs 16:18",
+      "translation": "KJV",
+      "text": "Pride goeth before destruction, and an haughty spirit before a fall.",
+      "url": "https://www.biblegateway.com/passage/?search=Proverbs+16.18&version=KJV",
+      "connection": "The proverb invites families to ask who bears the cost when a prince thinks only about proving himself."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homilies on the Acts of the Apostles",
+      "section": "Homily 17 on Acts, closing exhortation (excerpt)",
+      "text": "The proper time for anger is never, where we move in our own quarrel",
+      "url": "https://www.newadvent.org/fathers/210117.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "The cost of a trophy",
+        "filmMoment": "Thor tells Odin that his eagerness to prove himself sparked a war.",
+        "scriptureReference": "Proverbs 16:18",
+        "reflection": "The proverb invites families to ask who bears the cost when a prince thinks only about proving himself.",
+        "sourceUrl": "https://www.springfieldspringfield.co.uk/movie_script.php?movie=thor-tales-of-asgard"
+      }
+    ],
+    "questions": [
+      "What does Thor hope the sword will prove about him?",
+      "What do the two dead sentries mean to Thrym that Thor initially overlooks?",
+      "What does returning the sword accomplish that winning another battle could not?",
+      "Why does Loki still question his motives after saving his family?",
+      "When Odin admits he also should have listened, how does that change his conversation with Thor?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A warrior flirts and the Valkyrie leader makes a suggestive remark."
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media",
+              "url": "https://www.commonsensemedia.org/movie-reviews/thor-tales-of-asgard",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The English-language guide identifies the insult “wench.”"
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media",
+              "url": "https://www.commonsensemedia.org/movie-reviews/thor-tales-of-asgard",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Thor kills two sentries. Their king cites their deaths when Odin invokes the truce."
+          ],
+          "evidence": [
+            {
+              "provider": "English dialogue transcript",
+              "url": "https://www.springfieldspringfield.co.uk/movie_script.php?movie=thor-tales-of-asgard",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Loki uses sorcery during the quest for Surtur’s sword in a world drawn from Norse mythology."
+          ],
+          "evidence": [
+            {
+              "provider": "US distributor listing on Apple TV",
+              "url": "https://tv.apple.com/us/movie/thor-tales-of-asgard/umc.cmc.7b0gkigi391xo4hgqe96zcmpl",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The Warriors Three drink ale while boasting of their deeds."
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media",
+              "url": "https://www.commonsensemedia.org/movie-reviews/thor-tales-of-asgard",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Thor returns the sword and accepts the risk of imprisonment to restore peace."
+          ],
+          "evidence": [
+            {
+              "provider": "English dialogue transcript",
+              "url": "https://www.springfieldspringfield.co.uk/movie_script.php?movie=thor-tales-of-asgard",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "title": "The Invincible Iron Man",
+    "id": "marvel-2007-the-invincible-iron-man",
+    "year": 2007,
+    "edition": "2007 Lions Gate US animated DVD, approximately 83 minutes, Marc Worden as Tony Stark",
+    "age": "13+",
+    "verdict": "neutral",
+    "officialRating": "PG-13",
+    "synopsis": "Tony Stark raises the ruins of an ancient city and learns that the Mandarin may return through Li Mei. Her family has taught her that becoming his vessel is her purpose.",
+    "verdictRationale": "Tony stays beside Li Mei after she admits deceiving him. He calls her by name when the Mandarin claims her, and her choice helps save them both. The story gives that loyalty real weight, while its spectacle dwells on possession and the exposure of a woman whose body is under another’s control.",
+    "ageRationale": "The animated feature combines sustained threats of killing with a possession sequence involving partial nudity. The loss of control over Li Mei’s body may be more disturbing than the armored battles.",
+    "reflection": "Li Mei’s father speaks as though her life belongs to an ancestor. Tony addresses her as someone who can still answer. A family can consider how speaking a person’s name, listening and staying nearby can affirm dignity when that person feels powerless.",
+    "genre": "Marvel · Animation",
+    "sources": [
+      {
+        "label": "Kalamazoo Public Library DVD catalog",
+        "url": "https://www.kpl.gov/catalog/item/?i=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1552910"
+      },
+      {
+        "label": "English dialogue transcript",
+        "url": "https://transcripts.foreverdreaming.org/viewtopic.php?t=144741"
+      },
+      {
+        "label": "IMDb parental guide (viewer observations)",
+        "url": "https://www.imdb.com/title/tt0903135/parentalguide/"
+      },
+      {
+        "label": "English dialogue, Li Mei and her father",
+        "url": "https://www.springfieldspringfield.co.uk/movie_script.php?movie=the-invincible-iron-man"
+      }
+    ],
+    "themes": [
+      {
+        "name": "Faithful care",
+        "score": 4,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Tony remains when Li Mei warns him away and appeals to her during possession. His loyalty is decisive in the climax.",
+        "references": [
+          {
+            "label": "English dialogue transcript",
+            "url": "https://transcripts.foreverdreaming.org/viewtopic.php?t=144741"
+          }
+        ]
+      },
+      {
+        "name": "Coercion",
+        "score": 5,
+        "type": "harmful",
+        "portrayal": "criticized",
+        "evidence": "Li Mei’s father makes obedience to an ancestor the purpose of her life. Her expected surrender of her own body drives the climax.",
+        "references": [
+          {
+            "label": "English dialogue, Li Mei and her father",
+            "url": "https://www.springfieldspringfield.co.uk/movie_script.php?movie=the-invincible-iron-man"
+          }
+        ]
+      },
+      {
+        "name": "Deception",
+        "score": 2,
+        "type": "harmful",
+        "portrayal": "mixed",
+        "evidence": "Li Mei admits providing documents to have Tony arrested to keep him out of danger. A protective intention complicates the betrayal in this limited subplot.",
+        "references": [
+          {
+            "label": "English dialogue transcript",
+            "url": "https://transcripts.foreverdreaming.org/viewtopic.php?t=144741"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "score": null,
+        "type": "context",
+        "portrayal": "unverified",
+        "evidence": "Available scene descriptions do not establish a film-wide score. Screen the 2007 animated DVD and log relevant dialogue and visual context.",
+        "references": [
+          {
+            "label": "IMDb parental guide (viewer observations)",
+            "url": "https://www.imdb.com/title/tt0903135/parentalguide/"
+          }
+        ]
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "details": "During possession Li Mei loses her clothing. A viewer guide describes partial rear nudity and visual obscuring elsewhere.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.imdb.com/title/tt0903135/parentalguide/"
+      },
+      {
+        "name": "Violence",
+        "details": "The Mandarin demands Tony’s death while controlling Li Mei.",
+        "severity": "Moderate",
+        "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=144741"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "Li Mei identifies herself as the intended vessel for her ancestor’s return.",
+        "severity": "Moderate",
+        "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=144741"
+      }
+    ],
+    "scripture": [
+      "Galatians 6:2"
+    ],
+    "themeScripture": {
+      "reference": "Galatians 6:2",
+      "translation": "KJV",
+      "text": "Bear ye one another's burdens, and so fulfil the law of Christ.",
+      "url": "https://www.biblegateway.com/passage/?search=Galatians+6%3A2&version=KJV",
+      "connection": "Paul’s instruction offers a way to discuss keeping someone company through fear while respecting that person’s own choice."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homilies on the Acts of the Apostles",
+      "section": "Homily 7 on Acts, on correcting another",
+      "text": "If then you are desirous to reprove any delinquent, approach him with all possible mildness.",
+      "url": "https://www.newadvent.org/fathers/210107.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "Standing beside Li Mei",
+        "filmMoment": "Tony stays after Li Mei reveals why she wanted him to leave.",
+        "scriptureReference": "Galatians 6:2",
+        "reflection": "Paul’s instruction offers a way to discuss keeping someone company through fear while respecting that person’s own choice.",
+        "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=144741"
+      }
+    ],
+    "questions": [
+      "What responsibility comes with Tony’s ability to raise the city?",
+      "How does Li Mei’s father define her worth?",
+      "Could Li Mei have warned Tony without arranging his arrest?",
+      "Why might hearing her own name matter when the Mandarin speaks for her?",
+      "What does Tony owe Li Mei when each says the other saved them?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "During possession Li Mei loses her clothing. A viewer guide describes partial rear nudity and visual obscuring elsewhere."
+          ],
+          "evidence": [
+            {
+              "provider": "IMDb parental guide (viewer observations)",
+              "url": "https://www.imdb.com/title/tt0903135/parentalguide/",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "unverified",
+          "findings": [],
+          "next_step": "The viewer guide rates language without identifying a scene. Check the original DVD English audio and captions.",
+          "evidence": [
+            {
+              "provider": "IMDb parental guide (viewer observations)",
+              "url": "https://www.imdb.com/title/tt0903135/parentalguide/",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The Mandarin demands Tony’s death while controlling Li Mei."
+          ],
+          "evidence": [
+            {
+              "provider": "English dialogue transcript",
+              "url": "https://transcripts.foreverdreaming.org/viewtopic.php?t=144741",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Li Mei identifies herself as the intended vessel for her ancestor’s return."
+          ],
+          "evidence": [
+            {
+              "provider": "English dialogue transcript",
+              "url": "https://transcripts.foreverdreaming.org/viewtopic.php?t=144741",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "unverified",
+          "findings": [],
+          "next_step": "The viewer guide rates substance use without identifying a scene. Check the original DVD for visible use and context.",
+          "evidence": [
+            {
+              "provider": "IMDb parental guide (viewer observations)",
+              "url": "https://www.imdb.com/title/tt0903135/parentalguide/",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Tony stays with Li Mei after learning that she arranged his arrest. She resists the command to kill him."
+          ],
+          "evidence": [
+            {
+              "provider": "English dialogue transcript",
+              "url": "https://transcripts.foreverdreaming.org/viewtopic.php?t=144741",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  }
+]

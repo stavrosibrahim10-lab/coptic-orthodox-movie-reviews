@@ -1,0 +1,249 @@
+[
+  {
+    "id": "marvel-1998-blade",
+    "title": "Blade",
+    "year": 1998,
+    "genre": "Marvel · Live action",
+    "edition": "Original 1998 theatrical feature, directed by Stephen Norrington",
+    "sources": [
+      {
+        "label": "Common Sense Media",
+        "url": "https://www.commonsensemedia.org/movie-reviews/blade"
+      },
+      {
+        "label": "Roger Ebert",
+        "url": "https://www.rogerebert.com/reviews/blade-1998"
+      }
+    ],
+    "officialRating": "R",
+    "age": "18+",
+    "verdict": "destructive",
+    "synopsis": "A doctor treating a burn victim discovers a hidden vampire society. Blade takes her to the man who raised him while a vampire leader seeks power over humans and his own kind.",
+    "verdictRationale": "Blade's rescue of Karen and his dependence on Whistler give the story a humane center. Frost’s ambition puts innocent lives at risk, and the film takes their side. Yet its prolonged fights invite the viewer to relish enemies being mutilated and destroyed. For a family weighing what the film encourages them to enjoy, that invitation outweighs the example of courage.",
+    "ageRationale": "The nightclub attack introduces sustained images of blood. Later scenes linger on severe injuries and torture. Brief sexual activity in a club and frequent strong profanity add to the reasons for an adults-only recommendation.",
+    "reflection": "Whistler gives Blade a daily means of resisting his thirst, and Blade brings a bitten stranger to him for help. The same refuge that keeps the hero going becomes a place he can offer someone else. A family can ask who has made that kind of refuge possible in its own life.",
+    "themes": [
+      {
+        "name": "Care for the vulnerable",
+        "score": 4,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Blade interrupts his pursuit to bring Karen to someone who can treat her bite.",
+        "references": [
+          {
+            "label": "Roger Ebert",
+            "url": "https://www.rogerebert.com/reviews/blade-1998"
+          }
+        ]
+      },
+      {
+        "name": "Receiving help",
+        "score": 3,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Blade relies on the serum Whistler prepares to keep his thirst in check.",
+        "references": [
+          {
+            "label": "Roger Ebert",
+            "url": "https://www.rogerebert.com/reviews/blade-1998"
+          }
+        ]
+      },
+      {
+        "name": "Domination",
+        "score": 5,
+        "type": "harmful",
+        "portrayal": "condemned",
+        "evidence": "Frost seeks power over humans and pursues a ritual to achieve it.",
+        "references": [
+          {
+            "label": "Roger Ebert",
+            "url": "https://www.rogerebert.com/reviews/blade-1998"
+          }
+        ]
+      },
+      {
+        "name": "Violence as entertainment",
+        "score": 5,
+        "type": "harmful",
+        "portrayal": "mixed",
+        "evidence": "The stylized action repeatedly foregrounds bodily destruction even as the story condemns attacks on innocent people.",
+        "references": [
+          {
+            "label": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/blade"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "The available descriptions do not establish a film-wide score.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "details": "A club scene briefly depicts oral sex.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.commonsensemedia.org/movie-reviews/blade"
+      },
+      {
+        "name": "Language",
+        "details": "Strong profanity recurs, including sexual profanity and religious exclamations.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.commonsensemedia.org/movie-reviews/blade"
+      },
+      {
+        "name": "Violence and horror",
+        "details": "Blood pours onto clubgoers. Subsequent scenes show dismemberment, burns and torture.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.commonsensemedia.org/movie-reviews/blade"
+      },
+      {
+        "name": "Occult ritual",
+        "details": "Frost seeks to invoke an ancient vampire deity through a ritual.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.rogerebert.com/reviews/blade-1998"
+      },
+      {
+        "name": "Smoking and drinking",
+        "details": "Characters smoke cigarettes and cigars, and some drink alcohol.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.commonsensemedia.org/movie-reviews/blade"
+      }
+    ],
+    "scripture": [
+      "Romans 12:21"
+    ],
+    "themeScripture": {
+      "reference": "Romans 12:21",
+      "translation": "KJV",
+      "text": "Be not overcome of evil, but overcome evil with good.",
+      "url": "https://www.biblegateway.com/passage/?search=Romans+12%3A21&version=KJV",
+      "connection": "Blade carries the injured Karen to safety. Paul gives families a way to examine both that rescue and the film's combat scenes. Where does Blade actually do good for another person?"
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 22 on Romans",
+      "section": "On Romans 12:20–21",
+      "text": "For I even insist upon your doing kindness.",
+      "url": "https://www.newadvent.org/fathers/210222.htm"
+    },
+    "questions": [
+      "What does taking Karen to Whistler reveal about Blade that his entrance at the club leaves hidden?",
+      "Why does Frost want other vampires to follow him, and who would pay the price if he succeeded?",
+      "When does the camera invite sympathy for someone in danger, and when does it invite enjoyment of someone’s pain?",
+      "Whistler helps Blade resist his thirst. When has accepting another person’s help made it easier for you to choose well?",
+      "In light of Romans 12:21, what concrete kindness could you offer this week to someone you find difficult?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A club scene briefly depicts oral sex."
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media",
+              "url": "https://www.commonsensemedia.org/movie-reviews/blade",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Strong profanity recurs, including sexual profanity and religious exclamations."
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media",
+              "url": "https://www.commonsensemedia.org/movie-reviews/blade",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Blood pours onto clubgoers. Subsequent scenes show dismemberment, burns and torture."
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media",
+              "url": "https://www.commonsensemedia.org/movie-reviews/blade",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Frost seeks to invoke an ancient vampire deity through a ritual."
+          ],
+          "evidence": [
+            {
+              "provider": "Roger Ebert",
+              "url": "https://www.rogerebert.com/reviews/blade-1998",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Characters smoke cigarettes and cigars, and some drink alcohol."
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media",
+              "url": "https://www.commonsensemedia.org/movie-reviews/blade",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Blade brings Karen for treatment after she is bitten. Frost seeks dominion over humans."
+          ],
+          "evidence": [
+            {
+              "provider": "Roger Ebert",
+              "url": "https://www.rogerebert.com/reviews/blade-1998",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    },
+    "biblicalParallels": [
+      {
+        "title": "Taking Karen to safety",
+        "filmMoment": "Blade carries the bitten doctor away from danger and brings her to Whistler for treatment.",
+        "scriptureReference": "Romans 12:21",
+        "reflection": "Blade carries the injured Karen to safety. Paul gives families a way to examine both that rescue and the film's combat scenes. Where does Blade actually do good for another person?",
+        "sourceUrl": "https://www.rogerebert.com/reviews/blade-1998"
+      }
+    ]
+  }
+]

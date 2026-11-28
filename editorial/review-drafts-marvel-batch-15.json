@@ -1,0 +1,751 @@
+[
+  {
+    "id": "marvel-2007-ghost-rider",
+    "title": "Ghost Rider",
+    "year": 2007,
+    "edition": "Original 2007 PG-13 theatrical feature",
+    "genre": "Marvel · Live action",
+    "officialRating": "PG-13",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/ghostrider/"
+      },
+      {
+        "label": "AFI Catalog",
+        "url": "https://catalog.afi.com/Catalog/MovieDetails/64276"
+      }
+    ],
+    "age": "16+",
+    "verdict": "destructive",
+    "synopsis": "Johnny Blaze trades his soul for his father's health. Years after his father's death, the stranger returns to collect by sending Johnny after Blackheart.",
+    "verdictRationale": "Johnny's love for his father and Mack's care for Johnny are worth admiring. The devil exploits a frightened teenager. Yet the film makes inflicting torment with the Rider’s stare a heroic attraction and lets Johnny keep that power as his answer to evil. That weighs heavily in the proposed verdict.",
+    "ageRationale": "The dying father's burns, Johnny's frightening transformations and the sight of victims suffering through the stare warrant an older-teen recommendation.",
+    "reflection": "Mack knows Johnny can survive extraordinary jumps, yet he keeps asking his friend to stop. That quiet act of care offers families a different kind of courage from the one the crowd cheers.",
+    "themes": [
+      {
+        "name": "Filial love",
+        "score": 4,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Johnny's desire to save his father motivates the bargain and its consequences.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/ghostrider/"
+          }
+        ]
+      },
+      {
+        "name": "Friendship",
+        "score": 3,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Mack repeatedly questions the danger of the jumps even as the crowds celebrate them.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/ghostrider/"
+          }
+        ]
+      },
+      {
+        "name": "Coercion",
+        "score": 5,
+        "type": "harmful",
+        "portrayal": "criticized",
+        "evidence": "The deceptive bargain claims Johnny's future and drives the central conflict.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/ghostrider/"
+          }
+        ]
+      },
+      {
+        "name": "Retribution",
+        "score": 4,
+        "type": "harmful",
+        "portrayal": "mixed",
+        "evidence": "The Rider repeatedly makes offenders experience the suffering they caused.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/ghostrider/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "The available guides do not establish prominence across this theatrical cut of Ghost Rider. Screen the identified release and log pertinent dialogue or scenes before scoring.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual or suggestive content",
+        "details": "Roxanne wears revealing outfits, and some spectators wear low-cut tops.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/ghostrider/"
+      },
+      {
+        "name": "Language",
+        "details": "Dialogue includes profanity, religious exclamations and an obscene gesture.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/ghostrider/"
+      },
+      {
+        "name": "Violence and distress",
+        "details": "Johnny sees his father dying after a stunt crash. Offenders experience intense pain under the Rider’s gaze.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/ghostrider/"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "A devil claims Johnny’s soul through a bargain and makes him a supernatural bounty hunter.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/ghostrider/"
+      },
+      {
+        "name": "Substance use",
+        "details": "Members of the stunt crew drink and smoke. Roxanne drinks wine while waiting for Johnny.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/ghostrider/"
+      }
+    ],
+    "scripture": [
+      "Matthew 16:26"
+    ],
+    "themeScripture": {
+      "reference": "Matthew 16:26",
+      "translation": "KJV",
+      "text": "For what is a man profited, if he shall gain the whole world, and lose his own soul?",
+      "url": "https://www.biblegateway.com/passage/?search=Matthew%2016%3A26&version=KJV",
+      "connection": "Christ's question invites the family to stay with the frightened teenager before he signs. What could love ask him to do for his father while leaving the outcome beyond his control?"
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 22 on Romans",
+      "section": "On Romans 12:20–21",
+      "text": "For I even insist upon your doing kindness.",
+      "url": "https://www.newadvent.org/fathers/210222.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "The price Johnny cannot measure",
+        "filmMoment": "Johnny accepts the stranger’s offer while his father is dying of cancer.",
+        "scriptureReference": "Matthew 16:26",
+        "reflection": "Christ's question invites the family to stay with the frightened teenager before he signs. What could love ask him to do for his father while leaving the outcome beyond his control?",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/ghostrider/"
+      }
+    ],
+    "questions": [
+      "Why is the timing of the stranger’s offer important?",
+      "What does Johnny’s father actually receive from the bargain?",
+      "What does Mack risk by questioning the jumps?",
+      "What happens to the people subjected to the stare, and what opportunity do they have to make amends?",
+      "What could Johnny offer Roxanne after leaving her waiting that a spectacular stunt could never provide?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Roxanne wears revealing outfits, and some spectators wear low-cut tops."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/ghostrider/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Dialogue includes profanity, religious exclamations and an obscene gesture."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/ghostrider/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Johnny sees his father dying after a stunt crash. Offenders experience intense pain under the Rider’s gaze."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/ghostrider/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A devil claims Johnny’s soul through a bargain and makes him a supernatural bounty hunter."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/ghostrider/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Members of the stunt crew drink and smoke. Roxanne drinks wine while waiting for Johnny."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/ghostrider/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Mack repeatedly warns Johnny about dangerous stunts."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/ghostrider/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2011-ghost-rider-spirit-of-vengeance",
+    "title": "Ghost Rider: Spirit of Vengeance",
+    "year": 2011,
+    "edition": "2011 premiere, US theatrical release February 2012",
+    "genre": "Marvel · Live action",
+    "officialRating": "PG-13",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/ghost-rider-spirit-of-vengeance/"
+      },
+      {
+        "label": "AFI Catalog",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/68409"
+      },
+      {
+        "label": "Premiere and release dates",
+        "url": "https://www.imdb.com/title/tt1071875/releaseinfo/"
+      }
+    ],
+    "age": "16+",
+    "verdict": "neutral",
+    "synopsis": "Moreau offers Johnny relief from his curse if he gets Danny to safety. The boy’s mother joins the effort to keep him out of Roarke’s hands.",
+    "verdictRationale": "Nadya sees a child worth protecting when others see a dangerous inheritance. Johnny comes to recognize himself in Danny. Their loyalty is admirable, although the rescue is staged through violent spectacle and a fantasy in which demonic power can be turned to good.",
+    "ageRationale": "Threats to a child, bodies decaying on contact, burning victims and repeated profanity make the film demanding for younger teens.",
+    "reflection": "Johnny can offer Danny something before he wins a single fight. He knows what it is to fear that the source of your power determines your future. Speaking to the boy as someone capable of choosing is an act of mercy.",
+    "themes": [
+      {
+        "name": "Parental love",
+        "score": 5,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Nadya's refusal to abandon Danny sustains the rescue despite repeated attacks.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/ghost-rider-spirit-of-vengeance/"
+          }
+        ]
+      },
+      {
+        "name": "Compassion",
+        "score": 4,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Johnny draws on his own fear of the Rider to reassure Danny about his capacity to choose.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/ghost-rider-spirit-of-vengeance/"
+          }
+        ]
+      },
+      {
+        "name": "Exploitation",
+        "score": 5,
+        "type": "harmful",
+        "portrayal": "criticized",
+        "evidence": "Roarke pursues a child in order to use his body, the threat around which the pursuit turns.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/ghost-rider-spirit-of-vengeance/"
+          }
+        ]
+      },
+      {
+        "name": "Cruelty",
+        "score": 4,
+        "type": "harmful",
+        "portrayal": "criticized",
+        "evidence": "Carrigan's power makes victims decay, and the Rider's chains burn people during repeated confrontations.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/ghost-rider-spirit-of-vengeance/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "The available guides do not establish prominence across this theatrical cut of Ghost Rider: Spirit of Vengeance. Screen the identified release and log pertinent dialogue or scenes before scoring.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual or suggestive content",
+        "details": "A businessman offers Nadya money for her company while Danny steals from him.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/ghost-rider-spirit-of-vengeance/"
+      },
+      {
+        "name": "Language",
+        "details": "Strong profanity and religious exclamations occur.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/ghost-rider-spirit-of-vengeance/"
+      },
+      {
+        "name": "Violence and distress",
+        "details": "Chains incinerate victims and Carrigan’s touch causes decay. Danny is targeted in a ritual.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/ghost-rider-spirit-of-vengeance/"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "Roarke seeks to possess Danny. Moreau offers Johnny release from his curse for helping the boy.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/ghost-rider-spirit-of-vengeance/"
+      },
+      {
+        "name": "Substance use",
+        "details": "Moreau drinks from a flask. Danny receives a sedative before the ritual.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/ghost-rider-spirit-of-vengeance/"
+      }
+    ],
+    "scripture": [
+      "Romans 12:21"
+    ],
+    "themeScripture": {
+      "reference": "Romans 12:21",
+      "translation": "KJV",
+      "text": "Be not overcome of evil, but overcome evil with good.",
+      "url": "https://www.biblegateway.com/passage/?search=Romans%2012%3A21&version=KJV",
+      "connection": "Paul calls for a good act in response to evil. Before asking how to defeat Roarke, a family might ask what Danny needs to hear from an adult who knows his history."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 22 on Romans",
+      "section": "On Romans 12:20–21",
+      "text": "For I even insist upon your doing kindness.",
+      "url": "https://www.newadvent.org/fathers/210222.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "Who Danny may become",
+        "filmMoment": "Johnny tells Danny he can choose what to do with the power he inherited.",
+        "scriptureReference": "Romans 12:21",
+        "reflection": "Paul calls for a good act in response to evil. Before asking how to defeat Roarke, a family might ask what Danny needs to hear from an adult who knows his history.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/ghost-rider-spirit-of-vengeance/"
+      }
+    ],
+    "questions": [
+      "What does Moreau offer that Johnny desperately wants?",
+      "How does Nadya describe Danny when others focus on his father?",
+      "Why can Johnny speak to Danny about fear in a way others cannot?",
+      "When does keeping Danny safe become more than completing Moreau’s bargain?",
+      "What would protecting Danny’s freedom mean after the chase ends?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A businessman offers Nadya money for her company while Danny steals from him."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/ghost-rider-spirit-of-vengeance/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Strong profanity and religious exclamations occur."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/ghost-rider-spirit-of-vengeance/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Chains incinerate victims and Carrigan’s touch causes decay. Danny is targeted in a ritual."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/ghost-rider-spirit-of-vengeance/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Roarke seeks to possess Danny. Moreau offers Johnny release from his curse for helping the boy."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/ghost-rider-spirit-of-vengeance/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Moreau drinks from a flask. Danny receives a sedative before the ritual."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/ghost-rider-spirit-of-vengeance/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Nadya and Johnny persist in protecting Danny despite his parentage."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/ghost-rider-spirit-of-vengeance/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2003-daredevil",
+    "title": "Daredevil",
+    "year": 2003,
+    "edition": "Original US PG-13 theatrical cut, starring Ben Affleck",
+    "genre": "Marvel · Live action",
+    "officialRating": "PG-13",
+    "sources": [
+      {
+        "label": "Kids-In-Mind",
+        "url": "https://kids-in-mind.com/d/daredevil.htm"
+      },
+      {
+        "label": "AFI Catalog",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/62688"
+      },
+      {
+        "label": "Contemporary theatrical review",
+        "url": "https://www.sfrevu.com/ISSUES/2003/0302/Film%20-%20Daredevil/Film%20Review%20-%20Part%20II.htm"
+      }
+    ],
+    "age": "16+",
+    "verdict": "neutral",
+    "synopsis": "Matt Murdock offers legal defense by day and pursues suspects as Daredevil by night. His encounter with Elektra brings him into conflict with Bullseye and Kingpin.",
+    "verdictRationale": "Giving people access to a defense is a real service. The subway death exposes the danger when Matt claims personal authority to punish. His encounters with a priest and a frightened child give viewers reasons to question the satisfaction of seeing an opponent lose.",
+    "ageRationale": "The subway death has a disturbing aftermath. Other scenes include a stabbing, bloody injuries, a sexual encounter, profanity and a racial slur. Older teens are better placed to discuss the difference between defending victims and exacting revenge.",
+    "reflection": "A child is frightened by the masked man Matt understands as a protector. In an examination of conscience, that child's judgment deserves room alongside Matt's account of his intentions.",
+    "themes": [
+      {
+        "name": "Service",
+        "score": 4,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Matt’s pro bono legal work gives people representation and establishes the public vocation against which his night work is measured.",
+        "references": [
+          {
+            "label": "Kids-In-Mind",
+            "url": "https://kids-in-mind.com/d/daredevil.htm"
+          }
+        ]
+      },
+      {
+        "name": "Conscience",
+        "score": 3,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "His encounter with the priest and the frightened child bring his moral conflict into view in specific scenes.",
+        "references": [
+          {
+            "label": "Contemporary theatrical review",
+            "url": "https://www.sfrevu.com/ISSUES/2003/0302/Film%20-%20Daredevil/Film%20Review%20-%20Part%20II.htm"
+          }
+        ]
+      },
+      {
+        "name": "Vigilantism",
+        "score": 5,
+        "type": "harmful",
+        "portrayal": "mixed",
+        "evidence": "Matt's double life rests on his decision to punish where the legal system fails.",
+        "references": [
+          {
+            "label": "Kids-In-Mind",
+            "url": "https://kids-in-mind.com/d/daredevil.htm"
+          }
+        ]
+      },
+      {
+        "name": "Cruelty",
+        "score": 4,
+        "type": "harmful",
+        "portrayal": "criticized",
+        "evidence": "Bullseye attacks people with ordinary objects as weapons, making lethal intimidation a repeated threat.",
+        "references": [
+          {
+            "label": "Kids-In-Mind",
+            "url": "https://kids-in-mind.com/d/daredevil.htm"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "The available guides do not establish prominence across this theatrical cut of Daredevil. Screen the identified release and log pertinent dialogue or scenes before scoring.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual or suggestive content",
+        "details": "A couple kisses and caresses in bed, with bare shoulders and backs visible.",
+        "severity": "Moderate",
+        "sourceUrl": "https://kids-in-mind.com/d/daredevil.htm"
+      },
+      {
+        "name": "Language",
+        "details": "Dialogue includes profanity, religious exclamations and a racial slur.",
+        "severity": "Moderate",
+        "sourceUrl": "https://kids-in-mind.com/d/daredevil.htm"
+      },
+      {
+        "name": "Violence and distress",
+        "details": "A man falls onto subway tracks. His remains are carried away under bloodstained sheets. A woman is stabbed.",
+        "severity": "Strong",
+        "sourceUrl": "https://kids-in-mind.com/d/daredevil.htm"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "Matt visits a Catholic priest in a confessional.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.sfrevu.com/ISSUES/2003/0302/Film%20-%20Daredevil/Film%20Review%20-%20Part%20II.htm"
+      },
+      {
+        "name": "Substance use",
+        "details": "Characters drink alcohol and smoke cigarettes and cigars.",
+        "severity": "Mild",
+        "sourceUrl": "https://kids-in-mind.com/d/daredevil.htm"
+      }
+    ],
+    "scripture": [
+      "Romans 12:21"
+    ],
+    "themeScripture": {
+      "reference": "Romans 12:21",
+      "translation": "KJV",
+      "text": "Be not overcome of evil, but overcome evil with good.",
+      "url": "https://www.biblegateway.com/passage/?search=Romans%2012%3A21&version=KJV",
+      "connection": "Paul's words give families a way to compare the demands of Matt's two roles. In which role could someone challenge his judgment and still be heard?"
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 22 on Romans",
+      "section": "On Romans 12:20–21",
+      "text": "For I even insist upon your doing kindness.",
+      "url": "https://www.newadvent.org/fathers/210222.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "Two kinds of power in Hell’s Kitchen",
+        "filmMoment": "Matt serves as a pro bono lawyer, then pursues punishment himself after hours.",
+        "scriptureReference": "Romans 12:21",
+        "reflection": "Paul's words give families a way to compare the demands of Matt's two roles. In which role could someone challenge his judgment and still be heard?",
+        "sourceUrl": "https://kids-in-mind.com/d/daredevil.htm"
+      }
+    ],
+    "questions": [
+      "What does a client receive when Matt works without a fee?",
+      "Who can challenge Matt’s decisions in court, and who can do so on the subway platform?",
+      "How might the encounter with the frightened child sound if she told it?",
+      "What might Matt be reluctant to say to the priest?",
+      "Which loss helps explain Matt’s anger, and which choices must he still answer for?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A couple kisses and caresses in bed, with bare shoulders and backs visible."
+          ],
+          "evidence": [
+            {
+              "provider": "Kids-In-Mind",
+              "url": "https://kids-in-mind.com/d/daredevil.htm",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Dialogue includes profanity, religious exclamations and a racial slur."
+          ],
+          "evidence": [
+            {
+              "provider": "Kids-In-Mind",
+              "url": "https://kids-in-mind.com/d/daredevil.htm",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A man falls onto subway tracks. His remains are carried away under bloodstained sheets. A woman is stabbed."
+          ],
+          "evidence": [
+            {
+              "provider": "Kids-In-Mind",
+              "url": "https://kids-in-mind.com/d/daredevil.htm",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Matt visits a Catholic priest in a confessional."
+          ],
+          "evidence": [
+            {
+              "provider": "Contemporary theatrical review",
+              "url": "https://www.sfrevu.com/ISSUES/2003/0302/Film%20-%20Daredevil/Film%20Review%20-%20Part%20II.htm",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Characters drink alcohol and smoke cigarettes and cigars."
+          ],
+          "evidence": [
+            {
+              "provider": "Kids-In-Mind",
+              "url": "https://kids-in-mind.com/d/daredevil.htm",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Matt provides legal representation without charging clients and independently pursues people he believes escaped justice."
+          ],
+          "evidence": [
+            {
+              "provider": "Kids-In-Mind",
+              "url": "https://kids-in-mind.com/d/daredevil.htm",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  }
+]

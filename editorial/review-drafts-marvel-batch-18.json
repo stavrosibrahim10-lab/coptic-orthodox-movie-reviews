@@ -1,0 +1,518 @@
+[
+  {
+    "id": "marvel-2002-blade-ii",
+    "title": "Blade II",
+    "year": 2002,
+    "edition": "2002 US R-rated theatrical film directed by Guillermo del Toro",
+    "genre": "Marvel · Live action",
+    "officialRating": "R",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/bladeii/"
+      },
+      {
+        "label": "Common Sense Media",
+        "url": "https://www.commonsensemedia.org/movie-reviews/blade-ii"
+      }
+    ],
+    "age": "18+",
+    "verdict": "destructive",
+    "synopsis": "Blade rescues Whistler and enters a truce with vampires to fight the Reapers. Nyssa learns what her father did to her brother Jared.",
+    "verdictRationale": "Blade risks his safety for Whistler, and Nyssa challenges her own father’s cruelty. Those choices deserve admiration. The proposed Destructive verdict rests on the film’s sustained invitation to enjoy bodily destruction as spectacle, even as its story exposes the evil of treating a son as an experiment.",
+    "ageRationale": "18+ for prolonged, graphic feeding, torture and bodily injury. The nightclub combines predation with sexual imagery. The intensity and duration weigh more heavily here than the fantasy setting.",
+    "reflection": "Consider what loyalty costs each character. Blade goes looking for someone he could have abandoned. Nyssa risks her place in her family by asking what her father owes the son he harmed.",
+    "themes": [
+      {
+        "name": "Loyalty",
+        "score": 4,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Blade risks his life to recover Whistler, who in turn helps him. Their mutual obligation shapes the opening rescue and pays off later.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/bladeii/"
+          }
+        ]
+      },
+      {
+        "name": "Moral courage",
+        "score": 3,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Nyssa’s confrontation with her father makes the cost of telling the truth visible in one family’s story.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/bladeii/"
+          }
+        ]
+      },
+      {
+        "name": "Exploitation",
+        "score": 5,
+        "type": "harmful",
+        "portrayal": "criticized",
+        "evidence": "Damaskinos treats Jared as material for an experiment. That choice drives the Reaper conflict and costs him his daughter’s trust.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/bladeii/"
+          }
+        ]
+      },
+      {
+        "name": "Cruelty",
+        "score": 5,
+        "type": "harmful",
+        "portrayal": "mixed",
+        "evidence": "Torture and feeding recur. The family story exposes the cost of cruelty, while the fights repeatedly display damaged bodies for excitement.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/bladeii/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "score": null,
+        "type": "context",
+        "portrayal": "unverified",
+        "evidence": "The consulted guides do not establish a film-specific prominence score. Screen the 2002 theatrical cut and record the scene and dialogue before assigning a score.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/bladeii/"
+          }
+        ]
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "details": "Nightclub feeding is sexualized, and patrons kiss.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/bladeii/"
+      },
+      {
+        "name": "Language",
+        "details": "Strong profanity recurs.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/bladeii/"
+      },
+      {
+        "name": "Violence",
+        "details": "Graphic feeding and torture repeatedly show bodies being injured.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/bladeii/"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "The story depicts vampire transformation, and Blade speaks about fate.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/bladeii/"
+      },
+      {
+        "name": "Substance use",
+        "details": "A guard uses cocaine and Scud smokes marijuana.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/bladeii/"
+      },
+      {
+        "name": "Moral themes",
+        "details": "Nyssa challenges her father over his use of Jared as an experimental subject.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/bladeii/"
+      }
+    ],
+    "scripture": [
+      "John 15:13"
+    ],
+    "themeScripture": {
+      "reference": "John 15:13",
+      "translation": "KJV",
+      "text": "Greater love hath no man than this, that a man lay down his life for his friends.",
+      "url": "https://www.biblegateway.com/passage/?search=John+15%3A13&version=KJV",
+      "connection": "Blade’s rescue of Whistler gives a family a concrete example of risking one’s own safety for a friend."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homilies on the Gospel of John",
+      "section": "Homily 77, section 1",
+      "text": "Because this is the mark of the disciples, this the bond of virtue.",
+      "url": "https://www.newadvent.org/fathers/240177.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "Risking one’s life for a friend",
+        "filmMoment": "Blade goes after the captive Whistler.",
+        "scriptureReference": "John 15:13",
+        "reflection": "Blade’s rescue of Whistler gives a family a concrete example of risking one’s own safety for a friend.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/bladeii/"
+      }
+    ],
+    "questions": [
+      "What makes Blade willing to search for Whistler after his capture?",
+      "When Blade accepts the truce, what can his former enemies reasonably ask him to trust?",
+      "What does Nyssa risk when she challenges her father about Jared?",
+      "How does Damaskinos’s appeal to predators and prey help him excuse a choice he made?",
+      "Which scene gives you a clearer picture of strength, rescuing Whistler or defeating a Reaper? Why?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Nightclub feeding is sexualized, and patrons kiss."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/bladeii/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Strong profanity recurs."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/bladeii/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Graphic feeding and torture repeatedly show bodies being injured."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/bladeii/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The story depicts vampire transformation, and Blade speaks about fate."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/bladeii/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A guard uses cocaine and Scud smokes marijuana."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/bladeii/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Nyssa challenges her father over his use of Jared as an experimental subject."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/bladeii/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2004-blade-trinity",
+    "title": "Blade: Trinity",
+    "year": 2004,
+    "edition": "2004 US R-rated theatrical cut directed by David S. Goyer",
+    "genre": "Marvel · Live action",
+    "officialRating": "R",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/bladetrinity/"
+      },
+      {
+        "label": "ComicsAlliance",
+        "url": "https://comicsalliance.com/comicsalliance-reviews-blade-trinity-2004-part-two/"
+      }
+    ],
+    "age": "18+",
+    "verdict": "destructive",
+    "synopsis": "Vampires frame Blade for killing a human and awaken Drake. Abigail Whistler and Hannibal King help Blade escape custody and confront the threat.",
+    "verdictRationale": "The Nightstalkers earn admiration by going back for one another. The human harvesting operation exposes the vampires’ contempt for life, yet the heroes’ own violence against officers receives little moral attention. That uneven concern for human life, combined with the spectacle of predation and killing, supports a proposed Destructive verdict.",
+    "ageRationale": "18+ for sustained bloody violence, a child in danger alongside her mother, captive humans harvested for blood, and repeated sexually degrading language. The threat to a family can be disturbing apart from the fight scenes.",
+    "reflection": "Abigail’s rescue of King gives courage a purpose a viewer can name. The officers caught in Blade’s conflict invite a harder question about whose safety a defender must consider.",
+    "themes": [
+      {
+        "name": "Mutual aid",
+        "score": 4,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Abigail and King help extract Blade, and Abigail later frees King. Rescue repeatedly moves the plot forward.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/bladetrinity/"
+          }
+        ]
+      },
+      {
+        "name": "Courage",
+        "score": 3,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "A child voices her hope of heaven to Drake while at his mercy. This small exchange gives moral courage a place apart from combat.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/bladetrinity/"
+          }
+        ]
+      },
+      {
+        "name": "Exploitation",
+        "score": 5,
+        "type": "harmful",
+        "portrayal": "criticized",
+        "evidence": "The vampires maintain a facility for taking blood from captive people, making the reduction of people to a commodity a major revelation.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/bladetrinity/"
+          }
+        ]
+      },
+      {
+        "name": "Disregard for human life",
+        "score": 4,
+        "type": "harmful",
+        "portrayal": "mixed",
+        "evidence": "Officers are killed during the conflict, including people carrying out their duties. The film gives their loss less weight than the capture of a hero.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/bladetrinity/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "score": null,
+        "type": "context",
+        "portrayal": "unverified",
+        "evidence": "The consulted guides do not establish a film-specific prominence score. Screen the 2004 theatrical cut and record the scene and dialogue before assigning a score.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/bladetrinity/"
+          }
+        ]
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "details": "King uses sexually degrading insults. A shower scene also contains sexual suggestion.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/bladetrinity/"
+      },
+      {
+        "name": "Language",
+        "details": "Frequent strong profanity accompanies exchanges and fights.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/bladetrinity/"
+      },
+      {
+        "name": "Violence",
+        "details": "Bloody attacks include violence against officers. A mother and child are stalked, and the mother’s body is found.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/bladetrinity/"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "A child speaks of heaven, and Drake denies God and life after death.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/bladetrinity/"
+      },
+      {
+        "name": "Substance use",
+        "details": "Smoking and involuntary sedation appear.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/bladetrinity/"
+      },
+      {
+        "name": "Moral themes",
+        "details": "The discovery of humans held for blood exposes how the vampires profit from their captives.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/bladetrinity/"
+      }
+    ],
+    "scripture": [
+      "Romans 12:21"
+    ],
+    "themeScripture": {
+      "reference": "Romans 12:21",
+      "translation": "KJV",
+      "text": "Be not overcome of evil, but overcome evil with good.",
+      "url": "https://www.biblegateway.com/passage/?search=Romans+12%3A21&version=KJV",
+      "connection": "Abigail’s rescue of King offers a way to discuss what good a victory actually achieves and what the fight costs other people."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homilies on Romans",
+      "section": "Homily 22, on Romans 12:20–21",
+      "text": "For I even insist upon your doing kindness.",
+      "url": "https://www.newadvent.org/fathers/210222.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "The good a rescue accomplishes",
+        "filmMoment": "Abigail frees King from captivity.",
+        "scriptureReference": "Romans 12:21",
+        "reflection": "Abigail’s rescue of King offers a way to discuss what good a victory actually achieves and what the fight costs other people.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/bladetrinity/"
+      }
+    ],
+    "questions": [
+      "Why does framing Blade for killing a human turn his usual methods against him?",
+      "What does Abigail’s decision to free King tell you about what the Nightstalkers owe one another?",
+      "How does the child’s answer about heaven challenge Drake’s idea of power?",
+      "What does the blood-harvesting facility reveal about how the vampires see their captives?",
+      "How would the escape from custody look from the family of an officer killed during the conflict?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "King uses sexually degrading insults. A shower scene also contains sexual suggestion."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/bladetrinity/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Frequent strong profanity accompanies exchanges and fights."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/bladetrinity/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Bloody attacks include violence against officers. A mother and child are stalked, and the mother’s body is found."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/bladetrinity/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A child speaks of heaven, and Drake denies God and life after death."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/bladetrinity/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Smoking and involuntary sedation appear."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/bladetrinity/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The discovery of humans held for blood exposes how the vampires profit from their captives."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/bladetrinity/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,526 @@
+[
+  {
+    "id": "marvel-2004-the-punisher",
+    "title": "The Punisher",
+    "year": 2004,
+    "edition": "2004 US R-rated theatrical feature starring Thomas Jane",
+    "genre": "Marvel · Live action",
+    "officialRating": "R",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/punisher/"
+      },
+      {
+        "label": "BBFC",
+        "url": "https://www.bbfc.co.uk/release/the-punisher-q29sbgvjdglvbjpwwc0zntq4mzy"
+      },
+      {
+        "label": "RogerEbert.com",
+        "url": "https://www.rogerebert.com/reviews/the-punisher-2004"
+      }
+    ],
+    "age": "18+",
+    "verdict": "destructive",
+    "synopsis": "Howard Saint orders an attack on the Castle family after his son dies during an FBI operation. Frank survives and sets out to punish Saint.",
+    "verdictRationale": "Frank and his neighbors show courage in protecting one another. But his campaign against Saint asks the audience to anticipate and enjoy the suffering Frank arranges. Grief makes his anger understandable. It cannot give him authority to decide who deserves death.",
+    "ageRationale": "The killing of a family, sustained torture, brief nudity and repeated strong profanity warrant adult guidance. Frank’s heavy drinking and suicidal despair make the aftermath of violence particularly distressing.",
+    "reflection": "A neighbor sees Frank drinking through his grief and tries to reach him. That small intervention offers a Christian question about mourning. Who is willing to stay near a suffering person when anger has become his reason to keep going?",
+    "themes": [
+      {
+        "name": "Neighborly care",
+        "score": 3,
+        "evidence": "Frank intervenes when a neighbor faces abuse. Later the neighbors put themselves at risk to protect him. Their mutual care forms a supporting storyline.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/punisher/"
+          }
+        ],
+        "type": "positive",
+        "portrayal": "affirmed"
+      },
+      {
+        "name": "Family affection",
+        "score": 3,
+        "evidence": "Frank’s tenderness toward his wife and son gives the reunion its emotional weight before the massacre.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/punisher/"
+          }
+        ],
+        "type": "positive",
+        "portrayal": "affirmed"
+      },
+      {
+        "name": "Vengeance",
+        "score": 5,
+        "evidence": "Frank makes punishing Saint his purpose after the attack and defends his authority to take lives.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/punisher/"
+          }
+        ],
+        "type": "harmful",
+        "portrayal": "mixed"
+      },
+      {
+        "name": "Cruelty",
+        "score": 5,
+        "evidence": "The campaign gives prolonged suffering dramatic weight, from the torture of a neighbor to the deaths that conclude the retaliation.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/punisher/"
+          }
+        ],
+        "type": "harmful",
+        "portrayal": "mixed"
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "score": 2,
+        "type": "context",
+        "portrayal": "descriptive",
+        "evidence": "A supporting character kisses his male partner, and the relationship is used for blackmail. This is a minor relationship with a plot consequence under the prominence rubric.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/punisher/"
+          }
+        ]
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "details": "The film briefly shows nudity in a bar and implies sexual intimacy between spouses.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/punisher/"
+      },
+      {
+        "name": "Language",
+        "details": "Strong profanity and religious exclamations recur.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/punisher/"
+      },
+      {
+        "name": "Violence and distress",
+        "details": "Frank’s family is massacred. A neighbor’s facial piercings are forcibly removed.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/punisher/"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "Frank’s son believes a skull emblem will repel evil spirits.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/punisher/"
+      },
+      {
+        "name": "Alcohol and drugs",
+        "details": "Frank repeatedly drinks whiskey after his bereavement. A neighbor urges him to stop.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/punisher/"
+      },
+      {
+        "name": "Moral themes",
+        "details": "Frank protects a neighbor facing abuse but later claims authority to execute people himself.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/punisher/"
+      }
+    ],
+    "scripture": [
+      "Romans 12:21"
+    ],
+    "themeScripture": {
+      "reference": "Romans 12:21",
+      "translation": "KJV",
+      "text": "Be not overcome of evil, but overcome evil with good.",
+      "url": "https://www.biblegateway.com/passage/?search=Romans+12%3A21&version=KJV",
+      "connection": "Paul’s instruction invites a comparison between two acts of strength in Frank’s building. Defending a neighbor gives her safety. Making an enemy suffer offers no such repair."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 22 on Romans",
+      "section": "Comment on Romans 12:20–21",
+      "text": "For I even insist upon your doing kindness.",
+      "url": "https://www.newadvent.org/fathers/210222.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "A neighbor worth defending",
+        "filmMoment": "Frank steps in to protect his neighbor from an abusive boyfriend.",
+        "scriptureReference": "Romans 12:21",
+        "reflection": "Paul’s instruction invites a comparison between two acts of strength in Frank’s building. Defending a neighbor gives her safety. Making an enemy suffer offers no such repair.",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/punisher/"
+      }
+    ],
+    "questions": [
+      "What do we learn about Frank as a father before the attack at the reunion?",
+      "What changes for Joan when Frank intervenes on her behalf?",
+      "How does the torture of Frank’s neighbor change the cost of his pursuit of Saint?",
+      "Why might Frank find a neighbor’s concern about his drinking difficult to accept?",
+      "When Frank calls his actions punishment, who has had a chance to test his judgment?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The film briefly shows nudity in a bar and implies sexual intimacy between spouses."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/punisher/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Strong profanity and religious exclamations recur."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/punisher/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Frank’s family is massacred. A neighbor’s facial piercings are forcibly removed."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/punisher/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Frank’s son believes a skull emblem will repel evil spirits."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/punisher/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Frank repeatedly drinks whiskey after his bereavement. A neighbor urges him to stop."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/punisher/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Frank protects a neighbor facing abuse but later claims authority to execute people himself."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/punisher/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2008-punisher-war-zone",
+    "title": "Punisher: War Zone",
+    "year": 2008,
+    "edition": "2008 US R-rated theatrical feature directed by Lexi Alexander, starring Ray Stevenson",
+    "genre": "Marvel · Live action",
+    "officialRating": "R",
+    "sources": [
+      {
+        "label": "Common Sense Media",
+        "url": "https://www.commonsensemedia.org/movie-reviews/punisher-war-zone"
+      },
+      {
+        "label": "ComingSoon",
+        "url": "https://www.comingsoon.net/movies/reviews/50948-punisher-war-zone-2"
+      },
+      {
+        "label": "Christian Spotlight",
+        "url": "https://christiananswers.net/spotlight/movies/2008/punisher2008.html"
+      }
+    ],
+    "age": "18+",
+    "verdict": "destructive",
+    "synopsis": "Frank Castle kills an undercover officer during a raid on organized crime. When the surviving family is threatened, he returns to the fight against Jigsaw.",
+    "verdictRationale": "Frank’s hesitation after killing an innocent man is morally important. Protecting the agent’s grieving family is the most admirable use of his courage. Yet the film repeatedly makes violent executions satisfying and surrounds Frank with officers willing to excuse them. The widow’s loss gives families reason to question the power the film grants him.",
+    "ageRationale": "Graphic injuries, sustained killings, cocaine use and pervasive strong language support an adults-only recommendation. An innocent parent’s sudden death adds emotional distress.",
+    "reflection": "The agent leaves a widow and a daughter. They need protection, but they also deserve the truth about who took his life. Repentance begins when Frank allows their loss to interrupt his own account of being a protector.",
+    "themes": [
+      {
+        "name": "Responsibility",
+        "score": 4,
+        "evidence": "Killing an undercover agent leads Frank to reconsider his campaign and take responsibility for the danger facing the surviving family.",
+        "references": [
+          {
+            "label": "ComingSoon",
+            "url": "https://www.comingsoon.net/movies/reviews/50948-punisher-war-zone-2"
+          }
+        ],
+        "type": "positive",
+        "portrayal": "affirmed"
+      },
+      {
+        "name": "Protection of the vulnerable",
+        "score": 4,
+        "evidence": "The widow and daughter become targets. Their safety gives Frank a sustained obligation to particular people.",
+        "references": [
+          {
+            "label": "ComingSoon",
+            "url": "https://www.comingsoon.net/movies/reviews/50948-punisher-war-zone-2"
+          }
+        ],
+        "type": "positive",
+        "portrayal": "affirmed"
+      },
+      {
+        "name": "Vigilantism",
+        "score": 5,
+        "evidence": "The agent’s death exposes the cost of summary punishment, yet the film repeatedly rewards Frank’s methods and some officers assist him.",
+        "references": [
+          {
+            "label": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/punisher-war-zone"
+          }
+        ],
+        "type": "harmful",
+        "portrayal": "mixed"
+      },
+      {
+        "name": "Vengeance",
+        "score": 4,
+        "evidence": "Russoti’s disfigurement fuels his retaliation and brings new danger to the dead agent’s family.",
+        "references": [
+          {
+            "label": "ComingSoon",
+            "url": "https://www.comingsoon.net/movies/reviews/50948-punisher-war-zone-2"
+          }
+        ],
+        "type": "harmful",
+        "portrayal": "mixed"
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "score": null,
+        "type": "context",
+        "portrayal": "unverified",
+        "evidence": "The guides detail the widow and the undercover agent’s family. They do not establish film-wide LGBTQ prominence. Check the released cut and log pertinent dialogue and relationships.",
+        "references": [
+          {
+            "label": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/punisher-war-zone"
+          }
+        ]
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "details": "Dialogue makes a crude reference to paying for sex.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.commonsensemedia.org/movie-reviews/punisher-war-zone"
+      },
+      {
+        "name": "Language",
+        "details": "Strong profanity recurs throughout the confrontations.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.commonsensemedia.org/movie-reviews/punisher-war-zone"
+      },
+      {
+        "name": "Violence and distress",
+        "details": "A raid kills an undercover officer. Other scenes show graphic wounds and disfigurement.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.commonsensemedia.org/movie-reviews/punisher-war-zone"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "Frank sits in a Catholic church and speaks with a priest.",
+        "severity": "Mild",
+        "sourceUrl": "https://christiananswers.net/spotlight/movies/2008/punisher2008.html"
+      },
+      {
+        "name": "Alcohol and drugs",
+        "details": "Characters drink liquor, smoke and use cocaine.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.commonsensemedia.org/movie-reviews/punisher-war-zone"
+      },
+      {
+        "name": "Moral themes",
+        "details": "After killing the agent, Frank feels bound to protect the widow and child.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.comingsoon.net/movies/reviews/50948-punisher-war-zone-2"
+      }
+    ],
+    "scripture": [
+      "Romans 12:21"
+    ],
+    "themeScripture": {
+      "reference": "Romans 12:21",
+      "translation": "KJV",
+      "text": "Be not overcome of evil, but overcome evil with good.",
+      "url": "https://www.biblegateway.com/passage/?search=Romans+12%3A21&version=KJV",
+      "connection": "Paul’s instruction asks what good Frank can still do for the people who must live with the death he caused. Their needs give his remorse a concrete direction."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 22 on Romans",
+      "section": "Comment on Romans 12:20–21",
+      "text": "For I even insist upon your doing kindness.",
+      "url": "https://www.newadvent.org/fathers/210222.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "What the surviving family needs",
+        "filmMoment": "Frank takes responsibility for protecting the dead agent’s family.",
+        "scriptureReference": "Romans 12:21",
+        "reflection": "Paul’s instruction asks what good Frank can still do for the people who must live with the death he caused. Their needs give his remorse a concrete direction.",
+        "sourceUrl": "https://www.comingsoon.net/movies/reviews/50948-punisher-war-zone-2"
+      }
+    ],
+    "questions": [
+      "What does Frank discover about the man he killed during the raid?",
+      "What might the agent’s daughter need from Frank that fighting cannot provide?",
+      "What responsibility do the officers who aid Frank bear for his decisions?",
+      "What question would you want Frank to bring to the priest?",
+      "How does Jigsaw’s response to his injuries affect people who had no part in them?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Dialogue makes a crude reference to paying for sex."
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media",
+              "url": "https://www.commonsensemedia.org/movie-reviews/punisher-war-zone",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Strong profanity recurs throughout the confrontations."
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media",
+              "url": "https://www.commonsensemedia.org/movie-reviews/punisher-war-zone",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A raid kills an undercover officer. Other scenes show graphic wounds and disfigurement."
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media",
+              "url": "https://www.commonsensemedia.org/movie-reviews/punisher-war-zone",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Frank sits in a Catholic church and speaks with a priest."
+          ],
+          "evidence": [
+            {
+              "provider": "Christian Spotlight",
+              "url": "https://christiananswers.net/spotlight/movies/2008/punisher2008.html",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Characters drink liquor, smoke and use cocaine."
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media",
+              "url": "https://www.commonsensemedia.org/movie-reviews/punisher-war-zone",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "After killing the agent, Frank feels bound to protect the widow and child."
+          ],
+          "evidence": [
+            {
+              "provider": "ComingSoon",
+              "url": "https://www.comingsoon.net/movies/reviews/50948-punisher-war-zone-2",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  }
+]

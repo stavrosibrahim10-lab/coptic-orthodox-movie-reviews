@@ -1,0 +1,494 @@
+[
+  {
+    "id": "marvel-2006-ultimate-avengers",
+    "title": "Ultimate Avengers",
+    "year": 2006,
+    "edition": "2006 US direct-to-DVD animated feature also released as Ultimate Avengers: The Movie",
+    "genre": "Marvel · Animation",
+    "officialRating": "PG-13",
+    "sources": [
+      {
+        "label": "Common Sense Media",
+        "url": "https://www.commonsensemedia.org/movie-reviews/ultimate-avengers-the-movie"
+      },
+      {
+        "label": "ComingSoon",
+        "url": "https://www.comingsoon.net/dvd/reviews/13234-ultimate-avengers-the-movie"
+      },
+      {
+        "label": "IMDb Parents Guide (user contributions)",
+        "url": "https://www.imdb.com/title/tt0491703/parentalguide/"
+      }
+    ],
+    "age": "13+",
+    "verdict": "edifying",
+    "synopsis": "Steve Rogers wakes decades after diverting a wartime missile. Nick Fury asks him to lead heroes who have little practice relying on anyone else.",
+    "verdictRationale": "Steve’s opening rescue shows what strength is for before the team even exists. The Hulk later puts his own allies in danger. The contrast gives the battles a moral consequence: power becomes trustworthy when someone accepts responsibility for the people in its path.",
+    "ageRationale": "The missile sequence puts a city at risk, and the closing battle turns teammates against each other. Blows, gunfire and injured heroes make this a better fit for teenagers even though little blood is shown.",
+    "reflection": "Steve loses the world he knew while saving people he will never meet. Think of one beneficiary of his choice who could never thank him. That is a quieter measure of his service than the damage he can inflict.",
+    "themes": [
+      {
+        "name": "Self-sacrifice",
+        "score": 5,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Steve diverts the missile despite the danger and loses decades of his own life. That cost frames his whole return to service.",
+        "references": [
+          {
+            "label": "ComingSoon",
+            "url": "https://www.comingsoon.net/dvd/reviews/13234-ultimate-avengers-the-movie"
+          }
+        ]
+      },
+      {
+        "name": "Cooperation",
+        "score": 4,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Fury assembles heroes accustomed to acting alone. Learning to fight together matters both in the invasion and when the Hulk endangers them.",
+        "references": [
+          {
+            "label": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/ultimate-avengers-the-movie"
+          }
+        ]
+      },
+      {
+        "name": "Uncontrolled force",
+        "score": 4,
+        "type": "harmful",
+        "portrayal": "criticized",
+        "evidence": "The team must defend itself against the very power Banner hoped would help. The closing battle makes that danger tangible.",
+        "references": [
+          {
+            "label": "IMDb Parents Guide (user contributions)",
+            "url": "https://www.imdb.com/title/tt0491703/parentalguide/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "score": null,
+        "type": "context",
+        "portrayal": "unverified",
+        "evidence": "Sources describe flirting and jealousy without a complete accounting of relationships. Check the original first film on DVD before assigning a prominence score.",
+        "references": [
+          {
+            "label": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/ultimate-avengers-the-movie"
+          }
+        ]
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "details": "Flirting and revealing outfits accompany the adult characters’ interactions.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.commonsensemedia.org/movie-reviews/ultimate-avengers-the-movie"
+      },
+      {
+        "name": "Language",
+        "details": "Mild swearing occurs during the adventure.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.commonsensemedia.org/movie-reviews/ultimate-avengers-the-movie"
+      },
+      {
+        "name": "Violence",
+        "details": "The Hulk attacks his teammates and injures Captain America.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.imdb.com/title/tt0491703/parentalguide/"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "Thor appears as a figure from Norse mythology, with duties in the human and divine worlds of the story.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.comingsoon.net/dvd/reviews/13234-ultimate-avengers-the-movie"
+      },
+      {
+        "name": "Substance use",
+        "details": "Stark drinks repeatedly. A guide raises concern about his habits without establishing a diagnosis.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.commonsensemedia.org/movie-reviews/ultimate-avengers-the-movie"
+      }
+    ],
+    "scripture": [
+      "John 15:13"
+    ],
+    "themeScripture": {
+      "reference": "John 15:13",
+      "translation": "KJV",
+      "text": "Greater love hath no man than this, that a man lay down his life for his friends.",
+      "url": "https://www.biblegateway.com/passage/?search=John+15%3A13&version=KJV",
+      "connection": "Christ’s words invite us to ask whose lives Steve values when he acts, before he knows what his rescue will cost."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homilies on the Gospel of John",
+      "section": "Homily 77, section 1, on love",
+      "text": "Because this is the mark of the disciples, this the bond of virtue.",
+      "url": "https://www.newadvent.org/fathers/240177.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "The cost of the rescue",
+        "filmMoment": "Steve stops the missile and disappears into the Atlantic.",
+        "scriptureReference": "John 15:13",
+        "reflection": "Christ’s words invite us to ask whose lives Steve values when he acts, before he knows what his rescue will cost.",
+        "sourceUrl": "https://www.comingsoon.net/dvd/reviews/13234-ultimate-avengers-the-movie"
+      }
+    ],
+    "questions": [
+      "What does Steve stand to lose when he goes after the missile?",
+      "Why might accepting help be difficult for someone who wakes up decades from home?",
+      "What does Wasp hope the team will give her and Hank besides a chance to fight?",
+      "When the Hulk turns on the team, who bears the cost of Banner’s hopes for his power?",
+      "Which decision would still make Steve a good leader if he lost his physical strength?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Flirting and revealing outfits accompany the adult characters’ interactions."
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media",
+              "url": "https://www.commonsensemedia.org/movie-reviews/ultimate-avengers-the-movie",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Mild swearing occurs during the adventure."
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media",
+              "url": "https://www.commonsensemedia.org/movie-reviews/ultimate-avengers-the-movie",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The Hulk attacks his teammates and injures Captain America."
+          ],
+          "evidence": [
+            {
+              "provider": "IMDb Parents Guide (user contributions)",
+              "url": "https://www.imdb.com/title/tt0491703/parentalguide/",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Thor appears as a figure from Norse mythology, with duties in the human and divine worlds of the story."
+          ],
+          "evidence": [
+            {
+              "provider": "ComingSoon",
+              "url": "https://www.comingsoon.net/dvd/reviews/13234-ultimate-avengers-the-movie",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Stark drinks repeatedly. A guide raises concern about his habits without establishing a diagnosis."
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media",
+              "url": "https://www.commonsensemedia.org/movie-reviews/ultimate-avengers-the-movie",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Steve risks his life to stop a missile bound for the capital."
+          ],
+          "evidence": [
+            {
+              "provider": "ComingSoon",
+              "url": "https://www.comingsoon.net/dvd/reviews/13234-ultimate-avengers-the-movie",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2006-ultimate-avengers-2-rise-of-the-panther",
+    "title": "Ultimate Avengers 2: Rise of the Panther",
+    "year": 2006,
+    "edition": "2006 US direct-to-DVD animated sequel featuring T’Challa",
+    "genre": "Marvel · Animation",
+    "officialRating": "PG-13",
+    "sources": [
+      {
+        "label": "Common Sense Media",
+        "url": "https://www.commonsensemedia.org/movie-reviews/ultimate-avengers-2-rise-of-the-panther"
+      },
+      {
+        "label": "Animated Views",
+        "url": "https://animatedviews.com/2006/ultimate-avengers-2/"
+      },
+      {
+        "label": "IMDb Parents Guide (user contributions)",
+        "url": "https://www.imdb.com/title/tt0803093/parentalguide/"
+      }
+    ],
+    "age": "16+",
+    "verdict": "neutral",
+    "synopsis": "After Kleiser kills Wakanda’s king, T’Challa inherits his father’s responsibilities. He contacts Captain America about their common enemy, and their cooperation puts his crown at risk.",
+    "verdictRationale": "T’Challa accepts personal loss to protect his people. Yet the Avengers also enter Wakanda against his wishes, and Captain America repeatedly acts alone. The story gives families grounds to admire costly trust while questioning how easily a rescuer can disregard the judgment of those he wants to help.",
+    "ageRationale": "The sequel sustains the fighting across multiple attacks and gives several losses lasting emotional weight, including the death of T’Challa’s father. Frightening visions and the death of a teammate support an older-teen recommendation even with limited blood.",
+    "reflection": "Janet takes Hank’s dangerous experiment seriously because she loves him. He hears disloyalty in her concern. Families might consider what it takes to listen when someone who knows us well says our ambition is hurting us.",
+    "themes": [
+      {
+        "name": "Responsibility",
+        "score": 4,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "T’Challa shares information that could protect Wakanda, knowing cooperation risks his standing. Losing his crown makes the cost explicit.",
+        "references": [
+          {
+            "label": "Animated Views",
+            "url": "https://animatedviews.com/2006/ultimate-avengers-2/"
+          }
+        ]
+      },
+      {
+        "name": "Care for a spouse",
+        "score": 3,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Janet voices concern after Hank almost dies testing his powers. Her care carries weight in their marriage even when he resents it.",
+        "references": [
+          {
+            "label": "Animated Views",
+            "url": "https://animatedviews.com/2006/ultimate-avengers-2/"
+          }
+        ]
+      },
+      {
+        "name": "Recklessness",
+        "score": 4,
+        "type": "harmful",
+        "portrayal": "criticized",
+        "evidence": "Hank endangers himself while testing his limits, and Captain America keeps leaving the team. Separate storylines show who else must carry the risk.",
+        "references": [
+          {
+            "label": "Animated Views",
+            "url": "https://animatedviews.com/2006/ultimate-avengers-2/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "score": null,
+        "type": "context",
+        "portrayal": "unverified",
+        "evidence": "Sources describe a kiss and marital conflict without a complete accounting of relationships. Check the original sequel on DVD before assigning a prominence score.",
+        "references": [
+          {
+            "label": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/ultimate-avengers-2-rise-of-the-panther"
+          }
+        ]
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "details": "Flirtation and a kiss appear.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.commonsensemedia.org/movie-reviews/ultimate-avengers-2-rise-of-the-panther"
+      },
+      {
+        "name": "Language",
+        "details": "Guides disagree about a mild swear. The DVD dialogue remains to be checked.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.imdb.com/title/tt0803093/parentalguide/"
+      },
+      {
+        "name": "Violence",
+        "details": "The king dies fighting Kleiser. The continuing invasion includes casualties among the defenders.",
+        "severity": "Moderate",
+        "sourceUrl": "https://animatedviews.com/2006/ultimate-avengers-2/"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "Thor sees visions of his teammates dying and later restores one fallen teammate to life.",
+        "severity": "Mild",
+        "sourceUrl": "https://animatedviews.com/2006/ultimate-avengers-2/"
+      },
+      {
+        "name": "Substance use",
+        "details": "Tony and Thor drink, and Banner is repeatedly subdued with gas.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.commonsensemedia.org/movie-reviews/ultimate-avengers-2-rise-of-the-panther"
+      }
+    ],
+    "scripture": [
+      "Galatians 6:2"
+    ],
+    "themeScripture": {
+      "reference": "Galatians 6:2",
+      "translation": "KJV",
+      "text": "Bear ye one another's burdens, and so fulfil the law of Christ.",
+      "url": "https://www.biblegateway.com/passage/?search=Galatians+6%3A2&version=KJV",
+      "connection": "Helping to carry a burden can begin with saying aloud that someone is in danger. What might change if Hank heard Janet’s concern as an offer of help?"
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homilies on the Gospel of John",
+      "section": "Homily 77, section 1, on love",
+      "text": "Because this is the mark of the disciples, this the bond of virtue.",
+      "url": "https://www.newadvent.org/fathers/240177.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "Hearing a spouse’s concern",
+        "filmMoment": "Janet objects when Hank’s experiment nearly costs him his life.",
+        "scriptureReference": "Galatians 6:2",
+        "reflection": "Helping to carry a burden can begin with saying aloud that someone is in danger. What might change if Hank heard Janet’s concern as an offer of help?",
+        "sourceUrl": "https://animatedviews.com/2006/ultimate-avengers-2/"
+      }
+    ],
+    "questions": [
+      "What does T’Challa owe his people after his father’s death?",
+      "Why might he share information with Captain America yet object to the team entering Wakanda?",
+      "What does losing the crown reveal about the cost of his choice?",
+      "Why does Hank hear criticism when Janet fears for his life?",
+      "How would Captain America’s solo missions look from the perspective of someone sent to help him?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Flirtation and a kiss appear."
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media",
+              "url": "https://www.commonsensemedia.org/movie-reviews/ultimate-avengers-2-rise-of-the-panther",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "unverified",
+          "findings": [
+            "Guides disagree about a mild swear. The DVD dialogue remains to be checked."
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media",
+              "url": "https://www.commonsensemedia.org/movie-reviews/ultimate-avengers-2-rise-of-the-panther",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            },
+            {
+              "provider": "IMDb Parents Guide (user contributions)",
+              "url": "https://www.imdb.com/title/tt0803093/parentalguide/",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The king dies fighting Kleiser. The continuing invasion includes casualties among the defenders."
+          ],
+          "evidence": [
+            {
+              "provider": "Animated Views",
+              "url": "https://animatedviews.com/2006/ultimate-avengers-2/",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Thor sees visions of his teammates dying and later restores one fallen teammate to life."
+          ],
+          "evidence": [
+            {
+              "provider": "Animated Views",
+              "url": "https://animatedviews.com/2006/ultimate-avengers-2/",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Tony and Thor drink, and Banner is repeatedly subdued with gas."
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media",
+              "url": "https://www.commonsensemedia.org/movie-reviews/ultimate-avengers-2-rise-of-the-panther",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "T’Challa loses his crown after cooperating with Captain America."
+          ],
+          "evidence": [
+            {
+              "provider": "Animated Views",
+              "url": "https://animatedviews.com/2006/ultimate-avengers-2/",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  }
+]

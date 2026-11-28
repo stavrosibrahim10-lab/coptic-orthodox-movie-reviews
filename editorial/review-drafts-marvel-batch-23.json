@@ -1,0 +1,460 @@
+[
+  {
+    "id": "marvel-2013-iron-man-hulk-heroes-united",
+    "title": "Iron Man & Hulk: Heroes United",
+    "year": 2013,
+    "edition": "2013 US Disney animated home-video feature released December 3",
+    "verdict": "edifying",
+    "synopsis": "HYDRA drains energy from Hulk and Abomination to power a reactor. The experiment causes a blackout and releases Zzzax, a living electrical threat.",
+    "verdictRationale": "In the cemetery, Hulk can move but cannot see, while Tony can see but cannot move freely. Asking for help lets both men protect the other. Their earlier fight makes this change in how they treat each other worth noticing, even amid the long stretches of combat.",
+    "ageRationale": "Proposed 10+ for repeated fights, Hulk’s temporary blindness and an attack by creatures in a cemetery. Children sensitive to losing sight or being surrounded may find that encounter particularly frightening.",
+    "reflection": "A child watching Hulk carry Tony might first notice who is stronger. Ask who has to trust a voice he cannot check and who has to entrust his body to another. Each offers a gift while accepting help.",
+    "age": "10+",
+    "officialRating": "PG",
+    "genre": "Marvel · Animation",
+    "sources": [
+      {
+        "label": "Disney release record",
+        "url": "https://movies.disney.com/iron-man-and-hulk-heroes-united"
+      },
+      {
+        "label": "DVD Talk disc review",
+        "url": "https://www.dvdtalk.com/reviews/review/62148"
+      },
+      {
+        "label": "English dialogue transcript",
+        "url": "https://transcripts.foreverdreaming.org/viewtopic.php?t=37673"
+      },
+      {
+        "label": "US classification advisory",
+        "url": "https://www.imdb.com/title/tt3221698/parentalguide/"
+      }
+    ],
+    "themes": [
+      {
+        "name": "Mutual care",
+        "score": 5,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Tony guides Hulk through the cemetery while Hulk supplies the movement Tony lacks. Their dependence gives the partnership its clearest expression.",
+        "references": [
+          {
+            "label": "DVD Talk disc review",
+            "url": "https://www.dvdtalk.com/reviews/review/62148"
+          }
+        ]
+      },
+      {
+        "name": "Humility",
+        "score": 3,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Tony credits Hulk with a good idea about Zzzax. The acknowledgment briefly interrupts their rivalry.",
+        "references": [
+          {
+            "label": "English dialogue transcript",
+            "url": "https://transcripts.foreverdreaming.org/viewtopic.php?t=37673"
+          }
+        ]
+      },
+      {
+        "name": "Exploitation",
+        "score": 4,
+        "type": "harmful",
+        "portrayal": "criticized",
+        "evidence": "HYDRA pits Hulk and Abomination against one another and drains them to fuel its device. Treating captives as resources sets the crisis in motion.",
+        "references": [
+          {
+            "label": "DVD Talk disc review",
+            "url": "https://www.dvdtalk.com/reviews/review/62148"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "score": null,
+        "type": "context",
+        "portrayal": "unverified",
+        "references": [
+          {
+            "label": "DVD Talk disc review",
+            "url": "https://www.dvdtalk.com/reviews/review/62148"
+          }
+        ],
+        "evidence": "The guide does not establish a film-wide prominence score. Check the full 2013 feature, including dialogue and visual context."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Language",
+        "severity": "Mild",
+        "details": "The US rating advisory identifies brief mild language without identifying the words.",
+        "sourceUrl": "https://www.imdb.com/title/tt3221698/parentalguide/"
+      },
+      {
+        "name": "Violence",
+        "severity": "Moderate",
+        "details": "The blinded Hulk and an immobilized Iron Man face a group of Wendigos in a cemetery.",
+        "sourceUrl": "https://www.dvdtalk.com/reviews/review/62148"
+      },
+      {
+        "name": "Spiritual material",
+        "severity": "Mild",
+        "details": "Wendigos appear as threatening creatures in the cemetery sequence.",
+        "sourceUrl": "https://www.dvdtalk.com/reviews/review/62148"
+      }
+    ],
+    "scripture": [
+      "Ecclesiastes 4:9"
+    ],
+    "themeScripture": {
+      "reference": "Ecclesiastes 4:9",
+      "translation": "KJV",
+      "text": "Two are better than one; because they have a good reward for their labour.",
+      "url": "https://www.biblegateway.com/passage/?search=Ecclesiastes+4%3A9%E2%80%9310&version=KJV",
+      "connection": "Each man can supply something the other needs. The passage invites a family to notice the work of receiving help as well as giving it."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homilies on the Acts of the Apostles",
+      "section": "Homily 37, excerpt on mutual need",
+      "text": "the members are of necessity made to stand in need of each other, and the head has need of the feet.",
+      "url": "https://www.newadvent.org/fathers/210137.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "Eyes for a companion",
+        "filmMoment": "Hulk carries Iron Man and follows his directions through the Wendigo attack.",
+        "scriptureReference": "Ecclesiastes 4:9",
+        "reflection": "Each man can supply something the other needs. The passage invites a family to notice the work of receiving help as well as giving it.",
+        "sourceUrl": "https://www.dvdtalk.com/reviews/review/62148"
+      }
+    ],
+    "questions": [
+      "What do the HYDRA scientists overlook when they treat Hulk as a source of power?",
+      "Why is fighting Tony a poor response to the blackout?",
+      "What must Hulk entrust to Tony in the cemetery?",
+      "What changes when Tony recognizes Hulk’s idea about Zzzax?",
+      "If Hulk told the story of the Wendigo fight, what might he thank Tony for?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "unverified",
+          "findings": [],
+          "next_step": "Review the full disc for romantic or sexual material. The action-focused disc review does not assess this category.",
+          "evidence": [
+            {
+              "provider": "DVD Talk disc review",
+              "url": "https://www.dvdtalk.com/reviews/review/62148",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "unverified",
+          "findings": [
+            "The US rating advisory identifies brief mild language without identifying the words."
+          ],
+          "next_step": "Check the original English audio and identify the line in context.",
+          "evidence": [
+            {
+              "provider": "US classification advisory",
+              "url": "https://www.imdb.com/title/tt3221698/parentalguide/",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The blinded Hulk and an immobilized Iron Man face a group of Wendigos in a cemetery."
+          ],
+          "evidence": [
+            {
+              "provider": "DVD Talk disc review",
+              "url": "https://www.dvdtalk.com/reviews/review/62148",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Wendigos appear as threatening creatures in the cemetery sequence."
+          ],
+          "evidence": [
+            {
+              "provider": "DVD Talk disc review",
+              "url": "https://www.dvdtalk.com/reviews/review/62148",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "unverified",
+          "findings": [],
+          "next_step": "Screen the disc for alcohol, tobacco and drug use. The available review focuses on combat.",
+          "evidence": [
+            {
+              "provider": "DVD Talk disc review",
+              "url": "https://www.dvdtalk.com/reviews/review/62148",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Tony becomes Hulk’s guide when Hulk cannot see and Tony cannot move independently."
+          ],
+          "evidence": [
+            {
+              "provider": "DVD Talk disc review",
+              "url": "https://www.dvdtalk.com/reviews/review/62148",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2014-iron-man-captain-america-heroes-united",
+    "title": "Iron Man & Captain America: Heroes United",
+    "year": 2014,
+    "edition": "2014 US computer-animated feature, 71 minutes, Adrian Pasdar and Roger Craig Smith",
+    "verdict": "neutral",
+    "synopsis": "After sparring over skill and equipment, Tony and Steve face Red Skull, who plans to turn people into soldiers under his control using serum made with Steve’s blood.",
+    "verdictRationale": "Steve risks annoying a friend to teach him how to fight if his armor fails. Later Tony clears a path for them both. Their friendship offers something to admire, but much of the film’s attention goes to bigger fights and competitive taunts, with little time to consider the people threatened by Red Skull.",
+    "ageRationale": "Proposed 10+ for near-continuous animated combat and an attempt to bend a captive’s will. Red Skull’s plan to change people against their wishes can be unsettling apart from the physical fighting.",
+    "reflection": "Steve’s sparring lesson starts an argument because Tony hears a challenge where Steve intends help. Families might consider how to offer correction plainly enough for a friend to hear it, and how to receive it without needing to win.",
+    "age": "10+",
+    "officialRating": "PG",
+    "genre": "Marvel · Animation",
+    "sources": [
+      {
+        "label": "Rotten Tomatoes release and cast record",
+        "url": "https://www.rottentomatoes.com/m/iron_man_and_captain_america_heroes_united_2014"
+      },
+      {
+        "label": "Common Sense Media parental guide",
+        "url": "https://www.commonsensemedia.org/movie-reviews/iron-man-captain-america-heroes-united"
+      },
+      {
+        "label": "English dialogue transcript",
+        "url": "https://transcripts.foreverdreaming.org/viewtopic.php?t=144747"
+      }
+    ],
+    "themes": [
+      {
+        "name": "Friendship and correction",
+        "score": 3,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Steve deliberately exposes a weakness during sparring and explains his concern. It gives their opening contest a purpose beyond winning.",
+        "references": [
+          {
+            "label": "English dialogue transcript",
+            "url": "https://transcripts.foreverdreaming.org/viewtopic.php?t=144747"
+          }
+        ]
+      },
+      {
+        "name": "Cooperation",
+        "score": 4,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Facing troops equipped with stolen abilities, Steve calls for a retreat and Tony clears their route. Each relies on the other’s judgment under pressure.",
+        "references": [
+          {
+            "label": "English dialogue transcript",
+            "url": "https://transcripts.foreverdreaming.org/viewtopic.php?t=144747"
+          }
+        ]
+      },
+      {
+        "name": "Domination",
+        "score": 5,
+        "type": "harmful",
+        "portrayal": "condemned",
+        "evidence": "Red Skull tries to control Steve’s mind and plans to transform millions into soldiers. The threat to others’ freedom drives the conflict.",
+        "references": [
+          {
+            "label": "English dialogue transcript",
+            "url": "https://transcripts.foreverdreaming.org/viewtopic.php?t=144747"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "score": null,
+        "type": "context",
+        "portrayal": "unverified",
+        "references": [
+          {
+            "label": "Common Sense Media parental guide",
+            "url": "https://www.commonsensemedia.org/movie-reviews/iron-man-captain-america-heroes-united"
+          }
+        ],
+        "evidence": "The guide does not establish a film-wide prominence score. Check the full 2014 feature, including dialogue and visual context."
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Language",
+        "severity": "Mild",
+        "details": "Steve begins an insult that is interrupted before he finishes.",
+        "sourceUrl": "https://www.commonsensemedia.org/movie-reviews/iron-man-captain-america-heroes-united"
+      },
+      {
+        "name": "Violence",
+        "severity": "Moderate",
+        "details": "Red Skull’s enhanced troops fight using copied combat skills and weapons.",
+        "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=144747"
+      }
+    ],
+    "scripture": [
+      "Ecclesiastes 4:9"
+    ],
+    "themeScripture": {
+      "reference": "Ecclesiastes 4:9",
+      "translation": "KJV",
+      "text": "Two are better than one; because they have a good reward for their labour.",
+      "url": "https://www.biblegateway.com/passage/?search=Ecclesiastes+4%3A9%E2%80%9310&version=KJV",
+      "connection": "The friends have different skills. Steve sees one way that sharing what he knows could protect Tony when the armor fails."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homilies on the Acts of the Apostles",
+      "section": "Homily 37, excerpt on mutual need",
+      "text": "the members are of necessity made to stand in need of each other, and the head has need of the feet.",
+      "url": "https://www.newadvent.org/fathers/210137.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "Learning from a friend",
+        "filmMoment": "Tony discovers why Steve wanted him to practice fighting without depending on his armor.",
+        "scriptureReference": "Ecclesiastes 4:9",
+        "reflection": "The friends have different skills. Steve sees one way that sharing what he knows could protect Tony when the armor fails.",
+        "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=144747"
+      }
+    ],
+    "questions": [
+      "At what point does Tony understand Steve’s reason for sparring?",
+      "How could Steve have explained his concern before the match?",
+      "What does Red Skull take from Steve besides a sample of his blood?",
+      "Why is copying Steve’s combat skill different from learning the discipline Steve offered Tony?",
+      "What happens when Steve calls for retreat and Tony helps clear the way?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "source_reports_not_present",
+          "findings": [
+            "The parental guide reports no sexual content in its coverage."
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media parental guide",
+              "url": "https://www.commonsensemedia.org/movie-reviews/iron-man-captain-america-heroes-united",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Steve begins an insult that is interrupted before he finishes."
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media parental guide",
+              "url": "https://www.commonsensemedia.org/movie-reviews/iron-man-captain-america-heroes-united",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Red Skull’s enhanced troops fight using copied combat skills and weapons."
+          ],
+          "evidence": [
+            {
+              "provider": "English dialogue transcript",
+              "url": "https://transcripts.foreverdreaming.org/viewtopic.php?t=144747",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "unverified",
+          "findings": [],
+          "next_step": "Check the 71-minute feature for religious imagery or dialogue. The documented mind-control scene alone cannot settle that question.",
+          "evidence": [
+            {
+              "provider": "English dialogue transcript",
+              "url": "https://transcripts.foreverdreaming.org/viewtopic.php?t=144747",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "source_reports_not_present",
+          "findings": [
+            "The parental guide reports no drinking, drugs or smoking. The fictional serum is part of Red Skull’s coercion plot."
+          ],
+          "evidence": [
+            {
+              "provider": "Common Sense Media parental guide",
+              "url": "https://www.commonsensemedia.org/movie-reviews/iron-man-captain-america-heroes-united",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Steve tells Tony that their sparring session was meant to prepare him to defend himself."
+          ],
+          "evidence": [
+            {
+              "provider": "English dialogue transcript",
+              "url": "https://transcripts.foreverdreaming.org/viewtopic.php?t=144747",
+              "checked_at": "2026-11-27",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  }
+]

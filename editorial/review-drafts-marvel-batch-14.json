@@ -1,0 +1,521 @@
+[
+  {
+    "id": "marvel-2003-hulk",
+    "title": "Hulk",
+    "year": 2003,
+    "edition": "Ang Lee’s US theatrical feature, 138 minutes, starring Eric Bana",
+    "genre": "Marvel · Live action",
+    "officialRating": "PG-13",
+    "sources": [
+      {
+        "label": "Universal Pictures",
+        "url": "https://www.universalpicturesathome.com/movies/the-hulk"
+      },
+      {
+        "label": "BBFC",
+        "url": "https://www.bbfc.co.uk/release/hulk-q29sbgvjdglvbjpwwc0znjawmjg"
+      },
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/hulk/"
+      },
+      {
+        "label": "Children and Media Australia",
+        "url": "https://childrenandmedia.org.au/movie-reviews/movies/hulk-the"
+      },
+      {
+        "label": "Roger Ebert",
+        "url": "https://www.rogerebert.com/reviews/hulk-2003"
+      }
+    ],
+    "age": "13+",
+    "verdict": "neutral",
+    "synopsis": "Bruce Banner survives a laboratory accident. As his body begins to change, the return of his father brings a buried childhood memory to the surface.",
+    "verdictRationale": "Bruce uses his strength to protect Betty and admits to her that losing control can feel good. That admission gives families a way to discuss anger honestly. The film also invites viewers to enjoy the destruction Bruce fears in himself.",
+    "ageRationale": "The flashback to a child threatened by his father may trouble viewers long after the monster fights. The frightening dog attack and repeated transformations also weigh in favor of waiting until the teen years.",
+    "reflection": "Bruce can tell Betty something painful about himself because she listens. In an Orthodox examination of conscience, his admission suggests a harder question than who started a fight: what part of getting even did I enjoy?",
+    "themes": [
+      {
+        "name": "Protection",
+        "score": 4,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Bruce intervenes when the dogs attack Betty.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/hulk/"
+          }
+        ]
+      },
+      {
+        "name": "Honesty",
+        "score": 3,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Bruce tells Betty that he enjoys losing control even though it frightens him.",
+        "references": [
+          {
+            "label": "Roger Ebert",
+            "url": "https://www.rogerebert.com/reviews/hulk-2003"
+          }
+        ]
+      },
+      {
+        "name": "Destructive anger",
+        "score": 5,
+        "type": "harmful",
+        "portrayal": "mixed",
+        "evidence": "Bruce lashes out at tormentors and admits his attraction to that loss of control.",
+        "references": [
+          {
+            "label": "Roger Ebert",
+            "url": "https://www.rogerebert.com/reviews/hulk-2003"
+          }
+        ]
+      },
+      {
+        "name": "Abuse of parental power",
+        "score": 5,
+        "type": "harmful",
+        "portrayal": "criticized",
+        "evidence": "David tries to kill his son and the boy’s mother intervenes.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/hulk/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "type": "context",
+        "score": null,
+        "portrayal": "unverified",
+        "evidence": "Available sources do not establish a film-wide score.",
+        "references": []
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Partial nudity",
+        "details": "The distributor flags brief partial nudity.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.universalpicturesathome.com/movies/the-hulk"
+      },
+      {
+        "name": "Language",
+        "details": "Dialogue includes profanity and religious exclamations.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.bbfc.co.uk/release/hulk-q29sbgvjdglvbjpwwc0znjawmjg"
+      },
+      {
+        "name": "Family violence and peril",
+        "details": "A father threatens his child with a knife and stabs the boy’s mother when she intervenes. Mutated dogs attack Betty.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/hulk/"
+      },
+      {
+        "name": "Pride and human limits",
+        "details": "David describes surpassing the boundaries set by God as an aim of his experiments.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/hulk/"
+      },
+      {
+        "name": "Alcohol",
+        "details": "Betty and Bruce drink beer after work.",
+        "severity": "Mild",
+        "sourceUrl": "https://childrenandmedia.org.au/movie-reviews/movies/hulk-the"
+      }
+    ],
+    "scripture": [
+      "Romans 12:21"
+    ],
+    "themeScripture": {
+      "reference": "Romans 12:21",
+      "translation": "KJV",
+      "text": "Be not overcome of evil, but overcome evil with good.",
+      "url": "https://www.biblegateway.com/passage/?search=Romans+12%3A21&version=KJV",
+      "connection": "Paul asks what good we can do when someone has wronged us. Bruce cannot undo what his father did to him, but he can keep Betty from paying for it. Where might he find help when there is no one left to fight?"
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 22 on Romans",
+      "section": "On Romans 12:20–21",
+      "text": "For I even insist upon your doing kindness.",
+      "url": "https://www.newadvent.org/fathers/210222.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "What Bruce does with his strength",
+        "filmMoment": "Bruce fights the mutated dogs attacking Betty.",
+        "scriptureReference": "Romans 12:21",
+        "reflection": "Paul asks what good we can do when someone has wronged us. Bruce cannot undo what his father did to him, but he can keep Betty from paying for it. Where might he find help when there is no one left to fight?",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/hulk/"
+      }
+    ],
+    "questions": [
+      "What gives Bruce enough trust to tell Betty that he likes the feeling of losing control?",
+      "What does David believe his discoveries entitle him to do to his son?",
+      "In the dog attack, what tells you whom Bruce is trying to protect?",
+      "How does learning what happened to Bruce’s mother change your reading of his anger?",
+      "If Bruce came to Betty after an outburst, what could she acknowledge and what harm could she ask him to repair?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The distributor flags brief partial nudity."
+          ],
+          "evidence": [
+            {
+              "provider": "Universal Pictures",
+              "url": "https://www.universalpicturesathome.com/movies/the-hulk",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Dialogue includes profanity and religious exclamations."
+          ],
+          "evidence": [
+            {
+              "provider": "BBFC",
+              "url": "https://www.bbfc.co.uk/release/hulk-q29sbgvjdglvbjpwwc0znjawmjg",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A father threatens his child with a knife and stabs the boy’s mother when she intervenes. Mutated dogs attack Betty."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/hulk/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "David describes surpassing the boundaries set by God as an aim of his experiments."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/hulk/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Betty and Bruce drink beer after work."
+          ],
+          "evidence": [
+            {
+              "provider": "Children and Media Australia",
+              "url": "https://childrenandmedia.org.au/movie-reviews/movies/hulk-the",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Bruce intervenes when the dogs attack Betty."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/hulk/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    }
+  },
+  {
+    "id": "marvel-2005-elektra",
+    "title": "Elektra",
+    "year": 2005,
+    "edition": "Rob Bowman's original 2005 US theatrical release, 97 minutes (AFI)",
+    "genre": "Marvel · Live action",
+    "officialRating": "PG-13",
+    "sources": [
+      {
+        "label": "Plugged In",
+        "url": "https://www.pluggedin.com/movie-reviews/elektra/"
+      },
+      {
+        "label": "Chicago Public Library",
+        "url": "https://chipublib.bibliocommons.com/v2/record/S147C1998193"
+      },
+      {
+        "label": "AFI Catalog",
+        "url": "https://catalog.afi.com/Catalog/MovieDetails/63395"
+      },
+      {
+        "label": "Common Sense Media",
+        "url": "https://www.commonsensemedia.org/movie-reviews/elektra"
+      }
+    ],
+    "age": "16+",
+    "verdict": "neutral",
+    "synopsis": "A contract killer discovers that her next targets are Mark and his daughter Abby. Refusing the assignment puts her between the family and another band of assassins.",
+    "verdictRationale": "Elektra risks her life for the people she was paid to kill. That choice gives the story moral weight. Its opening also treats her skill at killing hired guards as a spectacle, and much of her work as a protector still consists of disposing of enemies.",
+    "ageRationale": "An opening assassination leaves blood on a blade. A later beheading is implied, and a child is targeted by supernatural attackers. These scenes and repeated profanity weigh in favor of older teens.",
+    "reflection": "Stick asks whether protecting Abby is Elektra’s way of paying for her sins. An Orthodox family might ask what repentance asks of her after the danger passes. Abby needs an adult she can trust even when there is no enemy to fight.",
+    "themes": [
+      {
+        "name": "Protection",
+        "score": 5,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Defending Mark and Abby redirects the entire story.",
+        "references": [
+          {
+            "label": "Chicago Public Library",
+            "url": "https://chipublib.bibliocommons.com/v2/record/S147C1998193"
+          }
+        ]
+      },
+      {
+        "name": "Moral courage",
+        "score": 4,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "She accepts the danger of turning against those who commissioned the killings.",
+        "references": [
+          {
+            "label": "Chicago Public Library",
+            "url": "https://chipublib.bibliocommons.com/v2/record/S147C1998193"
+          }
+        ]
+      },
+      {
+        "name": "Killing for gain",
+        "score": 5,
+        "type": "harmful",
+        "portrayal": "mixed",
+        "evidence": "The opening showcases her lethal efficiency. McCabe questions her killing of the guards.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/elektra/"
+          }
+        ]
+      },
+      {
+        "name": "Dishonesty",
+        "score": 2,
+        "type": "harmful",
+        "portrayal": "mixed",
+        "evidence": "Abby steals and lies. Elektra excuses lying in their conversations.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/elektra/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "score": null,
+        "type": "context",
+        "portrayal": "unverified",
+        "evidence": "Typhoid kisses Elektra while draining her life. The attack is documented. It does not establish either character’s orientation or film-wide prominence. Check the theatrical cut against the rubric before assigning a score.",
+        "references": [
+          {
+            "label": "Plugged In",
+            "url": "https://www.pluggedin.com/movie-reviews/elektra/"
+          }
+        ]
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Kissing",
+        "details": "Elektra kisses Mark. Typhoid kisses Elektra on the lips while draining her life.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/elektra/"
+      },
+      {
+        "name": "Language",
+        "details": "Abby and adult characters swear. Dialogue includes religious exclamations.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/elektra/"
+      },
+      {
+        "name": "Assassinations and child peril",
+        "details": "A guard is thrown from a roof. Kirigi swings at McCabe’s neck before the camera cuts away. Snakes surround an unconscious Abby.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/elektra/"
+      },
+      {
+        "name": "Supernatural powers",
+        "details": "A flashback shows Stick bringing Elektra back from death. Tattoo summons animals from images on his body.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/elektra/"
+      },
+      {
+        "name": "Alcohol and medication",
+        "details": "Mark and Elektra drink wine. After a nightmare Elektra takes a pill to help her sleep.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/elektra/"
+      }
+    ],
+    "scripture": [
+      "Romans 12:21"
+    ],
+    "themeScripture": {
+      "reference": "Romans 12:21",
+      "translation": "KJV",
+      "text": "Be not overcome of evil, but overcome evil with good.",
+      "url": "https://www.biblegateway.com/passage/?search=Romans+12%3A21&version=KJV",
+      "connection": "Paul calls for an active response to evil. Refusing the fee spares the family from Elektra herself. Staying to defend them costs her something more."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homily 22 on Romans",
+      "section": "On Romans 12:20–21",
+      "text": "For I even insist upon your doing kindness.",
+      "url": "https://www.newadvent.org/fathers/210222.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "The assignment she refuses",
+        "filmMoment": "Elektra refuses the contract on Mark and Abby and protects them.",
+        "scriptureReference": "Romans 12:21",
+        "reflection": "Paul calls for an active response to evil. Refusing the fee spares the family from Elektra herself. Staying to defend them costs her something more.",
+        "sourceUrl": "https://chipublib.bibliocommons.com/v2/record/S147C1998193"
+      }
+    ],
+    "questions": [
+      "What does McCabe’s question about the guards reveal about Elektra’s first assignment?",
+      "Why does knowing Mark and Abby make the next contract harder to accept?",
+      "What does Abby learn when Elektra excuses lying?",
+      "Why might Stick ask about penance when Elektra brings the family to him?",
+      "How could Elektra continue protecting Abby once the fighting is over?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending",
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Elektra kisses Mark. Typhoid kisses Elektra on the lips while draining her life."
+          ],
+          "absence_verified": false,
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/elektra/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ]
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Abby and adult characters swear. Dialogue includes religious exclamations."
+          ],
+          "absence_verified": false,
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/elektra/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ]
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A guard is thrown from a roof. Kirigi swings at McCabe’s neck before the camera cuts away. Snakes surround an unconscious Abby."
+          ],
+          "absence_verified": false,
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/elektra/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ]
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A flashback shows Stick bringing Elektra back from death. Tattoo summons animals from images on his body."
+          ],
+          "absence_verified": false,
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/elektra/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ]
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Mark and Elektra drink wine. After a nightmare Elektra takes a pill to help her sleep."
+          ],
+          "absence_verified": false,
+          "evidence": [
+            {
+              "provider": "Plugged In",
+              "url": "https://www.pluggedin.com/movie-reviews/elektra/",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ]
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Elektra refuses the contract on Mark and Abby and protects them."
+          ],
+          "absence_verified": false,
+          "evidence": [
+            {
+              "provider": "Chicago Public Library",
+              "url": "https://chipublib.bibliocommons.com/v2/record/S147C1998193",
+              "checked_at": "2026-11-26",
+              "scope": "external_guide"
+            }
+          ]
+        }
+      }
+    }
+  }
+]

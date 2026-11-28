@@ -1,0 +1,476 @@
+[
+  {
+    "id": "marvel-1989-the-punisher",
+    "title": "The Punisher",
+    "year": 1989,
+    "edition": "Mark Goldblatt feature starring Dolph Lundgren; standard R-rated home-video release, excluding the extended workprint.",
+    "genre": "Marvel · Crime thriller",
+    "age": "18+",
+    "verdict": "destructive",
+    "synopsis": "When gangsters’ children are kidnapped, Frank Castle gets most of them to safety. Reaching the last boy means working alongside his father, a man Castle has every reason to distrust.",
+    "verdictRationale": "Castle sees that children have no share in their parents’ guilt. He even risks arrest to get them away. Yet the film repeatedly gives his private campaign of killing the force of justice. Its sharpest challenge to that pattern comes from Tommy, who has just lost his father and lets Castle live.",
+    "ageRationale": "Armed adults use children as hostages. A boy faces the man who has killed his father. These scenes of bereavement and intimidation accompany repeated lethal violence.",
+    "reflection": "What kind of future is left to Tommy when the adults around him model revenge? Castle’s parting advice would carry more weight if Tommy could see him live by it. The boy’s hesitation gives an Orthodox family an opening to discuss mercy toward a person who has caused real harm.",
+    "sources": [
+      {
+        "label": "Released film narrative",
+        "url": "https://en.wikipedia.org/wiki/The_Punisher_(1989_film)"
+      },
+      {
+        "label": "Film Blitz review",
+        "url": "https://filmblitz.org/punisher-1989/"
+      },
+      {
+        "label": "Home-video cut identification",
+        "url": "https://www.imdb.com/title/tt0098141/alternateversions/"
+      },
+      {
+        "label": "University of East Anglia film analysis",
+        "url": "https://ueaeprints.uea.ac.uk/id/eprint/64255/1/M_Kent_thesis_final.pdf"
+      }
+    ],
+    "themes": [
+      {
+        "name": "Protection of children",
+        "score": 4,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Castle gets the captives onto a bus and risks capture himself. Their safety changes whom he is willing to help.",
+        "references": [
+          {
+            "label": "Released film narrative",
+            "url": "https://en.wikipedia.org/wiki/The_Punisher_(1989_film)"
+          }
+        ]
+      },
+      {
+        "name": "Restraint",
+        "score": 3,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Tommy has an opportunity to shoot Castle and lets it pass. His decision breaks the pattern at the climax.",
+        "references": [
+          {
+            "label": "Released film narrative",
+            "url": "https://en.wikipedia.org/wiki/The_Punisher_(1989_film)"
+          }
+        ]
+      },
+      {
+        "name": "Vigilante killing",
+        "score": 5,
+        "type": "harmful",
+        "portrayal": "mixed",
+        "evidence": "Castle’s private war frames the story and lethal raids deliver the action payoff even as Tommy’s loss shows its cost.",
+        "references": [
+          {
+            "label": "Film Blitz review",
+            "url": "https://filmblitz.org/punisher-1989/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "score": null,
+        "type": "context",
+        "portrayal": "unverified",
+        "evidence": "The plot sources describe fathers, children and rival gangs. Screen the standard R-rated cut before assigning a film-wide score.",
+        "references": [
+          {
+            "label": "Released film narrative",
+            "url": "https://en.wikipedia.org/wiki/The_Punisher_(1989_film)"
+          }
+        ]
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Nudity",
+        "details": "Castle is unclothed while alone in the sewer; the scene intercuts his grief over his family.",
+        "severity": "Moderate",
+        "sourceUrl": "https://ueaeprints.uea.ac.uk/id/eprint/64255/1/M_Kent_thesis_final.pdf"
+      },
+      {
+        "name": "Violence",
+        "details": "Two armed factions hold children hostage and Franco dies fighting Castle after Tommy is recovered.",
+        "severity": "Strong",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Punisher_(1989_film)"
+      },
+      {
+        "name": "Prayer",
+        "details": "Castle prays in his underground refuge while the film recalls his family’s death.",
+        "severity": "Mild",
+        "sourceUrl": "https://ueaeprints.uea.ac.uk/id/eprint/64255/1/M_Kent_thesis_final.pdf"
+      }
+    ],
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Castle is unclothed while alone in the sewer; the scene intercuts his grief over his family."
+          ],
+          "evidence": [
+            {
+              "provider": "University of East Anglia film analysis",
+              "url": "https://ueaeprints.uea.ac.uk/id/eprint/64255/1/M_Kent_thesis_final.pdf",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "unverified",
+          "evidence": [],
+          "findings": [],
+          "absence_verified": false,
+          "next_step": "Check original English captions on the R-rated home release for specific insults; the longer workprint has additional scenes."
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Two armed factions hold children hostage and Franco dies fighting Castle after Tommy is recovered."
+          ],
+          "evidence": [
+            {
+              "provider": "Released film narrative",
+              "url": "https://en.wikipedia.org/wiki/The_Punisher_(1989_film)",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Castle prays in his underground refuge while the film recalls his family’s death."
+          ],
+          "evidence": [
+            {
+              "provider": "University of East Anglia film analysis",
+              "url": "https://ueaeprints.uea.ac.uk/id/eprint/64255/1/M_Kent_thesis_final.pdf",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "unverified",
+          "evidence": [],
+          "findings": [],
+          "absence_verified": false,
+          "next_step": "Check the R-rated cut’s club and police scenes for identifiable drinking, smoking or drug use."
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Tommy spares the man who has just killed his father."
+          ],
+          "evidence": [
+            {
+              "provider": "Released film narrative",
+              "url": "https://en.wikipedia.org/wiki/The_Punisher_(1989_film)",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    },
+    "scripture": [
+      "Romans 12:21"
+    ],
+    "themeScripture": {
+      "reference": "Romans 12:21",
+      "translation": "KJV",
+      "text": "Be not overcome of evil, but overcome evil with good.",
+      "url": "https://www.biblegateway.com/passage/?search=Romans+12%3A21&version=KJV",
+      "connection": "Paul asks for an active good. Tommy’s restraint is a beginning; families can consider what protection and companionship he needs after Castle leaves."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homilies on Romans",
+      "section": "Homily 22",
+      "text": "He did not say, be not spiteful or revengeful, but required something far better.",
+      "url": "https://www.newadvent.org/fathers/210222.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "After the rescue",
+        "filmMoment": "Tommy has an opportunity to retaliate and does not shoot Castle.",
+        "reflection": "Paul asks for an active good. Tommy’s restraint is a beginning; families can consider what protection and companionship he needs after Castle leaves.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Punisher_(1989_film)",
+        "scriptureReference": "Romans 12:21"
+      }
+    ],
+    "questions": [
+      "Why does Castle help the children of his enemies?",
+      "What does his arrest after the bus rescue cost him?",
+      "What can Frank and Franco agree on while Tommy is missing?",
+      "What does Tommy see in the final fight that the adults overlook?",
+      "Who could help Tommy live differently after Castle disappears?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending"
+  },
+  {
+    "id": "marvel-2005-man-thing",
+    "title": "Man-Thing",
+    "year": 2005,
+    "edition": "Brett Leonard’s 96-minute Lionsgate home/streaming feature with Matthew Le Nevez; advisories refer to the adult-rated version.",
+    "genre": "Marvel · Swamp horror",
+    "age": "18+",
+    "verdict": "neutral",
+    "synopsis": "In Bywater, a new sheriff investigates disappearances near an oil operation. What looks like a search for a suspect becomes an inquiry into who owned the land and what happened to its former custodian.",
+    "verdictRationale": "Williams gradually tests Schist’s accusations against the bodies and testimony. That willingness to revise a judgment is admirable. Schist’s confession exposes the cost of treating a community’s land as his possession. Graphic deaths and a vengeful guardian supply much of the horror, leaving little room for restitution.",
+    "ageRationale": "The opening includes sex and nudity in a canoe. Later, the investigation repeatedly brings the viewer close to mutilated remains, including a disturbing discovery during an autopsy.",
+    "reflection": "A sheriff can listen to a landowner and still owe the accused a hearing. Consider how readily a powerful person’s account can become the town’s accepted story. The swamp guardian belongs to this film’s supernatural fiction; the duty to hear a neighbor fairly applies in ordinary life.",
+    "sources": [
+      {
+        "label": "Released feature narrative",
+        "url": "https://en.wikipedia.org/wiki/Man-Thing_(film)"
+      },
+      {
+        "label": "Prime Video release and advisory",
+        "url": "https://www.primevideo.com/detail/0OSMUVD7R2WBZ32WJBPA1NAB1L"
+      },
+      {
+        "label": "Viewer scene guide",
+        "url": "https://www.imdb.com/title/tt0290747/parentalguide/"
+      },
+      {
+        "label": "Feature dialogue transcript",
+        "url": "https://www.stockq.org/moviescript/M/man-thing.php"
+      },
+      {
+        "label": "TV Guide feature identification",
+        "url": "https://www.tvguide.com/movies/man-thing/2000133568/"
+      }
+    ],
+    "themes": [
+      {
+        "name": "Seeking justice",
+        "score": 4,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Williams reconsiders the case against Laroque as the investigation develops. Correcting the accusation changes the direction of the inquiry.",
+        "references": [
+          {
+            "label": "Released feature narrative",
+            "url": "https://en.wikipedia.org/wiki/Man-Thing_(film)"
+          }
+        ]
+      },
+      {
+        "name": "Greed and abuse of power",
+        "score": 5,
+        "type": "harmful",
+        "portrayal": "condemned",
+        "evidence": "Schist admits killing Sallis and burying him on the land. Concealing the crime underlies the conflict over drilling.",
+        "references": [
+          {
+            "label": "Released feature narrative",
+            "url": "https://en.wikipedia.org/wiki/Man-Thing_(film)"
+          }
+        ]
+      },
+      {
+        "name": "Dehumanizing speech",
+        "score": 3,
+        "type": "harmful",
+        "portrayal": "condemned",
+        "evidence": "Accusations against Laroque and Horn include a racial insult. The exchange exposes the prejudice shaping pressure on the sheriff.",
+        "references": [
+          {
+            "label": "Feature dialogue transcript",
+            "url": "https://www.stockq.org/moviescript/M/man-thing.php"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "score": null,
+        "type": "context",
+        "portrayal": "unverified",
+        "evidence": "The opening couple and the sheriff’s relationship do not provide coverage of all dialogue and visuals. Screen the adult-rated release before scoring.",
+        "references": [
+          {
+            "label": "Released feature narrative",
+            "url": "https://en.wikipedia.org/wiki/Man-Thing_(film)"
+          }
+        ]
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sex and nudity",
+        "details": "The opening canoe encounter shows nudity and simulated sex.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.imdb.com/title/tt0290747/parentalguide/"
+      },
+      {
+        "name": "Abusive language",
+        "details": "An argument at the protest includes sexual profanity; Laroque is later targeted by a racial slur.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.stockq.org/moviescript/M/man-thing.php"
+      },
+      {
+        "name": "Graphic horror",
+        "details": "Mutilated bodies are examined; investigators discuss a branch growing through a victim.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.stockq.org/moviescript/M/man-thing.php"
+      },
+      {
+        "name": "Supernatural guardian",
+        "details": "The film links Sallis’s return as a swamp creature to the supernatural power of the soil.",
+        "severity": "Moderate",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Man-Thing_(film)"
+      },
+      {
+        "name": "Substances",
+        "details": "A character asks for a cigarette after discussing the bodies; the distributor also lists smoking and alcohol use.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.primevideo.com/detail/0OSMUVD7R2WBZ32WJBPA1NAB1L"
+      }
+    ],
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The opening canoe encounter shows nudity and simulated sex."
+          ],
+          "evidence": [
+            {
+              "provider": "Viewer scene guide",
+              "url": "https://www.imdb.com/title/tt0290747/parentalguide/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "An argument at the protest includes sexual profanity; Laroque is later targeted by a racial slur."
+          ],
+          "evidence": [
+            {
+              "provider": "Feature dialogue transcript",
+              "url": "https://www.stockq.org/moviescript/M/man-thing.php",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Mutilated bodies are examined; investigators discuss a branch growing through a victim."
+          ],
+          "evidence": [
+            {
+              "provider": "Feature dialogue transcript",
+              "url": "https://www.stockq.org/moviescript/M/man-thing.php",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The film links Sallis’s return as a swamp creature to the supernatural power of the soil."
+          ],
+          "evidence": [
+            {
+              "provider": "Released feature narrative",
+              "url": "https://en.wikipedia.org/wiki/Man-Thing_(film)",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A character asks for a cigarette after discussing the bodies; the distributor also lists smoking and alcohol use."
+          ],
+          "evidence": [
+            {
+              "provider": "Prime Video release and advisory",
+              "url": "https://www.primevideo.com/detail/0OSMUVD7R2WBZ32WJBPA1NAB1L",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            },
+            {
+              "provider": "Feature dialogue transcript",
+              "url": "https://www.stockq.org/moviescript/M/man-thing.php",
+              "scope": "transcribed_dialogue",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Schist tries to direct suspicion toward Laroque despite his own role in Sallis’s death."
+          ],
+          "evidence": [
+            {
+              "provider": "Released feature narrative",
+              "url": "https://en.wikipedia.org/wiki/Man-Thing_(film)",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    },
+    "scripture": [
+      "Proverbs 18:13"
+    ],
+    "themeScripture": {
+      "reference": "Proverbs 18:13",
+      "translation": "KJV",
+      "text": "He that answereth a matter before he heareth it, it is folly and shame unto him.",
+      "url": "https://www.biblegateway.com/passage/?search=Proverbs+18%3A13&version=KJV",
+      "connection": "The proverb asks the hearer to wait for evidence. It gives a family a way to assess Williams’s conduct apart from the film’s explanation for the creature."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homilies on the Gospel of John",
+      "section": "Homily 39",
+      "text": "Beloved, we need great diligence in all things, for we shall render account of and undergo a strict enquiry both of words and works.",
+      "url": "https://www.newadvent.org/fathers/240139.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "Hearing the accused",
+        "filmMoment": "Williams reconsiders Schist’s account of Laroque’s role.",
+        "reflection": "The proverb asks the hearer to wait for evidence. It gives a family a way to assess Williams’s conduct apart from the film’s explanation for the creature.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Man-Thing_(film)",
+        "scriptureReference": "Proverbs 18:13"
+      }
+    ],
+    "questions": [
+      "What does Schist want Williams to assume about Laroque?",
+      "How does the language at the protest influence whose testimony seems credible?",
+      "What does Teri know that Williams needs to learn?",
+      "What changes when Schist admits where he buried Sallis?",
+      "What would justice for Bywater require after the creature is gone?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending"
+  }
+]

@@ -26,6 +26,7 @@ for (const file of readdirSync(editorialDir).filter(name => /^review-drafts-.*\.
 
 const screening = new Map();
 const stage4 = new Map();
+const stage4Content = new Map();
 function addScreening(records, scoreKey, provenance, sourceCheck) {
   for (const record of records) {
     const score = record[scoreKey];
@@ -36,10 +37,17 @@ function addScreening(records, scoreKey, provenance, sourceCheck) {
 }
 const readEditorial = name => JSON.parse(readFileSync(new URL(name, editorialDir), 'utf8'));
 const rollingArg = process.argv.find(arg => arg.startsWith('--rolling='));
-if (rollingArg) {
-  const rolling = JSON.parse(readFileSync(rollingArg.slice('--rolling='.length), 'utf8'));
+{
+  const rolling = rollingArg
+    ? JSON.parse(readFileSync(rollingArg.slice('--rolling='.length), 'utf8'))
+    : readEditorial('lgbtq-audit-checkpoint.json');
   for (const batch of rolling.stage4_batches ?? []) {
-    for (const film of batch.films) stage4.set(film.movie_id, `batch ${batch.number}: ${film.status}`);
+    for (const film of batch.films) {
+      stage4.set(film.movie_id, `batch ${batch.number}: ${film.status}`);
+      if (film.content_categories) {
+        stage4Content.set(film.movie_id, {...stage4Content.get(film.movie_id), ...film.content_categories});
+      }
+    }
   }
   addScreening(rolling.batches.flatMap(batch => batch.films), 'proposed_score', 'rolling_proposal',
     record => record.sources?.some(sourceUrl));
@@ -81,7 +89,11 @@ for (const [id, {film, review: baseline, type}] of films) {
 
   const review = proposal?.proposal ?? baseline;
   const warnings = proposal?.proposal.contentEvidence ?? supplementalContentEvidenceById[id] ?? seedEvidence[id];
-  const categories = Object.fromEntries(keys.map(key => [key, sourceBackedCategory(warnings?.content_categories?.[key])]));
+  const categories = Object.fromEntries(keys.map(key => {
+    const baselineCategory = sourceBackedCategory(warnings?.content_categories?.[key]);
+    const auditCategory = sourceBackedCategory(stage4Content.get(id)?.[key]);
+    return [key, baselineCategory === 'open' ? auditCategory : baselineCategory];
+  }));
   const issues = [];
   if (!review) {
     issues.push('review_missing');
