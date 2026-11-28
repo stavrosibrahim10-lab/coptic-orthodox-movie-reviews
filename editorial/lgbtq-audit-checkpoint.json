@@ -12155,6 +12155,360 @@
           "studio_status": "repository_draft_validated_no_authenticated_studio_save"
         }
       ]
+    },
+    {
+      "number": 27,
+      "date": "2026-11-27",
+      "review_completion_branch": "editorial/stage-4-completion",
+      "review_completion_ledger": "editorial/review-completion.tsv",
+      "films": [
+        {
+          "movie_id": "review-theirongiant-1999",
+          "title": "The Iron Giant",
+          "year": 1999,
+          "version": "Brad Bird’s original 1999 theatrical feature, 86 minutes",
+          "status": "proposal_saved",
+          "review_baseline": "public/seed-reviews.js",
+          "sources": [
+            "https://en.wikipedia.org/wiki/The_Iron_Giant",
+            "https://www.commonsensemedia.org/movie-reviews/the-iron-giant"
+          ],
+          "on_screen": "After Hogarth regains consciousness, the Giant stands down. When the missile heads for Rockwell, he flies up to intercept it.",
+          "on_screen_source": "https://en.wikipedia.org/wiki/The_Iron_Giant",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "The Giant has the power to retaliate and initially uses it. His final flight saves even the people who fired on him. That choice gives Hogarth’s earlier appeal to choose his own identity a concrete cost.",
+            "age": "10+",
+            "age_rationale": "The military assault and the apparent death of a friend can be upsetting, especially before the final hint of reassembly.",
+            "age_source": "https://www.commonsensemedia.org/movie-reviews/the-iron-giant",
+            "theme_ratings": [
+              {
+                "name": "Love and self-sacrifice",
+                "score": 5,
+                "evidence": "The Giant leaves Hogarth to intercept the missile.",
+                "rating_rationale": "The decision costs him their life together and resolves the central danger.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/The_Iron_Giant"
+                ]
+              },
+              {
+                "name": "Violence and cruelty",
+                "score": 3,
+                "evidence": "The soldiers attack and the Giant responds with weapons.",
+                "rating_rationale": "Sustained escalation drives the climax; propose raising the baseline 2.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/The_Iron_Giant"
+                ]
+              },
+              {
+                "name": "Choosing peace over violence",
+                "score": 5,
+                "evidence": "The Giant stops fighting when Hogarth speaks to him.",
+                "rating_rationale": "Refusal to retaliate makes his subsequent rescue possible.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/The_Iron_Giant"
+                ]
+              },
+              {
+                "name": "Mild language",
+                "score": 1,
+                "evidence": "The guide records a few mild swear words.",
+                "rating_rationale": "Isolated speech is incidental to the action.",
+                "sources": [
+                  "https://www.commonsensemedia.org/movie-reviews/the-iron-giant"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The guide describes Hogarth’s friendship with the Giant; its selected scenes give incomplete screening coverage.",
+            "next_step": "Check dialogue and background visuals throughout the identified release and record scene locations.",
+            "sources": [
+              "https://en.wikipedia.org/wiki/The_Iron_Giant",
+              "https://www.commonsensemedia.org/movie-reviews/the-iron-giant"
+            ]
+          },
+          "other_open_fields": [],
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "catalog-2017-wonder",
+          "title": "Wonder",
+          "year": 2017,
+          "version": "Stephen Chbosky’s 2017 live-action theatrical adaptation",
+          "status": "proposal_saved",
+          "review_baseline": "public/seed-reviews.js",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/wonder-2017/",
+            "https://familyfilmcollection.com/films/wonder-2017/"
+          ],
+          "on_screen": "Julian draws insulting pictures and classmates repeat a rumor that touching Auggie spreads a virus. Via later apologizes for a lie.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/wonder-2017/",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "The story shows how a cruel remark gains power when others repeat it. Summer’s willingness to sit with Auggie gives classmates an ordinary, achievable alternative. Apology and changed behavior carry more weight than praise at the end.",
+            "age": "10+",
+            "age_rationale": "A classmate tells Auggie he should die. Children who have experienced bullying may find this more distressing than a physical fight.",
+            "age_source": "https://www.pluggedin.com/movie-reviews/wonder-2017/",
+            "theme_ratings": [
+              {
+                "name": "Mercy and inclusion",
+                "score": 5,
+                "evidence": "Summer chooses to sit with the isolated Auggie.",
+                "rating_rationale": "A small public choice reverses the exclusion that organizes school life.",
+                "sources": [
+                  "https://familyfilmcollection.com/films/wonder-2017/"
+                ]
+              },
+              {
+                "name": "Apology and restoring trust",
+                "score": 4,
+                "evidence": "Via apologizes for lying; Jack must also repair his friendship.",
+                "rating_rationale": "Repair recurs across relationships.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/wonder-2017/"
+                ]
+              },
+              {
+                "name": "Bullying and humiliation",
+                "score": 4,
+                "evidence": "Julian caricatures Auggie and classmates avoid touching him.",
+                "rating_rationale": "Repeated public exclusion changes Auggie’s experience of school.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/wonder-2017/"
+                ]
+              },
+              {
+                "name": "Alcohol used during distress",
+                "score": 2,
+                "evidence": "Miranda’s mother drinks wine while distressed.",
+                "rating_rationale": "A secondary family scene suggests coping through alcohol; it does not establish dependence.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/wonder-2017/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The film guides focus on school bullying and family relationships; the selection cannot resolve film-wide prominence.",
+            "next_step": "Check dialogue and background visuals throughout the identified release and record scene locations.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/wonder-2017/",
+              "https://familyfilmcollection.com/films/wonder-2017/"
+            ]
+          },
+          "other_open_fields": [],
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "catalog-1990-homealone",
+          "title": "Home Alone",
+          "year": 1990,
+          "version": "Chris Columbus’s 1990 theatrical feature with Macaulay Culkin",
+          "status": "proposal_saved",
+          "review_baseline": "public/seed-reviews.js",
+          "sources": [
+            "https://www.pluggedin.com/movie-reviews/home-alone-1990/"
+          ],
+          "on_screen": "Kevin meets Marley during choir practice. Each encourages the other to reach out to family.",
+          "on_screen_source": "https://www.pluggedin.com/movie-reviews/home-alone-1990/",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Kevin gives a lonely neighbor the advice he needs himself. The film treats restored family ties seriously, while the extended break-in invites laughter at injuries that would be severe in real life.",
+            "age": "10+",
+            "age_rationale": "The burglars pursue a child alone at night. Heated metal, falling paint cans and a nail are recognizable household hazards presented as slapstick.",
+            "age_source": "https://www.pluggedin.com/movie-reviews/home-alone-1990/",
+            "theme_ratings": [
+              {
+                "name": "Reconciliation",
+                "score": 4,
+                "evidence": "Kevin listens as Marley speaks about his estranged family.",
+                "rating_rationale": "The encounter changes Kevin’s view of Marley and gives the reunion emotional weight.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/home-alone-1990/"
+                ]
+              },
+              {
+                "name": "Prayer and worship",
+                "score": 2,
+                "evidence": "Kevin hears the choir and later says a prayer.",
+                "rating_rationale": "Brief practices frame the holiday without dominating the plot.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/home-alone-1990/"
+                ]
+              },
+              {
+                "name": "Comic harm and imitation risk",
+                "score": 4,
+                "evidence": "Household traps burn, cut and strike the burglars.",
+                "rating_rationale": "Prolonged slapstick makes the damage entertaining and the objects familiar.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/home-alone-1990/"
+                ]
+              },
+              {
+                "name": "Rumor and prejudice",
+                "score": 3,
+                "evidence": "Buzz’s invented story makes Kevin afraid of Marley.",
+                "rating_rationale": "A sustained misunderstanding is corrected through conversation.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/home-alone-1990/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "Buzz’s magazine and Kevin’s conversations are specific findings in other categories. They do not settle this category.",
+            "next_step": "Check dialogue and background visuals throughout the identified release and record scene locations.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/home-alone-1990/"
+            ]
+          },
+          "other_open_fields": [],
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "catalog-1998-thetrumanshow",
+          "title": "The Truman Show",
+          "year": 1998,
+          "version": "Peter Weir’s 1998 theatrical feature starring Jim Carrey",
+          "status": "proposal_saved",
+          "review_baseline": "public/seed-reviews.js",
+          "sources": [
+            "https://en.wikipedia.org/wiki/The_Truman_Show",
+            "https://www.springfieldspringfield.co.uk/movie_script.php?movie=truman-show-the"
+          ],
+          "on_screen": "Christof orders a storm over Truman’s boat despite protests. Truman reaches the set wall, hears Christof’s offer and walks out.",
+          "on_screen_source": "https://en.wikipedia.org/wiki/The_Truman_Show",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "The director offers Truman safety inside a life designed for other people’s pleasure. Truman chooses the uncertainty of life outside. The film also turns the question on the audience that keeps watching his distress.",
+            "age": "13+",
+            "age_rationale": "A producer knowingly risks drowning a man who already fears water. Understanding the betrayal also requires recognizing how actors have impersonated his closest relationships.",
+            "age_source": "https://www.springfieldspringfield.co.uk/movie_script.php?movie=truman-show-the",
+            "theme_ratings": [
+              {
+                "name": "Courage to seek truth",
+                "score": 5,
+                "evidence": "Truman sails despite his fear and walks through the exit.",
+                "rating_rationale": "His choice under direct pressure resolves the film.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/The_Truman_Show"
+                ]
+              },
+              {
+                "name": "Human dignity and freedom",
+                "score": 5,
+                "evidence": "Truman hears the director’s defense and chooses for himself.",
+                "rating_rationale": "The ending restores the agency denied throughout his life.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/The_Truman_Show"
+                ]
+              },
+              {
+                "name": "Deception for profit",
+                "score": 5,
+                "evidence": "The staged reunion with Truman’s father helps restore ratings.",
+                "rating_rationale": "The commercial deception organizes his intimate relationships as well as his surroundings.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/The_Truman_Show"
+                ]
+              },
+              {
+                "name": "Drowning and storm peril",
+                "score": 3,
+                "evidence": "The control room intensifies the storm while crew members object.",
+                "rating_rationale": "The concentrated but sustained threat is the main physical peril in the finale.",
+                "sources": [
+                  "https://www.springfieldspringfield.co.uk/movie_script.php?movie=truman-show-the"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "Transcribed dialogue cannot establish what appears in the many background shots of Seahaven or its audience.",
+            "next_step": "Check dialogue and background visuals throughout the identified release and record scene locations.",
+            "sources": [
+              "https://en.wikipedia.org/wiki/The_Truman_Show",
+              "https://www.springfieldspringfield.co.uk/movie_script.php?movie=truman-show-the"
+            ]
+          },
+          "other_open_fields": [],
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "catalog-2001-monstersinc",
+          "title": "Monsters, Inc.",
+          "year": 2001,
+          "version": "Pixar’s original 2001 animated theatrical feature",
+          "status": "proposal_saved",
+          "review_baseline": "public/seed-reviews.js",
+          "sources": [
+            "https://cdn.hswstatic.com/pdf/how-monsters-inc-works.pdf"
+          ],
+          "on_screen": "Waternoose describes his kidnapping plan in the simulation room, where it is recorded. Mike later makes a child laugh on the converted factory floor.",
+          "on_screen_source": "https://cdn.hswstatic.com/pdf/how-monsters-inc-works.pdf",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Sulley values Boo’s safety above his position at work. Exposing Waternoose protects one child immediately; changing the company’s source of energy also protects the children who would have followed her.",
+            "age": "7+",
+            "age_rationale": "A small child is pursued through a factory, and an adult plans to use a frightening machine on children. The eventual safe return can reassure a child who finds bedroom-door scares intense.",
+            "age_source": "https://cdn.hswstatic.com/pdf/how-monsters-inc-works.pdf",
+            "theme_ratings": [
+              {
+                "name": "Care for a child",
+                "score": 5,
+                "evidence": "Sulley takes Boo back to her own bedroom and says goodbye.",
+                "rating_rationale": "He gives up keeping her near him to give her a safe home.",
+                "sources": [
+                  "https://cdn.hswstatic.com/pdf/how-monsters-inc-works.pdf"
+                ]
+              },
+              {
+                "name": "Changing a harmful practice",
+                "score": 5,
+                "evidence": "Mike’s jokes replace scaring on the factory floor.",
+                "rating_rationale": "The replacement changes everyday practice beyond the rescue of one child.",
+                "sources": [
+                  "https://cdn.hswstatic.com/pdf/how-monsters-inc-works.pdf"
+                ]
+              },
+              {
+                "name": "Exploitation through fear",
+                "score": 4,
+                "evidence": "Waternoose proposes kidnapping children to obtain screams.",
+                "rating_rationale": "A trusted manager defends coercion to preserve the enterprise.",
+                "sources": [
+                  "https://cdn.hswstatic.com/pdf/how-monsters-inc-works.pdf"
+                ]
+              },
+              {
+                "name": "Monster scares and chases",
+                "score": 3,
+                "evidence": "Waternoose follows Sulley and Boo through a door.",
+                "rating_rationale": "The pursuit and threat recur, though the simulated bedroom lets Sulley turn the chase around.",
+                "sources": [
+                  "https://cdn.hswstatic.com/pdf/how-monsters-inc-works.pdf"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The release scene guide describes the factory and rescue; it does not inventory dialogue or visual references throughout.",
+            "next_step": "Check dialogue and background visuals throughout the identified release and record scene locations.",
+            "sources": [
+              "https://cdn.hswstatic.com/pdf/how-monsters-inc-works.pdf"
+            ]
+          },
+          "other_open_fields": [],
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        }
+      ]
     }
   ]
 }
