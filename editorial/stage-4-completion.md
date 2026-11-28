@@ -4,7 +4,7 @@ Status: in progress. The opening catalog has 315 films, including 59 without a f
 
 ## Current Stage 4 audit
 
-The catalog contains 315 distinct IDs. Of the original 59 missing reviews, 40 now have validated first drafts and 19 remain. Across the full catalog, 296 have review records. The rolling checkpoint contains Stage 4 proposals for 158 films, leaving 138 existing records awaiting this audit and 19 awaiting a first review. All original queue IDs occur exactly once in the catalog.
+The catalog contains 315 distinct IDs. Of the original 59 missing reviews, 42 now have validated first drafts and 17 remain. Across the full catalog, 298 have review records. The rolling checkpoint contains Stage 4 proposals for 165 films, leaving 133 existing records awaiting this audit and 17 awaiting a first review. All original queue IDs occur exactly once in the catalog.
 
 Batch 11 independently checked the seven new queue drafts. Their saved draft files contain the proposed assessments. The checkpoint records scene evidence, the reason for each theme score, age guidance and outstanding screening fields. Six film-wide LGBTQ prominence scores remain open in this batch. The New Mutants carries a documented proposal of 4. Private Studio saves are unverified. Human acceptance is pending.
 
@@ -40,7 +40,9 @@ Batch 26 audited Howard the Duck (1986, Neutral, 13+), the 1990 Captain America 
 
 Batch 27 audited the theatrical releases of The Iron Giant (1999), Wonder (2017), Home Alone (1990), The Truman Show (1998) and Monsters, Inc. (2001). The Iron Giant’s sustained armed confrontation supports a proposed increase in violence and cruelty from 2 to 3. Each record documents four scene-supported theme judgments and separate age guidance. All five film-wide LGBTQ prominence scores remain open pending screening. Private Studio saves are unverified.
 
-As of the November 27 evening batch, 36 distinct proposals have been audited today. The daily goal requires 24 more, about 5.1 per hour from 7:15 p.m. Eastern through midnight. From 158 cumulative, the November 28 milestone requires 42 more, followed by 60 on November 29 and 55 on November 30. Nineteen first reviews are outstanding.
+Batch 28 audited The Punisher (1989), Man-Thing (2005), Cars 3, Ferdinand, the 1998 animated Mulan, Big Hero 6 and Bolt. A released-film transcript supports a language finding for Castle’s confrontation with Berkowitz. The 1989 cut’s substance-use field and all seven film-wide LGBTQ prominence scores remain open. Individual evidence and separate age guidance are in the checkpoint. Private Studio saves remain unverified.
+
+At 8:42 p.m. Eastern on November 27, 43 proposals had been audited today. Seventeen more are needed for the daily target, roughly 5.2 per remaining hour. The November 28 milestone requires 35 more from 165, followed by 60 on November 29 and 55 on November 30. Seventeen first reviews remain outstanding.
 
 The full repository checklist passes for ten titles and includes later-stage fields. Stage 4 progress above counts audited proposals, independently of that checklist.
 
