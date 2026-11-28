@@ -1,0 +1,758 @@
+[
+  {
+    "id": "marvel-2014-kingsman-the-secret-service",
+    "title": "Kingsman: The Secret Service",
+    "year": 2014,
+    "edition": "Matthew Vaughn’s 2014 production, UK 2D cinema release classified in December 2014 and released in 2015. UK violence edits apply.",
+    "genre": "Spy action · Satire",
+    "age": "18+",
+    "verdict": "destructive",
+    "synopsis": "Eggsy competes for a place in a private intelligence service. When a billionaire uses free SIM cards to turn strangers against one another, passing the entrance exam becomes the least important test he faces.",
+    "verdictRationale": "Eggsy risks losing his place by refusing to shoot the dog he raised. That quiet refusal shows a capacity for mercy that his examiners overlook. The church massacre and the musical spectacle of exploding heads, however, repeatedly make violent deaths the payoff to a joke. The ending extends that attitude to a woman offered as a sexual reward.",
+    "ageRationale": "An extended massacre takes place among ordinary people in a church. Bloody injury, strong swearing and a sexual bargain remain in the UK cinema version even after reductions to violence.",
+    "reflection": "Eggsy believes that obeying might cost another creature its life. He chooses to lose the post instead. A family can ask when a person in authority deserves obedience and when conscience demands the courage to disappoint them.",
+    "sources": [
+      {
+        "label": "Released feature plot",
+        "url": "https://en.wikipedia.org/wiki/Kingsman:_The_Secret_Service"
+      },
+      {
+        "label": "BBFC classification and version record",
+        "url": "https://www.bbfc.co.uk/release/kingsman-the-secret-service-q29sbgvjdglvbjpwwc0zodiymdk"
+      },
+      {
+        "label": "Plugged In film guide",
+        "url": "https://www.pluggedin.com/movie-reviews/kingsman-the-secret-service/"
+      }
+    ],
+    "themes": [
+      {
+        "name": "Mercy toward the vulnerable",
+        "score": 3,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Eggsy refuses the order to kill his dog despite believing it will cost him selection. One decision reveals his priorities.",
+        "references": [
+          {
+            "label": "Released feature plot",
+            "url": "https://en.wikipedia.org/wiki/Kingsman:_The_Secret_Service"
+          }
+        ]
+      },
+      {
+        "name": "Care for family",
+        "score": 2,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Offering his mother and sister a safe home is a concrete good in the closing sequence.",
+        "references": [
+          {
+            "label": "Released feature plot",
+            "url": "https://en.wikipedia.org/wiki/Kingsman:_The_Secret_Service"
+          }
+        ]
+      },
+      {
+        "name": "Violence as spectacle",
+        "score": 5,
+        "type": "harmful",
+        "portrayal": "mixed",
+        "evidence": "Mass killing is the villain’s plan, yet the church fight and explosive deaths are staged as major attractions.",
+        "references": [
+          {
+            "label": "Released feature plot",
+            "url": "https://en.wikipedia.org/wiki/Kingsman:_The_Secret_Service"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "score": null,
+        "type": "context",
+        "portrayal": "unverified",
+        "evidence": "The classification record documents an anti-gay slur. Check its speaker, context and other scenes across the UK cut before scoring prominence.",
+        "references": [
+          {
+            "label": "BBFC classification and version record",
+            "url": "https://www.bbfc.co.uk/release/kingsman-the-secret-service-q29sbgvjdglvbjpwwc0zodiymdk"
+          }
+        ]
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "details": "A captive princess offers Eggsy a sexual reward.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.bbfc.co.uk/release/kingsman-the-secret-service-q29sbgvjdglvbjpwwc0zodiymdk"
+      },
+      {
+        "name": "Language",
+        "details": "Strong profanity and discriminatory insults are audible.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.bbfc.co.uk/release/kingsman-the-secret-service-q29sbgvjdglvbjpwwc0zodiymdk"
+      },
+      {
+        "name": "Violence",
+        "details": "A signal provokes people attending a church service to kill each other.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.bbfc.co.uk/release/kingsman-the-secret-service-q29sbgvjdglvbjpwwc0zodiymdk"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "Harry attends a sermon at a church whose preacher targets outsiders.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/kingsman-the-secret-service/"
+      },
+      {
+        "name": "Substance use",
+        "details": "Kingsman agents raise a toast to dead colleagues.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/kingsman-the-secret-service/"
+      }
+    ],
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A captive princess offers Eggsy a sexual reward."
+          ],
+          "evidence": [
+            {
+              "provider": "BBFC classification and version record",
+              "url": "https://www.bbfc.co.uk/release/kingsman-the-secret-service-q29sbgvjdglvbjpwwc0zodiymdk",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Strong profanity and discriminatory insults are audible."
+          ],
+          "evidence": [
+            {
+              "provider": "BBFC classification and version record",
+              "url": "https://www.bbfc.co.uk/release/kingsman-the-secret-service-q29sbgvjdglvbjpwwc0zodiymdk",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A signal provokes people attending a church service to kill each other."
+          ],
+          "evidence": [
+            {
+              "provider": "BBFC classification and version record",
+              "url": "https://www.bbfc.co.uk/release/kingsman-the-secret-service-q29sbgvjdglvbjpwwc0zodiymdk",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Harry attends a sermon at a church whose preacher targets outsiders."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In film guide",
+              "url": "https://www.pluggedin.com/movie-reviews/kingsman-the-secret-service/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Kingsman agents raise a toast to dead colleagues."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In film guide",
+              "url": "https://www.pluggedin.com/movie-reviews/kingsman-the-secret-service/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Eggsy refuses to shoot the puppy he raised, unaware the gun holds blanks."
+          ],
+          "evidence": [
+            {
+              "provider": "Released feature plot",
+              "url": "https://en.wikipedia.org/wiki/Kingsman:_The_Secret_Service",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    },
+    "scripture": [
+      "Romans 12:21"
+    ],
+    "themeScripture": {
+      "reference": "Romans 12:21",
+      "translation": "KJV",
+      "text": "Be not overcome of evil, but overcome evil with good.",
+      "url": "https://www.biblegateway.com/passage/?search=Romans%2012%3A21&version=KJV",
+      "connection": "Eggsy risks his future to spare a creature in his care. Paul’s command invites the family to ask whether later victories show the same regard for a life."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homilies on Romans",
+      "section": "Homily 22",
+      "text": "He did not say, be not spiteful or revengeful, but required something far better.",
+      "url": "https://www.newadvent.org/fathers/210222.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "The final test",
+        "filmMoment": "Eggsy refuses to shoot the puppy he raised, unaware the gun holds blanks.",
+        "reflection": "Eggsy risks his future to spare a creature in his care. Paul’s command invites the family to ask whether later victories show the same regard for a life.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kingsman:_The_Secret_Service",
+        "scriptureReference": "Romans 12:21"
+      }
+    ],
+    "questions": [
+      "Why does Eggsy refuse the last test when he wants the job so badly?",
+      "What does Roxy contribute after she wins the position?",
+      "Whose moral judgment fails when Arthur sides with Valentine?",
+      "How does the music affect the way you react to the deaths in the bunker?",
+      "What does offering his family a safe home accomplish that defeating Valentine alone cannot?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending"
+  },
+  {
+    "id": "marvel-2017-kingsman-the-golden-circle",
+    "title": "Kingsman: The Golden Circle",
+    "year": 2017,
+    "edition": "Matthew Vaughn’s 2017 sequel, UK 2D feature, BBFC-listed UK home-entertainment version.",
+    "genre": "Spy action · Satire",
+    "age": "18+",
+    "verdict": "destructive",
+    "synopsis": "Eggsy and Merlin survive an attack on Kingsman and discover an American partner agency. To save the people poisoned by Poppy’s drug supply, they must face opponents who would gladly let the victims die.",
+    "verdictRationale": "Merlin takes Eggsy’s place on a mine. The rescue also includes people the president considers expendable. Both choices affirm the worth of a life. Yet the heroes obtain information through sexual deception, and even dispatching an opponent in a meat grinder becomes a payoff for the audience. The film’s treatment of people as instruments repeatedly undercuts its rescue story.",
+    "ageRationale": "Intimate contact is used to plant a tracker without the woman’s knowledge. Graphic killing, a cannibalism gag and prolonged danger from poisoned drugs accompany that violation.",
+    "reflection": "The president decides that people who took drugs deserve abandonment. Merlin gives his own life to keep a rescue possible. Consider the difference between condemning a harmful choice and deciding who still deserves medical care.",
+    "sources": [
+      {
+        "label": "Released feature plot",
+        "url": "https://en.wikipedia.org/wiki/Kingsman:_The_Golden_Circle"
+      },
+      {
+        "label": "BBFC classification and version record",
+        "url": "https://www.bbfc.co.uk/release/kingsman-the-golden-circle-q29sbgvjdglvbjpwwc0zotexoty"
+      },
+      {
+        "label": "Plugged In film guide",
+        "url": "https://www.pluggedin.com/movie-reviews/kingsman-the-golden-circle/"
+      }
+    ],
+    "themes": [
+      {
+        "name": "Self-sacrifice",
+        "score": 4,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Merlin switches places with Eggsy on the mine, giving up his own escape so the mission can continue.",
+        "references": [
+          {
+            "label": "Released feature plot",
+            "url": "https://en.wikipedia.org/wiki/Kingsman:_The_Golden_Circle"
+          }
+        ]
+      },
+      {
+        "name": "Care for people in danger",
+        "score": 4,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Getting the antidote to all the poisoned people is the central objective, even when officials prefer to let them die.",
+        "references": [
+          {
+            "label": "Released feature plot",
+            "url": "https://en.wikipedia.org/wiki/Kingsman:_The_Golden_Circle"
+          }
+        ]
+      },
+      {
+        "name": "Sexual exploitation",
+        "score": 3,
+        "type": "harmful",
+        "portrayal": "mixed",
+        "evidence": "A covert tracker is planted during intimate contact. The strain on Eggsy’s relationship receives more attention than the target’s consent.",
+        "references": [
+          {
+            "label": "BBFC classification and version record",
+            "url": "https://www.bbfc.co.uk/release/kingsman-the-golden-circle-q29sbgvjdglvbjpwwc0zotexoty"
+          }
+        ]
+      },
+      {
+        "name": "Cruelty as comedy",
+        "score": 4,
+        "type": "harmful",
+        "portrayal": "mixed",
+        "evidence": "A meat grinder and cannibalism furnish recurring grotesque jokes across opposing sides of the conflict.",
+        "references": [
+          {
+            "label": "BBFC classification and version record",
+            "url": "https://www.bbfc.co.uk/release/kingsman-the-golden-circle-q29sbgvjdglvbjpwwc0zotexoty"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "score": null,
+        "type": "context",
+        "portrayal": "unverified",
+        "evidence": "The BBFC records a homophobic insult. Verify the surrounding dialogue and visual context before assigning a film-wide score.",
+        "references": [
+          {
+            "label": "BBFC classification and version record",
+            "url": "https://www.bbfc.co.uk/release/kingsman-the-golden-circle-q29sbgvjdglvbjpwwc0zotexoty"
+          }
+        ]
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "details": "An intimate encounter at a festival is used to plant a tracker without disclosure.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.bbfc.co.uk/release/kingsman-the-golden-circle-q29sbgvjdglvbjpwwc0zotexoty"
+      },
+      {
+        "name": "Language",
+        "details": "Strong profanity and an anti-gay insult are documented.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.bbfc.co.uk/release/kingsman-the-golden-circle-q29sbgvjdglvbjpwwc0zotexoty"
+      },
+      {
+        "name": "Violence",
+        "details": "Combat includes gunfire and explosions. Merlin dies protecting Eggsy at a mine.",
+        "severity": "Strong",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kingsman:_The_Golden_Circle"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "A wedding takes place in a church.",
+        "severity": "Mild",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/kingsman-the-golden-circle/"
+      },
+      {
+        "name": "Substance use",
+        "details": "Poppy adulterates drugs and withholds the antidote for leverage. Characters who took the drugs develop symptoms.",
+        "severity": "Strong",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kingsman:_The_Golden_Circle"
+      }
+    ],
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "An intimate encounter at a festival is used to plant a tracker without disclosure."
+          ],
+          "evidence": [
+            {
+              "provider": "BBFC classification and version record",
+              "url": "https://www.bbfc.co.uk/release/kingsman-the-golden-circle-q29sbgvjdglvbjpwwc0zotexoty",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Strong profanity and an anti-gay insult are documented."
+          ],
+          "evidence": [
+            {
+              "provider": "BBFC classification and version record",
+              "url": "https://www.bbfc.co.uk/release/kingsman-the-golden-circle-q29sbgvjdglvbjpwwc0zotexoty",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Combat includes gunfire and explosions. Merlin dies protecting Eggsy at a mine."
+          ],
+          "evidence": [
+            {
+              "provider": "Released feature plot",
+              "url": "https://en.wikipedia.org/wiki/Kingsman:_The_Golden_Circle",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "A wedding takes place in a church."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In film guide",
+              "url": "https://www.pluggedin.com/movie-reviews/kingsman-the-golden-circle/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Poppy adulterates drugs and withholds the antidote for leverage. Characters who took the drugs develop symptoms."
+          ],
+          "evidence": [
+            {
+              "provider": "Released feature plot",
+              "url": "https://en.wikipedia.org/wiki/Kingsman:_The_Golden_Circle",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "The president is prepared to let patients die, while the agents work to release the antidote."
+          ],
+          "evidence": [
+            {
+              "provider": "Released feature plot",
+              "url": "https://en.wikipedia.org/wiki/Kingsman:_The_Golden_Circle",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    },
+    "scripture": [
+      "John 15:13"
+    ],
+    "themeScripture": {
+      "reference": "John 15:13",
+      "translation": "KJV",
+      "text": "Greater love hath no man than this, that a man lay down his life for his friends.",
+      "url": "https://www.biblegateway.com/passage/?search=John%2015%3A13&version=KJV",
+      "connection": "Merlin gives Eggsy a way off the mine by taking his place. Christ’s words give the family a way to name the love in that choice."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homilies on the Gospel of John",
+      "section": "Homily 77",
+      "text": "Because this is the mark of the disciples, this the bond of virtue.",
+      "url": "https://www.newadvent.org/fathers/240177.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "Merlin’s place on the mine",
+        "filmMoment": "Merlin takes Eggsy’s place on a live mine.",
+        "reflection": "Merlin gives Eggsy a way off the mine by taking his place. Christ’s words give the family a way to name the love in that choice.",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kingsman:_The_Golden_Circle",
+        "scriptureReference": "John 15:13"
+      }
+    ],
+    "questions": [
+      "Why does the president refuse an antidote that could save lives?",
+      "What does Merlin’s decision at the mine cost him personally?",
+      "What information would Clara need to give meaningful consent at the festival?",
+      "Why does Eggsy help Whiskey after Harry shoots him?",
+      "How does Whiskey’s grief shape his judgment about people he has never met?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending"
+  },
+  {
+    "id": "marvel-2021-the-king-s-man",
+    "title": "The King's Man",
+    "year": 2021,
+    "edition": "Matthew Vaughn’s 2021 live-action First World War prequel, 2D feature.",
+    "genre": "Spy action · Historical fiction",
+    "age": "18+",
+    "verdict": "neutral",
+    "synopsis": "Orlando Oxford tries to shield his son Conrad from the war as their household uncovers a conspiracy. Conrad enlists under another name and encounters a wounded man carrying intelligence across the front.",
+    "verdictRationale": "Conrad’s bravest act is carrying a wounded man who cannot make his own way back. His death at the hands of his own side gives Orlando’s fears real weight. The film’s gentleness toward the grieving father sits uneasily alongside the use of Conrad as sexual bait and a finale that settles the conflict by killing the Shepherd.",
+    "ageRationale": "Bloody trench combat, a sudden fatal shooting by a fellow soldier and graphic wounds give the war scenes lasting weight. The Rasputin episode adds prolonged sexual innuendo and invasive physical contact.",
+    "reflection": "Conrad’s borrowed name complicates his claim to glory. On the battlefield he finds a simpler obligation in a man who needs carrying. His father learns what his son did only after losing the chance to speak to him.",
+    "sources": [
+      {
+        "label": "Released feature plot",
+        "url": "https://en.wikipedia.org/wiki/The_King%27s_Man"
+      },
+      {
+        "label": "BBFC classification and version record",
+        "url": "https://www.bbfc.co.uk/release/the-kings-man-q29sbgvjdglvbjpwwc00odgymjg"
+      },
+      {
+        "label": "Plugged In film guide",
+        "url": "https://www.pluggedin.com/movie-reviews/kings-man-2021/"
+      },
+      {
+        "label": "The Movie Spoiler scene synopsis",
+        "url": "https://themoviespoiler.com/movies/the-kings-man/1000/"
+      }
+    ],
+    "themes": [
+      {
+        "name": "Care under fire",
+        "score": 4,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Conrad returns under fire with a wounded man, accepting a risk that gives his service its clearest moral purpose.",
+        "references": [
+          {
+            "label": "The Movie Spoiler scene synopsis",
+            "url": "https://themoviespoiler.com/movies/the-kings-man/1000/"
+          }
+        ]
+      },
+      {
+        "name": "Mutual service",
+        "score": 3,
+        "type": "positive",
+        "portrayal": "affirmed",
+        "evidence": "Polly and Shola help sustain Orlando after his loss and play decisive roles in resolving the conspiracy.",
+        "references": [
+          {
+            "label": "Released feature plot",
+            "url": "https://en.wikipedia.org/wiki/The_King%27s_Man"
+          }
+        ]
+      },
+      {
+        "name": "Wartime brutality",
+        "score": 4,
+        "type": "harmful",
+        "portrayal": "mixed",
+        "evidence": "Trench fighting and Conrad’s sudden death expose the cost of war, alongside choreographed combat presented as adventure.",
+        "references": [
+          {
+            "label": "The Movie Spoiler scene synopsis",
+            "url": "https://themoviespoiler.com/movies/the-kings-man/1000/"
+          }
+        ]
+      },
+      {
+        "name": "Abuse of spiritual authority",
+        "score": 3,
+        "type": "harmful",
+        "portrayal": "condemned",
+        "evidence": "Rasputin secretly poisons a child, then uses his apparent power over the child’s recovery to pressure the parents.",
+        "references": [
+          {
+            "label": "Plugged In film guide",
+            "url": "https://www.pluggedin.com/movie-reviews/kings-man-2021/"
+          }
+        ]
+      },
+      {
+        "name": "LGBTQ Themes & Messaging",
+        "score": null,
+        "type": "context",
+        "portrayal": "unverified",
+        "evidence": "Polly proposes using Conrad as bait based on Rasputin’s reported interest in young men. The dinner includes suggestive dialogue and Rasputin treats Orlando’s wound in a sexualized sequence. Check the full episode and the remainder for a rubric-level prominence estimate.",
+        "references": [
+          {
+            "label": "Plugged In film guide",
+            "url": "https://www.pluggedin.com/movie-reviews/kings-man-2021/"
+          }
+        ]
+      }
+    ],
+    "warnings": [
+      {
+        "name": "Sexual content",
+        "details": "Conrad is introduced to Rasputin as bait. The encounter with Orlando involves sexual innuendo and licking a thigh wound.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/kings-man-2021/"
+      },
+      {
+        "name": "Language",
+        "details": "Strong profanity and milder insults are audible.",
+        "severity": "Strong",
+        "sourceUrl": "https://www.bbfc.co.uk/release/the-kings-man-q29sbgvjdglvbjpwwc00odgymjg"
+      },
+      {
+        "name": "Violence",
+        "details": "Conrad carries a wounded man under fire and is shot by a soldier who mistakes him for a spy.",
+        "severity": "Strong",
+        "sourceUrl": "https://themoviespoiler.com/movies/the-kings-man/1000/"
+      },
+      {
+        "name": "Spiritual material",
+        "details": "Rasputin uses a child’s apparent healing to influence the imperial family.",
+        "severity": "Moderate",
+        "sourceUrl": "https://www.pluggedin.com/movie-reviews/kings-man-2021/"
+      },
+      {
+        "name": "Substance use",
+        "details": "Orlando retreats into drinking after Conrad’s death.",
+        "severity": "Moderate",
+        "sourceUrl": "https://themoviespoiler.com/movies/the-kings-man/1000/"
+      }
+    ],
+    "contentEvidence": {
+      "content_categories": {
+        "sexual_content": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Conrad is introduced to Rasputin as bait. The encounter with Orlando involves sexual innuendo and licking a thigh wound."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In film guide",
+              "url": "https://www.pluggedin.com/movie-reviews/kings-man-2021/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "language": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Strong profanity and milder insults are audible."
+          ],
+          "evidence": [
+            {
+              "provider": "BBFC classification and version record",
+              "url": "https://www.bbfc.co.uk/release/the-kings-man-q29sbgvjdglvbjpwwc00odgymjg",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "violence": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Conrad carries a wounded man under fire and is shot by a soldier who mistakes him for a spy."
+          ],
+          "evidence": [
+            {
+              "provider": "The Movie Spoiler scene synopsis",
+              "url": "https://themoviespoiler.com/movies/the-kings-man/1000/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "spiritual_material": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Rasputin uses a child’s apparent healing to influence the imperial family."
+          ],
+          "evidence": [
+            {
+              "provider": "Plugged In film guide",
+              "url": "https://www.pluggedin.com/movie-reviews/kings-man-2021/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "substance_use": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Orlando retreats into drinking after Conrad’s death."
+          ],
+          "evidence": [
+            {
+              "provider": "The Movie Spoiler scene synopsis",
+              "url": "https://themoviespoiler.com/movies/the-kings-man/1000/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        },
+        "moral_themes": {
+          "status": "specific_findings_verified",
+          "findings": [
+            "Under fire, Conrad attempts to bring back the wounded messenger as well as the intelligence."
+          ],
+          "evidence": [
+            {
+              "provider": "The Movie Spoiler scene synopsis",
+              "url": "https://themoviespoiler.com/movies/the-kings-man/1000/",
+              "scope": "external_guide",
+              "checked_at": "2026-11-27"
+            }
+          ],
+          "absence_verified": false
+        }
+      }
+    },
+    "scripture": [
+      "Romans 12:21"
+    ],
+    "themeScripture": {
+      "reference": "Romans 12:21",
+      "translation": "KJV",
+      "text": "Be not overcome of evil, but overcome evil with good.",
+      "url": "https://www.biblegateway.com/passage/?search=Romans%2012%3A21&version=KJV",
+      "connection": "Conrad has already fought the men across the trench. Carrying a wounded man gives him another way to answer the evil he has witnessed."
+    },
+    "patristic": {
+      "author": "St. John Chrysostom",
+      "work": "Homilies on Romans",
+      "section": "Homily 22",
+      "text": "He did not say, be not spiteful or revengeful, but required something far better.",
+      "url": "https://www.newadvent.org/fathers/210222.htm"
+    },
+    "biblicalParallels": [
+      {
+        "title": "Carrying the messenger",
+        "filmMoment": "Under fire, Conrad attempts to bring back the wounded messenger as well as the intelligence.",
+        "reflection": "Conrad has already fought the men across the trench. Carrying a wounded man gives him another way to answer the evil he has witnessed.",
+        "sourceUrl": "https://themoviespoiler.com/movies/the-kings-man/1000/",
+        "scriptureReference": "Romans 12:21"
+      }
+    ],
+    "questions": [
+      "What does Orlando hope to protect by keeping Conrad away from the front?",
+      "Which danger does Conrad’s exchange of identities create for him?",
+      "How does carrying the wounded messenger change what courage looks like?",
+      "How does Rasputin exploit the royal parents’ fear for their child?",
+      "How do Polly and Shola give Orlando a way to act after his loss?"
+    ],
+    "editorialStatus": "draft",
+    "theologicalApproval": "pending"
+  }
+]
