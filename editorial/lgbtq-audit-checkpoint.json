@@ -12509,6 +12509,534 @@
           "studio_status": "repository_draft_validated_no_authenticated_studio_save"
         }
       ]
+    },
+    {
+      "number": 28,
+      "date": "2026-11-27",
+      "review_completion_branch": "editorial/stage-4-completion",
+      "review_completion_ledger": "editorial/review-completion.tsv",
+      "films": [
+        {
+          "movie_id": "marvel-1989-the-punisher",
+          "title": "The Punisher",
+          "year": 1989,
+          "version": "Mark Goldblatt feature starring Dolph Lundgren; standard R-rated home-video release, excluding the extended workprint.",
+          "status": "proposal_saved",
+          "review_baseline": "editorial/review-drafts-marvel-batch-30.json",
+          "review_baseline_blob": "bf07fe7a96396bdafa9f5524d9e4f77f112d6545",
+          "sources": [
+            "https://en.wikipedia.org/wiki/The_Punisher_(1989_film)",
+            "https://filmblitz.org/punisher-1989/",
+            "https://www.imdb.com/title/tt0098141/alternateversions/",
+            "https://ueaeprints.uea.ac.uk/id/eprint/64255/1/M_Kent_thesis_final.pdf",
+            "https://www.springfieldspringfield.co.uk/movie_script.php?movie=punisher-the"
+          ],
+          "on_screen": "After the rescue, Berkowitz confronts Castle about taking the courts’ role for himself. Tommy later threatens Castle and spares him.",
+          "on_screen_source": "https://www.springfieldspringfield.co.uk/movie_script.php?movie=punisher-the",
+          "draft_proposal": {
+            "verdict": "destructive",
+            "verdict_rationale": "Castle sees that children have no share in their parents’ guilt. He even risks arrest to get them away. Yet the film repeatedly gives his private campaign of killing the force of justice. Its sharpest challenge to that pattern comes from Tommy, who has just lost his father and lets Castle live.",
+            "age": "18+",
+            "age_rationale": "Armed adults use children as hostages. A boy faces the man who has killed his father. These scenes of bereavement and intimidation accompany repeated lethal violence.",
+            "age_source": "https://en.wikipedia.org/wiki/The_Punisher_(1989_film)",
+            "theme_ratings": [
+              {
+                "name": "Protection of children",
+                "score": 4,
+                "evidence": "Castle gets the captives onto a bus and risks capture himself. Their safety changes whom he is willing to help.",
+                "rating_rationale": "His rescue extends protection even to enemies’ children.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/The_Punisher_(1989_film)"
+                ]
+              },
+              {
+                "name": "Restraint",
+                "score": 3,
+                "evidence": "Tommy has an opportunity to shoot Castle and lets it pass. His decision breaks the pattern at the climax.",
+                "rating_rationale": "Tommy interrupts retaliation at the climax.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/The_Punisher_(1989_film)"
+                ]
+              },
+              {
+                "name": "Vigilante killing",
+                "score": 5,
+                "evidence": "Castle’s private war frames the story and lethal raids deliver the action payoff even as Tommy’s loss shows its cost.",
+                "rating_rationale": "Berkowitz challenges private judgment, yet Castle continues to claim it as his vocation.",
+                "sources": [
+                  "https://filmblitz.org/punisher-1989/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The plot sources describe fathers, children and rival gangs. Screen the standard R-rated cut before assigning a film-wide score.",
+            "next_step": "Screen the specified home release and log scene locations.",
+            "sources": [
+              "https://en.wikipedia.org/wiki/The_Punisher_(1989_film)"
+            ]
+          },
+          "other_open_fields": [
+            {
+              "field": "substance_use",
+              "next_step": "Check the R-rated cut’s club and police scenes for identifiable drinking, smoking or drug use."
+            }
+          ],
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save",
+          "content_categories": {
+            "language": {
+              "status": "specific_findings_verified",
+              "findings": [
+                "The dialogue transcript records profanity during the bus rescue and stronger profanity in the subsequent police confrontation. Exact edit-specific counts remain unchecked."
+              ],
+              "evidence": [
+                {
+                  "provider": "1989 film dialogue transcript",
+                  "url": "https://www.springfieldspringfield.co.uk/movie_script.php?movie=punisher-the",
+                  "scope": "transcribed_dialogue",
+                  "checked_at": "2026-11-27"
+                }
+              ],
+              "absence_verified": false
+            }
+          }
+        },
+        {
+          "movie_id": "marvel-2005-man-thing",
+          "title": "Man-Thing",
+          "year": 2005,
+          "version": "Brett Leonard’s 96-minute Lionsgate home/streaming feature with Matthew Le Nevez; advisories refer to the adult-rated version.",
+          "status": "proposal_saved",
+          "review_baseline": "editorial/review-drafts-marvel-batch-30.json",
+          "review_baseline_blob": "bf07fe7a96396bdafa9f5524d9e4f77f112d6545",
+          "sources": [
+            "https://en.wikipedia.org/wiki/Man-Thing_(film)",
+            "https://www.primevideo.com/detail/0OSMUVD7R2WBZ32WJBPA1NAB1L",
+            "https://www.imdb.com/title/tt0290747/parentalguide/",
+            "https://www.stockq.org/moviescript/M/man-thing.php",
+            "https://www.tvguide.com/movies/man-thing/2000133568/"
+          ],
+          "on_screen": "Schist accuses Laroque; his later confession places his own actions at the center of Sallis’s disappearance.",
+          "on_screen_source": "https://en.wikipedia.org/wiki/Man-Thing_(film)",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Williams gradually tests Schist’s accusations against the bodies and testimony. That willingness to revise a judgment is admirable. Schist’s confession exposes the cost of treating a community’s land as his possession. Graphic deaths and a vengeful guardian supply much of the horror, leaving little room for restitution.",
+            "age": "18+",
+            "age_rationale": "The opening includes sex and nudity in a canoe. Later, the investigation repeatedly brings the viewer close to mutilated remains, including a disturbing discovery during an autopsy.",
+            "age_source": "https://www.imdb.com/title/tt0290747/parentalguide/",
+            "theme_ratings": [
+              {
+                "name": "Seeking justice",
+                "score": 4,
+                "evidence": "Williams reconsiders the case against Laroque as the investigation develops. Correcting the accusation changes the direction of the inquiry.",
+                "rating_rationale": "Reconsidering the leading suspect redirects the investigation.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/Man-Thing_(film)"
+                ]
+              },
+              {
+                "name": "Greed and abuse of power",
+                "score": 5,
+                "evidence": "Schist admits killing Sallis and burying him on the land. Concealing the crime underlies the conflict over drilling.",
+                "rating_rationale": "Schist’s original crime and cover-up shape the mystery.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/Man-Thing_(film)"
+                ]
+              },
+              {
+                "name": "Dehumanizing speech",
+                "score": 3,
+                "evidence": "Accusations against Laroque and Horn include a racial insult. The exchange exposes the prejudice shaping pressure on the sheriff.",
+                "rating_rationale": "Repeated pressure on the sheriff makes prejudice consequential to the case.",
+                "sources": [
+                  "https://www.stockq.org/moviescript/M/man-thing.php"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The opening couple and the sheriff’s relationship do not provide coverage of all dialogue and visuals. Screen the adult-rated release before scoring.",
+            "next_step": "Screen the specified home release and log scene locations.",
+            "sources": [
+              "https://en.wikipedia.org/wiki/Man-Thing_(film)"
+            ]
+          },
+          "other_open_fields": [],
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "catalog-2017-cars3",
+          "title": "Cars 3",
+          "year": 2017,
+          "version": "2017 animated theatrical feature",
+          "status": "proposal_saved",
+          "review_baseline": "public/seed-reviews.js",
+          "sources": [
+            "https://en.wikipedia.org/wiki/Cars_3",
+            "https://www.commonsensemedia.org/movie-reviews/cars-3"
+          ],
+          "on_screen": "Lightning yields his place in the Florida race to Cruz and coaches her as she competes.",
+          "on_screen_source": "https://en.wikipedia.org/wiki/Cars_3",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Lightning’s generosity costs him the chance to prove himself on the track. Giving Cruz the place she trained for answers the dismissiveness she has encountered.",
+            "age": "7+",
+            "age_rationale": "Lightning’s crash is prolonged, and the demolition derby puts frightened racers in repeated danger.",
+            "age_source": "https://www.commonsensemedia.org/movie-reviews/cars-3",
+            "theme_ratings": [
+              {
+                "name": "Mentorship and generosity",
+                "score": 5,
+                "evidence": "Lightning gives Cruz his race slot.",
+                "rating_rationale": "The decision transforms what winning means to him.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/Cars_3",
+                  "https://www.commonsensemedia.org/movie-reviews/cars-3"
+                ]
+              },
+              {
+                "name": "Perseverance and adapting to change",
+                "score": 4,
+                "evidence": "After crashing, Lightning trains and ultimately coaches from the sidelines.",
+                "rating_rationale": "Recovery shapes both his ambitions and his changed role.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/Cars_3",
+                  "https://www.commonsensemedia.org/movie-reviews/cars-3"
+                ]
+              },
+              {
+                "name": "Racing crashes and peril",
+                "score": 3,
+                "evidence": "Lightning crashes at speed; the derby brings further collisions.",
+                "rating_rationale": "Repeated peril culminates in recovery rather than lasting injury.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/Cars_3",
+                  "https://www.commonsensemedia.org/movie-reviews/cars-3"
+                ]
+              },
+              {
+                "name": "Dismissal and rivalry",
+                "score": 3,
+                "evidence": "Storm tries to intimidate Cruz during the race.",
+                "rating_rationale": "The taunting tests her confidence at a decisive moment.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/Cars_3",
+                  "https://www.commonsensemedia.org/movie-reviews/cars-3"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The reviewed material covers racing and mentorship; incidental exchanges still need a screening.",
+            "next_step": "Screen the theatrical version including background dialogue and visuals; record any relevant scene locations.",
+            "sources": [
+              "https://en.wikipedia.org/wiki/Cars_3",
+              "https://www.commonsensemedia.org/movie-reviews/cars-3"
+            ]
+          },
+          "other_open_fields": [],
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "catalog-2017-ferdinand",
+          "title": "Ferdinand",
+          "year": 2017,
+          "version": "2017 animated theatrical feature",
+          "status": "proposal_saved",
+          "review_baseline": "public/seed-reviews.js",
+          "sources": [
+            "https://www.bbfc.co.uk/release/ferdinand-q29sbgvjdglvbjpwwc0zotcxmda",
+            "https://raisingchildren.net.au/guides/movie-reviews/ferdinand"
+          ],
+          "on_screen": "Two bulls enter an abattoir to help a friend. Later Ferdinand faces the matador and refuses to fight.",
+          "on_screen_source": "https://www.bbfc.co.uk/release/ferdinand-q29sbgvjdglvbjpwwc0zotcxmda",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Ferdinand’s gentleness costs him standing among the bulls. His willingness to risk himself to rescue another makes clear that his restraint takes courage.",
+            "age": "7+",
+            "age_rationale": "Machinery starts while the bulls are inside an abattoir. A child who understands what the building is for may find this more frightening than the comic chase.",
+            "age_source": "https://raisingchildren.net.au/guides/movie-reviews/ferdinand",
+            "theme_ratings": [
+              {
+                "name": "Gentleness and self-control",
+                "score": 5,
+                "evidence": "Ferdinand refuses combat in the ring.",
+                "rating_rationale": "His public refusal resolves the central conflict.",
+                "sources": [
+                  "https://www.bbfc.co.uk/release/ferdinand-q29sbgvjdglvbjpwwc0zotcxmda",
+                  "https://raisingchildren.net.au/guides/movie-reviews/ferdinand"
+                ]
+              },
+              {
+                "name": "Friendship and peacemaking",
+                "score": 4,
+                "evidence": "The bulls enter the abattoir to bring a friend out.",
+                "rating_rationale": "Rescue puts friendship ahead of their own safety.",
+                "sources": [
+                  "https://www.bbfc.co.uk/release/ferdinand-q29sbgvjdglvbjpwwc0zotcxmda",
+                  "https://raisingchildren.net.au/guides/movie-reviews/ferdinand"
+                ]
+              },
+              {
+                "name": "Cruel pressure to perform",
+                "score": 4,
+                "evidence": "The ranch raises bulls for selection by matadors.",
+                "rating_rationale": "The expectation that strength requires fighting shapes the entire story.",
+                "sources": [
+                  "https://www.bbfc.co.uk/release/ferdinand-q29sbgvjdglvbjpwwc0zotcxmda",
+                  "https://raisingchildren.net.au/guides/movie-reviews/ferdinand"
+                ]
+              },
+              {
+                "name": "Animal peril",
+                "score": 3,
+                "evidence": "Operating machinery endangers the rescuers.",
+                "rating_rationale": "The sustained chase gives a credible sense of danger despite the comic escape.",
+                "sources": [
+                  "https://www.bbfc.co.uk/release/ferdinand-q29sbgvjdglvbjpwwc0zotcxmda",
+                  "https://raisingchildren.net.au/guides/movie-reviews/ferdinand"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The guides describe the bullring and rescue sequences; their accounts are selective.",
+            "next_step": "Screen the theatrical version including background dialogue and visuals; record any relevant scene locations.",
+            "sources": [
+              "https://www.bbfc.co.uk/release/ferdinand-q29sbgvjdglvbjpwwc0zotcxmda",
+              "https://raisingchildren.net.au/guides/movie-reviews/ferdinand"
+            ]
+          },
+          "other_open_fields": [],
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "catalog-1998-mulan",
+          "title": "Mulan",
+          "year": 1998,
+          "version": "1998 animated theatrical feature",
+          "status": "proposal_saved",
+          "review_baseline": "public/seed-reviews.js",
+          "sources": [
+            "https://en.wikipedia.org/wiki/Mulan_(1998_film)",
+            "https://en.wikipedia.org/wiki/Mulan_(1998_film)#Plot"
+          ],
+          "on_screen": "Mulan triggers an avalanche to stop the ambush. Treatment for her wound reveals her identity.",
+          "on_screen_source": "https://en.wikipedia.org/wiki/Mulan_(1998_film)",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Mulan first risks herself for her father and later returns to warn people who have just rejected her. Courage takes the form of continuing to serve people who may refuse to listen.",
+            "age": "7+",
+            "age_rationale": "A destroyed village and a mountain ambush convey the cost of war. The avalanche leaves Mulan visibly wounded.",
+            "age_source": "https://en.wikipedia.org/wiki/Mulan_(1998_film)#Plot",
+            "theme_ratings": [
+              {
+                "name": "Family duty and sacrifice",
+                "score": 5,
+                "evidence": "Mulan takes her father’s place in the army.",
+                "rating_rationale": "The choice entails separation and danger and initiates the story.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/Mulan_(1998_film)",
+                  "https://en.wikipedia.org/wiki/Mulan_(1998_film)#Plot"
+                ]
+              },
+              {
+                "name": "Courage after rejection",
+                "score": 4,
+                "evidence": "She follows the surviving invaders and warns the army.",
+                "rating_rationale": "She persists despite losing her place among the soldiers.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/Mulan_(1998_film)",
+                  "https://en.wikipedia.org/wiki/Mulan_(1998_film)#Plot"
+                ]
+              },
+              {
+                "name": "Deception under pressure",
+                "score": 3,
+                "evidence": "Treatment for her injury exposes her disguise.",
+                "rating_rationale": "Concealment has sustained consequences for trust and belonging.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/Mulan_(1998_film)",
+                  "https://en.wikipedia.org/wiki/Mulan_(1998_film)#Plot"
+                ]
+              },
+              {
+                "name": "Ancestral spirits and wartime peril",
+                "score": 3,
+                "evidence": "The ancestors deliberate, while the army later faces a mountain ambush.",
+                "rating_rationale": "The inherited combined category covers recurring fantasy and a concentrated battle; these have distinct meanings.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/Mulan_(1998_film)",
+                  "https://en.wikipedia.org/wiki/Mulan_(1998_film)#Plot"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "Mulan’s disguise is a device for taking her father’s place. It supplies insufficient evidence for a film-wide identity score.",
+            "next_step": "Screen the theatrical version including background dialogue and visuals; record any relevant scene locations.",
+            "sources": [
+              "https://en.wikipedia.org/wiki/Mulan_(1998_film)",
+              "https://en.wikipedia.org/wiki/Mulan_(1998_film)#Plot"
+            ]
+          },
+          "other_open_fields": [],
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "catalog-2014-bighero6",
+          "title": "Big Hero 6",
+          "year": 2014,
+          "version": "2014 animated theatrical feature",
+          "status": "proposal_saved",
+          "review_baseline": "public/seed-reviews.js",
+          "sources": [
+            "https://mh.bmj.com/content/medhum/early/2020/04/21/medhum-2019-011744.full.pdf",
+            "https://www.imdb.com/title/tt2245084/plotsummary/"
+          ],
+          "on_screen": "Baymax refuses Hiro further access to the healthcare chip; later he sends Hiro and Abigail to safety.",
+          "on_screen_source": "https://mh.bmj.com/content/medhum/early/2020/04/21/medhum-2019-011744.full.pdf",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Hiro tries to redirect a caregiver toward revenge. Baymax’s resistance and the rescue of the antagonist’s daughter give Hiro a way to honor Tadashi through healing.",
+            "age": "10+",
+            "age_rationale": "A sibling’s death is followed by an attempt to use a robot to kill and a second farewell during a dangerous rescue.",
+            "age_source": "https://www.imdb.com/title/tt2245084/plotsummary/",
+            "theme_ratings": [
+              {
+                "name": "Care and service",
+                "score": 5,
+                "evidence": "Baymax uses his last propulsion option to save Hiro and Abigail.",
+                "rating_rationale": "Care governs both the robot’s design and the climax.",
+                "sources": [
+                  "https://mh.bmj.com/content/medhum/early/2020/04/21/medhum-2019-011744.full.pdf",
+                  "https://www.imdb.com/title/tt2245084/plotsummary/"
+                ]
+              },
+              {
+                "name": "Friendship during grief",
+                "score": 4,
+                "evidence": "Baymax resists another chip removal and helps Hiro revisit Tadashi’s work.",
+                "rating_rationale": "Accompanying Hiro through grief changes his next choice.",
+                "sources": [
+                  "https://mh.bmj.com/content/medhum/early/2020/04/21/medhum-2019-011744.full.pdf",
+                  "https://www.imdb.com/title/tt2245084/plotsummary/"
+                ]
+              },
+              {
+                "name": "Vengeance and misuse of power",
+                "score": 4,
+                "evidence": "Hiro tries to override the healthcare purpose.",
+                "rating_rationale": "The attempt puts someone’s life at risk and exposes the cost of retaliation.",
+                "sources": [
+                  "https://mh.bmj.com/content/medhum/early/2020/04/21/medhum-2019-011744.full.pdf",
+                  "https://www.imdb.com/title/tt2245084/plotsummary/"
+                ]
+              },
+              {
+                "name": "Action violence and loss",
+                "score": 4,
+                "evidence": "Tadashi dies; the portal rescue separates Hiro from Baymax.",
+                "rating_rationale": "Bereavement recurs alongside the sustained peril.",
+                "sources": [
+                  "https://mh.bmj.com/content/medhum/early/2020/04/21/medhum-2019-011744.full.pdf",
+                  "https://www.imdb.com/title/tt2245084/plotsummary/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "Accounts of the team and portal rescue do not cover all relationships or background visuals.",
+            "next_step": "Screen the theatrical version including background dialogue and visuals; record any relevant scene locations.",
+            "sources": [
+              "https://mh.bmj.com/content/medhum/early/2020/04/21/medhum-2019-011744.full.pdf",
+              "https://www.imdb.com/title/tt2245084/plotsummary/"
+            ]
+          },
+          "other_open_fields": [],
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "catalog-2008-bolt",
+          "title": "Bolt",
+          "year": 2008,
+          "version": "2008 animated theatrical feature",
+          "status": "proposal_saved",
+          "review_baseline": "public/seed-reviews.js",
+          "sources": [
+            "https://en.wikipedia.org/wiki/Bolt_(2008_film)",
+            "https://www.theguardian.com/film/2009/feb/05/bolt-disney-john-travolta-film-review-peter-bradshaw"
+          ],
+          "on_screen": "In the burning studio, Bolt stays with Penny and barks into an air vent until firefighters can find them.",
+          "on_screen_source": "https://en.wikipedia.org/wiki/Bolt_(2008_film)",
+          "draft_proposal": {
+            "verdict": "edifying",
+            "verdict_rationale": "Bolt’s bark cannot put out a fire. He uses it to ask for help and remains beside Penny when leaving would be easier. Loyalty finally means something beyond playing a hero for the camera.",
+            "age": "7+",
+            "age_rationale": "Penny struggles to breathe as smoke fills an enclosed set. This danger continues after Bolt reaches her.",
+            "age_source": "https://en.wikipedia.org/wiki/Bolt_(2008_film)",
+            "theme_ratings": [
+              {
+                "name": "Loyalty and friendship",
+                "score": 5,
+                "evidence": "Bolt stays with Penny as the smoke thickens.",
+                "rating_rationale": "Their bond determines his final choice.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/Bolt_(2008_film)",
+                  "https://www.theguardian.com/film/2009/feb/05/bolt-disney-john-travolta-film-review-peter-bradshaw"
+                ]
+              },
+              {
+                "name": "Courage without recognition",
+                "score": 4,
+                "evidence": "He returns to the fire without believing he has special powers.",
+                "rating_rationale": "The rescue requires him to act despite ordinary limits.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/Bolt_(2008_film)",
+                  "https://www.theguardian.com/film/2009/feb/05/bolt-disney-john-travolta-film-review-peter-bradshaw"
+                ]
+              },
+              {
+                "name": "Deception for entertainment",
+                "score": 3,
+                "evidence": "The production keeps Bolt believing the staged adventures are real.",
+                "rating_rationale": "That deception leaves him unprepared when he becomes separated from Penny.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/Bolt_(2008_film)",
+                  "https://www.theguardian.com/film/2009/feb/05/bolt-disney-john-travolta-film-review-peter-bradshaw"
+                ]
+              },
+              {
+                "name": "Chases and threats to animals",
+                "score": 3,
+                "evidence": "The dog and child are trapped on a burning set.",
+                "rating_rationale": "The final physical threat is sustained and real within the story.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/Bolt_(2008_film)",
+                  "https://www.theguardian.com/film/2009/feb/05/bolt-disney-john-travolta-film-review-peter-bradshaw"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "A human–animal bond is central; the reviewed accounts give no comprehensive record of other relationships.",
+            "next_step": "Screen the theatrical version including background dialogue and visuals; record any relevant scene locations.",
+            "sources": [
+              "https://en.wikipedia.org/wiki/Bolt_(2008_film)",
+              "https://www.theguardian.com/film/2009/feb/05/bolt-disney-john-travolta-film-review-peter-bradshaw"
+            ]
+          },
+          "other_open_fields": [],
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        }
+      ]
     }
   ]
 }
