@@ -13647,6 +13647,219 @@
           "studio_status": "repository_draft_validated_no_authenticated_studio_save"
         }
       ]
+    },
+    {
+      "number": 30,
+      "date": "2026-11-28",
+      "review_completion_branch": "editorial/stage-4-completion",
+      "review_completion_ledger": "editorial/review-completion.tsv",
+      "films": [
+        {
+          "movie_id": "marvel-2014-kingsman-the-secret-service",
+          "title": "Kingsman: The Secret Service",
+          "year": 2014,
+          "version": "Matthew Vaughn’s 2014 production, UK 2D cinema release classified in December 2014 and released in 2015. UK violence edits apply.",
+          "status": "proposal_saved",
+          "review_baseline": "editorial/review-drafts-marvel-batch-31.json",
+          "review_baseline_blob": "7c1022f03235b4af6dd4bd4cee6bc728e8e1c263",
+          "sources": [
+            "https://en.wikipedia.org/wiki/Kingsman:_The_Secret_Service",
+            "https://www.bbfc.co.uk/release/kingsman-the-secret-service-q29sbgvjdglvbjpwwc0zodiymdk",
+            "https://www.pluggedin.com/movie-reviews/kingsman-the-secret-service/"
+          ],
+          "on_screen": "Eggsy refuses the final command to shoot his puppy and loses his place to Roxy.",
+          "on_screen_source": "https://en.wikipedia.org/wiki/Kingsman:_The_Secret_Service",
+          "draft_proposal": {
+            "verdict": "destructive",
+            "verdict_rationale": "Eggsy risks losing his place by refusing to shoot the dog he raised. That quiet refusal shows a capacity for mercy that his examiners overlook. The church massacre and the musical spectacle of exploding heads, however, repeatedly make violent deaths the payoff to a joke. The ending extends that attitude to a woman offered as a sexual reward.",
+            "age": "18+",
+            "age_rationale": "An extended massacre takes place among ordinary people in a church. Bloody injury, strong swearing and a sexual bargain remain in the UK cinema version even after reductions to violence.",
+            "age_source": "https://www.bbfc.co.uk/release/kingsman-the-secret-service-q29sbgvjdglvbjpwwc0zodiymdk",
+            "theme_ratings": [
+              {
+                "name": "Mercy toward the vulnerable",
+                "score": 3,
+                "evidence": "Eggsy refuses the order to kill his dog despite believing it will cost him selection. One decision reveals his priorities.",
+                "rating_rationale": "The test makes mercy costly at a turning point.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/Kingsman:_The_Secret_Service"
+                ]
+              },
+              {
+                "name": "Care for family",
+                "score": 2,
+                "evidence": "Offering his mother and sister a safe home is a concrete good in the closing sequence.",
+                "rating_rationale": "The housing offer gives the family a practical benefit in the closing scene.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/Kingsman:_The_Secret_Service"
+                ]
+              },
+              {
+                "name": "Violence as spectacle",
+                "score": 5,
+                "evidence": "Mass killing is the villain’s plan, yet the church fight and explosive deaths are staged as major attractions.",
+                "rating_rationale": "Musically timed deaths and the church set piece repeatedly turn human injury into spectacle.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/kingsman-the-secret-service/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The classification record documents an anti-gay slur. Check its speaker, context and other scenes across the UK cut before scoring prominence.",
+            "next_step": "Review Harry’s exchange during the sermon and log any other relevant dialogue in the UK cinema cut.",
+            "sources": [
+              "https://www.bbfc.co.uk/release/kingsman-the-secret-service-q29sbgvjdglvbjpwwc0zodiymdk"
+            ]
+          },
+          "other_open_fields": [],
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "marvel-2017-kingsman-the-golden-circle",
+          "title": "Kingsman: The Golden Circle",
+          "year": 2017,
+          "version": "Matthew Vaughn’s 2017 sequel, UK 2D feature, BBFC-listed UK home-entertainment version.",
+          "status": "proposal_saved",
+          "review_baseline": "editorial/review-drafts-marvel-batch-31.json",
+          "review_baseline_blob": "7c1022f03235b4af6dd4bd4cee6bc728e8e1c263",
+          "sources": [
+            "https://en.wikipedia.org/wiki/Kingsman:_The_Golden_Circle",
+            "https://www.bbfc.co.uk/release/kingsman-the-golden-circle-q29sbgvjdglvbjpwwc0zotexoty",
+            "https://www.pluggedin.com/movie-reviews/kingsman-the-golden-circle/"
+          ],
+          "on_screen": "Merlin takes Eggsy’s place on a mine. The antidote is later released to patients the president would have abandoned.",
+          "on_screen_source": "https://en.wikipedia.org/wiki/Kingsman:_The_Golden_Circle",
+          "draft_proposal": {
+            "verdict": "destructive",
+            "verdict_rationale": "Merlin takes Eggsy’s place on a mine. The rescue also includes people the president considers expendable. Both choices affirm the worth of a life. Yet the heroes obtain information through sexual deception, and even dispatching an opponent in a meat grinder becomes a payoff for the audience. The film’s treatment of people as instruments repeatedly undercuts its rescue story.",
+            "age": "18+",
+            "age_rationale": "Intimate contact is used to plant a tracker without the woman’s knowledge. Graphic killing, a cannibalism gag and prolonged danger from poisoned drugs accompany that violation.",
+            "age_source": "https://www.bbfc.co.uk/release/kingsman-the-golden-circle-q29sbgvjdglvbjpwwc0zotexoty",
+            "theme_ratings": [
+              {
+                "name": "Self-sacrifice",
+                "score": 4,
+                "evidence": "Merlin switches places with Eggsy on the mine, giving up his own escape so the mission can continue.",
+                "rating_rationale": "The mine exchange costs Merlin his life and allows the rescue to proceed.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/Kingsman:_The_Golden_Circle"
+                ]
+              },
+              {
+                "name": "Care for people in danger",
+                "score": 4,
+                "evidence": "Getting the antidote to all the poisoned people is the central objective, even when officials prefer to let them die.",
+                "rating_rationale": "Distribution to every patient resolves the principal conflict.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/Kingsman:_The_Golden_Circle"
+                ]
+              },
+              {
+                "name": "Sexual exploitation",
+                "score": 3,
+                "evidence": "A covert tracker is planted during intimate contact. The strain on Eggsy’s relationship receives more attention than the target’s consent.",
+                "rating_rationale": "Covert intimate tracking is a sustained mission sequence with consequences for Eggsy and Tilde.",
+                "sources": [
+                  "https://www.bbfc.co.uk/release/kingsman-the-golden-circle-q29sbgvjdglvbjpwwc0zotexoty"
+                ]
+              },
+              {
+                "name": "Cruelty as comedy",
+                "score": 4,
+                "evidence": "A meat grinder and cannibalism furnish recurring grotesque jokes across opposing sides of the conflict.",
+                "rating_rationale": "The meat grinder returns as both a villain’s instrument and a punch line in the heroes’ fight.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/kingsman-the-golden-circle/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "The BBFC records a homophobic insult. Verify the surrounding dialogue and visual context before assigning a film-wide score.",
+            "next_step": "Locate the discriminatory insult in the UK home release and check the remaining dialogue for context.",
+            "sources": [
+              "https://www.bbfc.co.uk/release/kingsman-the-golden-circle-q29sbgvjdglvbjpwwc0zotexoty"
+            ]
+          },
+          "other_open_fields": [],
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        },
+        {
+          "movie_id": "marvel-2021-the-king-s-man",
+          "title": "The King's Man",
+          "year": 2021,
+          "version": "Matthew Vaughn’s 2021 live-action First World War prequel, 2D feature.",
+          "status": "proposal_saved",
+          "review_baseline": "editorial/review-drafts-marvel-batch-31.json",
+          "review_baseline_blob": "7c1022f03235b4af6dd4bd4cee6bc728e8e1c263",
+          "sources": [
+            "https://en.wikipedia.org/wiki/The_King%27s_Man",
+            "https://www.bbfc.co.uk/release/the-kings-man-q29sbgvjdglvbjpwwc00odgymjg",
+            "https://www.pluggedin.com/movie-reviews/kings-man-2021/",
+            "https://themoviespoiler.com/movies/the-kings-man/1000/"
+          ],
+          "on_screen": "Conrad carries a wounded messenger across the battlefield. Back among British troops, a soldier who knows Archie shoots Conrad after he gives Archie’s name.",
+          "on_screen_source": "https://themoviespoiler.com/movies/the-kings-man/1000/",
+          "draft_proposal": {
+            "verdict": "neutral",
+            "verdict_rationale": "Conrad’s bravest act is carrying a wounded man who cannot make his own way back. His death at the hands of his own side gives Orlando’s fears real weight. The film’s gentleness toward the grieving father sits uneasily alongside the use of Conrad as sexual bait and a finale that settles the conflict by killing the Shepherd.",
+            "age": "18+",
+            "age_rationale": "Bloody trench combat, a sudden fatal shooting by a fellow soldier and graphic wounds give the war scenes lasting weight. The Rasputin episode adds prolonged sexual innuendo and invasive physical contact.",
+            "age_source": "https://www.bbfc.co.uk/release/the-kings-man-q29sbgvjdglvbjpwwc00odgymjg",
+            "theme_ratings": [
+              {
+                "name": "Care under fire",
+                "score": 4,
+                "evidence": "Conrad returns under fire with a wounded man, accepting a risk that gives his service its clearest moral purpose.",
+                "rating_rationale": "The rescue puts another man’s life ahead of Conrad’s safety during the decisive trench sequence.",
+                "sources": [
+                  "https://themoviespoiler.com/movies/the-kings-man/1000/"
+                ]
+              },
+              {
+                "name": "Mutual service",
+                "score": 3,
+                "evidence": "Polly and Shola help sustain Orlando after his loss and play decisive roles in resolving the conspiracy.",
+                "rating_rationale": "Polly recovers the compromising film and Shola assists Orlando in the final fight. Their cooperation enables the outcome.",
+                "sources": [
+                  "https://en.wikipedia.org/wiki/The_King%27s_Man"
+                ]
+              },
+              {
+                "name": "Wartime brutality",
+                "score": 4,
+                "evidence": "Trench fighting and Conrad’s sudden death expose the cost of war, alongside choreographed combat presented as adventure.",
+                "rating_rationale": "The mistaken shooting makes violence a source of grief even as other battles supply thrills.",
+                "sources": [
+                  "https://themoviespoiler.com/movies/the-kings-man/1000/"
+                ]
+              },
+              {
+                "name": "Abuse of spiritual authority",
+                "score": 3,
+                "evidence": "Rasputin secretly poisons a child, then uses his apparent power over the child’s recovery to pressure the parents.",
+                "rating_rationale": "Rasputin manipulates a sick child and the fears of both parents to gain political leverage in the Russian episode.",
+                "sources": [
+                  "https://www.pluggedin.com/movie-reviews/kings-man-2021/"
+                ]
+              }
+            ]
+          },
+          "lgbtq_screening": {
+            "proposed_score": null,
+            "observation": "Polly proposes using Conrad as bait based on Rasputin’s reported interest in young men. The dinner includes suggestive dialogue and Rasputin treats Orlando’s wound in a sexualized sequence. Check the full episode and the remainder for a rubric-level prominence estimate.",
+            "next_step": "Log the preparation, dinner conversation and private treatment scene separately to assess recurrence in the released prequel.",
+            "sources": [
+              "https://www.pluggedin.com/movie-reviews/kings-man-2021/"
+            ]
+          },
+          "other_open_fields": [],
+          "studio_status": "repository_draft_validated_no_authenticated_studio_save"
+        }
+      ]
     }
   ]
 }
